@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C012650</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>1</tariff_id>
+    <tariff_title>MBR Tariff of Strobe Power NY, LLC</tariff_title>
+    <tariff_export_date>2025-09-16T21:07Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>Baseline Market-Based Rate Tariff</record_title>
+      <record_content_desc>Baseline MBR Tariff</record_content_desc>
+      <record_version_num>0.0.0</record_version_num>
+      <record_narrative_name>Main Tariff Body</record_narrative_name>
+      <collation_value>1000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2025-07-20</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>3</record_content_type_code>
+      <record_binary_data>U2VlIEF0dGFjaG1lbnQgNCAtIENsZWFuIFRhcmlmZg==</record_binary_data>
+      <record_plain_text>See Attachment 4 – Clean Tariff</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>1</filing_id>
+      <filing_title>Baseline Market-Based Rate Tariff Filing</filing_title>
+      <filing_type>400</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Pending</record_current_status>
+      <current_effective_date>2025-07-20</current_effective_date>
+      <ferc_order_date xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <ferc_action_status>Pending</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>FERC MBR Tariff</record_title>
+      <record_content_desc>FERC MBR Tariff</record_content_desc>
+      <record_version_num>0.1.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>1000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2025-07-20</proposed_effective_date>
+      <priority_order>600</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGFuc2lcZGVmZjAge1xmb250dGJsIHtcZjAgVGltZXMgTmV3IFJvbWFuO319ClxmMFxmczI0IEZFUkMgTWFya2V0LUJhc2VkIFJhdGUgVGFyaWZmXHBhcgpccGFyCjEpIEF2YWlsYWJpbGl0eVxwYXIKU2VsbGVyIG1ha2VzIGVsZWN0cmljIGVuZXJneSwgY2FwYWNpdHksIGFuZCBhbmNpbGxhcnkgc2VydmljZXMgYXZhaWxhYmxlIHVuZGVyIHRoaXMgdGFyaWZmIHRvIGFueSBwdXJjaGFzZXIsIGV4Y2VwdCBhcyBwcm9oaWJpdGVkIGJlbG93LlxwYXIKXHBhcgoyKSBBcHBsaWNhYmlsaXR5XHBhcgpUaGlzIHRhcmlmZiBpcyBhcHBsaWNhYmxlIHRvIGFsbCBzYWxlcyBvZiBlbmVyZ3ksIGNhcGFjaXR5LCBhbmQvb3IgYW5jaWxsYXJ5IHNlcnZpY2VzIGJ5IFNlbGxlciBhdCBtYXJrZXQtYmFzZWQgcmF0ZXMsIHdoaWNoIGFyZSAoYSkgc3ViamVjdCB0byB0aGUganVyaXNkaWN0aW9uIG9mIHRoZSBDb21taXNzaW9uLCBhbmQgKGIpIG5vdCBtYWRlIHB1cnN1YW50IHRvIGFub3RoZXIgdGFyaWZmIG9uIGZpbGUgd2l0aCB0aGUgQ29tbWlzc2lvbi5ccGFyClxwYXIKMykgUmF0ZXNccGFyCkFsbCBzYWxlcyBzaGFsbCBiZSBtYWRlIGF0IHJhdGVzIGVzdGFibGlzaGVkIGJ5IGFncmVlbWVudCBiZXR3ZWVuIHRoZSBwdXJjaGFzZXIgYW5kIFNlbGxlci5ccGFyClxwYXIKNCkgU2VsbGVyIENhdGVnb3J5XHBhcgpTZWxsZXIgaXMgYSBDYXRlZ29yeSAxIHNlbGxlciBpbiBhbGwgcmVnaW9ucywgYXMgZGVmaW5lZCBpbiAxOCBDRlIgMzUuMzYoYSkuXHBhcgpccGFyCjUpIENvbXBsaWFuY2Ugd2l0aCBDb21taXNzaW9uIFJlZ3VsYXRpb25zXHBhcgpTZWxsZXIgc2hhbGwgY29tcGx5IHdpdGggdGhlIHByb3Zpc2lvbnMgb2YgMTggQ0ZSIFBhcnQgMzUsIFN1YnBhcnQgSCwgYXMgYXBwbGljYWJsZSwgYW5kIHdpdGggYW55IGNvbmRpdGlvbnMgdGhlIENvbW1pc3Npb24gaW1wb3NlcyBpbiBpdHMgb3JkZXJzIGNvbmNlcm5pbmcgc2VsbGVyJ3MgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LlxwYXIKfQ==</record_binary_data>
+      <record_plain_text>FERC Market-Based Rate Tariff
+
+        1)	Availability
+        Seller makes electric energy, capacity, and ancillary services available under this tariff to any purchaser, except as prohibited below.
+
+        2)	Applicability
+        This tariff is applicable to all sales of energy, capacity, and/or ancillary services by Seller at market-based rates, which are (a) subject to the jurisdiction of the Commission, and (b) not made pursuant to another tariff on file with the Commission.
+
+        3)	Rates
+        All sales shall be made at rates established by agreement between the purchaser and Seller.
+
+        4)	Seller Category
+        Seller is a Category 1 seller in all regions, as defined in 18 CFR 35.36(a).
+
+        5)	Compliance with Commission Regulations
+        Seller shall comply with the provisions of 18 CFR Part 35, Subpart H, as applicable, and with any conditions the Commission imposes in its orders concerning seller’s market- based rate authority, including orders in which the Commission authorizes seller to engage in affiliate sales under this tariff or otherwise restricts or limits the seller’s market-based rate authority. Failure to comply with the applicable provisions of 18 CFR Part 35, Subpart H, and with any orders of the Commission concerning seller’s market- based rate authority, will constitute a violation of this tariff.
+
+        6)	Limitations and Exemptions Regarding Market-Based Rate Authority
+        Seller has received waiver of: Subparts B and C of Part 35, except for sections 35.12(a), 35.13(b), 35.15 and 35.16; Part 41, Part 101, regarding the Uniform System of Accounts prescribed for public utilities and licensees, with the exception that waiver of the provisions of Part 101 that apply to hydropower licensees is not granted with respect to licensed hydropower projects; and Part 141, except section 141.15.; and received blanket approval under Part 34. Strobe Power NY, LLC, ER25-2266-001 (2025).
+
+        7)	Ancillary Services
+        PJM: The seller offers regulation and frequency response service, energy imbalance service, and operating reserve service (which includes spinning, 10-minute, and 30-minute reserves) for sale into the market administered by PJM Interconnection, L.L.C. ("PJM") and, where the PJM Open Access Transmission Tariff permits, the self-supply of these services to purchasers for a bilateral sale that is used to satisfy the ancillary services requirements of the PJM Office of Interconnection.
+        New York: The seller offers regulation and frequency response service, and operating reserve service (which include 10-minute non-synchronous, 30-minute operating reserves, 10-minute spinning reserves, and 10-minute non-spinning reserves) for sale to purchasers in the market administered by the New York Independent System Operator, Inc.
+        New England: The seller offers regulation and frequency response service (automatic generator control), operating reserve service (which includes 10-minute spinning reserve, 10-minute non-spinning reserve, and 30-minute operating reserve service) to purchasers within the markets administered by the ISO New England, Inc.
+        California: The seller offers regulation service, spinning reserve service, and non- spinning reserve service to the California Independent System Operator Corporation ("CAISO") and to others that are self-supplying ancillary services to the CAISO.
+        MISO: The seller offers regulation service and operating reserve service (which includes 10-minute spinning reserve and 10-minute supplemental reserve) for sale to the Midcontinent Independent System Operator, Inc. (MISO) and to others that are self- supplying ancillary services to MISO.
+        Southwest Power Pool: The seller offers regulation service and operating reserve service (which include 10-minute spinning reserve and 10-minute supplemental reserve) for sale to the Southwest Power Pool, Inc. (SPP) and to others that are self-supplying ancillary services to SPP.
+        Third-Party ancillary services: Third-party ancillary services: Seller offers Regulation Service, Reactive Supply and Voltage Control Service, Energy and Generator Imbalance Service, Operating Reserve-Spinning, Operating Reserve Supplemental, and Primary Frequency Response Service. Sales will not include the following:
+        1.	Sales to an RTO or an ISO, i.e., where that entity has no ability to self-supply ancillary services but instead depends on third parties.
+        2.	Sales to a traditional, franchised public utility affiliated with the third-party supplier, or sales where the underlying transmission service is on the system of the public utility affiliated with the third-party supplier.
+        Sales of Operating Reserve-Spinning and Operating Reserve-Supplemental will not include sales to a public utility that is purchasing ancillary services to satisfy its own open access transmission tariff requirements to offer ancillary services to its own customers, except where the Commission has granted authorization. Sales of Regulation Service and Reactive Supply and Voltage Control Service will not include sales to a public utility that is purchasing ancillary services to satisfy its own open access transmission tariff requirements to offer ancillary services to its own customers, except at rates not to exceed the buying public utility transmission provider’s OATT rate for the same service or where the Commission has granted authorization.
+        8)	Effective Date
+        This date shall become effective on the date specified by the Commission.</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>2</filing_id>
+      <filing_title>Strobe Power NY LLC Market-Based Rate Tariff</filing_title>
+      <filing_type>120</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Pending</record_current_status>
+      <current_effective_date>2025-07-20</current_effective_date>
+      <ferc_order_date xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <ferc_action_status>Pending</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>FERC MBR Tariff</record_title>
+      <record_content_desc>FERC MBR Tariff</record_content_desc>
+      <record_version_num>0.2.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>1000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2025-07-20</proposed_effective_date>
+      <priority_order>700</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGFuc2lcZGVmZjAge1xmb250dGJsIHtcZjAgVGltZXMgTmV3IFJvbWFuO319ClxmMFxmczI0CiAgICAgICAgRkVSQyBNYXJrZXQtQmFzZWQgUmF0ZSBUYXJpZmYKICAgICAgICBccGFyCiAgICAgICAgMSlcdGFiIEF2YWlsYWJpbGl0eQogICAgICAgIFxwYXIKICAgICAgICBTZWxsZXIgbWFrZXMgZWxlY3RyaWMgZW5lcmd5LCBjYXBhY2l0eSwgYW5kIGFuY2lsbGFyeSBzZXJ2aWNlcyBhdmFpbGFibGUgdW5kZXIgdGhpcyB0YXJpZmYgdG8gYW55IHB1cmNoYXNlciwgZXhjZXB0IGFzIHByb2hpYml0ZWQgYmVsb3cuCiAgICAgICAgXHBhcgogICAgICAgIDIpXHRhYiBBcHBsaWNhYmlsaXR5CiAgICAgICAgXHBhcgogICAgICAgIFRoaXMgdGFyaWZmIGlzIGFwcGxpY2FibGUgdG8gYWxsIHNhbGVzIG9mIGVuZXJneSwgY2FwYWNpdHksIGFuZC9vciBhbmNpbGxhcnkgc2VydmljZXMgYnkgU2VsbGVyIGF0IG1hcmtldC1iYXNlZCByYXRlcywgd2hpY2ggYXJlIChhKSBzdWJqZWN0IHRvIHRoZSBqdXJpc2RpY3Rpb24gb2YgdGhlIENvbW1pc3Npb24sIGFuZCAoYikgbm90IG1hZGUgcHVyc3VhbnQgdG8gYW5vdGhlciB0YXJpZmYgb24gZmlsZSB3aXRoIHRoZSBDb21taXNzaW9uLgogICAgICAgIFxwYXIKICAgICAgICAzKVx0YWIgUmF0ZXMKICAgICAgICBccGFyCiAgICAgICAgQWxsIHNhbGVzIHNoYWxsIGJlIG1hZGUgYXQgcmF0ZXMgZXN0YWJsaXNoZWQgYnkgYWdyZWVtZW50IGJldHdlZW4gdGhlIHB1cmNoYXNlciBhbmQgU2VsbGVyLgogICAgICAgIFxwYXIKICAgICAgICA0KVx0YWIgU2VsbGVyIENhdGVnb3J5CiAgICAgICAgXHBhcgogICAgICAgIFNlbGxlciBpcyBhIENhdGVnb3J5IDEgc2VsbGVyIGluIGFsbCByZWdpb25zLCBhcyBkZWZpbmVkIGluIDE4IENGUiAzNS4zNihhKS4KICAgICAgICBccGFyCiAgICAgICAgNSlcdGFiIENvbXBsaWFuY2Ugd2l0aCBDb21taXNzaW9uIFJlZ3VsYXRpb25zCiAgICAgICAgXHBhcgogICAgICAgIFNlbGxlciBzaGFsbCBjb21wbHkgd2l0aCB0aGUgcHJvdmlzaW9ucyBvZiAxOCBDRlIgUGFydCAzNSwgU3VicGFydCBILCBhcyBhcHBsaWNhYmxlLCBhbmQgd2l0aCBhbnkgY29uZGl0aW9ucyB0aGUgQ29tbWlzc2lvbiBpbXBvc2VzIGluIGl0cyBvcmRlcnMgY29uY2VybmluZyBzZWxsZXIncyBtYXJrZXQtIGJhc2VkIHJhdGUgYXV0aG9yaXR5LCBpbmNsdWRpbmcgb3JkZXJzIGluIHdoaWNoIHRoZSBDb21taXNzaW9uIGF1dGhvcml6ZXMgc2VsbGVyIHRvIGVuZ2FnZSBpbiBhZmZpbGlhdGUgc2FsZXMgdW5kZXIgdGhpcyB0YXJpZmYgb3Igb3RoZXJ3aXNlIHJlc3RyaWN0cyBvciBsaW1pdHMgdGhlIHNlbGxlcidzIG1hcmtldC1iYXNlZCByYXRlIGF1dGhvcml0eS4gRmFpbHVyZSB0byBjb21wbHkgd2l0aCB0aGUgYXBwbGljYWJsZSBwcm92aXNpb25zIG9mIDE4IENGUiBQYXJ0IDM1LCBTdWJwYXJ0IEgsIGFuZCB3aXRoIGFueSBvcmRlcnMgb2YgdGhlIENvbW1pc3Npb24gY29uY2VybmluZyBzZWxsZXIncyBtYXJrZXQtIGJhc2VkIHJhdGUgYXV0aG9yaXR5LCB3aWxsIGNvbnN0aXR1dGUgYSB2aW9sYXRpb24gb2YgdGhpcyB0YXJpZmYuCiAgICAgICAgXHBhcgogICAgICAgIDYpXHRhYiBMaW1pdGF0aW9ucyBhbmQgRXhlbXB0aW9ucyBSZWdhcmRpbmcgTWFya2V0LUJhc2VkIFJhdGUgQXV0aG9yaXR5CiAgICAgICAgXHBhcgogICAgICAgIFNlbGxlciBoYXMgcmVjZWl2ZWQgd2FpdmVyIG9mOiBTdWJwYXJ0cyBCIGFuZCBDIG9mIFBhcnQgMzUsIGV4Y2VwdCBmb3Igc2VjdGlvbnMgMzUuMTIoYSksIDM1LjEzKGIpLCAzNS4xNSBhbmQgMzUuMTY7IFBhcnQgNDEsIFBhcnQgMTAxLCByZWdhcmRpbmcgdGhlIFVuaWZvcm0gU3lzdGVtIG9mIEFjY291bnRzIHByZXNjcmliZWQgZm9yIHB1YmxpYyB1dGlsaXRpZXMgYW5kIGxpY2Vuc2Vlcywgd2l0aCB0aGUgZXhjZXB0aW9uIHRoYXQgd2FpdmVyIG9mIHRoZSBwcm92aXNpb25zIG9mIFBhcnQgMTAxIHRoYXQgYXBwbHkgdG8gaHlkcm9wb3dlciBsaWNlbnNlZXMgaXMgbm90IGdyYW50ZWQgd2l0aCByZXNwZWN0IHRvIGxpY2Vuc2VkIGh5ZHJvcG93ZXIgcHJvamVjdHM7IGFuZCBQYXJ0IDE0MSwgZXhjZXB0IHNlY3Rpb24gMTQxLjE1LjsgYW5kIHJlY2VpdmVkIGJsYW5rZXQgYXBwcm92YWwgdW5kZXIgUGFydCAzNC4gU3Ryb2JlIFBvd2VyIE5ZLCBMTEMsIEVSMjUtMjI2Ni0wMDIgKDIwMjUpLgogICAgICAgIFxwYXIKICAgICAgICA3KVx0YWIgQW5jaWxsYXJ5IFNlcnZpY2VzCiAgICAgICAgXHBhcgogICAgICAgIFBKTTogVGhlIHNlbGxlciBvZmZlcnMgcmVndWxhdGlvbiBhbmQgZnJlcXVlbmN5IHJlc3BvbnNlIHNlcnZpY2UsIGVuZXJneSBpbWJhbGFuY2Ugc2VydmljZSwgYW5kIG9wZXJhdGluZyByZXNlcnZlIHNlcnZpY2UgKHdoaWNoIGluY2x1ZGVzIHNwaW5uaW5nLCAxMC1taW51dGUsIGFuZCAzMC1taW51dGUgcmVzZXJ2ZXMpIGZvciBzYWxlIGludG8gdGhlIG1hcmtldCBhZG1pbmlzdGVyZWQgYnkgUEpNIEludGVyY29ubmVjdGlvbiwgTC5MLkMuICgiUEpNIikgYW5kLCB3aGVyZSB0aGUgUEpNIE9wZW4gQWNjZXNzIFRyYW5zbWlzc2lvbiBUYXJpZmYgcGVybWl0cywgdGhlIHNlbGYtc3VwcGx5IG9mIHRoZXNlIHNlcnZpY2VzIHRvIHB1cmNoYXNlcnMgZm9yIGEgYmlsYXRlcmFsIHNhbGUgdGhhdCBpcyB1c2VkIHRvIHNhdGlzZnkgdGhlIGFuY2lsbGFyeSBzZXJ2aWNlcyByZXF1aXJlbWVudHMgb2YgdGhlIFBKTSBPZmZpY2Ugb2YgSW50ZXJjb25uZWN0aW9uLgogICAgICAgIFxwYXIKICAgICAgICBOZXcgWW9yazogVGhlIHNlbGxlciBvZmZlcnMgcmVndWxhdGlvbiBhbmQgZnJlcXVlbmN5IHJlc3BvbnNlIHNlcnZpY2UsIGFuZCBvcGVyYXRpbmcgcmVzZXJ2ZSBzZXJ2aWNlICh3aGljaCBpbmNsdWRlIDEwLW1pbnV0ZSBub24tc3luY2hyb25vdXMsIDMwLW1pbnV0ZSBvcGVyYXRpbmcgcmVzZXJ2ZXMsIDEwLW1pbnV0ZSBzcGlubmluZyByZXNlcnZlcywgYW5kIDEwLW1pbnV0ZSBub24tc3Bpbm5pbmcgcmVzZXJ2ZXMpIGZvciBzYWxlIHRvIHB1cmNoYXNlcnMgaW4gdGhlIG1hcmtldCBhZG1pbmlzdGVyZWQgYnkgdGhlIE5ldyBZb3JrIEluZGVwZW5kZW50IFN5c3RlbSBPcGVyYXRvciwgSW5jLgogICAgICAgIFxwYXIKICAgICAgICBOZXcgRW5nbGFuZDogVGhlIHNlbGxlciBvZmZlcnMgcmVndWxhdGlvbiBhbmQgZnJlcXVlbmN5IHJlc3BvbnNlIHNlcnZpY2UgKGF1dG9tYXRpYyBnZW5lcmF0b3IgY29udHJvbCksIG9wZXJhdGluZyByZXNlcnZlIHNlcnZpY2UgKHdoaWNoIGluY2x1ZGVzIDEwLW1pbnV0ZSBzcGlubmluZyByZXNlcnZlLCAxMC1taW51dGUgbm9uLXNwaW5uaW5nIHJlc2VydmUsIGFuZCAzMC1taW51dGUgb3BlcmF0aW5nIHJlc2VydmUgc2VydmljZSkgdG8gcHVyY2hhc2VycyB3aXRoaW4gdGhlIG1hcmtldHMgYWRtaW5pc3RlcmVkIGJ5IHRoZSBJU08gTmV3IEVuZ2xhbmQsIEluYy4KICAgICAgICBccGFyCiAgICAgICAgQ2FsaWZvcm5pYTogVGhlIHNlbGxlciBvZmZlcnMgcmVndWxhdGlvbiBzZXJ2aWNlLCBzcGlubmluZyByZXNlcnZlIHNlcnZpY2UsIGFuZCBub24tIHNwaW5uaW5nIHJlc2VydmUgc2VydmljZSB0byB0aGUgQ2FsaWZvcm5pYSBJbmRlcGVuZGVudCBTeXN0ZW0gT3BlcmF0b3IgQ29ycG9yYXRpb24gKCJDQUlTTyIpIGFuZCB0byBvdGhlcnMgdGhhdCBhcmUgc2VsZi1zdXBwbHlpbmcgYW5jaWxsYXJ5IHNlcnZpY2VzIHRvIHRoZSBDQUlTTy4KICAgICAgICBccGFyCiAgICAgICAgTUlTTzogVGhlIHNlbGxlciBvZmZlcnMgcmVndWxhdGlvbiBzZXJ2aWNlIGFuZCBvcGVyYXRpbmcgcmVzZXJ2ZSBzZXJ2aWNlICh3aGljaCBpbmNsdWRlcyAxMC1taW51dGUgc3Bpbm5pbmcgcmVzZXJ2ZSBhbmQgMTAtbWludXRlIHN1cHBsZW1lbnRhbCByZXNlcnZlKSBmb3Igc2FsZSB0byB0aGUgTWlkY29udGluZW50IEluZGVwZW5kZW50IFN5c3RlbSBPcGVyYXRvciwgSW5jLiAoTUlTTykgYW5kIHRvIG90aGVycyB0aGF0IGFyZSBzZWxmLSBzdXBwbHlpbmcgYW5jaWxsYXJ5IHNlcnZpY2VzIHRvIE1JU08uCiAgICAgICAgXHBhcgogICAgICAgIFNvdXRod2VzdCBQb3dlciBQb29sOiBUaGUgc2VsbGVyIG9mZmVycyByZWd1bGF0aW9uIHNlcnZpY2UgYW5kIG9wZXJhdGluZyByZXNlcnZlIHNlcnZpY2UgKHdoaWNoIGluY2x1ZGUgMTAtbWludXRlIHNwaW5uaW5nIHJlc2VydmUgYW5kIDEwLW1pbnV0ZSBzdXBwbGVtZW50YWwgcmVzZXJ2ZSkgZm9yIHNhbGUgdG8gdGhlIFNvdXRod2VzdCBQb3dlciBQb29sLCBJbmMuIChTUFApIGFuZCB0byBvdGhlcnMgdGhhdCBhcmUgc2VsZi1zdXBwbHlpbmcgYW5jaWxsYXJ5IHNlcnZpY2VzIHRvIFNQUC4KICAgICAgICBccGFyCiAgICAgICAgVGhpcmQtUGFydHkgYW5jaWxsYXJ5IHNlcnZpY2VzOiBUaGlyZC1wYXJ0eSBhbmNpbGxhcnkgc2VydmljZXM6IFNlbGxlciBvZmZlcnMgUmVndWxhdGlvbiBTZXJ2aWNlLCBSZWFjdGl2ZSBTdXBwbHkgYW5kIFZvbHRhZ2UgQ29udHJvbCBTZXJ2aWNlLCBFbmVyZ3kgYW5kIEdlbmVyYXRvciBJbWJhbGFuY2UgU2VydmljZSwgT3BlcmF0aW5nIFJlc2VydmUtU3Bpbm5pbmcsIE9wZXJhdGluZyBSZXNlcnZlIFN1cHBsZW1lbnRhbCwgYW5kIFByaW1hcnkgRnJlcXVlbmN5IFJlc3BvbnNlIFNlcnZpY2UuIFNhbGVzIHdpbGwgbm90IGluY2x1ZGUgdGhlIGZvbGxvd2luZzoKICAgICAgICBccGFyCiAgICAgICAgMS5cdGFiIFNhbGVzIHRvIGFuIFJUTyBvciBhbiBJU08sIGkuZS4sIHdoZXJlIHRoYXQgZW50aXR5IGhhcyBubyBhYmlsaXR5IHRvIHNlbGYtc3VwcGx5IGFuY2lsbGFyeSBzZXJ2aWNlcyBidXQgaW5zdGVhZCBkZXBlbmRzIG9uIHRoaXJkIHBhcnRpZXMuCiAgICAgICAgXHBhcgogICAgICAgIDIuXHRhYiBTYWxlcyB0byBhIHRyYWRpdGlvbmFsLCBmcmFuY2hpc2VkIHB1YmxpYyB1dGlsaXR5IGFmZmlsaWF0ZWQgd2l0aCB0aGUgdGhpcmQtcGFydHkgc3VwcGxpZXIsIG9yIHNhbGVzIHdoZXJlIHRoZSB1bmRlcmx5aW5nIHRyYW5zbWlzc2lvbiBzZXJ2aWNlIGlzIG9uIHRoZSBzeXN0ZW0gb2YgdGhlIHB1YmxpYyB1dGlsaXR5IGFmZmlsaWF0ZWQgd2l0aCB0aGUgdGhpcmQtcGFydHkgc3VwcGxpZXIuCiAgICAgICAgXHBhcgogICAgICAgIFNhbGVzIG9mIE9wZXJhdGluZyBSZXNlcnZlLVNwaW5uaW5nIGFuZCBPcGVyYXRpbmcgUmVzZXJ2ZS1TdXBwbGVtZW50YWwgd2lsbCBub3QgaW5jbHVkZSBzYWxlcyB0byBhIHB1YmxpYyB1dGlsaXR5IHRoYXQgaXMgcHVyY2hhc2luZyBhbmNpbGxhcnkgc2VydmljZXMgdG8gc2F0aXNmeSBpdHMgb3duIG9wZW4gYWNjZXNzIHRyYW5zbWlzc2lvbiB0YXJpZmYgcmVxdWlyZW1lbnRzIHRvIG9mZmVyIGFuY2lsbGFyeSBzZXJ2aWNlcyB0byBpdHMgb3duIGN1c3RvbWVycywgZXhjZXB0IHdoZXJlIHRoZSBDb21taXNzaW9uIGhhcyBncmFudGVkIGF1dGhvcml6YXRpb24uIFNhbGVzIG9mIFJlZ3VsYXRpb24gU2VydmljZSBhbmQgUmVhY3RpdmUgU3VwcGx5IGFuZCBWb2x0YWdlIENvbnRyb2wgU2VydmljZSB3aWxsIG5vdCBpbmNsdWRlIHNhbGVzIHRvIGEgcHVibGljIHV0aWxpdHkgdGhhdCBpcyBwdXJjaGFzaW5nIGFuY2lsbGFyeSBzZXJ2aWNlcyB0byBzYXRpc2Z5IGl0cyBvd24gb3BlbiBhY2Nlc3MgdHJhbnNtaXNzaW9uIHRhcmlmZiByZXF1aXJlbWVudHMgdG8gb2ZmZXIgYW5jaWxsYXJ5IHNlcnZpY2VzIHRvIGl0cyBvd24gY3VzdG9tZXJzLCBleGNlcHQgYXQgcmF0ZXMgbm90IHRvIGV4Y2VlZCB0aGUgYnV5aW5nIHB1YmxpYyB1dGlsaXR5IHRyYW5zbWlzc2lvbiBwcm92aWRlcidzIE9BVFQgcmF0ZSBmb3IgdGhlIHNhbWUgc2VydmljZSBvciB3aGVyZSB0aGUgQ29tbWlzc2lvbiBoYXMgZ3JhbnRlZCBhdXRob3JpemF0aW9uLgogICAgICAgIFxwYXIKICAgICAgICA4KVx0YWIgRWZmZWN0aXZlIERhdGUKICAgICAgICBccGFyCiAgICAgICAgVGhpcyBkYXRlIHNoYWxsIGJlY29tZSBlZmZlY3RpdmUgb24gdGhlIGRhdGUgc3BlY2lmaWVkIGJ5IHRoZSBDb21taXNzaW9uLgp9CkVPRiA8IC9kZXYvbnVsbA==</record_binary_data>
+      <record_plain_text>FERC Market-Based Rate Tariff
+
+        1)	Availability
+
+        Seller makes electric energy, capacity, and ancillary services available under this tariff to any purchaser, except as prohibited below.
+
+        2)	Applicability
+
+        This tariff is applicable to all sales of energy, capacity, and/or ancillary services by Seller at market-based rates, which are (a) subject to the jurisdiction of the Commission, and (b) not made pursuant to another tariff on file with the Commission.
+
+        3)	Rates
+
+        All sales shall be made at rates established by agreement between the purchaser and Seller.
+
+        4)	Seller Category
+
+        Seller is a Category 1 seller in all regions, as defined in 18 CFR 35.36(a).
+
+        5)	Compliance with Commission Regulations
+        Seller shall comply with the provisions of 18 CFR Part 35, Subpart H, as applicable, and with any conditions the Commission imposes in its orders concerning seller's market- based rate authority, including orders in which the Commission authorizes seller to engage in affiliate sales under this tariff or otherwise restricts or limits the seller's market-based rate authority. Failure to comply with the applicable provisions of 18 CFR Part 35, Subpart H, and with any orders of the Commission concerning seller's market- based rate authority, will constitute a violation of this tariff.
+
+        6)	Limitations and Exemptions Regarding Market-Based Rate Authority
+
+        Seller has received waiver of: Subparts B and C of Part 35, except for sections 35.12(a), 35.13(b), 35.15 and 35.16; Part 41, Part 101, regarding the Uniform System of Accounts prescribed for public utilities and licensees, with the exception that waiver of the provisions of Part 101 that apply to hydropower licensees is not granted with respect to licensed hydropower projects; and Part 141, except section 141.15.; and received blanket approval under Part 34. Strobe Power NY, LLC, ER25-2266-002 (2025).
+
+        7)	Ancillary Services
+
+        PJM: The seller offers regulation and frequency response service, energy imbalance service, and operating reserve service (which includes spinning, 10-minute, and 30-minute reserves) for sale into the market administered by PJM Interconnection, L.L.C. ("PJM") and, where the PJM Open Access Transmission Tariff permits, the self-supply of these services to purchasers for a bilateral sale that is used to satisfy the ancillary services requirements of the PJM Office of Interconnection.
+        New York: The seller offers regulation and frequency response service, and operating reserve service (which include 10-minute non-synchronous, 30-minute operating reserves, 10-minute spinning reserves, and 10-minute non-spinning reserves) for sale to purchasers in the market administered by the New York Independent System Operator, Inc.
+        New England: The seller offers regulation and frequency response service (automatic generator control), operating reserve service (which includes 10-minute spinning reserve, 10-minute non-spinning reserve, and 30-minute operating reserve service) to purchasers within the markets administered by the ISO New England, Inc.
+        California: The seller offers regulation service, spinning reserve service, and non- spinning reserve service to the California Independent System Operator Corporation ("CAISO") and to others that are self-supplying ancillary services to the CAISO.
+        MISO: The seller offers regulation service and operating reserve service (which includes 10-minute spinning reserve and 10-minute supplemental reserve) for sale to the Midcontinent Independent System Operator, Inc. (MISO) and to others that are self- supplying ancillary services to MISO.
+        Southwest Power Pool: The seller offers regulation service and operating reserve service (which include 10-minute spinning reserve and 10-minute supplemental reserve) for sale to the Southwest Power Pool, Inc. (SPP) and to others that are self-supplying ancillary services to SPP.
+        Third-Party ancillary services: Third-party ancillary services: Seller offers Regulation Service, Reactive Supply and Voltage Control Service, Energy and Generator Imbalance Service, Operating Reserve-Spinning, Operating Reserve Supplemental, and Primary Frequency Response Service. Sales will not include the following:
+        1.	Sales to an RTO or an ISO, i.e., where that entity has no ability to self-supply ancillary services but instead depends on third parties.
+        2.	Sales to a traditional, franchised public utility affiliated with the third-party supplier, or sales where the underlying transmission service is on the system of the public utility affiliated with the third-party supplier.
+        Sales of Operating Reserve-Spinning and Operating Reserve-Supplemental will not include sales to a public utility that is purchasing ancillary services to satisfy its own open access transmission tariff requirements to offer ancillary services to its own customers, except where the Commission has granted authorization. Sales of Regulation Service and Reactive Supply and Voltage Control Service will not include sales to a public utility that is purchasing ancillary services to satisfy its own open access transmission tariff requirements to offer ancillary services to its own customers, except at rates not to exceed the buying public utility transmission provider's OATT rate for the same service or where the Commission has granted authorization.
+
+        8)	Effective Date
+
+        This date shall become effective on the date specified by the Commission.</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>3</filing_id>
+      <filing_title>Strobe Power NY LLC Market-Based Rate Tariff</filing_title>
+      <filing_type>120</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2025-07-20</current_effective_date>
+      <ferc_order_date>2025-09-10</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

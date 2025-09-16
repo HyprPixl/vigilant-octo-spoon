@@ -1,0 +1,215 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><title>
+
+</title><link rel="stylesheet" href="css/style.css" type="text/css" />
+    <script type="text/javascript">
+        var GB_ROOT_DIR = "./greybox/";
+    </script>
+    <link href="greybox/gb_styles.css" rel="stylesheet" type="text/css" />
+
+
+<!-- Script added for DAP -->
+<script async type="text/javascript" id="_fed_an_ua_tag" src=https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=FERC></script>
+
+
+</head>
+<body>
+
+    <script type="text/javascript" src="greybox/AJS.js"></script>
+    <script type="text/javascript" src="greybox/AJS_fx.js"></script>
+    <script type="text/javascript" src="greybox/gb_scripts.js"></script>
+
+
+    <form method="post" action="./TariffExport.aspx?tid=6552" id="frmMenu">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="3" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="rHY0R3St+Jr+7C4yIbPACZhYdXkHgeTQbs3LAX3L9O8kMcngmWw3+ZmdAsLPuRiSlAgZzOV+vWcdiIirPcIXfINSQtWhYhDAftAaEZy2fRZngUZXVQ4kL99NILdSGlyTG1v3qTfL25YvUtXYosZyjP5jMCy51hQ+gBvfrE3iAw61GKzUwAAdmTPadnASxpEbiDkV5OYIaJHhp7cg2wofu24Gem/aEwZXB77aa58WDBe2Lt7+7Z+VrFbqZdv6GIW4jt/NCubcf1dE3iBH3QgGaGvsTA6YrsTSlZhoi7JL/dzeQuGnVYZQm64BMxWGJ9ayOT3GY4bgVNXCgFfgA305yc9Z4Fg+FNpnHYmueah99BqwK5KlIVd6X+NWEdXtKDt4qqofOVD3NXVk4EaGPOwDHrmpBrtwTFzEACUYjY0+bErSoJV3l+I1DzgmCbsv5E8IF2R3wBsGeW07C2t8gO8gG5q/CfDnJkAT3gqPA/a6FInokPHeSUq7" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="E/lRD1Uo7KxjrNqwcoselLbUNMEKwdIuc+yk+zWzsc0THEzjXzVIWoGYm97vVpEZUaYoEmiowts9veyLNRb9PMZf7K/EtUrN1g9VpF+YcoCtnGYeC1FAKwj8OFNwYsplZ7dYGCh5I2XSTbIAJh4oNYeacHI7F8z4ElZzopMyVAaej4H6GSFkgtiN3QGe5ICO78Hy7lY8EJ1MHVfMQxsL8NwQYdyh905e8B8A9oSL1uRxLQgIQ/MyYhq4fk16GVfMqPxefWfVS3UycUBeno99loEMMQj6yUKVnhW4QlLCUOBHY0cjcGVcsVFcearJAZR8WRyyIQ9S99t6uJ04Mm3Zv/KH6HxpS6778a6f/AA7JW5Ut3Bq1f2fzFjxchkYEA9IjkVOF/BrlLzMVLPydz6pzEeej1QGkET4oqe/Oa3gJL9kjaZ1P977ROuFnOVRFRLwvD9CnQDNoznOjAWVqBPcwT+3h63pdyYJZ9Uy6Qj1/OEvSmLBnZHE" />
+<input type="hidden" name="__VIEWSTATE2" id="__VIEWSTATE2" value="eSgHQ7gvIdp8fdk51kKXRLC3lvPRWfEBXs7DILXVzrcWJA==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['frmMenu'];
+if (!theForm) {
+    theForm = document.frmMenu;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="90C26C4F" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="xu9TbeDbBDRTf3orosC/M7G0e1BAL0NmDuJYm4NWn3HTUKZl/qU5V1S0mOut6mV8pb/E5pam/MgFlLwB1GZyw5cR7YV+kKhO0m0RuYNaICsDkRp9oqi3WCb9PDBYyPKx8Z+KSfP+ByZSkIh9d2jVMcVR24xbF/KhNsU3up39rac8xAanAhH1oM/mW6rSZ16fhbhD94gy4+pHr6cJUyo4b7M/QG3bMIukHRzvIgnBPE9mjxwNzdFSyrT3k1Id6bhtLMSefB4q8tdVHeZEsAaQd5Q8dDicGvWctNMaEJw6QA7VMGUzqEGlhD4//QwiPMcNT4Fy48Gn3SmuTSU9zt4QfA==" />
+</div>
+
+        <table class="maintblsub" border="0" cellspacing="0" cellpadding="0" width="100%" role="presentation" >  
+            <tr height="25">
+                <td valign="top">
+                    <table border="0" cellspacing="0" cellpadding="0" role="presentation">
+                        <tr>
+                            <td style="background-color: #DBFADD">
+                                <img src="images/spacer.gif" alt="" width="20px" height="15" /></td>
+                            <td style="width: 95%; background-color: #DBFADD">
+                                <img src="images/spacer.gif" alt="" width="1px" height="15" /></td>
+                            <td style="width: 95%; background-color: #DBFADD">
+                                <img src="images/spacer.gif" alt="" width="1px" height="15" /></td>
+                        </tr>
+
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+                        <tr>
+                            <td valign="top">
+                                
+    
+<script type="text/javascript">
+
+    function hourglass() {
+        document.body.style.cursor = "wait";
+    }
+    function backtonormal() {
+        document.body.style.cursor = "auto";
+    }
+    /*
+        function StartShowWait()
+        {
+            var up_div = document.getElementById('divProg');
+            up_div.style.visibility = 'visible';
+    }
+    
+        function StopShowWait() {
+            var up_div = document.getElementById('divProg');
+            up_div.style.visibility = 'hidden';
+        }
+    */
+
+    //function DisableButton() {
+    //    document.getElementById('Content1_btnExport').disabled = 'true';
+    //}
+    //window.onbeforeunload = DisableButton;
+
+    function Client_SubmitRequest_Click() {
+        /*document.getElementById('Content1_DataTooLarge').style.display = 'none';*/
+    }
+
+    function startLoading() {
+        document.body.className = 'waiting';
+        setTimeout(function () { document.body.className = 'restore';}, 15000);
+    }
+
+</script>
+    <table width="100%" border="0" cellpadding="5" cellspacing="0" role="presentation" >
+
+         <tr valign="top">
+            <td valign="middle" class="h2sub">Tariff Export</td>
+            <td align="right" valign="middle"> 
+                <input type="button" name="ctl00$Content1$btnExport" value="Export to XML" onclick="this.disabled = true; document.getElementById(&#39;Content1_DataTooLarge&#39;).style.display = &#39;none&#39;; startLoading(); ;__doPostBack(&#39;ctl00$Content1$btnExport&#39;,&#39;&#39;)" id="Content1_btnExport" title="Export to XML" AlternateText="Export to XML" style="width:100px;" />
+                &nbsp;&nbsp;&nbsp;
+                <input id="btnClose" type="button" value="Close" onclick="javascript: parent.parent.GB_hide();"  title="Close" />
+           </td>
+        </tr>
+        <tr>
+             <td colspan="2" class="messages">
+                 <span id="Content1_CompanyAndTariffNameLbl" style="display:inline-block;color:Blue;width:800px;">Neighborhood Sun Benefit Corp / Market-Based Rate Tariff - Neighborhood Sun</span>
+             </td>
+        </tr> 
+        <tr>
+             <td colspan="2">
+                <div id="Content1_divProg" style="display:none;">
+                    <img src="Images/progress.gif" id="Content1_imgProgress" alt="Progress" title="Progress" /> Please Wait, system processing the XML...
+                </div>                    
+            </td>
+        </tr>    
+        <tr valign="top">
+            <td colspan="2">
+                <table width="100%" border="0"  cellpadding="1" cellspacing="4" class="formtablecontent" role="presentation">
+                    <tr>
+                        <td colspan="4"><span id="Content1_lblTarTitle"></span></td>
+                    </tr> 
+                    <tr>
+                        <td class="formtablecontentcaption"  width="10%"><b>Status:</b></td>
+                        <td width="20%">
+                            <table id="Content1_lstStatus">
+	<tr>
+		<td><input id="Content1_lstStatus_0" type="checkbox" name="ctl00$Content1$lstStatus$0" checked="checked" value="9" /><label for="Content1_lstStatus_0">Effective</label></td>
+	</tr><tr>
+		<td><input id="Content1_lstStatus_1" type="checkbox" name="ctl00$Content1$lstStatus$1" checked="checked" value="1" /><label for="Content1_lstStatus_1">Accepted</label></td>
+	</tr><tr>
+		<td><input id="Content1_lstStatus_2" type="checkbox" name="ctl00$Content1$lstStatus$2" checked="checked" value="6" /><label for="Content1_lstStatus_2">Suspended</label></td>
+	</tr><tr>
+		<td><input id="Content1_lstStatus_3" type="checkbox" name="ctl00$Content1$lstStatus$3" checked="checked" value="3" /><label for="Content1_lstStatus_3">Pending</label></td>
+	</tr><tr>
+		<td><input id="Content1_lstStatus_4" type="checkbox" name="ctl00$Content1$lstStatus$4" checked="checked" value="4" /><label for="Content1_lstStatus_4">ConditionallyAccepted</label></td>
+	</tr><tr>
+		<td><input id="Content1_lstStatus_5" type="checkbox" name="ctl00$Content1$lstStatus$5" checked="checked" value="11" /><label for="Content1_lstStatus_5">ConditionallyEffective</label></td>
+	</tr><tr>
+		<td><input id="Content1_lstStatus_6" type="checkbox" name="ctl00$Content1$lstStatus$6" checked="checked" value="7" /><label for="Content1_lstStatus_6">Tolled</label></td>
+	</tr>
+</table>
+                        </td>
+                        <td valign="top" style="margin-left:20px;">
+                            <table id="Content1_lstBinaryText">
+	<tr>
+		<td><input id="Content1_lstBinaryText_0" type="checkbox" name="ctl00$Content1$lstBinaryText$0" checked="checked" value="1" /><label for="Content1_lstBinaryText_0">Include record_binary_data XML element</label></td>
+	</tr><tr>
+		<td><input id="Content1_lstBinaryText_1" type="checkbox" name="ctl00$Content1$lstBinaryText$1" checked="checked" value="2" /><label for="Content1_lstBinaryText_1">Include record_plain_text XML element</label></td>
+	</tr>
+</table>
+                            <br /><br />
+                           
+                            <div id="Content1_DataTooLarge" style="margin-left:30px;">
+                               <span id="Content1_ExceededMaxlbl" style="display:inline-block;font-size:Small;font-style:italic;width:500px;color:red;">No data section has been identified based on the selected criteria. Please verify the checked boxes. If this issue persists, you may reach out to FERC Online Support for assistance.</span>
+                               <br /><br />
+                           </div>
+                        </td>
+                    </tr>                        
+               </table>
+            </td>
+        </tr>
+
+  </table>
+  
+  
+
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <table cellspacing="1" id="tblFooter" role="presentation">
+                                    <tr>
+                                        <td class="clsBottom">
+                                            <input type="hidden" name="ctl00$ItemIndex" id="ItemIndex" value="1" />
+                                            <span id="lblFooterText" style="color: #FFFFFF">Footer Text goes here</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+    
+</html>
+

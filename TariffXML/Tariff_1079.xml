@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C000791</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>38</tariff_id>
+    <tariff_title>Stand Energy Corporation</tariff_title>
+    <tariff_export_date>2025-09-16T18:39Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>Stand Energy Corporation, FERC Electric Rate Schedule No. 1</record_title>
+      <record_content_desc>Market Based Rate Tariff</record_content_desc>
+      <record_version_num>0.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>1000000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-07-23</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZzd2lzc1xmcHJxMlxmY2hhcnNldDAgQXJpYWw7fX0NClx2aWV3a2luZDRcdWMxXHBhcmRcbHRycGFyXHNsMjQwXHNsbXVsdDFccWNcZjBcZnMyNCBTdGFuZCBFbmVyZ3kgQ29ycG9yYXRpb25ccGFyDQpGRVJDIEVsZWN0cmljIFJhdGUgU2NoZWR1bGUgTm8uIDFccGFyDQpccGFyDQpccGFyZFxsdHJwYXJcZmktNzIwXGxpNzIwXHNsMjQwXHNsbXVsdDEgMS5cdGFiXHVsIEF2YWlsYWJpbGl0eVx1bG5vbmUgLiAgU3RhbmQgRW5lcmd5IENvcnBvcmF0aW9uIG1ha2VzIGVsZWN0cmljIGVuZXJneSBhbmQgY2FwYWNpdHkgYXZhaWxhYmxlIHVuZGVyIHRoaXMgUmF0ZSBTY2hlZHVsZSBmb3Igd2hvbGVzYWxlIHNhbGVzIHRvIHB1cmNoYXNlcnMgd2l0aCB3aG9tIFN0YW5kIEVuZXJneSBDb3Jwb3JhdGlvbiBoYXMgY29udHJhY3RlZC5ccGFyDQpccGFyDQoyLlx0YWJcdWwgQXBwbGljYWJpbGl0eVx1bG5vbmUgLiAgVGhpcyBSYXRlIFNjaGVkdWxlIGlzIGFwcGxpY2FibGUgdG8gYWxsIHNhbGVzIG9mIGVsZWN0cmljIGVuZXJneSBvciBjYXBhY2l0eSBieSBTdGFuZCBFbmVyZ3kgQ29ycG9yYXRpb24gbm90IG90aGVyd2lzZSBleHByZXNzbHkgc3ViamVjdCB0byBhbm90aGVyIFJhdGUgU2NoZWR1bGUgb2YgU3RhbmQgRW5lcmd5IENvcnBvcmF0aW9uLlxwYXINClxwYXINCjMuXHRhYlx1bCBSYXRlc1x1bG5vbmUgLiAgQWxsIHNhbGVzIHNoYWxsIGJlIG1hZGUgYXQgcmF0ZXMgZXN0YWJsaXNoZWQgYnkgYWdyZWVtZW50IGJldHdlZW4gdGhlIHB1cmNoYXNlciBhbmQgU3RhbmQgRW5lcmd5IENvcnBvcmF0aW9uLlxwYXINClxwYXINCjQuXHRhYlx1bCBBZmZpbGlhdGUgU2FsZXMgUHJvaGliaXRlZFx1bG5vbmUgLiAgTm8gc2FsZSBtYXkgYmUgbWFkZSBwdXJzdWFudCB0byB0aGlzIFJhdGUgU2NoZWR1bGUgdG8gYW55IGVudGl0eSBjb250cm9sbGVkIGJ5LCB1bmRlciBjb21tb24gY29udHJvbCB3aXRoLCBvciBjb250cm9sbGluZyBTdGFuZCBFbmVyZ3kgQ29ycG9yYXRpb24uXHBhcg0KXHBhcg0KNS5cdGFiXHVsIFJlcG9ydGluZyBSZXF1aXJlbWVudFx1bG5vbmUgLiAgQXMgYSBjb25kaXRpb24gb2YgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LCBTdGFuZCBFbmVyZ3kgQ29ycG9yYXRpb25ccGFyDQpcdGFiXHBhcg0KXHRhYiAoYSlcdGFiIE11c3QgdGltZWx5IHJlcG9ydCB0byB0aGUgRmVkZXJhbCBFbmVyZ3kgUmVndWxhdG9yeSBDb21taXNzaW9uIChcbGRibHF1b3RlIENvbW1pc3Npb25ccmRibHF1b3RlICkgYW55IGNoYW5nZSBpbiBzdGF0dXMgdGhhdCB3b3VsZCByZWZsZWN0IGEgZGVwYXJ0dXJlIGZyb20gdGhlIGNoYXJhY3RlcmlzdGljcyB0aGUgQ29tbWlzc2lvbiByZWxpZWQgdXBvbiBpbiBncmFudGluZyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHkuICBBIGNoYW5nZSBpcyBzdGF0dXMgaW5jbHVkZXMsIGJ1dCBpcyBub3QgbGltaXRlZCB0bywgZWFjaCBvZiB0aGUgZm9sbG93aW5nOlxwYXINClxwYXINClx0YWJcdGFiIChpKVx0YWIgT3duZXJzaGlwIG9yIGNvbnRyb2wgb2YgZ2VuZXJhdGlvbiBvciB0cmFuc21pc3Npb24gZmFjaWxpdGllcyBvciBpbnB1dHMgdG8gZWxlY3RyaWMgcG93ZXIgcHJvZHVjdGlvbiBvdGhlciB0aGFuIGZ1ZWwgc3VwcGxpZXMsIG9yXHBhcg0KXHBhcg0KXHRhYlx0YWIgKGlpKVx0YWIgQWZmaWxpYXRpb24gd2l0aCBhbnkgZW50aXR5IG5vdCBkaXNjbG9zZWQgaW4gdGhlIGFwcGxpY2F0aW9uIGZvciBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHkgdGhhdCBvd25zIG9yIGNvbnRyb2xzIGdlbmVyYXRpb24gb3IgdHJhbnNtaXNzaW9uIGZhY2lsaXRpZXMgb3IgaW5wdXRzIHRvIGVsZWN0cmljIHBvd2VyIHByb2R1Y3Rpb24sIG9yIGFmZmlsaWF0aW9uIHdpdGggYW55IGVudGl0eSB0aGF0IGhhcyBhIGZyYW5jaGlzZWQgc2VydmljZSBhcmVhLlxwYXINClxwYXINClx0YWIgKGIpXHRhYiBBbnkgY2hhbmdlIGluIHN0YXR1cyBzdWJqZWN0IHRvIHBhcmFncmFwaCAoYSkgb2YgdGhpcyBzZWN0aW9uIG11c3QgYmUgZmlsZWQgbm8gbGF0ZXIgdGhhbiAzMCBkYXlzIGFmdGVyIHRoZSBjaGFuZ2UgaW4gc3RhdHVzIG9jY3Vycy5ccGFyDQpccGFyDQo1Llx0YWJcdWwgT3RoZXIgVGVybXMgYW5kIENvbmRpdGlvbnNcdWxub25lIC4gIEFsbCBvdGhlciB0ZXJtcyBhbmQgY29uZGl0aW9ucyBvZiBzYWxlIHNoYWxsIGJlIGVzdGFibGlzaGVkIGJ5IGFncmVlbWVudCBiZXR3ZWVuIHB1cmNoYXNlciBhbmQgU3RhbmQgRW5lcmd5IENvcnBvcmF0aW9uLlxwYXINClxwYXINCjYuXHRhYlx1bCBFZmZlY3RpdmUgRGF0ZVx1bG5vbmUgLiAgVGhpcyBSYXRlIFNjaGVkdWxlIGlzIGVmZmVjdGl2ZSBvbiBhbmQgYWZ0ZXIgTWFyY2ggMSwgMTk5NS5ccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>Stand Energy Corporation  FERC Electric Rate Schedule No. 1    1. Availability.  Stand Energy Corporation makes electric energy and capacity available under this Rate Schedule for wholesale sales to purchasers with whom Stand Energy Corporation has contracted.    2. Applicability.  This Rate Schedule is applicable to all sales of electric energy or capacity by Stand Energy Corporation not otherwise expressly subject to another Rate Schedule of Stand Energy Corporation.    3. Rates.  All sales shall be made at rates established by agreement between the purchaser and Stand Energy Corporation.    4. Affiliate Sales Prohibited.  No sale may be made pursuant to this Rate Schedule to any entity controlled by, under common control with, or controlling Stand Energy Corporation.    5. Reporting Requirement.  As a condition of market-based rate authority, Stand Energy Corporation      (a) Must timely report to the Federal Energy Regulatory Commission (“Commission”) any change in status that would reflect a departure from the characteristics the Commission relied upon in granting market-based rate authority.  A change is status includes, but is not limited to, each of the following:      (i) Ownership or control of generation or transmission facilities or inputs to electric power production other than fuel supplies, or      (ii) Affiliation with any entity not disclosed in the application for market-based rate authority that owns or controls generation or transmission facilities or inputs to electric power production, or affiliation with any entity that has a franchised service area.     (b) Any change in status subject to paragraph (a) of this section must be filed no later than 30 days after the change in status occurs.    5. Other Terms and Conditions.  All other terms and conditions of sale shall be established by agreement between purchaser and Stand Energy Corporation.    6. Effective Date.  This Rate Schedule is effective on and after March 1, 1995.  </record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>27</filing_id>
+      <filing_title>Stand Energy Corporation FERC Electric Rate Schedule No. 1</filing_title>
+      <filing_type>360</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-07-23</current_effective_date>
+      <ferc_order_date>2010-09-02</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

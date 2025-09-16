@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C001923</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>1</tariff_id>
+    <tariff_title>MBRA Tariff</tariff_title>
+    <tariff_export_date>2025-09-16T19:10Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>Kimberly-ClarkCorporation Market-Based Rate Authority Tariff</record_title>
+      <record_content_desc>MBRA Tariff</record_content_desc>
+      <record_version_num>0.1.0</record_version_num>
+      <record_narrative_name>xsi:nil="true"</record_narrative_name>
+      <collation_value>100000000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-21</proposed_effective_date>
+      <priority_order>501</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTEwMzN7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQp7XGNvbG9ydGJsIDtccmVkMFxncmVlbjBcYmx1ZTA7XHJlZDI1NVxncmVlbjI1NVxibHVlMDt9DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxxY1xmMFxmczQ0IEtpbWJlcmx5LUNsYXJrIENvcnBvcmF0aW9uXHBhcg0KTWFya2V0LUJhc2VkIFJhdGUgQXV0aG9yaXR5IFRhcmlmZlxwYXINClxwYXINClxmczQwIFZlcnNpb24gMC4xLjBccGFyDQpccGFyZFxsdHJwYXJcbm93aWRjdGxwYXJccWpcdWxcYlxmczI0XHBhZ2UgQXZhaWxhYmlsaXR5XHVsbm9uZSA6IFxiMCBLaW1iZXJseS1DbGFyayBDb3Jwb3JhdGlvbiAoIkstQyIpIG1ha2VzIGVsZWN0cmljIGVuZXJneSBhbmQgY2FwYWNpdHkgYXZhaWxhYmxlIHVuZGVyIHRoaXMgdGFyaWZmIHRvIGFueSBwdXJjaGFzZXIsIGV4Y2VwdCBhcyBwcm9oaWJpdGVkIGJlbG93LiAgSy1DIGFsc28gbWFrZXMgYXZhaWxhYmxlIHRvIGFueSBwdXJjaGFzZXIgYW5jaWxsYXJ5IHNlcnZpY2VzLCBleGNlcHQgYXMgcHJvaGliaXRlZCBiZWxvdzpccGFyDQpcYlxwYXINClxwYXJkXGx0cnBhclxub3dpZGN0bHBhclxsaTcyMFxxalx1bFxiMCBQSk1cdWxub25lIDpcYiAgIFxiMCBLLUMgb2ZmZXJzIHJlZ3VsYXRpb24gYW5kIGZyZXF1ZW5jeSByZXNwb25zZSBzZXJ2aWNlIGZvciBzYWxlIGludG8gdGhlIG1hcmtldCBhZG1pbmlzdGVyZWQgYnkgUEpNIEludGVyY29ubmVjdGlvbiwgTC5MLkMuICgiUEpNIikgYW5kLCB3aGVyZSB0aGUgUEpNIE9wZW4gQWNjZXNzIFRyYW5zbWlzc2lvbiBUYXJpZmYgcGVybWl0cywgdGhlIHNlbGYtc3VwcGx5IG9mIHRoZXNlIHNlcnZpY2VzIHRvIHB1cmNoYXNlcnMgZm9yIGEgYmlsYXRlcmFsIHNhbGUgdGhhdCBpcyB1c2VkIHRvIHNhdGlzZnkgdGhlIGFuY2lsbGFyeSBzZXJ2aWNlcyByZXF1aXJlbWVudHMgb2YgdGhlIFBKTSBPZmZpY2Ugb2YgSW50ZXJjb25uZWN0aW9uLlxwYXINClxwYXJkXGx0cnBhclxub3dpZGN0bHBhclxxalxjZjFcaGlnaGxpZ2h0MlxwYXINClxwYXJkXGx0cnBhclxub3dpZGN0bHBhclxsaTcyMFxxalxoaWdobGlnaHQwXHVsIE5ldyBFbmdsYW5kXHVsbm9uZSA6ICBLLUMgb2ZmZXJzIG9wZXJhdGluZyByZXNlcnZlIHNlcnZpY2UgKHdoaWNoIGluY2x1ZGUgMTAtbWludXRlIHNwaW5uaW5nIHJlc2VydmUsIDEwLW1pbnV0ZSBub24tc3Bpbm5pbmcgcmVzZXJ2ZSwgYW5kIDMwLW1pbnV0ZSBvcGVyYXRpbmcgcmVzZXJ2ZSBzZXJ2aWNlKSB0byBwdXJjaGFzZXJzIHdpdGhpbiB0aGUgbWFya2V0cyBhZG1pbmlzdGVyZWQgYnkgSVNPIE5ldyBFbmdsYW5kLCBJbmMuICBccGFyDQpccGFyZFxsdHJwYXJcbm93aWRjdGxwYXJccWpccGFyDQpccGFyZFxsdHJwYXJcbm93aWRjdGxwYXJcbGk3MjBccWpcdWwgVGhpcmQtUGFydHkgUHJvdmlkZXJcdWxub25lIDogIFRoaXJkLXBhcnR5IGFuY2lsbGFyeSBzZXJ2aWNlczogIFJlZ3VsYXRpb24gU2VydmljZS4gIFNhbGVzIHdpbGwgbm90IGluY2x1ZGUgdGhlIGZvbGxvd2luZzogKDEpIHNhbGVzIHRvIGFuIFJUTyBvciBhbiBJU08sIFxpIGkuZS5caTAgLCB3aGVyZSB0aGF0IGVudGl0eSBoYXMgbm8gYWJpbGl0eSB0byBzZWxmLXN1cHBseSBhbmNpbGxhcnkgc2VydmljZXMgYnV0IGluc3RlYWQgZGVwZW5kcyBvbiB0aGlyZCBwYXJ0aWVzOyAoMikgc2FsZXMgdG8gYSB0cmFkaXRpb25hbCwgZnJhbmNoaXNlZCBwdWJsaWMgdXRpbGl0eSBhZmZpbGlhdGVkIHdpdGggdGhlIHRoaXJkIHBhcnR5IHByb3ZpZGVyLCBvciBzYWxlcyB3aGVyZSB0aGUgdW5kZXJseWluZyB0cmFuc21pc3Npb24gc2VydmljZSBpcyBvbiB0aGUgc3lzdGVtIG9mIGEgcHVibGljIHV0aWxpdHkgYWZmaWxpYXRlZCB3aXRoIHRoZSB0aGlyZCBwYXJ0eSBwcm92aWRlcjsgYW5kICgzKSBzYWxlcyB0byBhIHB1YmxpYyB1dGlsaXR5IHRoYXQgaXMgcHVyY2hhc2luZyBhbmNpbGxhcnkgc2VydmljZXMgdG8gc2F0aXNmeSBpdHMgb3duIG9wZW4gYWNjZXNzIHRyYW5zbWlzc2lvbiB0YXJpZmYgcmVxdWlyZW1lbnQgdG8gb2ZmZXIgYW5jaWxsYXJ5IHNlcnZpY2VzIHRvIGl0cyBvd24gY3VzdG9tZXJzLlxwYXINClxwYXJkXGx0cnBhclxub3dpZGN0bHBhclxxalxjZjBcYlxwYXINClx1bCBBcHBsaWNhYmlsaXR5XHVsbm9uZSA6IFxiMCBUaGlzIHRhcmlmZiBpcyBhcHBsaWNhYmxlIHRvIGFsbCBzYWxlcyBvZiBlbGVjdHJpYyBlbmVyZ3ksIGNhcGFjaXR5IGFuZCBhbmNpbGxhcnkgc2VydmljZXMgYnkgSy1DIGF0IG1hcmtldC1iYXNlZCByYXRlcy4gXHBhcg0KXGJccGFyDQpcdWwgUmF0ZXNcdWxub25lIDpcYjAgICBBbGwgc2FsZXMgc2hhbGwgYmUgbWFkZSBhdCByYXRlcyBlc3RhYmxpc2hlZCBieSBhZ3JlZW1lbnQgYmV0d2VlbiB0aGUgcHVyY2hhc2VyIGFuZCAgICAgSy1DLiBccGFyDQpcYlxwYXINClx1bCBPdGhlciBUZXJtcyBhbmQgQ29uZGl0aW9uc1x1bG5vbmUgOlxiMCAgQWxsIG90aGVyIHRlcm1zIGFuZCBjb25kaXRpb25zIHNoYWxsIGJlIGVzdGFibGlzaGVkIGJ5IGFncmVlbWVudCBiZXR3ZWVuIEstQyBhbmQgdGhlIHB1cmNoYXNlci4gXHBhcg0KXGJccGFyDQpcY2YxXHVsIENvbXBsaWFuY2Ugd2l0aCBDb21taXNzaW9uIFJlZ3VsYXRpb25zXHVsbm9uZSA6XGIwICAgSy1DIHNoYWxsIGNvbXBseSB3aXRoIHRoZSBwcm92aXNpb25zIG9mIDE4IEMuRi5SLiBQYXJ0IDM1LCBTdWJwYXJ0IEgsIGFzIGFwcGxpY2FibGUsIGFuZCB3aXRoIGFueSBjb25kaXRpb25zIHRoYXQgdGhlIENvbW1pc3Npb24gaW1wb3NlcyBpbiBpdHMgb3JkZXJzIGNvbmNlcm5pbmcgSy1DJ3MgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LCBpbmNsdWRpbmcgb3JkZXJzIGluIHdoaWNoIHRoZSBDb21taXNzaW9uIGF1dGhvcml6ZXMgSy1DIHRvIGVuZ2FnZSBpbiBhZmZpbGlhdGUgc2FsZXMgdW5kZXIgdGhpcyB0YXJpZmYgb3Igb3RoZXJ3aXNlIHJlc3RyaWN0cyBvciBsaW1pdHMgSy1DJ3MgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LiAgRmFpbHVyZSB0byBjb21wbHkgd2l0aCB0aGUgYXBwbGljYWJsZSBwcm92aXNpb25zIG9mIDE4IEMuRi5SLiBQYXJ0IDM1LCBTdWJwYXJ0IEgsIGFuZCB3aXRoIGFueSBvdGhlciBvcmRlcnMgb2YgdGhlIENvbW1pc3Npb24gY29uY2VybmluZyBLLUMncyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHksIHdpbGwgY29uc3RpdHV0ZSBhIHZpb2xhdGlvbiBvZiB0aGlzIHRhcmlmZi5ccGFyDQpccGFyDQpcdWxcYiBMaW1pdGF0aW9ucyBhbmQgRXhlbXB0aW9ucyBSZWdhcmRpbmcgTWFya2V0LUJhc2VkIFJhdGUgQXV0aG9yaXR5XHVsbm9uZSA6XGIwICAgSy1DIGRvZXMgbm90IGhhdmUgYW55IGxpbWl0YXRpb24gb24gaXRzIG1hcmtldC1iYXNlZCByYXRlIGF1dGhvcml0eSwgZXhjZXB0IGFzIG90aGVyd2lzZSBwcm92aWRlZCBpbiB0aGlzIHRhcmlmZi4gIEstQyBoYXMgb2J0YWluZWQgd2FpdmVycyBmcm9tIFN1YnBhcnRzIEIgYW5kIEMgb2YgUGFydCAzNSwgcmVnYXJkaW5nIHRoZSBmaWxpbmcgb2YgdGFyaWZmcywgZXhjZXB0IHNlY3Rpb25zIDM1LjEyKGEpLCAzNS4xMyhiKSwgMzUuMTUsIGFuZCAzNS4xNjsgUGFydCA0MSwgcmVnYXJkaW5nIGFjY291bnRzLCByZWNvcmRzLCBhbmQgbWVtb3JhbmRhOyBQYXJ0IDEwMSwgcmVnYXJkaW5nIHRoZSB1bmlmb3JtIHN5c3RlbSBvZiBhY2NvdW50czsgYW5kIFBhcnQgMTQxLCByZWdhcmRpbmcgc3RhdGVtZW50cyBhbmQgcmVwb3J0cy4gIEstQyBhbHNvIGhhcyBibGFua2V0IGFwcHJvdmFsIHVuZGVyIFBhcnQgMzQgb2YgdGhlIENvbW1pc3Npb24ncyByZWd1bGF0aW9ucyByZWdhcmRpbmcgZnV0dXJlIGlzc3VhbmNlcyBvZiBzZWN1cml0aWVzIGFuZCBhc3N1bXB0aW9ucyBvZiBsaWFiaWxpdGllcywgc3ViamVjdCB0byBvYmplY3Rpb24gYnkgYW4gaW50ZXJlc3RlZCBwYXJ0eS4gIFxpIFNlZVxpMCAgS2ltYmVybHktQ2xhcmsgQ29ycG9yYXRpb24sIERvY2tldCBOby4gRVIwOC00OTUtMDAwICh1bnB1Ymxpc2hlZCBMZXR0ZXIgT3JkZXIpIChfX19fX19fX19fX19fLCAyMDA4KS5ccGFyDQpcY2YwXGJccGFyDQpccGFyZFxsdHJwYXJcdWwgRWZmZWN0aXZlIERhdGVcdWxub25lIDogXGIwIFRoaXMgdGFyaWZmIGlzIGVmZmVjdGl2ZSBBcHJpbCAxLCAyMDA4LlxwYXINClxmczIzXHBhcg0KfQ0K</record_binary_data>
+      <record_plain_text>Kimberly-Clark Corporation
+Market-Based Rate Authority Tariff
+
+Version 0.1.0
+ 
+Availability: Kimberly-Clark Corporation ("K-C") makes electric energy and capacity available under this tariff to any purchaser, except as prohibited below.  K-C also makes available to any purchaser ancillary services, except as prohibited below:
+
+PJM:  K-C offers regulation and frequency response service for sale into the market administered by PJM Interconnection, L.L.C. ("PJM") and, where the PJM Open Access Transmission Tariff permits, the self-supply of these services to purchasers for a bilateral sale that is used to satisfy the ancillary services requirements of the PJM Office of Interconnection.
+
+New England:  K-C offers operating reserve service (which include 10-minute spinning reserve, 10-minute non-spinning reserve, and 30-minute operating reserve service) to purchasers within the markets administered by ISO New England, Inc.  
+
+Third-Party Provider:  Third-party ancillary services:  Regulation Service.  Sales will not include the following: (1) sales to an RTO or an ISO, i.e., where that entity has no ability to self-supply ancillary services but instead depends on third parties; (2) sales to a traditional, franchised public utility affiliated with the third party provider, or sales where the underlying transmission service is on the system of a public utility affiliated with the third party provider; and (3) sales to a public utility that is purchasing ancillary services to satisfy its own open access transmission tariff requirement to offer ancillary services to its own customers.
+
+Applicability: This tariff is applicable to all sales of electric energy, capacity and ancillary services by K-C at market-based rates. 
+
+Rates:  All sales shall be made at rates established by agreement between the purchaser and     K-C. 
+
+Other Terms and Conditions: All other terms and conditions shall be established by agreement between K-C and the purchaser. 
+
+Compliance with Commission Regulations:  K-C shall comply with the provisions of 18 C.F.R. Part 35, Subpart H, as applicable, and with any conditions that the Commission imposes in its orders concerning K-C's market-based rate authority, including orders in which the Commission authorizes K-C to engage in affiliate sales under this tariff or otherwise restricts or limits K-C's market-based rate authority.  Failure to comply with the applicable provisions of 18 C.F.R. Part 35, Subpart H, and with any other orders of the Commission concerning K-C's market-based rate authority, will constitute a violation of this tariff.
+
+Limitations and Exemptions Regarding Market-Based Rate Authority:  K-C does not have any limitation on its market-based rate authority, except as otherwise provided in this tariff.  K-C has obtained waivers from Subparts B and C of Part 35, regarding the filing of tariffs, except sections 35.12(a), 35.13(b), 35.15, and 35.16; Part 41, regarding accounts, records, and memoranda; Part 101, regarding the uniform system of accounts; and Part 141, regarding statements and reports.  K-C also has blanket approval under Part 34 of the Commission's regulations regarding future issuances of securities and assumptions of liabilities, subject to objection by an interested party.  See Kimberly-Clark Corporation, Docket No. ER08-495-000 (unpublished Letter Order) (_____________, 2008).
+
+Effective Date: This tariff is effective April 1, 2008.</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>2</filing_id>
+      <filing_title>Compliance Baseline Tariff Filing</filing_title>
+      <filing_type>70</filing_type>
+      <associated_filing_id>1</associated_filing_id>
+      <associated_record_id>1</associated_record_id>
+      <associated_option_code>A</associated_option_code>
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-09-21</current_effective_date>
+      <ferc_order_date>2010-12-03</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

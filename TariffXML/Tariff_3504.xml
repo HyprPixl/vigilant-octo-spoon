@@ -1,0 +1,210 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><title>
+
+</title><link rel="stylesheet" href="css/style.css" type="text/css" />
+    <script type="text/javascript">
+        var GB_ROOT_DIR = "./greybox/";
+    </script>
+    <link href="greybox/gb_styles.css" rel="stylesheet" type="text/css" />
+
+
+<!-- Script added for DAP -->
+<script async type="text/javascript" id="_fed_an_ua_tag" src=https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=FERC></script>
+
+
+</head>
+<body>
+
+    <script type="text/javascript" src="greybox/AJS.js"></script>
+    <script type="text/javascript" src="greybox/AJS_fx.js"></script>
+    <script type="text/javascript" src="greybox/gb_scripts.js"></script>
+
+
+    <form method="post" action="./TariffExport.aspx?tid=3504" id="frmMenu">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="2" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="pq/YEZC1/neptnCMiMTA8m/mqrJZY6Q8vjnejWcOL94Qm59/EQRlTj7A5LOUGzydsygZlnSkmPPKabQTH/Tw6n+gxzWBn0Jy0BHKGazd85WIc9bRgpdskxB+Dk/hzCGe7og8KUGTsGM+6rL1cv6Z5pMnLkX/yuyfk4gWq5pkRvCbox1KwZRY7BOUk0dFIvUiz+SvnSJZqVLDrJt38sa/ObRMo7lwR1w6IAuRd5NyzFjO+C+MwsPeR5a001Ats/YYNdg+VOpbKqRNs3PGd6iFW5fav3mpjwykCgZXlPoltHvo+1yOTjQU5z010rLAU+xwklDlnGwnNUIq5I/Aey182EbR7Cp8bf56Jjciyy1x9wJ0hppwu1CqjOLfakUp9EKRbaj3bQMEEeCuJJR70AMA8dG73LYOhFVjeW6agz5yWscwKZ5G7ii3Tg3fKzhrmfWewdHYk8eTob5rT7lcWNVvSWY2DuuSBxWuDr7yTbv/pS/5undQrBWv" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="QoEfc0ZrdC76mFUFj1nA4p9v5iX00D3D0xbNCo/3pwbCAcEyBJwt9yP62SNNmErpt4QxOquowX75UoSj91Ext0C/S/r/+uzjjFnoaqsLvvAiqfpH7w1XOwuex73PSZrmc/nxkjO0fLWJ7yoYJYdsyfjGQWh6xVmKrVR3svWP5UAt46CHTG6FjQaLbsl1sPf17KkJDSsa67TQ2+4O/6EvFxGALrezWyfl5nUS1+KFfw73ZG+psCr0pKv+/uCd2gXyvpKdk85K0Ebl0ZX883sbT0J55NpPYVF27gilsml3a/3Cz4UlCpnb2yc=" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="90C26C4F" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="wbM1VquyDWbna28uh8yxzHkaOmyHNfoG6cUrF+KkUhfP8CiHSYeqWKxGy7XnmlA+wNwehZ7VKMOT1yFwwHIQNdd92go7qOz32WWSO4mQ1ra4JTfw4gRpzM7g+2Fx8h8Qqjsbc/C9kvmFR30WdfMXqggA1IfuXlrc466MecMEeH/kGsVPaUwZfcIy7OwEyTbRB6jviY5VsPC5myTcXfZ0HWif+RcAxyAZoXhphFq2W6I+Mxure9rfOGTyNQFi7O+wpiAVmzkimQOESBWkIhGHJT+FJPzzq2KhJLVAy4yoQenmPLjQr8PDrdVtO4bTjMbTIrPZExqXuWV+j1qaVjJ8160RUj5kgp7rwJPUfik4GFHfBdg8MGdIh4B3aE8cSNE9" />
+</div>
+
+        <table class="maintblsub" border="0" cellspacing="0" cellpadding="0" width="100%" role="presentation" >  
+            <tr height="25">
+                <td valign="top">
+                    <table border="0" cellspacing="0" cellpadding="0" role="presentation">
+                        <tr>
+                            <td style="background-color: #DBFADD">
+                                <img src="images/spacer.gif" alt="" width="20px" height="15" /></td>
+                            <td style="width: 95%; background-color: #DBFADD">
+                                <img src="images/spacer.gif" alt="" width="1px" height="15" /></td>
+                            <td style="width: 95%; background-color: #DBFADD">
+                                <img src="images/spacer.gif" alt="" width="1px" height="15" /></td>
+                        </tr>
+
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+                        <tr>
+                            <td valign="top">
+                                
+    
+<script type="text/javascript">
+
+    function hourglass() {
+        document.body.style.cursor = "wait";
+    }
+    function backtonormal() {
+        document.body.style.cursor = "auto";
+    }
+    /*
+        function StartShowWait()
+        {
+            var up_div = document.getElementById('divProg');
+            up_div.style.visibility = 'visible';
+    }
+    
+        function StopShowWait() {
+            var up_div = document.getElementById('divProg');
+            up_div.style.visibility = 'hidden';
+        }
+    */
+
+    //function DisableButton() {
+    //    document.getElementById('Content1_btnExport').disabled = 'true';
+    //}
+    //window.onbeforeunload = DisableButton;
+
+    function Client_SubmitRequest_Click() {
+        /*document.getElementById('Content1_DataTooLarge').style.display = 'none';*/
+    }
+
+    function startLoading() {
+        document.body.className = 'waiting';
+        setTimeout(function () { document.body.className = 'restore';}, 15000);
+    }
+
+</script>
+    <table width="100%" border="0" cellpadding="5" cellspacing="0" role="presentation" >
+
+         <tr valign="top">
+            <td valign="middle" class="h2sub">Tariff Export</td>
+            <td align="right" valign="middle"> 
+                
+                &nbsp;&nbsp;&nbsp;
+                <input id="btnClose" type="button" value="Close" onclick="javascript: parent.parent.GB_hide();"  title="Close" />
+           </td>
+        </tr>
+        <tr>
+             <td colspan="2" class="messages">
+                 <span id="Content1_CompanyAndTariffNameLbl" style="display:inline-block;color:Blue;width:800px;">New England Power Company / Service Agreements Under ISO-NE OATT Schedule 21-NEP</span>
+             </td>
+        </tr> 
+        <tr>
+             <td colspan="2">
+                <div id="Content1_divProg" style="display:none;">
+                    <img src="Images/progress.gif" id="Content1_imgProgress" alt="Progress" title="Progress" /> Please Wait, system processing the XML...
+                </div>                    
+            </td>
+        </tr>    
+        <tr valign="top">
+            <td colspan="2">
+                <table width="100%" border="0"  cellpadding="1" cellspacing="4" class="formtablecontent" role="presentation">
+                    <tr>
+                        <td colspan="4"><span id="Content1_lblTarTitle"></span></td>
+                    </tr> 
+                    <tr>
+                        <td class="formtablecontentcaption"  width="10%"><b>Status:</b></td>
+                        <td width="20%">
+                            <table id="Content1_lstStatus" class="aspNetDisabled">
+	<tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstStatus_0" type="checkbox" name="ctl00$Content1$lstStatus$0" checked="checked" disabled="disabled" value="9" /><label for="Content1_lstStatus_0">Effective</label></span></td>
+	</tr><tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstStatus_1" type="checkbox" name="ctl00$Content1$lstStatus$1" checked="checked" disabled="disabled" value="1" /><label for="Content1_lstStatus_1">Accepted</label></span></td>
+	</tr><tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstStatus_2" type="checkbox" name="ctl00$Content1$lstStatus$2" checked="checked" disabled="disabled" value="6" /><label for="Content1_lstStatus_2">Suspended</label></span></td>
+	</tr><tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstStatus_3" type="checkbox" name="ctl00$Content1$lstStatus$3" checked="checked" disabled="disabled" value="3" /><label for="Content1_lstStatus_3">Pending</label></span></td>
+	</tr><tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstStatus_4" type="checkbox" name="ctl00$Content1$lstStatus$4" checked="checked" disabled="disabled" value="4" /><label for="Content1_lstStatus_4">ConditionallyAccepted</label></span></td>
+	</tr><tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstStatus_5" type="checkbox" name="ctl00$Content1$lstStatus$5" checked="checked" disabled="disabled" value="11" /><label for="Content1_lstStatus_5">ConditionallyEffective</label></span></td>
+	</tr><tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstStatus_6" type="checkbox" name="ctl00$Content1$lstStatus$6" checked="checked" disabled="disabled" value="7" /><label for="Content1_lstStatus_6">Tolled</label></span></td>
+	</tr>
+</table>
+                        </td>
+                        <td valign="top" style="margin-left:20px;">
+                            <table id="Content1_lstBinaryText" class="aspNetDisabled">
+	<tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstBinaryText_0" type="checkbox" name="ctl00$Content1$lstBinaryText$0" checked="checked" disabled="disabled" value="1" /><label for="Content1_lstBinaryText_0">Include record_binary_data XML element</label></span></td>
+	</tr><tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstBinaryText_1" type="checkbox" name="ctl00$Content1$lstBinaryText$1" checked="checked" disabled="disabled" value="2" /><label for="Content1_lstBinaryText_1">Include record_plain_text XML element</label></span></td>
+	</tr>
+</table>
+                            <br /><br />
+                           <div id="Content1_EmailPrompt" style="margin-left:30px;">
+                               <span style="display:inline-block;font-size:Small;font-style:italic;width:500px;">The size of record_binary_data/record_plain_text has exceeded the maximum limit for direct download. Kindly provide your email address so that the system can handle your request offline and send you a download link shortly. Please note that if the total size or number of requests is considerably large, the processing time may be extended.</span>
+                               <br /><br />
+                               <div>
+                                    <label style="font-size:small; font-style:italic;">Your email address:&nbsp;</label>
+                                    <input name="ctl00$Content1$EmailForXMLOutput" type="email" id="Content1_EmailForXMLOutput" style="color:DarkBlue;font-size:Small;width:320px;" />
+                               </div>
+                               <div>
+                                    <label style="font-size:small; font-style:italic;">XML DataSet Name:</label>
+                                    <input name="ctl00$Content1$XlmDataSetCustomName" type="text" maxlength="50" id="Content1_XlmDataSetCustomName" aria-label="XML DataSet Name. From 4 to 50 letters and digits only" placeholder="(From 4 to 50 letters and digits only)" style="color:DarkBlue;font-size:Small;width:320px;" />
+                                    <input type="submit" name="ctl00$Content1$SubmitXmlRequest" value="Submit" onclick="Client_SubmitRequest_Click;" id="Content1_SubmitXmlRequest" title="Click to submit your request" aria-label="Click to submit your request" style="width:60px;" />
+                               </div>
+                               <br />
+                               <div>
+                                   
+                                   
+                                   
+                               </div>
+                           </div>
+                            
+                        </td>
+                    </tr>                        
+               </table>
+            </td>
+        </tr>
+
+  </table>
+  
+  
+
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <table cellspacing="1" id="tblFooter" role="presentation">
+                                    <tr>
+                                        <td class="clsBottom">
+                                            <input type="hidden" name="ctl00$ItemIndex" id="ItemIndex" value="1" />
+                                            <span id="lblFooterText" style="color: #FFFFFF">Footer Text goes here</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+    
+</html>
+

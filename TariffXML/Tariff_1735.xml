@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C001765</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>1</tariff_id>
+    <tariff_title>MBRA Tariff</tariff_title>
+    <tariff_export_date>2025-09-16T19:07Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>Wellsboro Elec Co FERC Elec Tariff Vol No 1</record_title>
+      <record_content_desc>MBRA Tariff</record_content_desc>
+      <record_version_num>0.0.0</record_version_num>
+      <record_narrative_name>xsi:nil="true"</record_narrative_name>
+      <collation_value>100000000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-17</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTEwMzN7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO317XGYxXGZzd2lzc1xmcHJxMlxmY2hhcnNldDAgQXJpYWw7fX0NCntcY29sb3J0YmwgO1xyZWQwXGdyZWVuMFxibHVlMDt9DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxub3dpZGN0bHBhclxiXGYwXGZzMjQgQXZhaWxhYmlsaXR5OiBcYjAgV2VsbHNib3JvIEVsZWN0cmljIENvbXBhbnkgKCJXZWxsc2Jvcm8iKSBtYWtlcyBlbGVjdHJpYyBlbmVyZ3kgYW5kIGNhcGFjaXR5IGF2YWlsYWJsZSB1bmRlciB0aGlzIHRhcmlmZiB0byBhbnkgcHVyY2hhc2VyLCBleGNlcHQgYXMgcHJvaGliaXRlZCBiZWxvdy4gXHBhcg0KXGJccGFyDQpBcHBsaWNhYmlsaXR5OiBcYjAgVGhpcyB0YXJpZmYgaXMgYXBwbGljYWJsZSB0byBhbGwgc2FsZXMgb2YgZWxlY3RyaWMgZW5lcmd5IGFuZCBjYXBhY2l0eSBieSBXZWxsc2Jvcm8gYXQgbWFya2V0LWJhc2VkIHJhdGVzLiBccGFyDQpcYlxwYXINClJhdGVzOlxiMCAgIEFsbCBzYWxlcyBzaGFsbCBiZSBtYWRlIGF0IHJhdGVzIGVzdGFibGlzaGVkIGJ5IGFncmVlbWVudCBiZXR3ZWVuIHRoZSBwdXJjaGFzZXIgYW5kIFdlbGxzYm9yby4gXHBhcg0KXGJccGFyDQpPdGhlciBUZXJtcyBhbmQgQ29uZGl0aW9uczpcYjAgIEFsbCBvdGhlciB0ZXJtcyBhbmQgY29uZGl0aW9ucyBzaGFsbCBiZSBlc3RhYmxpc2hlZCBieSBhZ3JlZW1lbnQgYmV0d2VlbiBXZWxsc2Jvcm8gYW5kIHRoZSBwdXJjaGFzZXIuIFxwYXINClxiXHBhcg0KQ29tcGxpYW5jZSB3aXRoIENvbW1pc3Npb24gUmVndWxhdGlvbnNcYjAgOiAgV2VsbHNib3JvIHNoYWxsIGNvbXBseSB3aXRoIHRoZSBwcm92aXNpb25zIG9mIDE4IEMuRi5SLiBQYXJ0IDM1LCBTdWJwYXJ0IEgsIGFzIGFwcGxpY2FibGUsIGFuZCB3aXRoIGFueSBjb25kaXRpb25zIHRoYXQgdGhlIENvbW1pc3Npb24gaW1wb3NlcyBpbiBpdHMgb3JkZXJzIGNvbmNlcm5pbmcgV2VsbHNib3JvJ3MgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LCBpbmNsdWRpbmcgb3JkZXJzIGluIHdoaWNoIHRoZSBDb21taXNzaW9uIGF1dGhvcml6ZXMgV2VsbHNib3JvIHRvIGVuZ2FnZSBpbiBhZmZpbGlhdGUgc2FsZXMgdW5kZXIgdGhpcyB0YXJpZmYgb3Igb3RoZXJ3aXNlIHJlc3RyaWN0cyBvciBsaW1pdHMgV2VsbHNib3JvJ3MgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LiAgRmFpbHVyZSB0byBjb21wbHkgd2l0aCB0aGUgYXBwbGljYWJsZSBwcm92aXNpb25zIG9mIDE4IEMuRi5SLiBQYXJ0IDM1LCBTdWJwYXJ0IEgsIGFuZCB3aXRoIGFueSBvdGhlciBvcmRlcnMgb2YgdGhlIENvbW1pc3Npb24gY29uY2VybmluZyBXZWxsc2Jvcm8ncyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHksIHdpbGwgY29uc3RpdHV0ZSBhIHZpb2xhdGlvbiBvZiB0aGlzIHRhcmlmZi5ccGFyDQpcY2YxXHBhcg0KXGIgTGltaXRhdGlvbnMgYW5kIEV4ZW1wdGlvbnMgUmVnYXJkaW5nIE1hcmtldC1CYXNlZCBSYXRlIEF1dGhvcml0eVxiMCA6IFdlbGxzYm9ybyBkb2VzIG5vdCBoYXZlIGFueSBsaW1pdGF0aW9uIG9uIGl0cyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHksIGV4Y2VwdCBhcyBvdGhlcndpc2UgcHJvdmlkZWQgaW4gdGhpcyB0YXJpZmYuICBXZWxsc2Jvcm8gaGFzIG9idGFpbmVkIHdhaXZlcnMgZnJvbSBTdWJwYXJ0cyBCIGFuZCBDIG9mIFBhcnQgMzUsIHJlZ2FyZGluZyB0aGUgZmlsaW5nIG9mIHRhcmlmZnMsIGV4Y2VwdCBzZWN0aW9ucyAzNS4xMihhKSwgMzUuMTMoYiksIDM1LjE1LCBhbmQgMzUuMTY7IFBhcnQgNDEsIHJlZ2FyZGluZyBhY2NvdW50cywgcmVjb3JkcywgYW5kIG1lbW9yYW5kYTsgUGFydCAxMDEsIHJlZ2FyZGluZyB0aGUgdW5pZm9ybSBzeXN0ZW0gb2YgYWNjb3VudHM7IGFuZCBQYXJ0IDE0MSwgcmVnYXJkaW5nIHN0YXRlbWVudHMgYW5kIHJlcG9ydHMuICBXZWxsc2Jvcm8gYWxzbyBoYXMgYmxhbmtldCBhcHByb3ZhbCB1bmRlciBQYXJ0IDM0IG9mIHRoZSBDb21taXNzaW9uJ3MgcmVndWxhdGlvbnMgZm9yIGZ1dHVyZSBpc3N1YW5jZXMgb2Ygc2VjdXJpdGllcyBhbmQgYXNzdW1wdGlvbnMgb2YgbGlhYmlsaXRpZXMsIHN1YmplY3QgdG8gb2JqZWN0aW9uIGJ5IGFuIGludGVyZXN0ZWQgcGFydHkuICBTZWUgV2VsbHNib3JvIEVsZWN0cmljIENvbXBhbnksIERvY2tldCBOb3MuIEVSMDctMTMxOC0wMDAgYW5kIEVSMDctMTMxOC0wMDEsIGF0IDItMyAoTm92LiAxNiwgMjAwNykgKHVucHVibGlzaGVkIGxldHRlciBvcmRlcikuXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXGNmMFxiIEVmZmVjdGl2ZSBEYXRlOiBcYjAgVGhpcyB0YXJpZmYgaXMgZWZmZWN0aXZlIE9jdG9iZXIgMzEsIDIwMDcuXGYxXGZzMjNccGFyDQpccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>Availability: Wellsboro Electric Company ("Wellsboro") makes electric energy and capacity available under this tariff to any purchaser, except as prohibited below. 
+
+Applicability: This tariff is applicable to all sales of electric energy and capacity by Wellsboro at market-based rates. 
+
+Rates:  All sales shall be made at rates established by agreement between the purchaser and Wellsboro. 
+
+Other Terms and Conditions: All other terms and conditions shall be established by agreement between Wellsboro and the purchaser. 
+
+Compliance with Commission Regulations:  Wellsboro shall comply with the provisions of 18 C.F.R. Part 35, Subpart H, as applicable, and with any conditions that the Commission imposes in its orders concerning Wellsboro's market-based rate authority, including orders in which the Commission authorizes Wellsboro to engage in affiliate sales under this tariff or otherwise restricts or limits Wellsboro's market-based rate authority.  Failure to comply with the applicable provisions of 18 C.F.R. Part 35, Subpart H, and with any other orders of the Commission concerning Wellsboro's market-based rate authority, will constitute a violation of this tariff.
+
+Limitations and Exemptions Regarding Market-Based Rate Authority: Wellsboro does not have any limitation on its market-based rate authority, except as otherwise provided in this tariff.  Wellsboro has obtained waivers from Subparts B and C of Part 35, regarding the filing of tariffs, except sections 35.12(a), 35.13(b), 35.15, and 35.16; Part 41, regarding accounts, records, and memoranda; Part 101, regarding the uniform system of accounts; and Part 141, regarding statements and reports.  Wellsboro also has blanket approval under Part 34 of the Commission's regulations for future issuances of securities and assumptions of liabilities, subject to objection by an interested party.  See Wellsboro Electric Company, Docket Nos. ER07-1318-000 and ER07-1318-001, at 2-3 (Nov. 16, 2007) (unpublished letter order).
+
+Effective Date: This tariff is effective October 31, 2007.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>1</filing_id>
+      <filing_title>Baseline Tariff Filing</filing_title>
+      <filing_type>360</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-09-17</current_effective_date>
+      <ferc_order_date>2010-10-28</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

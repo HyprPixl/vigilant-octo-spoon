@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C001688</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>27</tariff_id>
+    <tariff_title>Market-Based Rates Tariff</tariff_title>
+    <tariff_export_date>2025-09-16T19:10Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>FERC Electric Tariff No. 1</record_title>
+      <record_content_desc>Market-Based Rates</record_content_desc>
+      <record_version_num>0.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>8388608</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-21</proposed_effective_date>
+      <priority_order>1000000000</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTEwMzN7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxmMFxmczI0XHBhcg0KXHBhcmRcbHRycGFyXHFjXGIgRVVSVVMgQ09NQklORSBISUxMUyBJSSBMTENccGFyDQpcdWxcYjAgRkVSQyBFTEVDVFJJQyBUQVJJRkYgTk8uIDFccGFyDQpccGFyZFxsdHJwYXJcdWxub25lXHBhcg0KXGIgMS5cdGFiXHVsIEF2YWlsYWJpbGl0eVx1bG5vbmVcYjAgLiAgQXMgcHJvdmlkZWQgaW4gdGhpcyBUYXJpZmYsIEV1cnVzIENvbWJpbmUgSGlsbHMgSUkgTExDIChTZWxsZXIpIG1ha2VzIGVsZWN0cmljYWwgZW5lcmd5IGFuZCBjYXBhY2l0eSBhdmFpbGFibGUgZm9yIHNhbGUgYXQgd2hvbGVzYWxlLlxwYXINClxwYXINClxiIDIuXHRhYlx1bCBBcHBsaWNhYmlsaXR5XHVsbm9uZVxiMCAuICBUaGlzIFRhcmlmZiBhcHBsaWVzIHRvIGFsbCB3aG9sZXNhbGUgc2FsZXMgb2YgZWxlY3RyaWNhbCBlbmVyZ3kgYW5kIGNhcGFjaXR5IGZyb20gU2VsbGVyXHJxdW90ZSBzIGdlbmVyYXRpb24gZmFjaWxpdHkgdGhhdCBhcmUgbm90IG1hZGUgdW5kZXIgYW5vdGhlciB0YXJpZmYgb3IgcmF0ZSBzY2hlZHVsZSB0aGF0IGlzIG9uIGZpbGUgd2l0aCB0aGUgQ29tbWlzc2lvbi5ccGFyDQpccGFyDQpcYiAzLlx0YWJcdWwgUmF0ZXNcdWxub25lXGIwIC4gIEFsbCBzYWxlcyB1bmRlciB0aGlzIFRhcmlmZiBzaGFsbCBiZSBtYWRlIGF0IHJhdGVzIHRoYXQgYXJlIGVzdGFibGlzaGVkIGJ5IGFncmVlbWVudCBiZXR3ZWVuIHRoZSBwdXJjaGFzZXIgYW5kIFNlbGxlci5ccGFyDQpccGFyDQpcYiA0Llx0YWJcdWwgT3RoZXIgVGVybXMgYW5kIENvbmRpdGlvbnNcdWxub25lXGIwIC4gIEFsbCBvdGhlciB0ZXJtcyBhbmQgY29uZGl0aW9ucyBvZiBzYWxlcyB1bmRlciB0aGlzIFRhcmlmZiBzaGFsbCBiZSBlc3RhYmxpc2hlZCBieSBhZ3JlZW1lbnQgYmV0d2VlbiB0aGUgcHVyY2hhc2VyIGFuZCBTZWxsZXIuXHBhcg0KXHBhcg0KXGIgNS5cdGFiXHVsIENvbXBsaWFuY2Ugd2l0aCBDb21taXNzaW9uIFJlZ3VsYXRpb25zXHVsbm9uZVxiMCAuICBTZWxsZXIgc2hhbGwgY29tcGx5IHdpdGggdGhlIHByb3Zpc2lvbnMgb2YgMTggQy5GLlIuIFBhcnQgMzUsIFN1YnBhcnQgSCwgYXMgYXBwbGljYWJsZSwgYW5kIHdpdGggYW55IGNvbmRpdGlvbnMgdGhhdCB0aGUgQ29tbWlzc2lvbiBpbXBvc2VzIGluIGl0cyBvcmRlcnMgY29uY2VybmluZyBTZWxsZXJccnF1b3RlIHMgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LCBpbmNsdWRpbmcgb3JkZXJzIGluIHdoaWNoIHRoZSBDb21taXNzaW9uIGF1dGhvcml6ZXMgU2VsbGVyIHRvIGVuZ2FnZSBpbiBhZmZpbGlhdGUgc2FsZXMgdW5kZXIgdGhpcyBUYXJpZmYgb3Igb3RoZXJ3aXNlIHJlc3RyaWN0cyBvciBsaW1pdHMgdGhlIFNlbGxlclxycXVvdGUgcyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHkuIEZhaWx1cmUgdG8gY29tcGx5IHdpdGggdGhlIGFwcGxpY2FibGUgcHJvdmlzaW9ucyBvZiAxOCBDLkYuUi4gUGFydCAzNSwgU3VicGFydCBILCBhbmQgd2l0aCBhbnkgb3JkZXJzIG9mIHRoZSBDb21taXNzaW9uIGNvbmNlcm5pbmcgc2VsbGVyXHJxdW90ZSBzIG1hcmtldC1iYXNlZCByYXRlIGF1dGhvcml0eSwgd2lsbCBjb25zdGl0dXRlIGEgdmlvbGF0aW9uIG9mIHRoaXMgVGFyaWZmLlxwYXINClxwYXINClxiIDYuXHRhYlx1bCBTZWxsZXIgQ2F0ZWdvcnlcdWxub25lXGIwIC4gIFNlbGxlciBpcyBhIENhdGVnb3J5IDEgU2VsbGVyLCBhcyBkZWZpbmVkIGluIDE4IEMuRi5SLiBcJ2E3IDM1LjM2KGEpLCBpbiB0aGUgTm9ydGh3ZXN0LlxwYXINClxwYXINClxiIDcuXHRhYlx1bHRoIExpbWl0YXRpb25zIGFuZCBFeGVtcHRpb25zLlx1bG5vbmVcYjAgICBTZWxsZXIgZG9lcyBub3QgaGF2ZSBhbnkgbGltaXRhdGlvbnMgb24gaXRzIG1hcmtldC1iYXNlZCByYXRlIGF1dGhvcml0eSBleGNlcHQgYXMgb3RoZXJ3aXNlIHByb3ZpZGVkIGluIHRoaXMgVGFyaWZmLiAgU2VsbGVyIGhhcyBiZWVuIGdyYW50ZWQgd2FpdmVyIG9mIChhKSBTdWJwYXJ0cyBCIGFuZCBDIG9mIFBhcnQgMzUgb2YgdGhlIENvbW1pc3Npb25ccnF1b3RlIHMgcmVndWxhdGlvbnMgcmVnYXJkaW5nIHRoZSBmaWxpbmcgb2YgdGFyaWZmcywgZXhjZXB0IHNlY3Rpb25zIDM1LjEyKGEpLCAzNS4xMyhiKSwgMzUuMTUgYW5kIDM1LjE2OyAoYikgUGFydCA0MSBvZiB0aGUgQ29tbWlzc2lvblxycXVvdGUgcyByZWd1bGF0aW9ucyByZWdhcmRpbmcgYWNjb3VudHMsIHJlY29yZHMgYW5kIG1lbW9yYW5kYTsgKGMpIFBhcnQgMTAxIG9mIHRoZSBDb21taXNzaW9uXHJxdW90ZSBzIHJlZ3VsYXRpb25zIHJlZ2FyZGluZyB1bmlmb3JtIHN5c3RlbSBvZiBhY2NvdW50czsgYW5kIChkKSBQYXJ0IDE0MSBvZiB0aGUgQ29tbWlzc2lvblxycXVvdGUgcyByZWd1bGF0aW9ucyByZWdhcmRpbmcgc3RhdGVtZW50cyBhbmQgcmVwb3J0cy4gIFNlbGxlciBoYXMgYmVlbiBncmFudGVkIGJsYW5rZXQgYXBwcm92YWwgdW5kZXIgUGFydCAzNCBvZiB0aGUgQ29tbWlzc2lvblxycXVvdGUgcyByZWd1bGF0aW9ucyBmb3IgZnV0dXJlIGlzc3VhbmNlcyBvZiBzZWN1cml0aWVzIGFuZCBhc3N1bXB0aW9ucyBvZiBsaWFiaWxpdGllcywgc3ViamVjdCB0byBvYmplY3Rpb24gYnkgYW4gaW50ZXJlc3RlZCBwYXJ0eS4gXGkgU2VlIEV1cnVzIENvbWJpbmUgSGlsbHMgSUkgTExDLCBEb2NrZXQgTm8uIEVSMDktMTY5OS0wMDAuXHBhcg0KXGkwXHBhcg0KXGIgOS5cdGFiXHVsIEVmZmVjdGl2ZSBEYXRlIGFuZCBEdXJhdGlvblx1bG5vbmVcYjAgLiAgVGhpcyBUYXJpZmYgaXMgZWZmZWN0aXZlIHVwb24gdGhlIGRhdGUgdGhhdCBpcyBhdXRob3JpemVkIGJ5IHRoZSBDb21taXNzaW9uLiAgVGhpcyBUYXJpZmYgc2hhbGwgY29udGludWUgaW4gZWZmZWN0IHVudGlsIHRlcm1pbmF0ZWQgb3IgY2hhbmdlZCBpbiBhY2NvcmRhbmNlIHdpdGggYW55IGFwcGxpY2FibGUgcmVndWxhdG9yeSByZXF1aXJlbWVudHMuXHBhcg0KXHBhcg0KXGIgMTAuXGIwXHRhYlx1bHRoXGIgTW9kaWZpY2F0aW9uc1x1bG5vbmVcYjAgLiAgU2VsbGVyIG1heSB1bmlsYXRlcmFsbHkgYXBwbHkgdW5kZXIgc2VjdGlvbiAyMDUgb2YgdGhlIEZlZGVyYWwgUG93ZXIgQWN0IGZvciBtb2RpZmljYXRpb24gb2YgdGhpcyBUYXJpZmYuXHBhcg0KXHBhcmRcbHRycGFyXHFjXHBhcg0KfQ0K</record_binary_data>
+      <record_plain_text>EURUS COMBINE HILLS II LLC
+FERC ELECTRIC TARIFF NO. 1
+
+1.	Availability.  As provided in this Tariff, Eurus Combine Hills II LLC (Seller) makes electrical energy and capacity available for sale at wholesale.
+
+2.	Applicability.  This Tariff applies to all wholesale sales of electrical energy and capacity from Seller's generation facility that are not made under another tariff or rate schedule that is on file with the Commission.
+
+3.	Rates.  All sales under this Tariff shall be made at rates that are established by agreement between the purchaser and Seller.
+
+4.	Other Terms and Conditions.  All other terms and conditions of sales under this Tariff shall be established by agreement between the purchaser and Seller.
+
+5.	Compliance with Commission Regulations.  Seller shall comply with the provisions of 18 C.F.R. Part 35, Subpart H, as applicable, and with any conditions that the Commission imposes in its orders concerning Seller's market-based rate authority, including orders in which the Commission authorizes Seller to engage in affiliate sales under this Tariff or otherwise restricts or limits the Seller's market-based rate authority. Failure to comply with the applicable provisions of 18 C.F.R. Part 35, Subpart H, and with any orders of the Commission concerning seller's market-based rate authority, will constitute a violation of this Tariff.
+
+6.	Seller Category.  Seller is a Category 1 Seller, as defined in 18 C.F.R. ? 35.36(a), in the Northwest.
+
+7.	Limitations and Exemptions.  Seller does not have any limitations on its market-based rate authority except as otherwise provided in this Tariff.  Seller has been granted waiver of (a) Subparts B and C of Part 35 of the Commission's regulations regarding the filing of tariffs, except sections 35.12(a), 35.13(b), 35.15 and 35.16; (b) Part 41 of the Commission's regulations regarding accounts, records and memoranda; (c) Part 101 of the Commission's regulations regarding uniform system of accounts; and (d) Part 141 of the Commission's regulations regarding statements and reports.  Seller has been granted blanket approval under Part 34 of the Commission's regulations for future issuances of securities and assumptions of liabilities, subject to objection by an interested party. See Eurus Combine Hills II LLC, Docket No. ER09-1699-000.
+
+9.	Effective Date and Duration.  This Tariff is effective upon the date that is authorized by the Commission.  This Tariff shall continue in effect until terminated or changed in accordance with any applicable regulatory requirements.
+
+10.	Modifications.  Seller may unilaterally apply under section 205 of the Federal Power Act for modification of this Tariff.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>1</filing_id>
+      <filing_title>Baseline Electric Market-Based Rates</filing_title>
+      <filing_type>360</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-09-21</current_effective_date>
+      <ferc_order_date>2010-10-26</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

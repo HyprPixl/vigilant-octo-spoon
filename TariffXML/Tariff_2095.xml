@@ -1,0 +1,552 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C000171</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>73</tariff_id>
+    <tariff_title>Vantage Transmission Service Agreement #476</tariff_title>
+    <tariff_export_date>2025-09-16T19:17Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>6</record_id>
+      <option_code>A</option_code>
+      <record_title>06 Section 5</record_title>
+      <record_content_desc>Section 5</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>2080309160</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxmaS03MjBcbGk3MjBcc2IyNDBcZjBcZnMyNCA1LjBcdGFiIFRoZSBUcmFuc21pc3Npb24gUHJvdmlkZXIgYWdyZWVzIHRvIHByb3ZpZGUgYW5kIHRoZSBUcmFuc21pc3Npb24gQ3VzdG9tZXIgYWdyZWVzIHRvIHRha2UgYW5kIHBheSBmb3IgRmlybSBQb2ludC1Uby1Qb2ludCBUcmFuc21pc3Npb24gU2VydmljZSBpbiBhY2NvcmRhbmNlIHdpdGggdGhlIHByb3Zpc2lvbnMgb2YgUGFydCBJSSBvZiB0aGUgVGFyaWZmIGFuZCB0aGlzIFNlcnZpY2UgQWdyZWVtZW50LlxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>5.0 The Transmission Provider agrees to provide and the Transmission Customer agrees to take and pay for Firm Point-To-Point Transmission Service in accordance with the provisions of Part II of the Tariff and this Service Agreement.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>5</record_id>
+      <option_code>A</option_code>
+      <record_title>05 Section 4</record_title>
+      <record_content_desc>Section 4</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>2013234671</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxmaS03MjBcbGk3MjBcc2IyNDBcZjBcZnMyNCA0LjBcdGFiIFNlcnZpY2UgdW5kZXIgdGhpcyBhZ3JlZW1lbnQgc2hhbGwgY29tbWVuY2Ugb24gdGhlIGxhdGVzdCBvZiAoMSkgdGhlIHJlcXVlc3RlZCBzZXJ2aWNlIGNvbW1lbmNlbWVudCBkYXRlLCAoMikgdGhlIGRhdGUgb24gd2hpY2ggY29uc3RydWN0aW9uIG9mIGFueSBEaXJlY3QgQXNzaWdubWVudCBGYWNpbGl0aWVzIGFuZC9vciBOZXR3b3JrIFVwZ3JhZGVzIGlzIGNvbXBsZXRlZCwgKDMpIHRoZSBkYXRlIG9uIHdoaWNoIHNlcnZpY2UgY29tbWVuY2VzIHVuZGVyIHRoZSBUcmFuc2ZlciBBZ3JlZW1lbnQgZGF0ZWQgQXVndXN0IDEsIDIwMDksIGJldHdlZW4gUHVibGljIFV0aWxpdHkgRGlzdHJpY3QgTm8uIDIgb2YgR3JhbnQgQ291bnR5LCBXYXNoaW5ndG9uIGFuZCBUcmFuc21pc3Npb24gQ3VzdG9tZXIsIG9yICg0KSBzdWNoIG90aGVyIGRhdGUgYXMgaXQgaXMgcGVybWl0dGVkIHRvIGJlY29tZSBlZmZlY3RpdmUgYnkgdGhlIENvbW1pc3Npb24uIFNlcnZpY2UgdW5kZXIgdGhpcyBhZ3JlZW1lbnQgc2hhbGwgdGVybWluYXRlIG9uIHN1Y2ggZGF0ZSBhcyBtdXR1YWxseSBhZ3JlZWQgdXBvbiBieSB0aGUgcGFydGllcy5ccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>4.0 Service under this agreement shall commence on the latest of (1) the requested service commencement date, (2) the date on which construction of any Direct Assignment Facilities and/or Network Upgrades is completed, (3) the date on which service commences under the Transfer Agreement dated August 1, 2009, between Public Utility District No. 2 of Grant County, Washington and Transmission Customer, or (4) such other date as it is permitted to become effective by the Commission. Service under this agreement shall terminate on such date as mutually agreed upon by the parties.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>8</record_id>
+      <option_code>A</option_code>
+      <record_title>08 Section 7</record_title>
+      <record_content_desc>Section 7</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>2130615027</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxmaS03MjBcbGk3MjBcc2IyNDBcZjBcZnMyNCA3LjBcdGFiIFRoZSBUYXJpZmYgaXMgaW5jb3Jwb3JhdGVkIGhlcmVpbiBhbmQgbWFkZSBhIHBhcnQgaGVyZW9mLlxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>7.0 The Tariff is incorporated herein and made a part hereof.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>7</record_id>
+      <option_code>A</option_code>
+      <record_title>07 Section 6</record_title>
+      <record_content_desc>Section 6</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>2113846405</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxmaS03MjBcbGk3MjBcc2IyNDBcZjBcZnMyNCA2LjBcdGFiIEFueVxiICBcYjAgbm90aWNlIG9yIHJlcXVlc3QgbWFkZSB0byBvciBieSBlaXRoZXIgUGFydHkgcmVnYXJkaW5nIHRoaXMgU2VydmljZSBBZ3JlZW1lbnQgc2hhbGwgYmUgbWFkZSB0byB0aGUgcmVwcmVzZW50YXRpdmUgb2YgdGhlIG90aGVyIFBhcnR5IGFzIGluZGljYXRlZCBiZWxvdy5ccGFyDQpccGFyZFxsdHJwYXJcbGkyMTYwXHNiMjQwXHVsIFRyYW5zbWlzc2lvbiBQcm92aWRlcjpccGFyDQpcdWxub25lIFB1Z2V0IFNvdW5kIEVuZXJneSwgSW5jLlx1bFxsaW5lXHVsbm9uZSAzNTUgLSAxMTBccmRibHF1b3RlXGxxdW90ZSAgQXZlbnVlIE5FLCBFU1QtMDZFXGxpbmUgQmVsbGV2dWUsIFdBIDk4MDA0XGxpbmUgQXR0bjogTWFuYWdlciwgVHJhbnNtaXNzaW9uIENvbnRyYWN0c1xwYXINClx1bCBUcmFuc21pc3Npb24gQ3VzdG9tZXI6XHBhcg0KXHVsbm9uZSBWYW50YWdlIFdpbmQgRW5lcmd5IExMQ1x1bFxsaW5lXHVsbm9uZSBPbmUgU291dGggV2Fja2VyIERyaXZlXGxpbmUgU3VpdGUgMTkwMFxsaW5lIENoaWNhZ28sIElMIDYwNjA2XGxpbmUgQXR0bjogTWFuYWdlciBUcmFuc21pc3Npb25ccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>6.0 Any notice or request made to or by either Party regarding this Service Agreement shall be made to the representative of the other Party as indicated below.  Transmission Provider:  Puget Sound Energy, Inc.355 - 110 Avenue NE, EST-06EBellevue, WA 98004Attn: Manager, Transmission Contracts  Transmission Customer:  Vantage Wind Energy LLCOne South Wacker DriveSuite 1900Chicago, IL 60606Attn: Manager Transmission</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>4</record_id>
+      <option_code>A</option_code>
+      <record_title>04 Section 3</record_title>
+      <record_content_desc>Section 3</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>1879085693</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxmaS03MjBcbGk3MjBcc2IyNDBcZjBcZnMyNCAzLjBcdGFiIFRoZSBUcmFuc21pc3Npb24gQ3VzdG9tZXIgaGFzIHByb3ZpZGVkIHRvIHRoZSBUcmFuc21pc3Npb24gUHJvdmlkZXIgYW4gQXBwbGljYXRpb24gZGVwb3NpdCBpbiBhY2NvcmRhbmNlIHdpdGggdGhlIHByb3Zpc2lvbnMgb2YgU2VjdGlvbiAxNy4zIG9mIHRoZSBUYXJpZmYuXHBhcg0KfQ0K</record_binary_data>
+      <record_plain_text>3.0 The Transmission Customer has provided to the Transmission Provider an Application deposit in accordance with the provisions of Section 17.3 of the Tariff.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>01 Cover page</record_title>
+      <record_content_desc>Cover Page</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>1000000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxzYjI0MFxxY1xiXGYwXGZzMjUgUFVHRVQgU09VTkQgRU5FUkdZLCBJTkMuXHBhcg0KT1JJR0lOQUwgU0VSVklDRSBBR1JFRU1FTlQgTk8uIDQ3NlxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>PUGET SOUND ENERGY, INC.  ORIGINAL SERVICE AGREEMENT NO. 476</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>20</record_id>
+      <option_code>A</option_code>
+      <record_title>20 Section 9</record_title>
+      <record_content_desc>Section 9</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>2147379556</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxmaS03MjBcbGk3MjBcc2IyNDBcZjBcZnMyNCA5LjBcdGFiIFRyYW5zbWlzc2lvbiBQcm92aWRlciByZXNlcnZlcyB0aGUgcmlnaHQgdG8gYW1lbmQgdGhpcyBTZXJ2aWNlIEFncmVlbWVudCB0byByZWZsZWN0IHRoZSByZXNvbHV0aW9uIG9mIGlzc3VlcyBpbiBEb2NrZXQgTm8uIEVSMDktMTM0OC0wMDAuXHBhcg0KfQ0K</record_binary_data>
+      <record_plain_text>9.0 Transmission Provider reserves the right to amend this Service Agreement to reflect the resolution of issues in Docket No. ER09-1348-000.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>3</record_id>
+      <option_code>A</option_code>
+      <record_title>03 Section 2</record_title>
+      <record_content_desc>Section 2</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>1610787737</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxmaS03MjBcbGk3MjBcc2IyNDBcZjBcZnMyNCAyLjBcdGFiIFRoZSBUcmFuc21pc3Npb24gQ3VzdG9tZXIgaGFzIGJlZW4gZGV0ZXJtaW5lZCBieSB0aGUgVHJhbnNtaXNzaW9uIFByb3ZpZGVyIHRvIGhhdmUgYSBDb21wbGV0ZWQgQXBwbGljYXRpb24gZm9yIEZpcm0gUG9pbnQtVG8tUG9pbnQgVHJhbnNtaXNzaW9uIFNlcnZpY2UgdW5kZXIgdGhlIFRhcmlmZi5ccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>2.0 The Transmission Customer has been determined by the Transmission Provider to have a Completed Application for Firm Point-To-Point Transmission Service under the Tariff.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>2</record_id>
+      <option_code>A</option_code>
+      <record_title>02 Section 1</record_title>
+      <record_content_desc>Section 1</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>1074191825</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxzYjI0MFxxY1xiXGYwXGZzMjQgU2VydmljZSBBZ3JlZW1lbnQgRm9yXGxpbmUgRmlybSBQb2ludC1Uby1Qb2ludCBUcmFuc21pc3Npb24gU2VydmljZVxwYXINClxwYXJkXGx0cnBhclxmaS03MjBcbGk3MjBcc2IyNDBcYjAgMS4wXHRhYiBUaGlzIFNlcnZpY2UgQWdyZWVtZW50LCBkYXRlZCBhcyBvZiBBcHJpbCAzMCwgMjAxMCwgaXMgZW50ZXJlZCBpbnRvLCBieSBhbmQgYmV0d2VlbiBQdWdldCBTb3VuZCBFbmVyZ3ksIEluYy4gKFxsZGJscXVvdGUgVHJhbnNtaXNzaW9uIFByb3ZpZGVyXHJkYmxxdW90ZSApIGFuZCBWYW50YWdlIFdpbmQgRW5lcmd5IExMQyAoXGxkYmxxdW90ZSBUcmFuc21pc3Npb24gQ3VzdG9tZXJccmRibHF1b3RlICkuXHBhcg0KfQ0K</record_binary_data>
+      <record_plain_text>Service Agreement ForFirm Point-To-Point Transmission Service  1.0 This Service Agreement, dated as of April 30, 2010, is entered into, by and between Puget Sound Energy, Inc. (Transmission Provider) and Vantage Wind Energy LLC (Transmission Customer).</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>16</record_id>
+      <option_code>A</option_code>
+      <record_title>16 Section 5</record_title>
+      <record_content_desc>Section 5</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>2147318147</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxrZWVwXGtlZXBuXGZpLTcyMFxsaTcyMFxzYjI0MFxmMFxmczI0IDUuMFx0YWIgTWF4aW11bSBhbW91bnQgb2YgY2FwYWNpdHkgYW5kIGVuZXJneSB0byBiZSB0cmFuc21pdHRlZCAoUmVzZXJ2ZWQgQ2FwYWNpdHkpOlxwYXINClxwYXJkXGx0cnBhclxsaTE0NDBcc2IyNDAgRHVyaW5nIGFueSBUZXJtIG9mIFRyYW5zYWN0aW9uLCA5MCBNVyBvZiBjYXBhY2l0eSBhbmQgdXAgdG8gOTAgTVcgcGVyIGhvdXIgb2YgZW5lcmd5LCBvcmlnaW5hdGluZyBpbiB0aGUgQ29udHJvbCBBcmVhIG9mIHRoZSBUcmFuc21pc3Npb24gUHJvdmlkZXIuXHBhcg0KXHVsIEZpcm0gY2FwYWNpdHkgcmVzZXJ2YXRpb24gYXQgdGhlIFBvaW50IG9mIFJlY2VpcHQ6XHBhcg0KXHBhcmRcbHRycGFyXGxpMjE2MFxzYjI0MFx1bG5vbmUgRHVyaW5nIHRoZSBUZXJtIG9mIFRyYW5zYWN0aW9uLCA5MCBNVyBvZiBjYXBhY2l0eS5ccGFyDQpccGFyZFxsdHJwYXJcbGkxNDQwXHNiMjQwXHVsIEZpcm0gY2FwYWNpdHkgcmVzZXJ2YXRpb24gYXQgdGhlIFBvaW50IG9mIERlbGl2ZXJ5OlxwYXINClxwYXJkXGx0cnBhclxsaTIxNjBcc2IyNDBcdWxub25lIER1cmluZyB0aGUgVGVybSBvZiBUcmFuc2FjdGlvbiwgOTAgTVdcaSAgXGkwIG9mIGNhcGFjaXR5LlxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>5.0 Maximum amount of capacity and energy to be transmitted (Reserved Capacity):  During any Term of Transaction, 90 MW of capacity and up to 90 MW per hour of energy, originating in the Control Area of the Transmission Provider.  Firm capacity reservation at the Point of Receipt:  During the Term of Transaction, 90 MW of capacity.  Firm capacity reservation at the Point of Delivery:  During the Term of Transaction, 90 MW of capacity.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>15</record_id>
+      <option_code>A</option_code>
+      <record_title>15 Section 4</record_title>
+      <record_content_desc>Section 4</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>2147252645</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxmaS03MjBcbGk3MjBcc2IyNDBcdHg3MjBcdHgzNjAwXGYwXGZzMjQgNC4wXHRhYiBQb2ludChzKSBvZiBEZWxpdmVyeTpccGFyDQpccGFyZFxsdHJwYXJcbGkxNDQwXHNiMjQwXHVsIExvY2F0aW9uXHVsbm9uZSA6ICBNaWQtQ29sdW1iaWEgKE1pZC1DKSB3aGVyZSB0aGUgVHJhbnNtaXNzaW9uIFByb3ZpZGVyXHJxdW90ZSBzIDIzMCBrViBmYWNpbGl0aWVzIGludGVyY29ubmVjdCB3aXRoIEdyYW50IFBVRFxycXVvdGUgcyB0ZXJtaW5hdGlvbiBwb3NpdGlvbiBOby4gNiBhdCB0aGUgV2FuYXB1bSBTd2l0Y2h5YXJkLlxwYXINClx1bCBOb21pbmFsIFZvbHRhZ2VcdWxub25lIDogIDIzMCBraWxvdm9sdHMuXHBhcg0KXHVsIFBlcmlvZCBvZiBTZXJ2aWNlXHVsbm9uZSA6ICBhcyBkZXNjcmliZWQgaW4gU2VjdGlvbiAxLjAgYWJvdmUuXHBhcg0KXHVsIE1ldGVyaW5nXHVsbm9uZSA6ICBhdCB0aGUgUG9pbnQgb2YgRGVsaXZlcnlccGFyDQpcdWwgUmVjZWl2aW5nIFBhcnR5XHVsbm9uZSA6ICBHcmFudCBQVURccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>4.0 Point(s) of Delivery:  Location:  Mid-Columbia (Mid-C) where the Transmission Providers 230 kV facilities interconnect with Grant PUDs termination position No. 6 at the Wanapum Switchyard.  Nominal Voltage:  230 kilovolts.  Period of Service:  as described in Section 1.0 above.  Metering:  at the Point of Delivery  Receiving Party:  Grant PUD</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>17</record_id>
+      <option_code>A</option_code>
+      <record_title>17 Section 6</record_title>
+      <record_content_desc>Section 6</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>2147350898</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxzYjI0MFxmMFxmczI0IDYuMFx0YWIgRGVzaWduYXRpb24gb2YgcGFydHkoaWVzKSBzdWJqZWN0IHRvIHJlY2lwcm9jYWwgc2VydmljZSBvYmxpZ2F0aW9uOlxwYXINClxwYXJkXGx0cnBhclxsaTcyMFxzYjI0MCBOb25lXHBhcg0KfQ0K</record_binary_data>
+      <record_plain_text>6.0 Designation of party(ies) subject to reciprocal service obligation:  None</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>19</record_id>
+      <option_code>A</option_code>
+      <record_title>19 Section 8</record_title>
+      <record_content_desc>Section 8</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>2147375462</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxmaS03MjBcbGk3MjBcc2IyNDBcZjBcZnMyNCA4LjBcdGFiIFNlcnZpY2UgdW5kZXIgdGhpcyBBZ3JlZW1lbnQgbWF5IGJlIHN1YmplY3QgdG8gc29tZSBjb21iaW5hdGlvbiBvZiB0aGUgY2hhcmdlcyBkZXRhaWxlZCBiZWxvdy4gIChUaGUgYXBwcm9wcmlhdGUgY2hhcmdlcyBmb3IgaW5kaXZpZHVhbCB0cmFuc2FjdGlvbnMgd2lsbCBiZSBkZXRlcm1pbmVkIGNvbnNpc3RlbnQgd2l0aCB0aGUgdGVybXMgYW5kIGNvbmRpdGlvbnMgb2YgdGhlIFRhcmlmZi4pXHBhcg0KXHBhcmRcbHRycGFyXGZpLTcyMFxsaTE0NDBcc2IyNDAgOC4xXHRhYiBUcmFuc21pc3Npb24gQ2hhcmdlOlxwYXINClxwYXJkXGx0cnBhclxmaS03MjBcbGkyMTYwXHNiMjQwIFRoZSBUcmFuc21pc3Npb24gQ2hhcmdlIHNoYWxsIGJlIGFzIHNwZWNpZmllZCBpbiB0aGUgVGFyaWZmLlxwYXINClxwYXJkXGx0cnBhclxmaS03MjBcbGkxNDQwXHNiMjQwIDguMlx0YWIgRGlzdHJpYnV0aW9uIEZhY2lsaXRpZXMgQ2hhcmdlOlxwYXINClxwYXJkXGx0cnBhclxsaTE0NDBcc2IyNDAgTm9uZVxwYXINClxwYXJkXGx0cnBhclxmaS03MjBcbGkxNDQwXHNiMjQwIDguM1x0YWIgU3lzdGVtIEltcGFjdCBhbmQvb3IgRmFjaWxpdGllcyBTdHVkeSBDaGFyZ2Uocyk6XHBhcg0KXHBhcmRcbHRycGFyXGxpMTQ0MFxzYjI0MCBOb25lXHBhcg0KXHBhcmRcbHRycGFyXGZpLTcyMFxsaTE0NDBcc2IyNDAgOC40XHRhYiBEaXJlY3QgQXNzaWdubWVudCBGYWNpbGl0aWVzIENoYXJnZTpccGFyDQpccGFyZFxsdHJwYXJcbGkxNDQwXHNiMjQwIE5vbmVccGFyDQpccGFyZFxsdHJwYXJcZmktNzIwXGxpMTQ0MFxyaS0zNjBcc2IyNDBcdHFyXHR4OTM2MCA4LjVcYlxpXHRhYlxiMFxpMCBOZXR3b3JrIFVwZ3JhZGVzIENoYXJnZSBhbmQgQ2hhcmdlIGZvciBPdGhlciBOZXcgYW5kIFVwZ3JhZGVkIEZhY2lsaXRpZXM6IF9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX1xwYXINClxwYXJkXGx0cnBhclxub3dpZGN0bHBhclxsaTE0NDAgX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXHBhcg0KXHBhcmRcbHRycGFyXGZpLTcyMFxsaTE0NDBcc2IyNDBcdHFyXHR4OTM2MCA4LjZcdGFiIFJlZGlzcGF0Y2ggQ29zdHM6ICBcdWxcdGFiXHVsbm9uZVxwYXINClxwYXJkXGx0cnBhclxrZWVwXGtlZXBuXGZpLTcyMFxsaTE0NDBcc2IyNDAgOC43XHRhYiBBbmNpbGxhcnkgU2VydmljZXMgQ2hhcmdlczpccGFyDQpccGFyZFxsdHJwYXJcbGkxNDQwXHNiMjQwXHVsIFNjaGVkdWxpbmcsIFN5c3RlbSBDb250cm9sIGFuZCBEaXNwYXRjaFxwYXINClx1bG5vbmUgVGhlIGNoYXJnZSBmb3IgU2NoZWR1bGluZywgU3lzdGVtIENvbnRyb2wgYW5kIERpc3BhdGNoIHVuZGVyIHRoaXMgQWdyZWVtZW50IHNoYWxsIGJlIGFwcGxpZWQgdG8gZWFjaCB0cmFuc2FjdGlvbiB1bmRlciB0aGlzIEFncmVlbWVudCBhbmQgc2hhbGwgYmUgYXMgZGVzY3JpYmVkIGluIFNjaGVkdWxlIDEgb2YgdGhlIFRhcmlmZi5ccGFyDQpcdWwgUmVhY3RpdmUgU3VwcGx5IGFuZCBWb2x0YWdlIENvbnRyb2wgZnJvbSBHZW5lcmF0aW9uIFNvdXJjZXNccGFyDQpcdWxub25lIFRoZSBjaGFyZ2UgZm9yIFJlYWN0aXZlIFN1cHBseSBhbmQgVm9sdGFnZSBDb250cm9sIGZyb20gR2VuZXJhdGlvbiBTb3VyY2VzIFNlcnZpY2VzIHVuZGVyIHRoaXMgQWdyZWVtZW50IHNoYWxsIGJlIGFzIGRlc2NyaWJlZCBpbiBTY2hlZHVsZSAyIG9mIHRoZSBUYXJpZmYgYW5kIGFzIHNwZWNpZmllZCBieSB0aGUgVHJhbnNtaXNzaW9uIFByb3ZpZGVyIHdpdGggcmVzcGVjdCB0byBlYWNoIFBvaW50IG9mIERlbGl2ZXJ5IGZvciBlYWNoIFRlcm0gb2YgVHJhbnNhY3Rpb24uXHVsXHBhcg0KT3BlcmF0aW5nIFJlc2VydmUgLSBTcGlubmluZyBSZXNlcnZlXHBhcg0KXHVsbm9uZSBUbyBiZSBwcm92aWRlZCBieSB0aGUgVHJhbnNtaXNzaW9uIEN1c3RvbWVyIGFuZCBUcmFuc21pc3Npb24gQ3VzdG9tZXIgd2lsbCB0YWcgdHJhbnNtaXR0ZWQgZW5lcmd5IGFjY29yZGluZ2x5Llx1bFxwYXINCk9wZXJhdGluZyBSZXNlcnZlIC0gU3VwcGxlbWVudGFsIFJlc2VydmVccGFyDQpcdWxub25lIFRvIGJlIHByb3ZpZGVkIGJ5IHRoZSBUcmFuc21pc3Npb24gQ3VzdG9tZXIgYW5kIFRyYW5zbWlzc2lvbiBDdXN0b21lciB3aWxsIHRhZyB0cmFuc21pdHRlZCBlbmVyZ3kgYWNjb3JkaW5nbHkuXHVsXHBhcg0KR2VuZXJhdG9yIEltYmFsYW5jZSBTZXJ2aWNlXHBhcg0KXHVsbm9uZSBUaGUgY2hhcmdlIGZvciBHZW5lcmF0b3IgSW1iYWxhbmNlIFNlcnZpY2Ugc2hhbGwgYmUgYXMgc3BlY2lmaWVkIGluIHRoZSBUYXJpZmYuXHVsXHBhcg0KV2luZCBJbnRlZ3JhdGlvbiBTZXJ2aWNlXHBhcg0KXHVsbm9uZSBUaGUgY2hhcmdlIGZvciBXaW5kIEludGVncmF0aW9uIFNlcnZpY2Ugc2hhbGwgYmUgYXMgc3BlY2lmaWVkIGluIHRoZSBUYXJpZmYuXHVsXHBhcg0KVGF4IFJpZGVyXHBhcg0KXHVsbm9uZSBUaGUgY2hhcmdlIGZvciB0aGUgV2FzaGluZ3RvbiBTdGF0ZSBUYXggUmlkZXIgc2hhbGwgYmUgYXMgc3BlY2lmaWVkIGluIHRoZSBUYXJpZmYuXHVsXHBhcg0KXHBhcmRcbHRycGFyXGZpLTcyMFxsaTE0NDBcc2IyNDBcdHFyXHR4OTM2MFx1bG5vbmUgOC44XHRhYlx1bCBPdGhlciBDaGFyZ2VzXHVsbm9uZSA6ICBBbGwgY2hhcmdlcyB1bmRlciB0aGUgVGFyaWZmIGFwcGxpY2FibGUgdG8gc2VydmljZXMgcHJvdmlkZWQgdG8gVHJhbnNtaXNzaW9uIEN1c3RvbWVyIHdpbGwgYXBwbHkuXHBhcg0KfQ0K</record_binary_data>
+      <record_plain_text>8.0 Service under this Agreement may be subject to some combination of the charges detailed below.  (The appropriate charges for individual transactions will be determined consistent with the terms and conditions of the Tariff.)  8.1 Transmission Charge:  The Transmission Charge shall be as specified in the Tariff.  8.2 Distribution Facilities Charge:  None  8.3 System Impact and/or Facilities Study Charge(s):  None  8.4 Direct Assignment Facilities Charge:  None  8.5 Network Upgrades Charge and Charge for Other New and Upgraded Facilities: _______________________________________________________________  _______________________________________________________________  8.6 Redispatch Costs:     8.7 Ancillary Services Charges:  Scheduling, System Control and Dispatch  The charge for Scheduling, System Control and Dispatch under this Agreement shall be applied to each transaction under this Agreement and shall be as described in Schedule 1 of the Tariff.  Reactive Supply and Voltage Control from Generation Sources  The charge for Reactive Supply and Voltage Control from Generation Sources Services under this Agreement shall be as described in Schedule 2 of the Tariff and as specified by the Transmission Provider with respect to each Point of Delivery for each Term of Transaction.  Operating Reserve - Spinning Reserve  To be provided by the Transmission Customer and Transmission Customer will tag transmitted energy accordingly.  Operating Reserve - Supplemental Reserve  To be provided by the Transmission Customer and Transmission Customer will tag transmitted energy accordingly.  Generator Imbalance Service  The charge for Generator Imbalance Service shall be as specified in the Tariff.  Wind Integration Service  The charge for Wind Integration Service shall be as specified in the Tariff.  Tax Rider  The charge for the Washington State Tax Rider shall be as specified in the Tariff.  8.8 Other Charges:  All charges under the Tariff applicable to services provided to Transmission Customer will apply.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>18</record_id>
+      <option_code>A</option_code>
+      <record_title>18 Section 7</record_title>
+      <record_content_desc>Section 7</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>2147367274</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxzYjI0MFxmMFxmczI0IDcuMFx0YWIgTmFtZShzKSBvZiBhbnkgSW50ZXJ2ZW5pbmcgU3lzdGVtcyBwcm92aWRpbmcgdHJhbnNtaXNzaW9uIHNlcnZpY2U6XHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHNiMjQwIE5vbmVccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>7.0 Name(s) of any Intervening Systems providing transmission service:  None</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>14</record_id>
+      <option_code>A</option_code>
+      <record_title>14 Section 3</record_title>
+      <record_content_desc>Section 3</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>2147121640</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxmaS03MjBcbGk3MjBcc2IyNDBcdHg3MjBcdHgzNjAwXGYwXGZzMjQgMy4wXHRhYiBQb2ludChzKSBvZiBSZWNlaXB0OlxwYXINClxwYXJkXGx0cnBhclxsaTE0NDBcc2IyNDBcdWwgTG9jYXRpb25cdWxub25lIDogIFRyYW5zbWlzc2lvbiBQcm92aWRlclxycXVvdGUgcyBXaW5kIFJpZGdlIFN3aXRjaGluZyBTdGF0aW9uXHBhcg0KVGhlIHBvaW50IHdoZXJlIHRoZSBUcmFuc21pc3Npb24gUHJvdmlkZXJccnF1b3RlIHMgV2luZCBSaWRnZSBkZWFkIGVuZCBpbnRlcmNvbm5lY3RzIHdpdGggdGhlIGxhc3Qgc3RydWN0dXJlIGJlZm9yZSB0aGUgUG9pc29uIFNwcmluZy1XaW5kIFJpZGdlIDIzMCBrViBsaW5lIHNlZ21lbnQuXHBhcg0KXHVsIE5vbWluYWwgVm9sdGFnZVx1bG5vbmUgOiAgMjMwIGtpbG9Wb2x0cy5ccGFyDQpcdWwgUGVyaW9kIG9mIFNlcnZpY2VcdWxub25lIDogIGFzIGRlc2NyaWJlZCBpbiBTZWN0aW9uIDEuMCBhYm92ZS5ccGFyDQpcdWwgTWV0ZXJpbmdcdWxub25lIDogIGxvY2F0ZWQgYXQgdGhlIFBvaXNvbiBTcHJpbmcgU3dpdGNoaW5nIFN0YXRpb24gYW5kIGNvbXBlbnNhdGVkIGZvciBiaWxsaW5nIGFuZCBzY2hlZHVsaW5nXHBhcg0KXHVsIERlbGl2ZXJpbmcgUGFydHlcdWxub25lIDogIFRoZSBUcmFuc21pc3Npb24gQ3VzdG9tZXJccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>3.0 Point(s) of Receipt:  Location:  Transmission Providers Wind Ridge Switching Station  The point where the Transmission Providers Wind Ridge dead end interconnects with the last structure before the Poison Spring-Wind Ridge 230 kV line segment.  Nominal Voltage:  230 kiloVolts.  Period of Service:  as described in Section 1.0 above.  Metering:  located at the Poison Spring Switching Station and compensated for billing and scheduling  Delivering Party:  The Transmission Customer</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>10</record_id>
+      <option_code>A</option_code>
+      <record_title>10 Signature page</record_title>
+      <record_content_desc>Signature pg</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>2143191494</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxzYjI0MFxmMFxmczI0IElOIFdJVE5FU1MgV0hFUkVPRiwgdGhlIFBhcnRpZXMgaGF2ZSBjYXVzZWQgdGhpcyBTZXJ2aWNlIEFncmVlbWVudCB0byBiZSBleGVjdXRlZCBieSB0aGVpciByZXNwZWN0aXZlIGF1dGhvcml6ZWQgb2ZmaWNpYWxzXHBhcg0KXHBhcmRcbHRycGFyXGxpNTQwXHNiNDgwXHVsIFRyYW5zbWlzc2lvbiBQcm92aWRlcjpccGFyDQpccGFyZFxsdHJwYXJcbGkzNjAwXHNiMjQwXHR4MzYwMFx1bG5vbmUgTWFuYWdlciBUcmFuc21pc3Npb24gQ29udHJhY3RzXHBhcg0KXHBhcmRcbHRycGFyXGxpNTQwXHR4MTA4MFx0cWNcdHg1MDQwXHRxY1x0eDc5MjAgQnk6XHRhYlx1bCAgIC9zLyBKb2huIFBoaWxsaXBzXHRhYiBhbmQgT0FTSVMgVHJhZGluZ1x0YWIgMDQvMTgvMTBccGFyDQpccGFyZFxsdHJwYXJcbGk1NDBcdHFjXHR4MTk4MFx0cWNcdHg1MDQwXHRxY1x0eDgyODBcdWxub25lXHRhYiBOYW1lXHRhYiBUaXRsZVx0YWIgRGF0ZVxwYXINClxwYXJkXGx0cnBhclxsaTU0MFxzYjQ4MFx1bCBUcmFuc21pc3Npb24gUHJvdmlkZXI6XHBhcg0KXHBhcmRcbHRycGFyXGxpMzYwMFxzYjI0MFx0eDM2MDBcdWxub25lXHBhcg0KXHBhcmRcbHRycGFyXGxpNTQwXHR4MTA4MFx0eDQzMjBcdHg3OTIwIEJ5Olx0YWJcdWwgICAvcy8gQWxleCBHZW9yZ2VcdGFiIFZpY2UgUHJlc2lkZW50XHRhYiAwNC8yMC8xMFxwYXINClxwYXJkXGx0cnBhclxsaTU0MFx0cWNcdHgxOTgwXHRxY1x0eDUwNDBcdHFjXHR4ODI4MFx1bG5vbmVcdGFiIE5hbWVcdGFiIFRpdGxlXHRhYiBEYXRlXHBhcg0KfQ0K</record_binary_data>
+      <record_plain_text>IN WITNESS WHEREOF, the Parties have caused this Service Agreement to be executed by their respective authorized officials  Transmission Provider:  Manager Transmission Contracts  By:   /s/ John Phillips and OASIS Trading 04/18/10   Name Title Date  Transmission Provider:    By:   /s/ Alex George Vice President 04/20/10   Name Title Date</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>9</record_id>
+      <option_code>A</option_code>
+      <record_title>09 Section 8</record_title>
+      <record_content_desc>Section 8</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>2138999338</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxmaS03MjBcbGk3MjBcc2IyNDBcZjBcZnMyNCA4LjBcdGFiIE90aGVyIHByb3Zpc2lvbnM6ICBJdCBpcyBzcGVjaWZpY2FsbHkgcmVjb2duaXplZCBhbmQgYWdyZWVkIGJ5IFRyYW5zbWlzc2lvbiBDdXN0b21lciB0aGF0IHRyYW5zbWlzc2lvbiBzZXJ2aWNlIHB1cnN1YW50IHRvIHRoaXMgYWdyZWVtZW50IHdpbGwgYmUgc3ViamVjdCB0byBsaW1pdHMsIGludGVycnVwdGlvbiwgY3VydGFpbG1lbnQgb3Igb3RoZXIgZGlzcGF0Y2ggYWN0aW9ucyBvciBvcmRlcnMgYnkgUHVibGljIFV0aWxpdHkgRGlzdHJpY3QgTm8uIDIgb2YgR3JhbnQgQ291bnR5LCBXYXNoaW5ndG9uIChcbGRibHF1b3RlIEdyYW50IFBVRFxyZGJscXVvdGUgKSwgYWN0aW5nIG9uIGl0cyBvd24gYmVoYWxmIG9yIGF0IHRoZSBkaXJlY3Rpb24gb2YgdGhlIEJvbm5ldmlsbGUgUG93ZXIgQWRtaW5pc3RyYXRpb24sIHdpdGggcmVzcGVjdCB0byBhbnkgYXBwbGljYWJsZSBGRVJDLCBORVJDIGFuZCBXRUNDIHN0YW5kYXJkcyBhbmQgcmVxdWlyZW1lbnRzLCB3aXRoIG9wZXJhdGluZyBsaW1pdHMgaW1wb3NlZCBieSB0aGUgQm9ubmV2aWxsZSBQb3dlciBBZG1pbmlzdHJhdGlvbiBvciB3aXRoIG90aGVyIG9wZXJhdGluZyByZXF1aXJlbWVudHMgb2YgR3JhbnQgUFVELiBUcmFuc21pc3Npb24gQ3VzdG9tZXIgYW5kIFRyYW5zbWlzc2lvbiBQcm92aWRlciBhZ3JlZSB0aGF0IGlmIFRyYW5zbWlzc2lvbiBDdXN0b21lciBmYWlscyB0byBjb21wbHkgd2l0aCBhbnkgbGltaXQsIGludGVycnVwdGlvbiwgY3VydGFpbG1lbnQgb3Igb3RoZXIgZGlzcGF0Y2ggYWN0aW9uIG9yIG9yZGVyIGlzc3VlZCBieSBUcmFuc21pc3Npb24gUHJvdmlkZXIgdG8gVHJhbnNtaXNzaW9uIEN1c3RvbWVyIGluIGNvbm5lY3Rpb24gd2l0aCBhbnkgbGltaXQsIGludGVycnVwdGlvbiwgY3VydGFpbG1lbnQgb3IgZGlzcGF0Y2ggYWN0aW9uIG9yIG9yZGVyIGJ5IEdyYW50IFBVRCwgdGhlIFRyYW5zbWlzc2lvbiBQcm92aWRlciB3aWxsIGhhdmUgdGhlIHJpZ2h0IHRvIGludGVycnVwdCBzZXJ2aWNlIHVuZGVyIHRoaXMgYWdyZWVtZW50LlxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>8.0 Other provisions:  It is specifically recognized and agreed by Transmission Customer that transmission service pursuant to this agreement will be subject to limits, interruption, curtailment or other dispatch actions or orders by Public Utility District No. 2 of Grant County, Washington (Grant PUD), acting on its own behalf or at the direction of the Bonneville Power Administration, with respect to any applicable FERC, NERC and WECC standards and requirements, with operating limits imposed by the Bonneville Power Administration or with other operating requirements of Grant PUD. Transmission Customer and Transmission Provider agree that if Transmission Customer fails to comply with any limit, interruption, curtailment or other dispatch action or order issued by Transmission Provider to Transmission Customer in connection with any limit, interruption, curtailment or dispatch action or order by Grant PUD, the Transmission Provider will have the right to interrupt service under this agreement.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>11</record_id>
+      <option_code>A</option_code>
+      <record_title>11 Attachment Cover page</record_title>
+      <record_content_desc>Cover Page</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>2145287572</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxzYjI0MFxxY1xiXGYwXGZzMjQgU3BlY2lmaWNhdGlvbnMgRm9yIExvbmctVGVybSBGaXJtIFBvaW50LVRvLVBvaW50XGxpbmUgVHJhbnNtaXNzaW9uIFNlcnZpY2VccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>Specifications For Long-Term Firm Point-To-PointTransmission Service</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>13</record_id>
+      <option_code>A</option_code>
+      <record_title>13 Section 2</record_title>
+      <record_content_desc>Section 2</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>2146859630</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxmaS03MjBcbGk3MjBcc2IyNDBcdHg3MjBcdHgzNjAwXGYwXGZzMjQgMi4wXHRhYiBEZXNjcmlwdGlvbiBvZiBjYXBhY2l0eSBhbmQgZW5lcmd5IHRvIGJlIHRyYW5zbWl0dGVkIGJ5IFRyYW5zbWlzc2lvbiBQcm92aWRlciBpbmNsdWRpbmcgdGhlIGVsZWN0cmljIENvbnRyb2wgQXJlYSBpbiB3aGljaCB0aGUgdHJhbnNhY3Rpb24gb3JpZ2luYXRlcy5ccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBcc2IyNDAgRHVyaW5nIGFueSBUZXJtIG9mIFRyYW5zYWN0aW9uLCA5MCBNV1xpICBcaTAgb2YgY2FwYWNpdHkgYW5kIHVwIHRvIDkwIE1XIHBlciBob3VyIG9mIGVuZXJneSwgb3JpZ2luYXRpbmcgaW4gdGhlIENvbnRyb2wgQXJlYSBvZiB0aGUgVHJhbnNtaXNzaW9uIFByb3ZpZGVyLlxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>2.0 Description of capacity and energy to be transmitted by Transmission Provider including the electric Control Area in which the transaction originates.  During any Term of Transaction, 90 MW of capacity and up to 90 MW per hour of energy, originating in the Control Area of the Transmission Provider.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>12</record_id>
+      <option_code>A</option_code>
+      <record_title>12 Section 1</record_title>
+      <record_content_desc>Section 1</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>2146335611</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-28</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxzYjI0MFx0eDcyMFx0eDM2MDBcZjBcZnMyNCAxLjBcdGFiIFRlcm0gb2YgVHJhbnNhY3Rpb246XHRhYiA1IHllYXJzXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHNiMjQwXHR4NzIwXHR4MzYwMCBTdGFydCBEYXRlOlx0YWIgT2N0b2JlciAxLCAyMDEwXHBhcg0KVGVybWluYXRpb24gRGF0ZTpcdGFiIE9jdG9iZXIgMSwgMjAxNVxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>1.0 Term of Transaction: 5 years  Start Date: October 1, 2010  Termination Date: October 1, 2015</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>40</filing_id>
+      <filing_title>Vantage Wind Service Agreement 9/28/2010</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-10-01</current_effective_date>
+      <ferc_order_date>2010-11-08</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

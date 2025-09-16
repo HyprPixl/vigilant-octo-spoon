@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C009066</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>1</tariff_id>
+    <tariff_title>Market-Based Rate Tariff Database</tariff_title>
+    <tariff_export_date>2025-09-16T20:30Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>Market-Based Rate Tariff Database</record_title>
+      <record_content_desc>Initial Filing</record_content_desc>
+      <record_version_num>0.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>1000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>9998-12-31</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxNTYxXGNvY29hc3VicnRmNjAwCntcZm9udHRibFxmMFxmcm9tYW5cZmNoYXJzZXQwIFRpbWVzTmV3Um9tYW5QU01UO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQp7XCpcZXhwYW5kZWRjb2xvcnRibDs7fQp7XGluZm8Ke1xhdXRob3IgQW50aG9ueSBCdXNofX1cbWFyZ2wxNDQwXG1hcmdyMTQ0MFx2aWV3dzEyNTQwXHZpZXdoMTYxNDBcdmlld2tpbmQxClxkZWZ0YWI3MjAKXHBhcmRccGFyZGVmdGFiNzIwXHJpMFxwYXJ0aWdodGVuZmFjdG9yMAoKXGYwXGZzMjYgXGNmMCAxKSBBdmFpbGFiaWxpdHlcClwKblRoZXJtLCBMTEMgKFNlbGxlcikgbWFrZXMgZWxlY3RyaWMgZW5lcmd5LCBjYXBhY2l0eSwgYW5kIGFuY2lsbGFyeSBzZXJ2aWNlcyBhdmFpbGFibGUgdW5kZXIgdGhpcyB0YXJpZmYgdG8gYW55IHB1cmNoYXNlciBmb3IgcmVzYWxlLiBTZWxsZXIgYWxzbyBtYWtlcyBhdmFpbGFibGUgdG8gYW55IHB1cmNoYXNlciB0aGUgYW5jaWxsYXJ5IHNlcnZpY2VzIGxpc3RlZCBpbiB0aGlzIFBhcmFncmFwaCAxOlwKXAoJXHVsIFJUTy9JU08gU3BlY2lmaWNcClwKXHBhcmRccGFyZGVmdGFiNzIwXGxpNzIwXHJpMFxwYXJ0aWdodGVuZmFjdG9yMApcY2YwIFx1bG5vbmUgCVBKTTogIFNlbGxlciBvZmZlcnMgcmVndWxhdGlvbiBhbmQgZnJlcXVlbmN5IHJlc3BvbnNlIHNlcnZpY2UsIGVuZXJneSBpbWJhbGFuY2Ugc2VydmljZSwgYW5kIG9wZXJhdGluZyByZXNlcnZlIHNlcnZpY2UgKHdoaWNoIGluY2x1ZGVzIHNwaW5uaW5nLCAxMC1taW51dGUsIGFuZCAzMC1taW51dGUgcmVzZXJ2ZXMpIGZvciBzYWxlIGludG8gdGhlIG1hcmtldCBhZG1pbmlzdGVyZWQgYnkgUEpNIEludGVyY29ubmVjdGlvbiwgTC5MLkMuICgiUEpNIikgYW5kLCB3aGVyZSB0aGUgUEpNIE9wZW4gQWNjZXNzIFRyYW5zbWlzc2lvbiBUYXJpZmYgcGVybWl0cywgdGhlIHNlbGYtc3VwcGx5IG9mIHRoZXNlIHNlcnZpY2VzIHRvIHB1cmNoYXNlcnMgZm9yIGEgYmlsYXRlcmFsIHNhbGUgdGhhdCBpcyB1c2VkIHRvIHNhdGlzZnkgdGhlIGFuY2lsbGFyeSBzZXJ2aWNlcyByZXF1aXJlbWVudHMgb2YgdGhlIFBKTSBPZmZpY2Ugb2YgSW50ZXJjb25uZWN0aW9uLiBcClwKTmV3IFlvcms6ICBTZWxsZXIgb2ZmZXJzIHJlZ3VsYXRpb24gYW5kIGZyZXF1ZW5jeSByZXNwb25zZSBzZXJ2aWNlLCBhbmQgb3BlcmF0aW5nIHJlc2VydmUgc2VydmljZSAod2hpY2ggaW5jbHVkZSAxMC1taW51dGUgbm9uLXN5bmNocm9ub3VzLCAzMC1taW51dGUgb3BlcmF0aW5nIHJlc2VydmVzLCAxMC1taW51dGUgc3Bpbm5pbmcgcmVzZXJ2ZXMsIGFuZCAxMC1taW51dGUgbm9uLXNwaW5uaW5nIHJlc2VydmVzKSBmb3Igc2FsZSB0byBwdXJjaGFzZXJzIGluIHRoZSBtYXJrZXQgYWRtaW5pc3RlcmVkIGJ5IHRoZSBOZXcgWW9yayBJbmRlcGVuZGVudCBTeXN0ZW0gT3BlcmF0b3IsIEluYy4gXApcCk5ldyBFbmdsYW5kOiAgU2VsbGVyIG9mZmVycyByZWd1bGF0aW9uIGFuZCBmcmVxdWVuY3kgcmVzcG9uc2Ugc2VydmljZSAoYXV0b21hdGljIGdlbmVyYXRvciBjb250cm9sKSwgb3BlcmF0aW5nIHJlc2VydmUgc2VydmljZSAod2hpY2ggaW5jbHVkZXMgMTAtbWludXRlIHNwaW5uaW5nIHJlc2VydmUsIDEwLW1pbnV0ZSBub24tc3Bpbm5pbmcgcmVzZXJ2ZSwgYW5kIDMwLW1pbnV0ZSBvcGVyYXRpbmcgcmVzZXJ2ZSBzZXJ2aWNlKSB0byBwdXJjaGFzZXJzIHdpdGhpbiB0aGUgbWFya2V0cyBhZG1pbmlzdGVyZWQgYnkgdGhlIElTTyBOZXcgRW5nbGFuZCwgSW5jLiBcClwKQ2FsaWZvcm5pYTogIFNlbGxlciBvZmZlcnMgcmVndWxhdGlvbiBzZXJ2aWNlLCBzcGlubmluZyByZXNlcnZlIHNlcnZpY2UsIGFuZCBub24tc3Bpbm5pbmcgcmVzZXJ2ZSBzZXJ2aWNlIHRvIHRoZSBDYWxpZm9ybmlhIEluZGVwZW5kZW50IFN5c3RlbSBPcGVyYXRvciBDb3Jwb3JhdGlvbiAoIkNBSVNPIikgYW5kIHRvIG90aGVycyB0aGF0IGFyZSBzZWxmLXN1cHBseWluZyBhbmNpbGxhcnkgc2VydmljZXMgdG8gdGhlIENBSVNPLiBcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTBccGFydGlnaHRlbmZhY3RvcjAKXGNmMCBcClxwYXJkXHBhcmRlZnRhYjcyMFxsaTcyMFxyaTBccGFydGlnaHRlbmZhY3RvcjAKXGNmMCBNSVNPOiBTZWxsZXIgb2ZmZXJzIHJlZ3VsYXRpb24gc2VydmljZSBhbmQgb3BlcmF0aW5nIHJlc2VydmUgc2VydmljZSAod2hpY2ggaW5jbHVkZSAxMC1taW51dGUgc3Bpbm5pbmcgcmVzZXJ2ZSBhbmQgMTAtbWludXRlIHN1cHBsZW1lbnRhbCByZXNlcnZlKSBmb3Igc2FsZSB0byB0aGUgTWlkY29udGluZW50IEluZGVwZW5kZW50IFN5c3RlbSBPcGVyYXRvciwgSW5jLiAoTUlTTykgYW5kIHRvIG90aGVycyB0aGF0IGFyZSBzZWxmLXN1cHBseWluZyBhbmNpbGxhcnkgc2VydmljZXMgdG8gTUlTTy5cClwKU291dGh3ZXN0IFBvd2VyIFBvb2w6ICBTZWxsZXIgb2ZmZXJzIHJlZ3VsYXRpb24gc2VydmljZSBhbmQgb3BlcmF0aW5nIHJlc2VydmUgc2VydmljZSAod2hpY2ggaW5jbHVkZSAxMC1taW51dGUgc3Bpbm5pbmcgcmVzZXJ2ZSBhbmQgMTAtbWludXRlIHN1cHBsZW1lbnRhbCByZXNlcnZlKSBmb3Igc2FsZSB0byB0aGUgU291dGh3ZXN0IFBvd2VyIFBvb2wsIEluYy4gKFNQUCkgYW5kIHRvIG90aGVycyB0aGF0IGFyZSBzZWxmLXN1cHBseWluZyBhbmNpbGxhcnkgc2VydmljZXMgdG8gU1BQLlwKXHBhcmRccGFyZGVmdGFiNzIwXHJpMFxwYXJ0aWdodGVuZmFjdG9yMApcY2YwIFwKXHBhcmRccGFyZGVmdGFiNzIwXGxpNzIwXHJpMFxwYXJ0aWdodGVuZmFjdG9yMApcY2YwIFRoaXJkLXBhcnR5IGFuY2lsbGFyeSBzZXJ2aWNlczogU2VsbGVyIG9mZmVycyBSZWd1bGF0aW9uIFNlcnZpY2UsIFJlYWN0aXZlIFN1cHBseSBhbmQgVm9sdGFnZSBDb250cm9sIFNlcnZpY2UsIEVuZXJneSBhbmQgR2VuZXJhdG9yIEltYmFsYW5jZSBTZXJ2aWNlLCBPcGVyYXRpbmcgUmVzZXJ2ZS1TcGlubmluZywgT3BlcmF0aW5nIFJlc2VydmUgU3VwcGxlbWVudGFsLCBhbmQgUHJpbWFyeSBGcmVxdWVuY3kgUmVzcG9uc2UgU2VydmljZS4gU2FsZXMgd2lsbCBub3QgaW5jbHVkZSB0aGUgZm9sbG93aW5nOiAoMSkgc2FsZXMgdG8gYW4gUlRPIG9yIGFuIElTTywgaS5lLiwgd2hlcmUgdGhhdCBlbnRpdHkgaGFzIG5vIGFiaWxpdHkgdG8gc2VsZi1zdXBwbHkgYW5jaWxsYXJ5IHNlcnZpY2VzIGJ1dCBpbnN0ZWFkIGRlcGVuZHMgb24gdGhpcmQgcGFydGllczsgYW5kICgyKSBzYWxlcyB0byBhIHRyYWRpdGlvbmFsLCBmcmFuY2hpc2VkIHB1YmxpYyB1dGlsaXR5IGFmZmlsaWF0ZWQgd2l0aCB0aGUgdGhpcmQtcGFydHkgc3VwcGxpZXIsIG9yIHNhbGVzIHdoZXJlIHRoZSB1bmRlcmx5aW5nIHRyYW5zbWlzc2lvbiBzZXJ2aWNlIGlzIG9uIHRoZSBzeXN0ZW0gb2YgdGhlIHB1YmxpYyB1dGlsaXR5IGFmZmlsaWF0ZWQgd2l0aCB0aGUgdGhpcmQtcGFydHkgc3VwcGxpZXI7IGFuZCAoMykgc2FsZXMgdG8gYSBwdWJsaWMgdXRpbGl0eSB0aGF0IGlzIHB1cmNoYXNpbmcgYW5jaWxsYXJ5IHNlcnZpY2VzIHRvIHNhdGlzZnkgaXQgb3duIG9wZW4gYWNjZXNzIHRyYW5zbWlzc2lvbiB0YXJpZmYgcmVxdWlyZW1lbnRzIHRvIG9mZmVyIGFuY2lsbGFyeSBzZXJ2aWNlcyB0byBpdHMgb3duIGN1c3RvbWVycy4gXApcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTBccGFydGlnaHRlbmZhY3RvcjAKXGNmMCAyKSBBcHBsaWNhYmlsaXR5XAoJXAoJVGhpcyBSYXRlIFNjaGVkdWxlIGlzIGFwcGxpY2FibGUgdG8gYWxsIHNhbGVzIG9mIGVuZXJneSBhbmQgY2FwYWNpdHkgYnkgU2VsbGVyLCB3aGljaCBhcmUgKGEpIHN1YmplY3QgdG8gdGhlIGp1cmlzZGljdGlvbiBvZiB0aGUgQ29tbWlzc2lvbiwgYW5kIChiKSBub3QgbWFkZSBwdXJzdWFudCB0byBhbm90aGVyIHRhcmlmZiBvbiBmaWxlIHdpdGggdGhlIENvbW1pc3Npb24uXApcClwKMykgUmF0ZXNcClwKXHBhcmRccGFyZGVmdGFiNzIwXGZpNzIwXHJpMFxwYXJ0aWdodGVuZmFjdG9yMApcY2YwIEFsbCBzYWxlcyBzaGFsbCBiZSBtYWRlIGF0IHJhdGVzIGVzdGFibGlzaGVkIGJ5IGFncmVlbWVudCBiZXR3ZWVuIHRoZSBwdXJjaGFzZXIgYW5kIFNlbGxlci4gXApccGFyZFxwYXJkZWZ0YWI3MjBccmkwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjAgXAo0KSBPdGhlciBUZXJtcyBhbmQgQ29uZGl0aW9uc1wKXHBhcmRccGFyZGVmdGFiNzIwXGxpMzYwXHJpMFxwYXJ0aWdodGVuZmFjdG9yMApcY2YwIAlcCglBbGwgb3RoZXIgdGVybXMgYW5kIGNvbmRpdGlvbnMgc2hhbGwgYmUgZXN0YWJsaXNoZWQgYnkgYWdyZWVtZW50IGJldHdlZW4gdGhlIFB1cmNoYXNlciBhbmQgdGhlIFNlbGxlci5cClxwYXJkXHBhcmRlZnRhYjcyMFxyaTBccGFydGlnaHRlbmZhY3RvcjAKXGNmMCBcClwKNSkgQ29tcGxpYW5jZSB3aXRoIENvbW1pc3Npb24gUmVndWxhdGlvbnMgXApcClxwYXJkXHBhcmRlZnRhYjcyMFxmaTcyMFxyaTBccGFydGlnaHRlbmZhY3RvcjAKXGNmMCBTZWxsZXIgc2hhbGwgY29tcGx5IHdpdGggdGhlIHByb3Zpc2lvbnMgb2YgMTggQ0ZSIFBhcnQgMzUsIFN1YnBhcnQgSCwgYXMgYXBwbGljYWJsZSwgYW5kIHdpdGggYW55IGNvbmRpdGlvbnMgdGhlIENvbW1pc3Npb24gaW1wb3NlcyBpbiBpdHMgb3JkZXJzIGNvbmNlcm5pbmcgc2VsbGVyXCc5MnMgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LCBpbmNsdWRpbmcgb3JkZXJzIGluIHdoaWNoIHRoZSBDb21taXNzaW9uIGF1dGhvcml6ZXMgc2VsbGVyIHRvIGVuZ2FnZSBpbiBhZmZpbGlhdGUgc2FsZXMgdW5kZXIgdGhpcyB0YXJpZmYgb3Igb3RoZXJ3aXNlIHJlc3RyaWN0cyBvciBsaW1pdHMgdGhlIHNlbGxlclwnOTJzIG1hcmtldC1iYXNlZCByYXRlIGF1dGhvcml0eS4gRmFpbHVyZSB0byBjb21wbHkgd2l0aCB0aGUgYXBwbGljYWJsZSBwcm92aXNpb25zIG9mIDE4IENGUiBQYXJ0IDM1LCBTdWJwYXJ0IEgsIGFuZCB3aXRoIGFueSBvcmRlcnMgb2YgdGhlIENvbW1pc3Npb24gY29uY2VybmluZyBzZWxsZXJcJzkycyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHksIHdpbGwgY29uc3RpdHV0ZSBhIHZpb2xhdGlvbiBvZiB0aGlzIHRhcmlmZi4gXApccGFyZFxwYXJkZWZ0YWI3MjBccmkwXHBhcnRpZ2h0ZW5mYWN0b3IwClxjZjAgXAo2KSBMaW1pdGF0aW9ucyBhbmQgRXhlbXB0aW9ucyBSZWdhcmRpbmcgTWFya2V0LUJhc2VkIFJhdGUgQXV0aG9yaXR5IFwKXApTZWxsZXIgaGFzIHJlY2VpdmVkIHdhaXZlciBvZjogIFN1YnBhcnRzIEIgYW5kIEMgb2YgUGFydCAzNSwgZXhjZXB0IGZvciBzZWN0aW9ucyAzNS4xMihhKSwgMzUuMTMoYiksIDM1LjE1IGFuZCAzNS4xNjsgUGFydCA0MSwgUGFydCAxMDEgd2l0aCB0aGUgZXhjZXB0aW9uIHRoYXQgd2FpdmVyIG9mIHRoZSBwcm92aXNpb25zIHRoYXQgYXBwbHkgdG8gaHlkcm9wb3dlciBsaWNlbnNlZXMgaGFzIG5vdCBiZWVuIGdyYW50ZWQgd2l0aCByZXNwZWN0IHRvIGxpY2Vuc2VkIGh5ZHJvcG93ZXIgcHJvamVjdHMsIGFuZCBQYXJ0IDE0MSwgZXhjZXB0IHNlY3Rpb25zIDE0MS4xNCBhbmQgMTQxLjE1OyBhbmQgcmVjZWl2ZWQgYmxhbmtldCBhcHByb3ZhbCB1bmRlciBQYXJ0IDM0LiBuVGhlcm0sIExMQyBFUjE4LV9fX18tMDAwICgyMDE4KVwKIFwKNykgU2VsbGVyIENhdGVnb3J5XApcClNlbGxlciBpcyBhIENhdGVnb3J5IDEgc2VsbGVyIGluIGFsbCByZWdpb25zLCBhcyBkZWZpbmVkIGluIDE4IENGUiAzNS4zNihhKS5cClwKOCkgRWZmZWN0aXZlIERhdGVcCglcCglUaGlzIFRhcmlmZiBpcyBlZmZlY3RpdmUgb24gc3VjaCBkYXRlIGFzIHNldCBieSB0aGUgQ29tbWlzc2lvbi5cClwKfQ==</record_binary_data>
+      <record_plain_text>1) Availability
+
+nTherm, LLC (Seller) makes electric energy, capacity, and ancillary services available under this tariff to any purchaser for resale. Seller also makes available to any purchaser the ancillary services listed in this Paragraph 1:
+
+	RTO/ISO Specific
+
+	PJM:  Seller offers regulation and frequency response service, energy imbalance service, and operating reserve service (which includes spinning, 10-minute, and 30-minute reserves) for sale into the market administered by PJM Interconnection, L.L.C. ("PJM") and, where the PJM Open Access Transmission Tariff permits, the self-supply of these services to purchasers for a bilateral sale that is used to satisfy the ancillary services requirements of the PJM Office of Interconnection. 
+
+New York:  Seller offers regulation and frequency response service, and operating reserve service (which include 10-minute non-synchronous, 30-minute operating reserves, 10-minute spinning reserves, and 10-minute non-spinning reserves) for sale to purchasers in the market administered by the New York Independent System Operator, Inc. 
+
+New England:  Seller offers regulation and frequency response service (automatic generator control), operating reserve service (which includes 10-minute spinning reserve, 10-minute non-spinning reserve, and 30-minute operating reserve service) to purchasers within the markets administered by the ISO New England, Inc. 
+
+California:  Seller offers regulation service, spinning reserve service, and non-spinning reserve service to the California Independent System Operator Corporation ("CAISO") and to others that are self-supplying ancillary services to the CAISO. 
+
+MISO: Seller offers regulation service and operating reserve service (which include 10-minute spinning reserve and 10-minute supplemental reserve) for sale to the Midcontinent Independent System Operator, Inc. (MISO) and to others that are self-supplying ancillary services to MISO.
+
+Southwest Power Pool:  Seller offers regulation service and operating reserve service (which include 10-minute spinning reserve and 10-minute supplemental reserve) for sale to the Southwest Power Pool, Inc. (SPP) and to others that are self-supplying ancillary services to SPP.
+
+Third-party ancillary services: Seller offers Regulation Service, Reactive Supply and Voltage Control Service, Energy and Generator Imbalance Service, Operating Reserve-Spinning, Operating Reserve Supplemental, and Primary Frequency Response Service. Sales will not include the following: (1) sales to an RTO or an ISO, i.e., where that entity has no ability to self-supply ancillary services but instead depends on third parties; and (2) sales to a traditional, franchised public utility affiliated with the third-party supplier, or sales where the underlying transmission service is on the system of the public utility affiliated with the third-party supplier; and (3) sales to a public utility that is purchasing ancillary services to satisfy it own open access transmission tariff requirements to offer ancillary services to its own customers. 
+
+2) Applicability
+	
+	This Rate Schedule is applicable to all sales of energy and capacity by Seller, which are (a) subject to the jurisdiction of the Commission, and (b) not made pursuant to another tariff on file with the Commission.
+
+
+3) Rates
+
+All sales shall be made at rates established by agreement between the purchaser and Seller. 
+
+4) Other Terms and Conditions
+	
+	All other terms and conditions shall be established by agreement between the Purchaser and the Seller.
+
+
+5) Compliance with Commission Regulations 
+
+Seller shall comply with the provisions of 18 CFR Part 35, Subpart H, as applicable, and with any conditions the Commission imposes in its orders concerning seller’s market-based rate authority, including orders in which the Commission authorizes seller to engage in affiliate sales under this tariff or otherwise restricts or limits the seller’s market-based rate authority. Failure to comply with the applicable provisions of 18 CFR Part 35, Subpart H, and with any orders of the Commission concerning seller’s market-based rate authority, will constitute a violation of this tariff. 
+
+6) Limitations and Exemptions Regarding Market-Based Rate Authority 
+
+Seller has received waiver of:  Subparts B and C of Part 35, except for sections 35.12(a), 35.13(b), 35.15 and 35.16; Part 41, Part 101 with the exception that waiver of the provisions that apply to hydropower licensees has not been granted with respect to licensed hydropower projects, and Part 141, except sections 141.14 and 141.15; and received blanket approval under Part 34. nTherm, LLC ER18-____-000 (2018)
+ 
+7) Seller Category
+
+Seller is a Category 1 seller in all regions, as defined in 18 CFR 35.36(a).
+
+8) Effective Date
+	
+	This Tariff is effective on such date as set by the Commission.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>1</filing_id>
+      <filing_title>Initial Filing</filing_title>
+      <filing_type>400</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2018-11-12</current_effective_date>
+      <ferc_order_date>2018-10-16</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

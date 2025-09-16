@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C000639</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>1</tariff_id>
+    <tariff_title>Market-Based Rate Tariff</tariff_title>
+    <tariff_export_date>2025-09-16T18:11Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>FERC Electric Tariff Second Revised Volume No. 1</record_title>
+      <record_content_desc>Baseline tariff filing</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>1</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-04-21</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjB7XGZvbnR0Ymx7XGYwXGZzd2lzc1xmY2hhcnNldDAgQXJpYWw7fX0NClx2aWV3a2luZDRcdWMxXHBhcmRcc2EyNDNcc2wyNzZcc2xtdWx0MFxxY1xsYW5nMTAzM1xiXGYwXGZzMjQgRWxlY3RyYWRlIENvcnBvcmF0aW9uIFxsaW5lIEZFUkMgRlBBIChNQlIpIEVsZWN0cmljIFRhcmlmZiwgU2Vjb25kIFJldmlzZWQgUmF0ZSBTY2hlZHVsZSBOby4gMSBcbGluZSBFZmZlY3RpdmUgQXByaWwgMjEsIDIwMTAgXGxpbmVcYjBccGFyDQpccGFyZFx1bCBBdmFpbGFiaWxpdHlcdWxub25lIDogRWxlY3RyYWRlIENvcnBvcmF0aW9uIChcbGRibHF1b3RlIEVsZWN0cmFkZVxyZGJscXVvdGUgIG9yIFxsZGJscXVvdGUgU2VsbGVyXHJkYmxxdW90ZSApIG1ha2VzIGVsZWN0cmljIGVuZXJneSBhbmQgY2FwYWNpdHkgYXZhaWxhYmxlIHVuZGVyIHRoaXMgUmF0ZSBTY2hlZHVsZSBmb3Igd2hvbGVzYWxlIHNhbGVzIHRvIHB1cmNoYXNlcnMgd2l0aCB3aG9tIEVsZWN0cmFkZSBoYXMgY29udHJhY3RlZC4gXHBhcg0KXHVsIEFwcGxpY2FiaWxpdHlcdWxub25lIDogVGhpcyBSYXRlIFNjaGVkdWxlIGlzIGFwcGxpY2FibGUgdG8gYWxsIGp1cmlzZGljdGlvbmFsIHNhbGVzIG9mIGVsZWN0cmljIGVuZXJneSBvciBjYXBhY2l0eSBieSBFbGVjdHJhZGUgbm90IGV4cHJlc3NseSBzdWJqZWN0IHRvIGEgZGlmZmVyZW50IFJhdGUgU2NoZWR1bGUgb2YgRWxlY3RyYWRlLiBccGFyDQpcdWwgUmF0ZXNcdWxub25lIDogQWxsIHNhbGVzIHNoYWxsIGJlIG1hZGUgYXQgcmF0ZXMgZXN0YWJsaXNoZWQgYnkgYWdyZWVtZW50IGJldHdlZW4gdGhlIHB1cmNoYXNlciBhbmQgRWxlY3RyYWRlLiBccGFyDQpcdWwgT3RoZXIgVGVybXMgYW5kIENvbmRpdGlvbnNcdWxub25lIDogQWxsIG90aGVyIHRlcm1zIGFuZCBjb25kaXRpb25zIG9mIHNhbGUgc2hhbGwgYmUgZXN0YWJsaXNoZWQgYnkgYWdyZWVtZW50IGJldHdlZW4gdGhlIHB1cmNoYXNlciBhbmQgRWxlY3RyYWRlLiBccGFyDQpcdWwgRWZmZWN0aXZlIERhdGVcdWxub25lIDogVGhpcyBSYXRlIFNjaGVkdWxlIGlzIGVmZmVjdGl2ZSBhcyBvZiB0aGUgZGF0ZSBzcGVjaWZpZWQgYnkgdGhlIEZlZGVyYWwgRW5lcmd5IFJlZ3VsYXRvcnkgQ29tbWlzc2lvbi4gXHBhcg0KXHVsIENvbXBsaWFuY2Ugd2l0aCBDb21taXNzaW9uIFJlZ3VsYXRpb25zXHVsbm9uZSA6IFNlbGxlciBzaGFsbCBjb21wbHkgd2l0aCB0aGUgcHJvdmlzaW9ucyBvZiAxOCBDLkYuUi4gUGFydCAzNSwgU3VicGFydCBILCBhcyBhcHBsaWNhYmxlLCBhbmQgd2l0aCBhbnkgY29uZGl0aW9ucyB0aGUgQ29tbWlzc2lvbiBpbXBvc2VzIGluIGl0cyBvcmRlcnMgY29uY2VybmluZyBTZWxsZXJccnF1b3RlIHMgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LCBpbmNsdWRpbmcgb3JkZXJzIGluIHdoaWNoIHRoZSBDb21taXNzaW9uIGF1dGhvcml6ZXMgU2VsbGVyIHRvIGVuZ2FnZSBpbiBhZmZpbGlhdGUgc2FsZXMgdW5kZXIgdGhpcyBSYXRlIFNjaGVkdWxlIG9yIG90aGVyd2lzZSByZXN0cmljdHMgb3IgbGltaXRzIFNlbGxlclxycXVvdGUgcyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHkuICBGYWlsdXJlIHRvIGNvbXBseSB3aXRoIHRoZSBhcHBsaWNhYmxlIHByb3Zpc2lvbnMgb2YgMTggQy5GLlIuIFBhcnQgMzUsIFN1YnBhcnQgSCwgYW5kIHdpdGggYW55IG9yZGVycyBvZiB0aGUgQ29tbWlzc2lvbiBjb25jZXJuaW5nIFNlbGxlclxycXVvdGUgcyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHksIHdpbGwgY29uc3RpdHV0ZSBhIHZpb2xhdGlvbiBvZiB0aGlzIFJhdGUgU2NoZWR1bGUuIFxwYXINCjcuIFx1bCBTZWxsZXIgQ2F0ZWdvcnlcdWxub25lIC4gXHBhcg0KU2VsbGVyIGlzIGEgQ2F0ZWdvcnkgMSBzZWxsZXIsIGFzIGRlZmluZWQgaW4gMTggQy5GLlIuIFwnYTcgMzUuMzYoYSkuIFxwYXINClx1bCBMaW1pdGF0aW9ucyBhbmQgRXhlbXB0aW9ucywgV2FpdmVycyBhbmQgQmxhbmtldCBBdXRob3JpemF0aW9uc1x1bG5vbmUgLiBccGFyDQpccGFyDQooYSkgTGltaXRhdGlvbnM6ICBOb3QgYXBwbGljYWJsZSBccGFyDQooYikgRWxlY3RyYWRlIGhhcyBiZWVuIGdyYW50ZWQgd2FpdmVyIG9mIHRoZSBmb2xsb3dpbmcgQ29tbWlzc2lvbiBSZWd1bGF0aW9uczogKGkpIFN1YnBhcnRzIEIgYW5kIEMgb2YgUGFydCAzNSAocmVnYXJkaW5nIHRoZSBmaWxpbmcgb2YgcmF0ZSBzY2hlZHVsZXMpLCBleGNlcHQgU2VjdGlvbnMgMzUuMTIoYSksIDM1LjEzKGIpLCAzNS4xNSwgYW5kIDM1LjE2OyAoaWkpIFBhcnQgNDEgKHJlZ2FyZGluZyBhY2NvdW50cywgcmVjb3JkcyBhbmQgbWVtb3JhbmRhKTsgKGlpaSkgUGFydCAxMDEgKHJlZ2FyZGluZyB0aGUgVW5pZm9ybSBTeXN0ZW0gb2YgQWNjb3VudHMpOyBhbmQgUGFydCAxNDEgKHJlZ2FyZGluZyBzdGF0ZW1lbnRzIGFuZCByZXBvcnRzKS4gIEVsZWN0cmFkZSBDb3JwLiwgRG9ja2V0IE5vLiBFUjk0LTE0NzgtMDAwLCBhdCAxIChBdWcuIDI1LCAxOTk0KSAodW5wdWJsaXNoZWQgbGV0dGVyIG9yZGVyKS4gXHBhcg0KKGMpIEVsZWN0cmFkZSBoYXMgYmVlbiBncmFudGVkIGJsYW5rZXQgYXV0aG9yaXphdGlvbiB1bmRlciBQYXJ0IDM0IG9mIHRoZSBDb21taXNzaW9uXHJxdW90ZSBzIFJlZ3VsYXRpb25zIGZvciBpc3N1YW5jZXMgb2Ygc2VjdXJpdGllcyBhbmQgYXNzdW1wdGlvbnMgb2YgbGlhYmlsaXRpZXMuICBFbGVjdHJhZGUgQ29ycC4sIERvY2tldCBOby4gRVI5NC0xNDc4LTAwMCwgYXQgMSAoQXVnLiAyNSwgMTk5NCkgKHVucHVibGlzaGVkIGxldHRlciBvcmRlcikuIFxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>Electrade Corporation
+FERC FPA (MBR) Electric Tariff, Second Revised Rate Schedule No. 1
+Effective April 21, 2010
+
+1. Availability:  Electrade Corporation (“Electrade” or “Seller”) makes electric energy and capacity available under this Rate Schedule for wholesale sales to purchasers with whom Electrade has contracted.
+2. Applicability:  This Rate Schedule is applicable to all jurisdictional sales of electric energy or capacity by Electrade not expressly subject to a different Rate Schedule of Electrade.
+3. Rates:  All sales shall be made at rates established by agreement between the purchaser and Electrade.
+4. Other Terms and Conditions:  All other terms and conditions of sale shall be established by agreement between the purchaser and Electrade.
+5. Effective Date:  This Rate Schedule is effective as of the date specified by the Federal Energy Regulatory Commission.
+6. Compliance with Commission Regulations:  Seller shall comply with the provisions of 18 C.F.R. Part 35, Subpart H, as applicable, and with any conditions the Commission imposes in its orders concerning Seller’s market-based rate authority, including orders in which the Commission authorizes Seller to engage in affiliate sales under this Rate Schedule or otherwise restricts or limits Seller’s market-based rate authority.  Failure to comply with the applicable provisions of 18 C.F.R. Part 35, Subpart H, and with any orders of the Commission concerning Seller’s market-based rate authority, will constitute a violation of this Rate Schedule.
+7. Seller Category.
+Seller is a Category 1 seller, as defined in 18 C.F.R. § 35.36(a).
+8. Limitations and Exemptions, Waivers and Blanket Authorizations.
+(a) Limitations:  Not applicable
+(b) Electrade has been granted waiver of the following Commission Regulations: (i) Subparts B and C of Part 35 (regarding the filing of rate schedules), except Sections 35.12(a), 35.13(b), 35.15, and 35.16; (ii) Part 41 (regarding accounts, records and memoranda); (iii) Part 101 (regarding the Uniform System of Accounts); and Part 141 (regarding statements and reports).  Electrade Corp., Docket No. ER94-1478-000, at 1 (Aug. 25, 1994) (unpublished letter order).
+(c) Electrade has been granted blanket authorization under Part 34 of the Commission’s Regulations for issuances of securities and assumptions of liabilities.  Electrade Corp., Docket No. ER94-1478-000, at 1 (Aug. 25, 1994) (unpublished letter order).
+</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>1</filing_id>
+      <filing_title>Baseline Tariff Filing</filing_title>
+      <filing_type>360</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-04-22</current_effective_date>
+      <ferc_order_date>2010-06-03</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>Y</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

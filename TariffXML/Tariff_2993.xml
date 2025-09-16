@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C002765</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>1</tariff_id>
+    <tariff_title>Market-Rate Based Tariff</tariff_title>
+    <tariff_export_date>2025-09-16T19:47Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>Ferc Electric Tariff</record_title>
+      <record_content_desc>Market-Based Rates</record_content_desc>
+      <record_version_num>0.0.0</record_version_num>
+      <record_narrative_name>Original Volume No. 1</record_narrative_name>
+      <collation_value>100000000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2011-10-06</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwMzN7XGZvbnR0Ymx7XGYwXGZzd2lzc1xmY2hhcnNldDAgQXJpYWw7fX0NCntcKlxnZW5lcmF0b3IgTXNmdGVkaXQgNS40MS4xNS4xNTE1O31cdmlld2tpbmQ0XHVjMVxwYXJkXGYwXGZzMjAgQ2hvaWNlIEVuZXJneSwgTExDXHBhcg0KRkVSQyBEb2NrZXQ6IEVSMTAtMTQ3Mi0wMDBccGFyDQpFbGVjdHJpYyBNQlJccGFyDQpNYXJrZXQtQmFzZWQgUmF0ZXMgVGFyaWZmLCBGRVJDIEVsZWN0cmljIFRhcmlmZiwgVm9sdW1lIE5vLiAxXHBhcg0KRWZmZWN0aXZlIERhdGU6IDEwLzA2LzIwMTFccGFyDQpccGFyDQoxLiBBdmFpbGFiaWxpdHlccGFyDQpccGFyDQogICAgQ2hvaWNlIEVuZXJneSwgTExDIChTZWxsZXIpIG1ha2VzIGF2YWlsYWJsZSB1bmRlciB0aGlzIFRhcmlmZiBlbGVjdHJpYyBlbmVyZ3kgYW5kIGNhcGFjaXR5IHRvIGFueSBwdXJjaGFzZXIgZm9yIHJlc2FsZS5ccGFyDQpccGFyDQoyLiBBcHBsaWNhYmlsaXR5XHBhcg0KXHBhcg0KICAgIFRoaXMgVGFyaWZmIGlzIGFwcGxpY2FibGUgdG8gYWxsIHNhbGVzIG9mIGVuZXJneSBhbmQgY2FwYWNpdHkgYnkgU2VsbGVyIG5vdCBvdGhlcndpc2Ugc3ViamVjdCB0byBhIHBhcnRpY3VsYXIgdGFyaWZmIG9mIFNlbGxlci5ccGFyDQpccGFyDQozLiBSYXRlc1xwYXINClxwYXINCiAgICBBbGwgc2FsZXMgbWFkZSB1bmRlciB0aGlzIFRhcmlmZiBzaGFsbCBiZSBtYWRlIGF0IHJhdGVzIGVzdGFibGlzaGVkIGJ5IGFncmVlbWVudCBiZXR3ZWVuIHRoZSBwdXJjaGFzZXIgYW5kIFNlbGxlci5ccGFyDQpccGFyDQo0LiBPdGhlciBUZXJtcyBhbmQgQ29uZGl0aW9uc1xwYXINClxwYXINCiAgICBBbGwgb3RoZXIgdGVybXMgYW5kIGNvbmRpdGlvbnMgZm9yIGFueSBzYWxlcyB1bmRlciB0aGlzIFRhcmlmZiBzaGFsbCBiZSBlc3RhYmxpc2hlZCBieSBhZ3JlZW1lbnQgYmV0d2VlbiB0aGUgcHVyY2hhc2VyIGFuZCBTZWxsZXIuXHBhcg0KXHBhcg0KNS4gU2VsbGVyIENhdGVnb3J5XHBhcg0KXHBhcg0KICAgIFNlbGxlciBpcyBhIENhdGVnb3J5IDEgU2VsbGVyIGluIGFsbCByZWdpb25zLCBhcyBkZWZpbmVkIGluIDE4IEMuRi5SLiAzNS4zNihhKS5ccGFyDQpccGFyDQo2LiBDb21wbGlhbmNlIHdpdGggQ29tbWlzc2lvbiBlZ3VsYXRpb25zXHBhcg0KXHBhcg0KICAgIFNlbGxlciBzaGFsbCBjb21wbHkgd2l0aCB0aGUgcHJvdmlzaW9ucyBvZiAxOCBDLkYuUi4gUGFydCAzNSwgU3VicGFydCBILCBhcyBhcHBsaWNhYmxlLCBhbmQgd2l0aCBhbnkgY29uZGl0aW9ucyB0aGUgQ29tbWlzc2lvbiBpbXBvc2VzIGluIGl0cyBvcmRlcnMgY29uY2VybmluZyBTZWxsZXIncyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHksIGluY2x1ZGluZyBvcmRlcnMgaW4gd2hpY2ggdGhlIENvbW1pc3Npb24gYXV0aG9yaXplcyBTZWxsZXIgdG8gZW5nYWdlIGluIGFmZmlsaWF0ZSBzYWxlcyB1bmRlciB0aGlzIFRhcmlmZiBvciBvdGhlcndpc2UgcmVzdHJpY3RzIG9yIGxpbWl0cyB0aGUgU2VsbGVyJ3MgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LiAgRmFpbHVyZSB0byBjb21wbHkgd2l0aCB0aGUgYXBwbGljYWJsZSBwcm92aXNpb25zIG9mIDE4IEMuRi5SLiBQYXJ0IDM1LCBTdWJwYXJ0IEgsIGFuZCB3aXRoIGFueSBvcmRlcnMgb2YgdGhlIENvbW1pc3Npb24gY29uY2VybmluZyBTZWxsZXIncyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHksIHdpbGwgY29uc3RpdHV0ZSBhIHZpb2xhdGlvbiBvZiB0aGlzIFRhcmlmZi5ccGFyDQpccGFyDQo3LiBMaW1pdGF0aW9ucyBhbmQgRXhlbXB0aW9ucyBSZWdhcmRpbmcgTWFya2V0LUJhc2VkIFJhdGUgQXV0aG9yaXR5XHBhcg0KXHBhcg0KICAgIFNlbGxlciBoYXMgcmVjZWl2ZWQgd2FpdmVycyBvZjogKDEpIHRoZSByZXF1aXJlbWVudHMgb2YgMTggQy5GLlIuIFBhcnRzIDQxLCAxMDEgYW5kIDE0MSwgd2l0aCB0aGUgZXhjZXB0aW9uIG9mIFNlY3Rpb25zIDE0MS4xNCBhbmQgMTQxLjE1OyBhbmQgKDIpIHRoZSByZXF1aXJlbWVudHMgb2YgMTggQy5GLlIuLCBQYXJ0IDM1LCBTdWJwYXJ0cyBCIGFuZCBDLCBleGNlcHQgZm9yIFNlY3Rpb25zIDM1LjEyKGEpLCAzNS4xMyhiKSwgMzUuMTUgYW5kIDM1LjE2LiAgU2VsbGVyIGFsc28gaGFzIHJlY2VpdmVkIGJsYW5rZXQgYXBwcm92YWwgdW5kZXIgU2VjdGlvbiAyMDQgb2YgdGhlIEZQQSBhbmQgMTggQy5GLlIuLCBQYXJ0IDM0IG9uIGZ1dHVyZSBpc3N1YW5jZXMgb2Ygc2VjdXJpdGllcyBhbmQgYXNzdW1wdGlvbnMgb2YgbGlhYmlsaXRpZXMuICBTZWUgQ2hvaWNlIEVuZXJneSwgTExDIERvY2tldCBOby4gRVIxMC0xNDcxLTAwMC5ccGFyDQpccGFyDQp9DQoA</record_binary_data>
+      <record_plain_text>Choice Energy, LLC
+FERC Docket: ER10-1472-000
+Electric MBR
+Market-Based Rates Tariff, FERC Electric Tariff, Volume No. 1
+Effective Date: 10/06/2011
+
+1. Availability
+
+    Choice Energy, LLC (Seller) makes available under this Tariff electric energy and capacity to any purchaser for resale.
+
+2. Applicability
+
+    This Tariff is applicable to all sales of energy and capacity by Seller not otherwise subject to a particular tariff of Seller.
+
+3. Rates
+
+    All sales made under this Tariff shall be made at rates established by agreement between the purchaser and Seller.
+
+4. Other Terms and Conditions
+
+    All other terms and conditions for any sales under this Tariff shall be established by agreement between the purchaser and Seller.
+
+5. Seller Category
+
+    Seller is a Category 1 Seller in all regions, as defined in 18 C.F.R. 35.36(a).
+
+6. Compliance with Commission egulations
+
+    Seller shall comply with the provisions of 18 C.F.R. Part 35, Subpart H, as applicable, and with any conditions the Commission imposes in its orders concerning Seller's market-based rate authority, including orders in which the Commission authorizes Seller to engage in affiliate sales under this Tariff or otherwise restricts or limits the Seller's market-based rate authority.  Failure to comply with the applicable provisions of 18 C.F.R. Part 35, Subpart H, and with any orders of the Commission concerning Seller's market-based rate authority, will constitute a violation of this Tariff.
+
+7. Limitations and Exemptions Regarding Market-Based Rate Authority
+
+    Seller has received waivers of: (1) the requirements of 18 C.F.R. Parts 41, 101 and 141, with the exception of Sections 141.14 and 141.15; and (2) the requirements of 18 C.F.R., Part 35, Subparts B and C, except for Sections 35.12(a), 35.13(b), 35.15 and 35.16.  Seller also has received blanket approval under Section 204 of the FPA and 18 C.F.R., Part 34 on future issuances of securities and assumptions of liabilities.  See Choice Energy, LLC Docket No. ER10-1471-000.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>1</filing_id>
+      <filing_title>Baseline Filing</filing_title>
+      <filing_type>360</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2011-10-06</current_effective_date>
+      <ferc_order_date>2011-12-14</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

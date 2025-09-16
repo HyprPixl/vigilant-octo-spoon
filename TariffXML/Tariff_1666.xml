@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C001449</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>10</tariff_id>
+    <tariff_title>Tec Trading, Inc. Tariff Database</tariff_title>
+    <tariff_export_date>2025-09-16T19:05Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>Title Page</record_title>
+      <record_content_desc>Market-Based Rate Tariff</record_content_desc>
+      <record_version_num>0.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>1000000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-14</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxzYTI0MFxzbDI0MFxzbG11bHQxXHFqXGYwXGZzMjRccGFyDQpccGFyDQpccGFyDQpccGFyDQpccGFyDQpccGFyDQpccGFyZFxsdHJwYXJcc2EyNDBcc2wyNDBcc2xtdWx0MVxxY1xmczMyIFRlYyBUcmFkaW5nLCBJbmMuXHBhcg0KTWFya2V0LUJhc2VkIFJhdGUgU2NoZWR1bGVccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>Tec Trading, Inc.  Market-Based Rate Schedule</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>5</filing_id>
+      <filing_title>Tec Trading, Inc. Baseline Tariff Filing</filing_title>
+      <filing_type>360</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-09-14</current_effective_date>
+      <ferc_order_date>2011-02-01</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>2</record_id>
+      <option_code>A</option_code>
+      <record_title>Market-Based Rate</record_title>
+      <record_content_desc>Tariff</record_content_desc>
+      <record_version_num>0.1.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>1074191825</collation_value>
+      <record_parent_id>1</record_parent_id>
+      <proposed_effective_date>2010-09-14</proposed_effective_date>
+      <priority_order>600</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxiXGYwXGZzMjBccGFyDQpccGFyDQpccGFyZFxsdHJwYXJccWNcZnMyNCBURUMgVFJBRElORywgSU5DLlxwYXINClxwYXINClxwYXINCk1hcmtldC1CYXNlZCBSYXRlIFNjaGVkdWxlIE5vLiAxXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXGZpLTcyMFxsaTcyMFxzYTI0MFx0eDcyMFxiMCAxLlx0YWJcdWwgQXZhaWxhYmlsaXR5XHVsbm9uZSA6ICBURUMgVHJhZGluZywgSW5jLiAoXGxkYmxxdW90ZSBURUNccmRibHF1b3RlICkgbWFrZXMgd2hvbGVzYWxlIGVsZWN0cmljIGVuZXJneSBhbmQvb3IgY2FwYWNpdHkgYXZhaWxhYmxlIHVuZGVyIHRoaXMgUmF0ZSBTY2hlZHVsZSBmb3Igd2hvbGVzYWxlIHNhbGVzIHRvIGFueSBwdXJjaGFzZXJzIGZvciByZXNhbGUuXHBhcg0KMi5cdGFiXHVsIEFwcGxpY2FiaWxpdHlcdWxub25lIDogIFRoaXMgUmF0ZSBTY2hlZHVsZSBpcyBhcHBsaWNhYmxlIHRvIGFsbCB3aG9sZXNhbGUgc2FsZXMgb2YgZWxlY3RyaWMgZW5lcmd5IGFuZC9vciBjYXBhY2l0eSBieSBURUMuXHBhcg0KMy5cdGFiXHVsIFJhdGVzXHVsbm9uZSA6ICBBbGwgc2FsZXMgdW5kZXIgdGhpcyBSYXRlIFNjaGVkdWxlIHNoYWxsIGJlIG1hZGUgYXQgcmF0ZXMgZXN0YWJsaXNoZWQgYnkgYWdyZWVtZW50IGJldHdlZW4gdGhlIHB1cmNoYXNlciBhbmQgVEVDLlxwYXINCjQuXHRhYlx1bCBPdGhlciBUZXJtcyBhbmQgQ29uZGl0aW9uc1x1bG5vbmUgOiAgQWxsIG90aGVyIHRlcm1zIGFuZCBjb25kaXRpb25zIGZvciBhbnkgc2FsZXMgdW5kZXIgdGhpcyBSYXRlIFNjaGVkdWxlIHNoYWxsIGJlIGVzdGFibGlzaGVkIGJ5IGFncmVlbWVudCBiZXR3ZWVuIHRoZSBwdXJjaGFzZXIgYW5kIFRFQy5cdWxccGFyDQpccGFyZFxsdHJwYXJcdWxub25lIDUuXHRhYlx1bCBFZmZlY3RpdmUgRGF0ZVx1bG5vbmUgOiAgVGhpcyBSYXRlIFNjaGVkdWxlIHNoYWxsIGJlIGVmZmVjdGl2ZSB1cG9uIHRoZSBkYXRlIGF1dGhvcml6ZWQgYnkgdGhlIEZlZGVyYWwgRW5lcmd5IFJlZ3VsYXRvcnkgQ29tbWlzc2lvbi5cdWwgIFxiXHBhcg0KXHBhcmRcbHRycGFyXHFjXHVsbm9uZVxiMCBbUGFnZXMgMiwgMyBhbmQgNCBpbnRlbnRpb25hbGx5IGxlZnQgYmxhbmtdXHBhcg0KXHBhcmRcbHRycGFyXHVsXGxpbmVcdWxub25lXHBhcg0KXHBhcmRcbHRycGFyXHNsMjQwXHNsbXVsdDFccWNcdHg4MjFcdWxcYiBDb21wbGlhbmNlIHdpdGggQ29tbWlzc2lvbiBSZWd1bGF0aW9uc1xwYXINClxwYXJkXGx0cnBhclxzbDI0MFxzbG11bHQxXHR4ODIxXGIwXHBhcg0KXHVsbm9uZSBURUMgVHJhZGluZywgSW5jLiAoaGVyZWFmdGVyLCBcbGRibHF1b3RlIFNlbGxlclxyZGJscXVvdGUgKSBzaGFsbCBjb21wbHkgd2l0aCB0aGUgcHJvdmlzaW9ucyBvZiAxOCBDRlIgUGFydCAzNSwgU3VicGFydCBILCBhcyBhcHBsaWNhYmxlLCBhbmQgd2l0aCBhbnkgY29uZGl0aW9ucyB0aGUgQ29tbWlzc2lvbiBpbXBvc2VzIGluIGl0cyBvcmRlcnMgY29uY2VybmluZyBTZWxsZXJccnF1b3RlIHMgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LCBpbmNsdWRpbmcgb3JkZXJzIGluIHdoaWNoIHRoZSBDb21taXNzaW9uIGF1dGhvcml6ZXMgU2VsbGVyIHRvIGVuZ2FnZSBpbiBhZmZpbGlhdGUgc2FsZXMgdW5kZXIgdGhpcyB0YXJpZmYgb3Igb3RoZXJ3aXNlIHJlc3RyaWN0cyBvciBsaW1pdHMgdGhlIFNlbGxlclxycXVvdGUgcyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHkuICBGYWlsdXJlIHRvIGNvbXBseSB3aXRoIHRoZSBhcHBsaWNhYmxlIHByb3Zpc2lvbnMgb2YgMTggQ0ZSIFBhcnQgMzUsIFN1YnBhcnQgSCwgYW5kIHdpdGggYW55IG9yZGVycyBvZiB0aGUgQ29tbWlzc2lvbiBjb25jZXJuaW5nIFNlbGxlclxycXVvdGUgcyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHksIHdpbGwgY29uc3RpdHV0ZSBhIHZpb2xhdGlvbiBvZiB0aGlzIHRhcmlmZi5ccGFyDQpccGFyDQpccGFyDQpccGFyZFxsdHJwYXJcc2w0ODBcc2xtdWx0MVxxY1x0eDgyMVx1bFxiIExpbWl0YXRpb25zIGFuZCBFeGVtcHRpb25zIFJlZ2FyZGluZyBNYXJrZXQtQmFzZWQgUmF0ZSBBdXRob3JpdHlccGFyDQpccGFyZFxsdHJwYXJcc2wyNDBcc2xtdWx0MVx0eDgyMVx1bG5vbmVcYjAgMS5cdGFiIFNlbGxlciBpcyBub3Qgc3ViamVjdCB0byB0aGUgQ29tbWlzc2lvblxycXVvdGUgcyBhZmZpbGlhdGUgYWJ1c2UgcmVndWxhdGlvbnMgYXQgMTggQ0ZSIFwnYTcgMzUuMzkuICBcaSBNYXJrZXQtQmFzZWQgUmF0ZXMgZm9yIFdob2xlc2FsZSBTYWxlcyBvZiBFbGVjdHJpYyBFbmVyZ3ksIENhcGFjaXR5IGFuZCBBbmNpbGxhcnkgU2VydmljZXMgYnkgUHVibGljIFV0aWxpdGllc1xpMCAsIE9yZGVyIE5vLiA2OTcsIEZFUkMgU3RhdHMuICYgUmVncy4sIFJlZ3MuIFByZWFtYmxlcyBcJ2I2IDMxLDI1MiBhdCBQIDUyNiAoMjAwNykuXHBhcg0KXHBhcg0KMi5cdGFiIFNlbGxlciBoYXMgYmVlbiBncmFudGVkIGEgd2FpdmVyIG9mIFBhcnRzIDQxLCAxMDEgYW5kIDE0MSBvZiB0aGUgQ29tbWlzc2lvblxycXVvdGUgcyByZWd1bGF0aW9ucywgd2l0aCB0aGUgZXhjZXB0aW9uIG9mIDE4IENGUiBcJ2E3XCdhNyAxNDEuMTQgYW5kIDE0MS4xNS4gIFNlbGxlciBoYXMgYmVlbiBncmFudGVkIGEgd2FpdmVyIG9mIHRoZSBwcm92aXNpb25zIG9mIFN1YnBhcnRzIEIgYW5kIEMgb2YgUGFydCAzNSBvZiB0aGUgQ29tbWlzc2lvblxycXVvdGUgcyByZWd1bGF0aW9ucywgd2l0aCB0aGUgZXhjZXB0aW9uIG9mIHNlY3Rpb25zIDM1LjEyKGEpLCAzNS4xMyhiKSwgMzUuMTUsIGFuZCAzNS4xNiwgZm9yIHRyYW5zYWN0aW9ucyB1bmRlciB0aGlzIHJhdGUgc2NoZWR1bGUuICBTZWxsZXIgaXMgYXV0aG9yaXplZCB0byBpc3N1ZSBzZWN1cml0aWVzIGFuZCBhc3N1bWUgb2JsaWdhdGlvbnMgb3IgbGlhYmlsaXRpZXMgYXMgYSBndWFyYW50b3IsIGVuZG9yc2VyLCBzdXJldHkgb3Igb3RoZXJ3aXNlIGluIHJlc3BlY3Qgb2YgYW55IHNlY3VyaXR5IG9mIGFub3RoZXIgcGVyc29uOyBwcm92aWRlZCB0aGF0IHN1Y2ggaXNzdWFuY2Ugb3IgYXNzdW1wdGlvbiBpcyBmb3Igc29tZSBsYXdmdWwgb2JqZWN0IHdpdGhpbiB0aGUgY29ycG9yYXRlIHB1cnBvc2VzIG9mIFNlbGxlciwgY29tcGF0aWJsZSB3aXRoIHRoZSBwdWJsaWMgaW50ZXJlc3QsIGFuZCByZWFzb25hYmx5IG5lY2Vzc2FyeSBvciBhcHByb3ByaWF0ZSBmb3Igc3VjaCBwdXJwb3Nlcy4gIFxpIE9ERUMgUG93ZXIgVHJhZGluZywgSW5jLlxpMCAsIDk3IEZFUkMgXCdiNiA2MSwyODcsIGF0IHAuIDYyLDI5NyAoMjAwMSkuXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXHFjXHVsXGIgU2VsbGVyIENhdGVnb3J5XHBhcg0KXHVsbm9uZVxiMFxwYXINClxwYXJkXGx0cnBhclxxalx0YWIgU2VsbGVyIGlzIGEgQ2F0ZWdvcnkgMiBzZWxsZXIsIGFzIGRlZmluZWQgaW4gMTggQ0ZSIDM1LjM2KGEpLlxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>TEC TRADING, INC.      Market-Based Rate Schedule No. 1    Availability:  TEC Trading, Inc. (TEC) makes wholesale electric energy and/or capacity available under this Rate Schedule for wholesale sales to any purchasers for resale.  Applicability:  This Rate Schedule is applicable to all wholesale sales of electric energy and/or capacity by TEC.  Rates:  All sales under this Rate Schedule shall be made at rates established by agreement between the purchaser and TEC.  Other Terms and Conditions:  All other terms and conditions for any sales under this Rate Schedule shall be established by agreement between the purchaser and TEC.  Effective Date:  This Rate Schedule shall be effective upon the date authorized by the Federal Energy Regulatory Commission.             [Pages 2, 3 and 4 intentionally left blank]          Compliance with Commission Regulations    TEC Trading, Inc. (hereafter, Seller) shall comply with the provisions of 18 CFR Part 35, Subpart H, as applicable, and with any conditions the Commission imposes in its orders concerning Sellers market-based rate authority, including orders in which the Commission authorizes Seller to engage in affiliate sales under this tariff or otherwise restricts or limits the Sellers market-based rate authority.  Failure to comply with the applicable provisions of 18 CFR Part 35, Subpart H, and with any orders of the Commission concerning Sellers market-based rate authority, will constitute a violation of this tariff.      Limitations and Exemptions Regarding Market-Based Rate Authority  1. Seller is not subject to the Commissions affiliate abuse regulations at 18 CFR § 35.39.  Market-Based Rates for Wholesale Sales of Electric Energy, Capacity and Ancillary Services by Public Utilities, Order No. 697, FERC Stats. &amp; Regs., Regs. Preambles ¶ 31,252 at P 526 (2007).    2. Seller has been granted a waiver of Parts 41, 101 and 141 of the Commissions regulations, with the exception of 18 CFR §§ 141.14 and 141.15.  Seller has been granted a waiver of the provisions of Subparts B and C of Part 35 of the Commissions regulations, with the exception of sections 35.12(a), 35.13(b), 35.15, and 35.16, for transactions under this rate schedule.  Seller is authorized to issue securities and assume obligations or liabilities as a guarantor, endorser, surety or otherwise in respect of any security of another person; provided that such issuance or assumption is for some lawful object within the corporate purposes of Seller, compatible with the public interest, and reasonably necessary or appropriate for such purposes.  ODEC Power Trading, Inc., 97 FERC ¶ 61,287, at p. 62,297 (2001).    Seller Category     Seller is a Category 2 seller, as defined in 18 CFR 35.36(a).</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>15</filing_id>
+      <filing_title>Tec Trading, Inc. Compliance Filing</filing_title>
+      <filing_type>70</filing_type>
+      <associated_filing_id>5</associated_filing_id>
+      <associated_record_id>2</associated_record_id>
+      <associated_option_code>A</associated_option_code>
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-09-14</current_effective_date>
+      <ferc_order_date>2011-02-01</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

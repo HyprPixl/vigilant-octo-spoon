@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C001556</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>11</tariff_id>
+    <tariff_title>Market Based Rate Tariff</tariff_title>
+    <tariff_export_date>2025-09-16T19:12Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>2</record_id>
+      <option_code>A</option_code>
+      <record_title>Concurrence</record_title>
+      <record_content_desc>Record A</record_content_desc>
+      <record_version_num>0.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>8421376</collation_value>
+      <record_parent_id>1</record_parent_id>
+      <proposed_effective_date>2010-09-23</proposed_effective_date>
+      <priority_order>1000000000</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTEwMzN7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxzYjEwMFxzYTEwMFxxalxmMFxmczI0IFNvdXRoZXJuIFBvd2VyIENvbXBhbnkgaGVyZWJ5IGluY29ycG9yYXRlcyBTb3V0aGVyblxycXVvdGUgcyBNYXJrZXQgQmFzZWQgUmF0ZSBUYXJpZmYgYXMgZmlsZWQgYnkgQWxhYmFtYSBQb3dlciBDb21wYW55LCB3aGljaCBpcyByZWZlcmVuY2VkIGFzOiBccGFyDQpccGFyZFxsdHJwYXJcc2IxMDBcc2ExMDBccGFyDQpccGFyZFxsdHJwYXJcc2IxMDBcc2ExMDBccWMgVGFyaWZmIFRpdGxlIChUYXJpZmYgRGF0YWJhc2UpIC0gTWFya2V0IEJhc2VkIFJhdGUgVGFyaWZmXHBhcg0KXHBhcg0KTWFya2V0IEJhc2VkIFJhdGUgVGFyaWZmLCBTb3V0aGVyblxycXVvdGUgcyBUYXJpZmYgVm9sdW1lIE5vLiA0XHBhcg0KXHBhcmRcbHRycGFyXHBhcg0KfQ0K</record_binary_data>
+      <record_plain_text>Southern Power Company hereby incorporates Southern's Market Based Rate Tariff as filed by Alabama Power Company, which is referenced as: 
+
+Tariff Title (Tariff Database) - Market Based Rate Tariff
+
+Market Based Rate Tariff, Southern's Tariff Volume No. 4</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>1</filing_id>
+      <filing_title>Baseline Filing</filing_title>
+      <filing_type>370</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-09-23</current_effective_date>
+      <ferc_order_date>2011-03-30</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>Southern's Tariff Volume No. 4</record_title>
+      <record_content_desc>Market Based Rate Tariff</record_content_desc>
+      <record_version_num>0.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>8388608</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-23</proposed_effective_date>
+      <priority_order>1000000000</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTEwMzN7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxoeXBocGFyMFxzbDI0MFxzbG11bHQwXHFjXHVsXGJcZjBcZnMyNCBDb3ZlciBQYWdlXHBhcg0KXHVsbm9uZVxiMFxwYXINClxwYXJkXGx0cnBhclxzYTI0MFxxalxiIENvbXBhbnk6IFxiMCBTb3V0aGVybiBQb3dlciBDb21wYW55XHBhcg0KXGIgRGVzaWduYXRlZCBGaWxpbmcgQ29tcGFueTpcYjAgIEFsYWJhbWEgUG93ZXIgQ29tcGFueSBccGFyDQpcYiBTZXJ2aWNlIFByb3ZpZGVyczpcYjAgIEFsYWJhbWEgUG93ZXIgQ29tcGFueSwgR2VvcmdpYSBQb3dlciBDb21wYW55LCBHdWxmIFBvd2VyIENvbXBhbnksIE1pc3Npc3NpcHBpIFBvd2VyIENvbXBhbnksIGFuZCBTb3V0aGVybiBQb3dlciBDb21wYW55IChjb2xsZWN0aXZlbHksIFxsZGJscXVvdGUgU291dGhlcm5ccmRibHF1b3RlIClccGFyDQpcYiBUYXJpZmYgVGl0bGUgKFRhcmlmZiBEYXRhYmFzZSk6XGIwICAgTWFya2V0IEJhc2VkIFJhdGUgVGFyaWZmXHBhcg0KXGIgVGFyaWZmIERlc2NyaXB0aW9uOlxiMCAgIE1hcmtldCBCYXNlZCBSYXRlIFRhcmlmZiwgU291dGhlcm5ccnF1b3RlIHMgVGFyaWZmIFZvbHVtZSBOby4gNFxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>Cover Page
+
+Company: Southern Power Company
+Designated Filing Company: Alabama Power Company 
+Service Providers: Alabama Power Company, Georgia Power Company, Gulf Power Company, Mississippi Power Company, and Southern Power Company (collectively, "Southern")
+Tariff Title (Tariff Database):  Market Based Rate Tariff
+Tariff Description:  Market Based Rate Tariff, Southern's Tariff Volume No. 4</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>1</filing_id>
+      <filing_title>Baseline Filing</filing_title>
+      <filing_type>370</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-09-23</current_effective_date>
+      <ferc_order_date>2011-03-30</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

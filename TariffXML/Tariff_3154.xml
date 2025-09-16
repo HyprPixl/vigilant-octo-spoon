@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C002626</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>1</tariff_id>
+    <tariff_title>MBR Tariff</tariff_title>
+    <tariff_export_date>2025-09-16T19:50Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>FPP</record_title>
+      <record_content_desc>MBR Tariff</record_content_desc>
+      <record_version_num>0.0.0</record_version_num>
+      <record_narrative_name>MBR Tariff</record_narrative_name>
+      <collation_value>100000000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2012-03-25</proposed_effective_date>
+      <priority_order>1</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcdWMxXGRlZmYwIHtcZm9udHRibHtcZjBcZnJvbWFuXGZjaGFyc2V0MCBUaW1lcyBOZXcgUm9tYW57XCpcZmFsdCBUaW1lcyBOZXcgUm9tYW59O317XGYxXGZyb21hblxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFue1wqXGZhbHQgVGltZXMgTmV3IFJvbWFufTt9fXtcY29sb3J0YmxccmVkMFxncmVlbjBcYmx1ZTA7fXtcc3R5bGVzaGVldHtcczBcZjBcZnMyNFxjZjBcc2Jhc2Vkb24yMjJcc25leHQwXHFsIERlZmF1bHQ7fX0NCntcKlxnZW5lcmF0b3IgQWRvYmUgQWNyb2JhdCBFeGNoYW5nZS1Qcm8gOS41LjB9e1xpbmZve1xhdXRob3IgUGV0ZXIgU2NoaWVmZmVsaW59e1xjcmVhdGltXHlyMjAxMVxtbzlcZHkxNVxocjE0XG1pbjI0XHNlYzEwfXtccmV2dGltXHlyMjAxMVxtbzlcZHkxNVxocjE0XG1pbjI0XHNlYzEyfXtcaWQxNDM2MDAwfX1ccGFyZFxwbGFpblxxbFxmMFxmczI0XGNmMCBccGFwZXJoMTU4NDBccGFwZXJ3MTIyNDBcbWFyZ3QxMzYxXG1hcmdyODY3XG1hcmdsMTIxMQ0KXHBnaHN4bjE2MzQwXHBnd3N4bjEyMjQwXG1hcmd0c3huMTg2MVxtYXJncnN4bjg2N1xtYXJnbHN4bjEyMTFccGFyXCcyMFxwYXJkXHBhcmRcZnMyMyAxKSBcYlxmczIzXGYxIEF2YWlsYWJpbGl0eTpcYjBcZnMyM1xmMCAgRmlyc3QgUG9pbnQgUG93ZXIsIExMQyAoU2VsbGVyKSBtYWtlcyBlbGVjdHJpYyBlbmVyZ3kgYW5kIGNhcGFjaXR5IGF2YWlsYWJsZSBcZnMyMyB1bmRlciB0aGlzIHRhcmlmZiB0byBhbnkgcHVyY2hhc2VyLCBleGNlcHQgYXMgcHJvaGliaXRlZCBiZWxvdy4gDQpcdWxub25lXHN0cmlrZTBccGFyXHBhcmRcZnMyMyAgXHVsbm9uZVxzdHJpa2UwXHBhclxwYXJkXGZzMjMgMikgXGJcZnMyM1xmMSBSYXRlczpcYjBcZnMyM1xmMCAgQWxsIHNhbGVzIHNoYWxsIGJlIG1hZGUgYXQgcmF0ZXMgZXN0YWJsaXNoZWQgYnkgYWdyZWVtZW50IGJldHdlZW4gdGhlIHB1cmNoYXNlciBhbmQgXGZzMjMgU2VsbGVyLiBcdWxub25lXHN0cmlrZTBccGFyXHBhcmRcZnMyMyAgXHVsbm9uZVxzdHJpa2UwXHBhclxwYXJkXGZzMjMgMykgDQpcYlxmczIzXGYxIE90aGVyIFRlcm1zIGFuZCBDb25kaXRpb25zOlxiMFxmczIzXGYwICBBbGwgb3RoZXIgdGVybXMgYW5kIGNvbmRpdGlvbnMgc2hhbGwgYmUgZXN0YWJsaXNoZWQgYnkgXGZzMjMgYWdyZWVtZW50IGJldHdlZW4gU2VsbGVyIGFuZCB0aGUgcHVyY2hhc2VyLiBcdWxub25lXHN0cmlrZTBccGFyXHBhcmRcZnMyMyAgXHVsbm9uZVxzdHJpa2UwXHBhclxwYXJkXGZzMjMgNCkgXGJcZnMyM1xmMSBTZWxsZXIgQ2F0ZWdvcnk6XGIwXGZzMjNcZjAgDQogU2VsbGVyIGlzIGEgQ2F0ZWdvcnkgMSBzZWxsZXIsIGFzIGRlZmluZWQgaW4gMTggQ0ZSIDM1LjM2KGEpLiBcdWxub25lXHN0cmlrZTBccGFyXHBhcmRcZnMyMyAgXHVsbm9uZVxzdHJpa2UwXHBhclxwYXJkXGZzMjMgNSkgXGJcZnMyM1xmMSBDb21wbGlhbmNlIHdpdGggQ29tbWlzc2lvbiBSZWd1bGF0aW9uczogXGIwXGZzMjNcZjAgIFNlbGxlciBzaGFsbCBjb21wbHkgd2l0aCB0aGUgcHJvdmlzaW9ucyBvZiAxOCBcZnMyMyBDRlIgUGFydCAzNSwgU3VicGFydCBILCBhcyBhcHBsaWNhYmxlLCBhbmQgd2l0aCBhbnkgY29uZGl0aW9ucyB0aGUgQ29tbWlzc2lvbiBpbXBvc2VzIGluIGl0cyBvcmRlcnMgY29uY2VybmluZyBzZWxsZXIncyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHksIGluY2x1ZGluZyBvcmRlcnMgaW4gd2hpY2ggdGhlIENvbW1pc3Npb24gYXV0aG9yaXplcyBzZWxsZXIgdG8gZW5nYWdlIGluIGFmZmlsaWF0ZSBzYWxlcyB1bmRlciB0aGlzIHRhcmlmZiBvciBvdGhlcndpc2UgcmVzdHJpY3RzIG9yIGxpbWl0cyB0aGUgc2VsbGVyJ3MgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LiBGYWlsdXJlIHRvIGNvbXBseSB3aXRoIHRoZSBhcHBsaWNhYmxlIHByb3Zpc2lvbnMgb2YgMTggQ0ZSIFBhcnQgMzUsIFN1YnBhcnQgSCwgYW5kIHdpdGggYW55IG9yZGVycyBvZiB0aGUgQ29tbWlzc2lvbiBjb25jZXJuaW5nIHNlbGxlcidzIG1hcmtldC1iYXNlZCByYXRlIGF1dGhvcml0eSwgd2lsbCBjb25zdGl0dXRlIGEgdmlvbGF0aW9uIG9mIHRoaXMgdGFyaWZmLiANClx1bG5vbmVcc3RyaWtlMFxwYXJccGFyZFxmczIzICBcdWxub25lXHN0cmlrZTBccGFyXHBhcmRcZnMyMyA2KSBcYlxmczIzXGYxIExpbWl0YXRpb25zIGFuZCBFeGVtcHRpb25zIFJlZ2FyZGluZyBNYXJrZXQtQmFzZWQgUmF0ZSBBdXRob3JpdHk6XGIwXGZzMjNcZjAgIFNlbGxlciBoYXMgXGZzMjMgcmVjZWl2ZWQgd2FpdmVycyBvZjogU3VicGFydHMgQiBhbmQgQyBvZiBQYXJ0IDM1LCBleGNlcHQgZm9yIHNlY3Rpb25zIDM1LjEyKGEpLCAzNS4xMyhiKSwgMzUuMTUgYW5kIDM1LjE2OyBQYXJ0IDQxLCBQYXJ0IDEwMSwgYW5kIFBhcnQgMTQxOyBhbmQgcmVjZWl2ZWQgYmxhbmtldCBhcHByb3ZhbCB1bmRlciBQYXJ0IDM0LiBGaXJzdCBQb2ludCBQb3dlciwgTExDLCBEb2NrZXQgTm8uIEVSMTAtMjkzLTAwMC4gDQpcdWxub25lXHN0cmlrZTBccGFyXHBhcmRcZnMyMyAgXHVsbm9uZVxzdHJpa2UwXHBhclxwYXJkXGZzMjMgIFx1bG5vbmVcc3RyaWtlMFxwYXJccGFyZFxmczIzICBcdWxub25lXHN0cmlrZTAgfQ==</record_binary_data>
+      <record_plain_text>FIRST POINT POWER, LLC
+FERC Electric Tariff
+Original Volume No. 1
+
+
+1) Availability: First Point Power, LLC (Seller) makes electric energy and capacity available under this tariff to any purchaser, except as prohibited below.
+
+2) Rates: All sales shall be made at rates established by agreement between the purchaser and Seller.
+
+3) Other Terms and Conditions: All other terms and conditions shall be established by agreement between Seller and the purchaser.
+
+4) Seller Category: Seller is a Category 1 seller, as defined in 18 CFR 35.36(a).
+
+5) Compliance with Commission Regulations:  Seller shall comply with the provisions of 18 CFR Part 35, Subpart H, as applicable, and with any conditions the Commission imposes in its orders concerning seller's market-based rate authority, including orders in which the Commission authorizes seller to engage in affiliate sales under this tariff or otherwise restricts or limits the seller's market-based rate authority. Failure to comply with the applicable provisions of 18 CFR Part 35, Subpart H, and with any orders of the Commission concerning seller's market-based rate authority, will constitute a violation of this tariff.
+
+6) Limitations and Exemptions Regarding Market-Based Rate Authority: Seller has received waivers of: Subparts B and C of Part 35, except for sections 35.12(a), 35.13(b), 35.15 and 35.16; Part 41, Part 101, and Part 141; and received blanket approval under Part 34. First Point Power, LLC, Docket No. ER10-293-000.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>100</filing_id>
+      <filing_title>FPP MBR Filing</filing_title>
+      <filing_type>360</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2012-03-25</current_effective_date>
+      <ferc_order_date>2012-05-29</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

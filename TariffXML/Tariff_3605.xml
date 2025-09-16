@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C003551</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>1</tariff_id>
+    <tariff_title>Eligo Energy Market Based Rate</tariff_title>
+    <tariff_export_date>2025-09-16T20:00Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>Eligo Tariff</record_title>
+      <record_content_desc>Initial Tariff</record_content_desc>
+      <record_version_num>1.0.2</record_version_num>
+      <record_narrative_name>Amended Submission</record_narrative_name>
+      <collation_value>100000002</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2013-07-18</proposed_effective_date>
+      <priority_order>498</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxMTg3XGNvY29hc3VicnRmMzkwCntcZm9udHRibFxmMFxmcm9tYW5cZmNoYXJzZXQwIFRpbWVzTmV3Um9tYW5QU01UO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQp7XGluZm8Ke1xhdXRob3IgQWxleGFuZGVyIEdvbGRzdGVpbn19XHZpZXd3MTIyNDBcdmlld2gxNTg0MFx2aWV3a2luZDEKXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccmkwXHNsMjc2XHNsbXVsdDFcc2EyMDAKClxmMFxiXGZzMjQgXGNmMCAxLglBdmFpbGFiaWxpdHkgIFwKXHBhcmRccGFyZGVmdGFiNzIwXGZpNzIwXHJpMFxzbDI3NlxzbG11bHQxXHNhMjAwCgpcYjAgXGNmMCBFbGlnbyBFbmVyZ3kgTlksIExMQyAoXCc5M0VsaWdvXCc5NCBvciBcJzkzU2VsbGVyXCc5NCkgbWFrZXMgZWxlY3RyaWMgZW5lcmd5IGFuZCBjYXBhY2l0eSBhdmFpbGFibGUgdW5kZXIgdGhpcyB0YXJpZmYgdG8gZW5kIHVzZSBjdXN0b21lcnMsIGV4Y2VwdCBhcyBwcm9oaWJpdGVkIGJlbG93LgpcYiBcClxwYXJkXHBhcmRlZnRhYjcyMFxyaTBcc2wyNzZcc2xtdWx0MVxzYTIwMApcY2YwIDIuCUFwcGxpY2FiaWxpdHkKXGIwICAgXApccGFyZFxwYXJkZWZ0YWI3MjBcZmk3MjBccmkwXHNsMjc2XHNsbXVsdDFcc2EyMDAKXGNmMCBUaGlzIFRhcmlmZiBpcyBhcHBsaWNhYmxlIHRvIGFsbCBzYWxlcyBvZiBlbmVyZ3kgYW5kIGNhcGFjaXR5IGJ5IEVsaWdvIG5vdCBvdGhlcndpc2Ugc3ViamVjdCB0byBhIHBhcnRpY3VsYXIgdGFyaWZmIG9mIEVsaWdvLlwKXHBhcmRccGFyZGVmdGFiNzIwXHJpMFxzbDI3NlxzbG11bHQxXHNhMjAwCgpcYiBcY2YwIDMuCVJhdGVzClxiMCAgIFwKXHBhcmRccGFyZGVmdGFiNzIwXGZpNzIwXHJpMFxzbDI3NlxzbG11bHQxXHNhMjAwClxjZjAgQWxsIHNhbGVzIHNoYWxsIGJlIG1hZGUgYXQgcmF0ZXMgZXN0YWJsaXNoZWQgYnkgYWdyZWVtZW50IGJldHdlZW4gcHVyY2hhc2VyIGFuZCBTZWxsZXIuXApccGFyZFxwYXJkZWZ0YWI3MjBccmkwXHNhMjQwXHFqCgpcYiBcY2YwIDQuClxmczIyIAkKXGZzMjQgT3RoZXIgVGVybXMgYW5kIENvbmRpdGlvbnMKXGIwICAgXApccGFyZFxwYXJkZWZ0YWI3MjBcZmk3MjBccmkwXHNhMjQwXHFqClxjZjAgQWxsIG90aGVyIHRlcm1zIGFuZCBjb25kaXRpb25zIGZvciBhbnkgc2FsZXMgdW5kZXIgdGhpcyBUYXJpZmYgc2hhbGwgYmUgZXN0YWJsaXNoZWQgYnkgYWdyZWVtZW50IGJldHdlZW4gdGhlIHB1cmNoYXNlciBhbmQgRWxpZ28uIFwKXHBhcmRccGFyZGVmdGFiNzIwXHJpMFxzbDI3NlxzbG11bHQxXHNhMjAwCgpcYiBcY2YwIDUuCVNlbGxlciBDYXRlZ29yeVwKXHBhcmRccGFyZGVmdGFiNzIwXGZpNzIwXHJpMFxzbDI3NlxzbG11bHQxXHNhMjAwCgpcYjAgXGNmMCBTZWxsZXIgbWVldHMgdGhlIGNyaXRlcmlhIGZvciBiZWluZyBhIENhdGVnb3J5IDEgU2VsbGVyLCBhcyBkZWZpbmVkIGluIDE4IEMuRi5SLiBcJ2E3IDM1LjM2KGEpLlwKXHBhcmRccGFyZGVmdGFiNzIwXHJpMFxzbDI3NlxzbG11bHQxXHNhMjAwCgpcYiBcY2YwIDYuCUNvbXBsaWFuY2Ugd2l0aCBDb21taXNzaW9uIFJlZ3VsYXRpb25zClxiMCAgIFwKXHBhcmRccGFyZGVmdGFiNzIwXGZpNzIwXHJpMFxzbDI3NlxzbG11bHQxXHNhMjAwClxjZjAgU2VsbGVyIHNoYWxsIGNvbXBseSB3aXRoIHRoZSBwcm92aXNpb25zIG9mIDE4IEMuRi5SLiBQYXJ0IDM1LCBTdWJwYXJ0IEgsIGFzIGFwcGxpY2FibGUsIGFuZCB3aXRoIGFueSBjb25kaXRpb25zIHRoZSBDb21taXNzaW9uIGltcG9zZXMgaW4gaXRzIG9yZGVycyBjb25jZXJuaW5nIFNlbGxlclwnOTJzIG1hcmtldC1iYXNlZCByYXRlIGF1dGhvcml0eSwgaW5jbHVkaW5nIG9yZGVycyBpbiB3aGljaCB0aGUgQ29tbWlzc2lvbiBhdXRob3JpemVzIFNlbGxlciB0byBlbmdhZ2UgaW4gYWZmaWxpYXRlIHNhbGVzIHVuZGVyIHRoaXMgdGFyaWZmIG9yIG90aGVyd2lzZSByZXN0cmljdHMgb3IgbGltaXRzIHRoZSBTZWxsZXJcJzkycyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHkuICBGYWlsdXJlIHRvIGNvbXBseSB3aXRoIHRoZSBhcHBsaWNhYmxlIHByb3Zpc2lvbnMgb2YgMTggQy5GLlIuIFBhcnQgMzUsIFN1YnBhcnQgSCwgYW5kIHdpdGggYW55IG9yZGVycyBvZiB0aGUgQ29tbWlzc2lvbiBjb25jZXJuaW5nIFNlbGxlclwnOTJzIG1hcmtldC1iYXNlZCByYXRlIGF1dGhvcml0eSwgd2lsbCBjb25zdGl0dXRlIGEgdmlvbGF0aW9uIG9mIHRoaXMgdGFyaWZmLlwKXHBhcmRccGFyZGVmdGFiNzIwXHJpMFxzbDI3NlxzbG11bHQxXHNhMjAwCgpcYiBcY2YwIDcuCUxpbWl0YXRpb25zIGFuZCBFeGVtcHRpb25zIFJlZ2FyZGluZyBNYXJrZXQtQmFzZWQgUmF0ZSBBdXRob3JpdHlcClxwYXJkXHBhcmRlZnRhYjcyMFxmaTcyMFxyaTAKClxiMCBcY2YwIFNlbGxlciBoYXMgcmVjZWl2ZWQgd2FpdmVycyBvZjogKDEpIHRoZSByZXF1aXJlbWVudHMgb2YgMTggQy5GLlIuLCBQYXJ0cyA0MSBhbmQgMTAxOyAoMikgdGhlIHJlcXVpcmVtZW50cyBvZiAxOCBDLkYuUi4sIFBhcnQgMzUsIFN1YnBhcnRzIEIgYW5kIEMsIGV4Y2VwdCBmb3IgU2VjdGlvbnMgMzUuMTIoYSksIDM1LjEzKGIpLCAzNS4xNSwgYW5kIDM1LjE2OyBhbmQgKDMpIHRoZSByZXF1aXJlbWVudHMgb2YgMTggQy5GLlIuLCBQYXJ0IDE0MSwgZXhjZXB0IGZvciBTZWN0aW9ucyAxNDEuMTQgYW5kIDE0MS4xNS4gU2VsbGVyIGFsc28gaGFzIHJlY2VpdmVkIGJsYW5rZXQgYXBwcm92YWwgdW5kZXIgU2VjdGlvbiAyMDQgb2YgdGhlIEZQQSBhbmQgMTggQy5GLlIuLCBQYXJ0IDM0IG9uIGZ1dHVyZSBpc3N1YW5jZXMgb2Ygc2VjdXJpdGllcyBhbmQgYXNzdW1wdGlvbnMgb2YgbGlhYmlsaXRpZXMuIApcaSBTZWUgRWxpZ28gRW5lcmd5IE5ZLCBMTEMKXGkwICwgRG9ja2V0IE5vLiBFUjEzLTE5ODgtMDAwLlwKfQ==</record_binary_data>
+      <record_plain_text>1.
+
+Availability
+
+Eligo Energy NY, LLC (“Eligo” or “Seller”) makes electric energy and capacity
+available under this tariff to end use customers, except as prohibited below.
+2.
+
+Applicability
+
+This Tariff is applicable to all sales of energy and capacity by Eligo not otherwise subject
+to a particular tariff of Eligo.
+3.
+
+Rates
+All sales shall be made at rates established by agreement between purchaser and Seller.
+
+4.
+
+Other Terms and Conditions
+
+All other terms and conditions for any sales under this Tariff shall be established by
+agreement between the purchaser and Eligo.
+5.
+
+Seller Category
+Seller meets the criteria for being a Category 1 Seller, as defined in 18 C.F.R. § 35.36(a).
+
+6.
+
+Compliance with Commission Regulations
+
+Seller shall comply with the provisions of 18 C.F.R. Part 35, Subpart H, as applicable,
+and with any conditions the Commission imposes in its orders concerning Seller’s market-based
+rate authority, including orders in which the Commission authorizes Seller to engage in affiliate
+sales under this tariff or otherwise restricts or limits the Seller’s market-based rate authority.
+Failure to comply with the applicable provisions of 18 C.F.R. Part 35, Subpart H, and with any
+orders of the Commission concerning Seller’s market-based rate authority, will constitute a
+violation of this tariff.
+7.
+
+Limitations and Exemptions Regarding Market-Based Rate Authority
+
+Seller has received waivers of: (1) the requirements of 18 C.F.R., Parts 41 and 101; (2)
+the requirements of 18 C.F.R., Part 35, Subparts B and C, except for Sections 35.12(a), 35.13(b),
+35.15, and 35.16; and (3) the requirements of 18 C.F.R., Part 141, except for Sections 141.14 and
+141.15. Seller also has received blanket approval under Section 204 of the FPA and 18 C.F.R.,
+Part 34 on future issuances of securities and assumptions of liabilities. See Eligo Energy NY,
+LLC, Docket No. ER13-1988-000.</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>3</filing_id>
+      <filing_title>Amendment to Application for Market Based Rate</filing_title>
+      <filing_type>120</filing_type>
+      <associated_filing_id>2</associated_filing_id>
+      <associated_record_id>1</associated_record_id>
+      <associated_option_code>A</associated_option_code>
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2013-07-18</current_effective_date>
+      <ferc_order_date>2013-09-10</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C001194</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>2</tariff_id>
+    <tariff_title>Market-Based Rate Tariff FERC Electric Tariff Volume No. 6</tariff_title>
+    <tariff_export_date>2025-09-16T18:29Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>2400</record_id>
+      <option_code>A</option_code>
+      <record_title>Section 02</record_title>
+      <record_content_desc>Applicability</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>Section 02</record_narrative_name>
+      <collation_value>14000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-07-14</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxmaS0zNjBcbGk3MjBcc2EyNDBccWpcdHg3MjBcZjBcZnMyNCAyLlx0YWJcdWwgQXBwbGljYWJpbGl0eVx1bG5vbmUgOiAgVGhpcyBzY2hlZHVsZSBpcyBhcHBsaWNhYmxlIHRvIGFsbCBzYWxlcyBvZiBlbmVyZ3kgb3IgY2FwYWNpdHkgYnkgUFNFJkcgbm90IG90aGVyd2lzZSBzdWJqZWN0IHRvIGEgcGFydGljdWxhciByYXRlIHNjaGVkdWxlIG9mIFBTRSZHLlxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>Applicability:  This schedule is applicable to all sales of energy or capacity by PSE&amp;G not otherwise subject to a particular rate schedule of PSE&amp;G.
+</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>42</filing_id>
+      <filing_title>Compliance Filing of PSE&amp;G Market-Based Rate Tariff Volume No. 6</filing_title>
+      <filing_type>80</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-07-14</current_effective_date>
+      <ferc_order_date>2010-08-24</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>2500</record_id>
+      <option_code>A</option_code>
+      <record_title>Section 03</record_title>
+      <record_content_desc>Rates</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>Section 03</record_narrative_name>
+      <collation_value>15000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-07-14</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQp7XGNvbG9ydGJsIDtccmVkMFxncmVlbjBcYmx1ZTA7fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxsdHJwYXJcZmktMzYwXGxpNzIwXHNhMjQwXHFqXHR4NzIwXGYwXGZzMjQgMy5cdGFiXGNmMVx1bCBSYXRlc1x1bG5vbmUgOiAgQWxsIHNhbGVzIHNoYWxsIGJlIG1hZGUgYXQgcmF0ZXMgZXN0YWJsaXNoZWQgYnkgbXV0dWFsIGFncmVlbWVudCBiZXR3ZWVuIHRoZSBwdXJjaGFzZXIgYW5kIFBTRSZHLlxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>Rates:  All sales shall be made at rates established by mutual agreement between the purchaser and PSE&amp;G.
+</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>42</filing_id>
+      <filing_title>Compliance Filing of PSE&amp;G Market-Based Rate Tariff Volume No. 6</filing_title>
+      <filing_type>80</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-07-14</current_effective_date>
+      <ferc_order_date>2010-08-24</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>2300</record_id>
+      <option_code>A</option_code>
+      <record_title>Section 01</record_title>
+      <record_content_desc>Availability</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>Section 01</record_narrative_name>
+      <collation_value>13000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-07-14</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQp7XGNvbG9ydGJsIDtccmVkMFxncmVlbjBcYmx1ZTA7fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxsdHJwYXJcZmktMzYwXGxpNzIwXHNhMjQwXHFqXHR4NzIwXGYwXGZzMjQgMS5cdGFiXGNmMVx1bCBBdmFpbGFiaWxpdHlcdWxub25lIDogIFB1YmxpYyBTZXJ2aWNlIEVsZWN0cmljIGFuZCBHYXMgQ29tcGFueSAoUFNFJkcpIG1ha2VzIGVsZWN0cmljIGNhcGFjaXR5IGF2YWlsYWJsZSB1bmRlciB0aGlzIFJhdGUgU2NoZWR1bGUgdG8gYW55IHB1cmNoYXNlciBmb3IgcmVzYWxlLlxwYXINClxwYXJkXGx0cnBhclxxalxjZjBccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>Availability:  Public Service Electric and Gas Company (PSE&amp;G) makes electric capacity available under this Rate Schedule to any purchaser for resale.
+
+</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>42</filing_id>
+      <filing_title>Compliance Filing of PSE&amp;G Market-Based Rate Tariff Volume No. 6</filing_title>
+      <filing_type>80</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-07-14</current_effective_date>
+      <ferc_order_date>2010-08-24</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>3200</record_id>
+      <option_code>A</option_code>
+      <record_title>Section 10</record_title>
+      <record_content_desc>Seller Category</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>Section 10</record_narrative_name>
+      <collation_value>22000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-07-14</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxmaS0zNjBcbGk3MjBcc2EyNDBccWpcdHg3MjBcZjBcZnMyNCAxMC5cdGFiXHVsIFNlbGxlciBDYXRlZ29yeVx1bG5vbmUgLiAgU2VsbGVyIGlzIGEgQ2F0ZWdvcnkgMiBzZWxsZXIgaW4gdGhlIE5vcnRoZWFzdCByZWdpb24gYW5kIGEgQ2F0ZWdvcnkgMSBzZWxsZXIgaW4gdGhlIENlbnRyYWwsIFNvdXRod2VzdCBQb3dlciBQb29sLCBTb3V0aGVhc3QsIFNvdXRod2VzdCBhbmQgTm9ydGh3ZXN0IHJlZ2lvbnMsIGFzIGRlZmluZWQgaW4gMTggQy5GLlIuIFwnYTcgMzUuMzYoYSkuXHBhcg0KXHBhcmRcbHRycGFyXHFqXHBhcg0KfQ0K</record_binary_data>
+      <record_plain_text>Seller Category.  Seller is a Category 2 seller in the Northeast region and a Category 1 seller in the Central, Southwest Power Pool, Southeast, Southwest and Northwest regions, as defined in 18 C.F.R. ?? 35.36(a).
+
+</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>42</filing_id>
+      <filing_title>Compliance Filing of PSE&amp;G Market-Based Rate Tariff Volume No. 6</filing_title>
+      <filing_type>80</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-07-14</current_effective_date>
+      <ferc_order_date>2010-08-24</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>2200</record_id>
+      <option_code>A</option_code>
+      <record_title>Cover Sheet</record_title>
+      <record_content_desc>Cover Sheet</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>Cover Sheet</record_narrative_name>
+      <collation_value>12000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-07-14</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxxY1xiXHNjYXBzXGYwXGZzMjQgTWFya2V0LUJhc2VkIFJhdGUgVGFyaWZmXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXHFjIEZFUkMgRWxlY3RyaWMgVGFyaWZmLCBWb2x1bWUgTm8uIDZccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>Market-Based Rate Tariff
+
+FERC Electric Tariff, Volume No. 6
+</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>42</filing_id>
+      <filing_title>Compliance Filing of PSE&amp;G Market-Based Rate Tariff Volume No. 6</filing_title>
+      <filing_type>80</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-07-14</current_effective_date>
+      <ferc_order_date>2010-08-24</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>2900</record_id>
+      <option_code>A</option_code>
+      <record_title>Section 07</record_title>
+      <record_content_desc>Seperately Stated Prices</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>Section 07</record_narrative_name>
+      <collation_value>19000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-07-14</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQp7XGNvbG9ydGJsIDtccmVkMFxncmVlbjBcYmx1ZTA7fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxsdHJwYXJcZmktMzYwXGxpNzIwXHNhMjQwXHFqXHR4NzIwXGYwXGZzMjQgNy5cdGFiXGNmMVx1bCBTZXBhcmF0ZWx5IFN0YXRlZCBQcmljZXNcdWxub25lIC4gIFRoZSBwcmljZXMgZm9yIHdob2xlc2FsZSBnZW5lcmF0aW9uIG9mIGVsZWN0cmljaXR5LCB0cmFuc21pc3Npb24gc2VydmljZXMgYW5kIGFuY2lsbGFyeSBzZXJ2aWNlcyBzaGFsbCBiZSBzZXBhcmF0ZWx5IHN0YXRlZCBmcm9tIGFueSBzYWxlIG1hZGUgdW5kZXIgdGhpcyBSYXRlIFNjaGVkdWxlLlxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>Separately Stated Prices.  The prices for wholesale generation of electricity, transmission services and ancillary services shall be separately stated from any sale made under this Rate Schedule.
+</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>42</filing_id>
+      <filing_title>Compliance Filing of PSE&amp;G Market-Based Rate Tariff Volume No. 6</filing_title>
+      <filing_type>80</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-07-14</current_effective_date>
+      <ferc_order_date>2010-08-24</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>3000</record_id>
+      <option_code>A</option_code>
+      <record_title>Section 08</record_title>
+      <record_content_desc>Compliance w/ FERC Regs</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>Section 08</record_narrative_name>
+      <collation_value>20000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-07-14</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQp7XGNvbG9ydGJsIDtccmVkMFxncmVlbjBcYmx1ZTA7fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxsdHJwYXJcZmktMzYwXGxpNzIwXHNhMjQwXHFqXHR4NzIwXGYwXGZzMjQgOC5cdGFiXHVsIENvbXBsaWFuY2Ugd2l0aCBDb21taXNzaW9uIFJlZ3VsYXRpb25zXGNmMVx1bG5vbmUgLiAgXGNmMCBQU0UmRyBzaGFsbCBjb21wbHkgd2l0aCB0aGUgcHJvdmlzaW9ucyBvZiAxOCBDRlIgUGFydCAzNSwgU3VicGFydCBILCBhcyBhcHBsaWNhYmxlLCBhbmQgd2l0aCBhbnkgY29uZGl0aW9ucyB0aGUgQ29tbWlzc2lvbiBpbXBvc2VzIGluIGl0cyBvcmRlcnMgY29uY2VybmluZyBQU0UmR1xycXVvdGUgcyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHksIGluY2x1ZGluZyBvcmRlcnMgaW4gd2hpY2ggdGhlIENvbW1pc3Npb24gYXV0aG9yaXplcyBQU0UmRyB0byBlbmdhZ2UgaW4gYWZmaWxpYXRlIHNhbGVzIHVuZGVyIHRoaXMgdGFyaWZmIG9yIG90aGVyd2lzZSByZXN0cmljdHMgb3IgbGltaXRzIHRoZSBQU0UmR1xycXVvdGUgcyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHkuIEZhaWx1cmUgdG8gY29tcGx5IHdpdGggdGhlIGFwcGxpY2FibGUgcHJvdmlzaW9ucyBvZiAxOCBDRlIgUGFydCAzNSwgU3VicGFydCBILCBhbmQgd2l0aCBhbnkgb3JkZXJzIG9mIHRoZSBDb21taXNzaW9uIGNvbmNlcm5pbmcgUFNFJkdccnF1b3RlIHMgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LCB3aWxsIGNvbnN0aXR1dGUgYSB2aW9sYXRpb24gb2YgdGhpcyB0YXJpZmYuXGNmMVxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>Compliance with Commission Regulations.  PSE&amp;G shall comply with the provisions of 18 CFR Part 35, Subpart H, as applicable, and with any conditions the Commission imposes in its orders concerning PSE&amp;G???s market-based rate authority, including orders in which the Commission authorizes PSE&amp;G to engage in affiliate sales under this tariff or otherwise restricts or limits the PSE&amp;G???s market-based rate authority. Failure to comply with the applicable provisions of 18 CFR Part 35, Subpart H, and with any orders of the Commission concerning PSE&amp;G???s market-based rate authority, will constitute a violation of this tariff.
+</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>42</filing_id>
+      <filing_title>Compliance Filing of PSE&amp;G Market-Based Rate Tariff Volume No. 6</filing_title>
+      <filing_type>80</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-07-14</current_effective_date>
+      <ferc_order_date>2010-08-24</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>2600</record_id>
+      <option_code>A</option_code>
+      <record_title>Section 04</record_title>
+      <record_content_desc>Other Terms &amp; Conditions</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>Section 04</record_narrative_name>
+      <collation_value>16000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-07-14</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQp7XGNvbG9ydGJsIDtccmVkMFxncmVlbjBcYmx1ZTA7fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxsdHJwYXJcZmktMzYwXGxpNzIwXHNhMjQwXHFqXHR4NzIwXGYwXGZzMjQgNC5cdGFiXGNmMVx1bCBPdGhlciBUZXJtcyBhbmQgQ29uZGl0aW9uc1x1bG5vbmUgOiAgQWxsIG90aGVyIHRlcm1zIGFuZCBjb25kaXRpb25zIHNoYWxsIGJlIGVzdGFibGlzaGVkIGJ5IG11dHVhbCBhZ3JlZW1lbnQgYmV0d2VlbiB0aGUgcHVyY2hhc2VyIGFuZCBQU0UmRy5ccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>Other Terms and Conditions:  All other terms and conditions shall be established by mutual agreement between the purchaser and PSE&amp;G.
+</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>42</filing_id>
+      <filing_title>Compliance Filing of PSE&amp;G Market-Based Rate Tariff Volume No. 6</filing_title>
+      <filing_type>80</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-07-14</current_effective_date>
+      <ferc_order_date>2010-08-24</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>2700</record_id>
+      <option_code>A</option_code>
+      <record_title>Section 05</record_title>
+      <record_content_desc>Effective Date</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>Section 05</record_narrative_name>
+      <collation_value>17000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-07-14</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQp7XGNvbG9ydGJsIDtccmVkMFxncmVlbjBcYmx1ZTA7fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxsdHJwYXJcZmktMzYwXGxpNzIwXHNhMjQwXHFqXHR4NzIwXGYwXGZzMjQgNS5cdGFiXGNmMVx1bCBFZmZlY3RpdmUgRGF0ZVx1bG5vbmUgOiAgVGhpcyBSYXRlIFNjaGVkdWxlIHNoYWxsIGJlIGVmZmVjdGl2ZSBvbiB0aGUgZGF0ZSBhdXRob3JpemVkIGJ5IHRoZSBGZWRlcmFsIEVuZXJneSBSZWd1bGF0b3J5IENvbW1pc3Npb24gKFxsZGJscXVvdGUgQ29tbWlzc2lvblxyZGJscXVvdGUgKS5ccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>Effective Date:  This Rate Schedule shall be effective on the date authorized by the Federal Energy Regulatory Commission (???Commission???).
+</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>42</filing_id>
+      <filing_title>Compliance Filing of PSE&amp;G Market-Based Rate Tariff Volume No. 6</filing_title>
+      <filing_type>80</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-07-14</current_effective_date>
+      <ferc_order_date>2010-08-24</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>2800</record_id>
+      <option_code>A</option_code>
+      <record_title>Section 06</record_title>
+      <record_content_desc>Ancillary Services</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>Section 06</record_narrative_name>
+      <collation_value>18000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-07-14</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQp7XGNvbG9ydGJsIDtccmVkMFxncmVlbjBcYmx1ZTA7fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxsdHJwYXJcZmktMzYwXGxpNzIwXHNhMjQwXHFqXHR4NzIwXGYwXGZzMjQgNi5cdGFiXGNmMVx1bCBBbmNpbGxhcnkgU2VydmljZXNcdWxub25lIDogIFxjZjAgUFNFJkcgbWFrZXMgYW5jaWxsYXJ5IHNlcnZpY2VzIGF2YWlsYWJsZSB1bmRlciB0aGlzIFRhcmlmZiBhcyBzcGVjaWZpZWQgYmVsb3c6XHVsXHBhcg0KXHBhcmRcbHRycGFyXHVsbm9uZVxwYXINClxwYXJkXGx0cnBhclxmaS0zNjBcbGkxNDQwXHR4MTQ0MCBBLlx0YWJcYiBQSk1cYjAgOiAgU2VsbGVyIG9mZmVycyByZWd1bGF0aW9uIGFuZCBmcmVxdWVuY3kgcmVzcG9uc2Ugc2VydmljZSwgZW5lcmd5IGltYmFsYW5jZSBzZXJ2aWNlLCBhbmQgb3BlcmF0aW5nIHJlc2VydmUgc2VydmljZSAod2hpY2ggaW5jbHVkZXMgc3Bpbm5pbmcsIDEwLW1pbnV0ZSwgYW5kIDMwLW1pbnV0ZSByZXNlcnZlcykgZm9yIHNhbGUgaW50byB0aGUgbWFya2V0IGFkbWluaXN0ZXJlZCBieSBQSk0gSW50ZXJjb25uZWN0aW9uLCBMLkwuQy4gKCJQSk0iKSBhbmQsIHdoZXJlIHRoZSBQSk0gT3BlbiBBY2Nlc3MgVHJhbnNtaXNzaW9uIFRhcmlmZiBwZXJtaXRzLCB0aGUgc2VsZi1zdXBwbHkgb2YgdGhlc2Ugc2VydmljZXMgdG8gcHVyY2hhc2VycyBmb3IgYSBiaWxhdGVyYWwgc2FsZSB0aGF0IGlzIHVzZWQgdG8gc2F0aXNmeSB0aGUgYW5jaWxsYXJ5IHNlcnZpY2VzIHJlcXVpcmVtZW50cyBvZiB0aGUgUEpNIE9mZmljZSBvZiBJbnRlcmNvbm5lY3Rpb24uXHBhcg0KfQ0K</record_binary_data>
+      <record_plain_text>Ancillary Services:  PSE&amp;G makes ancillary services available under this Tariff as specified below:
+
+PJM:  Seller offers regulation and frequency response service, energy imbalance service, and operating reserve service (which includes spinning, 10-minute, and 30-minute reserves) for sale into the market administered by PJM Interconnection, L.L.C. ("PJM") and, where the PJM Open Access Transmission Tariff permits, the self-supply of these services to purchasers for a bilateral sale that is used to satisfy the ancillary services requirements of the PJM Office of Interconnection.
+</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>42</filing_id>
+      <filing_title>Compliance Filing of PSE&amp;G Market-Based Rate Tariff Volume No. 6</filing_title>
+      <filing_type>80</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-07-14</current_effective_date>
+      <ferc_order_date>2010-08-24</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>3100</record_id>
+      <option_code>A</option_code>
+      <record_title>Section 9</record_title>
+      <record_content_desc>Limitations &amp; Exemptions</record_content_desc>
+      <record_version_num>2.0.0</record_version_num>
+      <record_narrative_name>Section 9</record_narrative_name>
+      <collation_value>21000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2011-03-22</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcdWMwXHN0c2hmZGJjaDBcc3RzaGZsb2NoMFxzdHNoZmhpY2gwXHN0c2hmYmkwXGRlZmYwXGFkZWZmMHtcZm9udHRibHtcZjBcZnJvbWFuXGZjaGFyc2V0MFxmcHJxMntcKlxwYW5vc2UgMDIwMjA2MDMwNTA0MDUwMjAzMDR9e1wqXGZhbHQgVGltZXMgTmV3IFJvbWFufVRpbWVzIE5ldyBSb21hbjt9e1xmMVxmc3dpc3NcZmNoYXJzZXQwXGZwcnEye1wqXHBhbm9zZSAwMjBiMDYwNDAzMDUwNDA0MDIwNH1UYWhvbWE7fXtcZjJcZnJvbWFuXGZjaGFyc2V0MFxmcHJxMntcKlxmYWx0IFRpbWVzIE5ldyBSb21hbn1UaW1lcyBOZXcgUm9tYW4gQ0U7fXtcZjNcZnJvbWFuXGZjaGFyc2V0MFxmcHJxMntcKlxmYWx0IFRpbWVzIE5ldyBSb21hbn1UaW1lcyBOZXcgUm9tYW4gQ3lyO317XGY0XGZyb21hblxmY2hhcnNldDBcZnBycTJ7XCpcZmFsdCBUaW1lcyBOZXcgUm9tYW59VGltZXMgTmV3IFJvbWFuIEdyZWVrO317XGY1XGZyb21hblxmY2hhcnNldDBcZnBycTJ7XCpcZmFsdCBUaW1lcyBOZXcgUm9tYW59VGltZXMgTmV3IFJvbWFuIFR1cjt9e1xmNlxmcm9tYW5cZmNoYXJzZXQwXGZwcnEye1wqXGZhbHQgVGltZXMgTmV3IFJvbWFufVRpbWVzIE5ldyBSb21hbiAoSGVicmV3KTt9e1xmN1xmcm9tYW5cZmNoYXJzZXQwXGZwcnEye1wqXGZhbHQgVGltZXMgTmV3IFJvbWFufVRpbWVzIE5ldyBSb21hbiAoQXJhYmljKTt9e1xmOFxmcm9tYW5cZmNoYXJzZXQwXGZwcnEye1wqXGZhbHQgVGltZXMgTmV3IFJvbWFufVRpbWVzIE5ldyBSb21hbiBCYWx0aWM7fXtcZjlcZnJvbWFuXGZjaGFyc2V0MFxmcHJxMntcKlxmYWx0IFRpbWVzIE5ldyBSb21hbn1UaW1lcyBOZXcgUm9tYW4gKFZpZXRuYW1lc2UpO317XGYxMFxmc3dpc3NcZmNoYXJzZXQwXGZwcnEyIFRhaG9tYSBDRTt9e1xmMTFcZnN3aXNzXGZjaGFyc2V0MFxmcHJxMiBUYWhvbWEgQ3lyO317XGYxMlxmc3dpc3NcZmNoYXJzZXQwXGZwcnEyIFRhaG9tYSBHcmVlazt9e1xmMTNcZnN3aXNzXGZjaGFyc2V0MFxmcHJxMiBUYWhvbWEgVHVyO317XGYxNFxmc3dpc3NcZmNoYXJzZXQwXGZwcnEyIFRhaG9tYSAoSGVicmV3KTt9e1xmMTVcZnN3aXNzXGZjaGFyc2V0MFxmcHJxMiBUYWhvbWEgKEFyYWJpYyk7fXtcZjE2XGZzd2lzc1xmY2hhcnNldDBcZnBycTIgVGFob21hIEJhbHRpYzt9e1xmMTdcZnN3aXNzXGZjaGFyc2V0MFxmcHJxMiBUYWhvbWEgKFZpZXRuYW1lc2UpO317XGYxOFxmc3dpc3NcZmNoYXJzZXQwXGZwcnEyIFRhaG9tYSAoVGhhaSk7fX17XGNvbG9ydGJsO1xyZWQwXGdyZWVuMFxibHVlMDt9e1xzdHlsZXNoZWV0e1xzMFxzbmV4dDBcc3R5cnNpZDIyNDQ4MjNcYXNwYWxwaGFcYXNwbnVtXGx0cnBhclxsaTBcbGluMFxyaTBccmluMFxxbFxmYWF1dG9ccnRsY2hcYWxhbmcxMDI1XGFmczI0XGx0cmNoXGZzMjRcZjBcbGFuZzEwMzNcbGFuZ25wMTAzM1xsYW5nZmUxMDMzXGxhbmdmZW5wMTAzMyBOb3JtYWw7fXtcKlxjczEwXGFkZGl0aXZlXHNzZW1paGlkZGVuIERlZmF1bHQgUGFyYWdyYXBoIEZvbnQ7fXtcczE1XHNiYXNlZG9uMFxzbmV4dDE1XHNzZW1paGlkZGVuXGFzcGFscGhhXGFzcG51bVxsdHJwYXJcbGkwXGxpbjBccmkwXHJpbjBccWxcZmFhdXRvXHJ0bGNoXGFsYW5nMTAyNVxhZnMxNlxsdHJjaFxmczE2XGYxXGxhbmcxMDMzXGxhbmducDEwMzNcbGFuZ2ZlMTAzM1xsYW5nZmVucDEwMzMgQmFsbG9vbiBUZXh0O317XHMxNlxzYmFzZWRvbjBcc25leHQxNlxzdHlyc2lkMjI0NDgyM1x0cWNcdHg0MzIwXHRxclx0eDg2NDBcYXNwYWxwaGFcYXNwbnVtXGx0cnBhclxsaTBcbGluMFxyaTBccmluMFxxbFxmYWF1dG9ccnRsY2hcYWxhbmcxMDI1XGFmczI0XGx0cmNoXGZzMjRcZjBcbGFuZzEwMzNcbGFuZ25wMTAzM1xsYW5nZmUxMDMzXGxhbmdmZW5wMTAzMyBoZWFkZXI7fX17XCpcbGlzdHRhYmxle1xsaXN0XGxpc3R0ZW1wbGF0ZWlkMTE0NDc4ODY0MFxsaXN0aHlicmlke1xsaXN0bGV2ZWxcbGV2ZWxuZmMwXGxldmVsbmZjbjBcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQwIFwnMDJcJzAwLjt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHg3MjBcZmktMzYwXGxpNzIwXGxpbjcyMH17XGxpc3RsZXZlbFxsZXZlbG5mYzRcbGV2ZWxuZmNuNFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0XGxldmVsdGVtcGxhdGVpZDEgXCcwMlwnMDEpO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDE0NDBcZmktMzYwXGxpMTQ0MFxsaW4xNDQwfXtcbGlzdGxldmVsXGxldmVsbmZjMlxsZXZlbG5mY24yXGxldmVsamMyXGxldmVsamNuMlxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHRcbGV2ZWx0ZW1wbGF0ZWlkMiBcJzAyXCcwMi47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4MjE2MFxmaS0xODBcbGkyMTYwXGxpbjIxNjB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmMwXGxldmVsbmZjbjBcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQzIFwnMDJcJzAzLjt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHgyODgwXGZpLTM2MFxsaTI4ODBcbGluMjg4MH17XGxpc3RsZXZlbFxsZXZlbG5mYzRcbGV2ZWxuZmNuNFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0XGxldmVsdGVtcGxhdGVpZDQgXCcwMlwnMDQuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDM2MDBcZmktMzYwXGxpMzYwMFxsaW4zNjAwfXtcbGlzdGxldmVsXGxldmVsbmZjMlxsZXZlbG5mY24yXGxldmVsamMyXGxldmVsamNuMlxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHRcbGV2ZWx0ZW1wbGF0ZWlkNSBcJzAyXCcwNS47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4NDMyMFxmaS0xODBcbGk0MzIwXGxpbjQzMjB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmMwXGxldmVsbmZjbjBcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQ2IFwnMDJcJzA2Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHg1MDQwXGZpLTM2MFxsaTUwNDBcbGluNTA0MH17XGxpc3RsZXZlbFxsZXZlbG5mYzRcbGV2ZWxuZmNuNFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0XGxldmVsdGVtcGxhdGVpZDcgXCcwMlwnMDcuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDU3NjBcZmktMzYwXGxpNTc2MFxsaW41NzYwfXtcbGlzdGxldmVsXGxldmVsbmZjMlxsZXZlbG5mY24yXGxldmVsamMyXGxldmVsamNuMlxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHRcbGV2ZWx0ZW1wbGF0ZWlkOCBcJzAyXCcwOC47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4NjQ4MFxmaS0xODBcbGk2NDgwXGxpbjY0ODB9XGxpc3RpZDIwNDc0Mzk5fXtcbGlzdFxsaXN0dGVtcGxhdGVpZDIxNDM1NTU0Mzh7XGxpc3RsZXZlbFxsZXZlbG5mYzBcbGV2ZWxuZmNuMFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0N3tcbGV2ZWx0ZXh0IFwnMDJcJzAwLjt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHg3MjBcZmktMzYwXGxpNzIwXGxpbjcyMH17XGxpc3RsZXZlbFxsZXZlbG5mYzRcbGV2ZWxuZmNuNFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0IFwnMDJcJzAxLjt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHgxNDQwXGZpLTM2MFxsaTE0NDBcbGluMTQ0MH17XGxpc3RsZXZlbFxsZXZlbG5mYzJcbGV2ZWxuZmNuMlxsZXZlbGpjMlxsZXZlbGpjbjJcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0IFwnMDJcJzAyLjt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHgyMTYwXGZpLTE4MFxsaTIxNjBcbGluMjE2MH17XGxpc3RsZXZlbFxsZXZlbG5mYzBcbGV2ZWxuZmNuMFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0IFwnMDJcJzAzLjt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHgyODgwXGZpLTM2MFxsaTI4ODBcbGluMjg4MH17XGxpc3RsZXZlbFxsZXZlbG5mYzRcbGV2ZWxuZmNuNFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0IFwnMDJcJzA0Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHgzNjAwXGZpLTM2MFxsaTM2MDBcbGluMzYwMH17XGxpc3RsZXZlbFxsZXZlbG5mYzJcbGV2ZWxuZmNuMlxsZXZlbGpjMlxsZXZlbGpjbjJcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0IFwnMDJcJzA1Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHg0MzIwXGZpLTE4MFxsaTQzMjBcbGluNDMyMH17XGxpc3RsZXZlbFxsZXZlbG5mYzBcbGV2ZWxuZmNuMFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0IFwnMDJcJzA2Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHg1MDQwXGZpLTM2MFxsaTUwNDBcbGluNTA0MH17XGxpc3RsZXZlbFxsZXZlbG5mYzRcbGV2ZWxuZmNuNFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0IFwnMDJcJzA3Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHg1NzYwXGZpLTM2MFxsaTU3NjBcbGluNTc2MH17XGxpc3RsZXZlbFxsZXZlbG5mYzJcbGV2ZWxuZmNuMlxsZXZlbGpjMlxsZXZlbGpjbjJcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0IFwnMDJcJzA4Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHg2NDgwXGZpLTE4MFxsaTY0ODBcbGluNjQ4MH1cbGlzdGlkMjM4OTQ4MTc1fXtcbGlzdFxsaXN0dGVtcGxhdGVpZDk3MDE5NTQwNlxsaXN0aHlicmlke1xsaXN0bGV2ZWxcbGV2ZWxuZmMyXGxldmVsbmZjbjJcbGV2ZWxqYzJcbGV2ZWxqY24yXGxldmVsc3RhcnRhdDd7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQwIFwnMDMoXCcwMCk7fXtcbGV2ZWxudW1iZXJzIFwnMDI7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4MjE2MFxmaS0xODBcbGkyMTYwXGxpbjIxNjB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmM0XGxldmVsbmZjbjRcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQxIFwnMDJcJzAxLjt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHgxNDQwXGZpLTM2MFxsaTE0NDBcbGluMTQ0MH17XGxpc3RsZXZlbFxsZXZlbG5mYzJcbGV2ZWxuZmNuMlxsZXZlbGpjMlxsZXZlbGpjbjJcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0XGxldmVsdGVtcGxhdGVpZDIgXCcwMlwnMDIuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDIxNjBcZmktMTgwXGxpMjE2MFxsaW4yMTYwfXtcbGlzdGxldmVsXGxldmVsbmZjMFxsZXZlbG5mY24wXGxldmVsamMwXGxldmVsamNuMFxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHRcbGV2ZWx0ZW1wbGF0ZWlkMyBcJzAyXCcwMy47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4Mjg4MFxmaS0zNjBcbGkyODgwXGxpbjI4ODB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmM0XGxldmVsbmZjbjRcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQ0IFwnMDJcJzA0Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHgzNjAwXGZpLTM2MFxsaTM2MDBcbGluMzYwMH17XGxpc3RsZXZlbFxsZXZlbG5mYzJcbGV2ZWxuZmNuMlxsZXZlbGpjMlxsZXZlbGpjbjJcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0XGxldmVsdGVtcGxhdGVpZDUgXCcwMlwnMDUuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDQzMjBcZmktMTgwXGxpNDMyMFxsaW40MzIwfXtcbGlzdGxldmVsXGxldmVsbmZjMFxsZXZlbG5mY24wXGxldmVsamMwXGxldmVsamNuMFxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHRcbGV2ZWx0ZW1wbGF0ZWlkNiBcJzAyXCcwNi47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4NTA0MFxmaS0zNjBcbGk1MDQwXGxpbjUwNDB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmM0XGxldmVsbmZjbjRcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQ3IFwnMDJcJzA3Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHg1NzYwXGZpLTM2MFxsaTU3NjBcbGluNTc2MH17XGxpc3RsZXZlbFxsZXZlbG5mYzJcbGV2ZWxuZmNuMlxsZXZlbGpjMlxsZXZlbGpjbjJcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0XGxldmVsdGVtcGxhdGVpZDggXCcwMlwnMDguO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDY0ODBcZmktMTgwXGxpNjQ4MFxsaW42NDgwfVxsaXN0aWQ5OTI2MzkzNDR9e1xsaXN0XGxpc3R0ZW1wbGF0ZWlkOTcwMTk1NDA2e1xsaXN0bGV2ZWxcbGV2ZWxuZmMyXGxldmVsbmZjbjJcbGV2ZWxqYzJcbGV2ZWxqY24yXGxldmVsc3RhcnRhdDd7XGxldmVsdGV4dCBcJzAzKFwnMDApO317XGxldmVsbnVtYmVycyBcJzAyO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDIxNjBcZmktMTgwXGxpMjE2MFxsaW4yMTYwfXtcbGlzdGxldmVsXGxldmVsbmZjNFxsZXZlbG5mY240XGxldmVsamMwXGxldmVsamNuMFxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHQgXCcwMlwnMDEuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDE0NDBcZmktMzYwXGxpMTQ0MFxsaW4xNDQwfXtcbGlzdGxldmVsXGxldmVsbmZjMlxsZXZlbG5mY24yXGxldmVsamMyXGxldmVsamNuMlxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHQgXCcwMlwnMDIuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDIxNjBcZmktMTgwXGxpMjE2MFxsaW4yMTYwfXtcbGlzdGxldmVsXGxldmVsbmZjMFxsZXZlbG5mY24wXGxldmVsamMwXGxldmVsamNuMFxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHQgXCcwMlwnMDMuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDI4ODBcZmktMzYwXGxpMjg4MFxsaW4yODgwfXtcbGlzdGxldmVsXGxldmVsbmZjNFxsZXZlbG5mY240XGxldmVsamMwXGxldmVsamNuMFxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHQgXCcwMlwnMDQuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDM2MDBcZmktMzYwXGxpMzYwMFxsaW4zNjAwfXtcbGlzdGxldmVsXGxldmVsbmZjMlxsZXZlbG5mY24yXGxldmVsamMyXGxldmVsamNuMlxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHQgXCcwMlwnMDUuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDQzMjBcZmktMTgwXGxpNDMyMFxsaW40MzIwfXtcbGlzdGxldmVsXGxldmVsbmZjMFxsZXZlbG5mY24wXGxldmVsamMwXGxldmVsamNuMFxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHQgXCcwMlwnMDYuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDUwNDBcZmktMzYwXGxpNTA0MFxsaW41MDQwfXtcbGlzdGxldmVsXGxldmVsbmZjNFxsZXZlbG5mY240XGxldmVsamMwXGxldmVsamNuMFxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHQgXCcwMlwnMDcuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDU3NjBcZmktMzYwXGxpNTc2MFxsaW41NzYwfXtcbGlzdGxldmVsXGxldmVsbmZjMlxsZXZlbG5mY24yXGxldmVsamMyXGxldmVsamNuMlxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHQgXCcwMlwnMDguO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDY0ODBcZmktMTgwXGxpNjQ4MFxsaW42NDgwfVxsaXN0aWQxMjM0MzkzNDg2fXtcbGlzdFxsaXN0dGVtcGxhdGVpZDE4NjM2MzgzNThcbGlzdGh5YnJpZHtcbGlzdGxldmVsXGxldmVsbmZjMFxsZXZlbG5mY24wXGxldmVsamMwXGxldmVsamNuMFxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHRcbGV2ZWx0ZW1wbGF0ZWlkMCBcJzAyXCcwMC47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4NzIwXGZpLTM2MFxsaTcyMFxsaW43MjB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmMzXGxldmVsbmZjbjNcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQxIFwnMDJcJzAxLjt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHgxNDQwXGZpLTM2MFxsaTE0NDBcbGluMTQ0MH17XGxpc3RsZXZlbFxsZXZlbG5mYzBcbGV2ZWxuZmNuMFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0XGxldmVsdGVtcGxhdGVpZDIgXCcwMlwnMDIuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDIzNDBcZmktMzYwXGxpMjM0MFxsaW4yMzQwfXtcbGlzdGxldmVsXGxldmVsbmZjMFxsZXZlbG5mY24wXGxldmVsamMwXGxldmVsamNuMFxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHRcbGV2ZWx0ZW1wbGF0ZWlkMyBcJzAyXCcwMy47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4Mjg4MFxmaS0zNjBcbGkyODgwXGxpbjI4ODB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmM0XGxldmVsbmZjbjRcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQ0IFwnMDJcJzA0Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHgzNjAwXGZpLTM2MFxsaTM2MDBcbGluMzYwMH17XGxpc3RsZXZlbFxsZXZlbG5mYzJcbGV2ZWxuZmNuMlxsZXZlbGpjMlxsZXZlbGpjbjJcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0XGxldmVsdGVtcGxhdGVpZDUgXCcwMlwnMDUuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDQzMjBcZmktMTgwXGxpNDMyMFxsaW40MzIwfXtcbGlzdGxldmVsXGxldmVsbmZjMFxsZXZlbG5mY24wXGxldmVsamMwXGxldmVsamNuMFxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHRcbGV2ZWx0ZW1wbGF0ZWlkNiBcJzAyXCcwNi47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4NTA0MFxmaS0zNjBcbGk1MDQwXGxpbjUwNDB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmM0XGxldmVsbmZjbjRcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQ3IFwnMDJcJzA3Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHg1NzYwXGZpLTM2MFxsaTU3NjBcbGluNTc2MH17XGxpc3RsZXZlbFxsZXZlbG5mYzJcbGV2ZWxuZmNuMlxsZXZlbGpjMlxsZXZlbGpjbjJcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0XGxldmVsdGVtcGxhdGVpZDggXCcwMlwnMDguO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDY0ODBcZmktMTgwXGxpNjQ4MFxsaW42NDgwfVxsaXN0aWQxMzI5MDk1MjE4fXtcbGlzdFxsaXN0dGVtcGxhdGVpZDM3MTM2MTk3NntcbGlzdGxldmVsXGxldmVsbmZjMjU1XGxldmVsbmZjbjI1NVxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0N3tcbGV2ZWx0ZXh0IFwnMDI5Ljt9e1xsZXZlbG51bWJlcnM7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4NzIwXGZpLTM2MFxsaTcyMFxsaW43MjB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmM0XGxldmVsbmZjbjRcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dCBcJzAyXCcwMS47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4MTQ0MFxmaS0zNjBcbGkxNDQwXGxpbjE0NDB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmMyXGxldmVsbmZjbjJcbGV2ZWxqYzJcbGV2ZWxqY24yXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dCBcJzAyXCcwMi47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4MjE2MFxmaS0xODBcbGkyMTYwXGxpbjIxNjB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmMwXGxldmVsbmZjbjBcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dCBcJzAyXCcwMy47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4Mjg4MFxmaS0zNjBcbGkyODgwXGxpbjI4ODB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmM0XGxldmVsbmZjbjRcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dCBcJzAyXCcwNC47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4MzYwMFxmaS0zNjBcbGkzNjAwXGxpbjM2MDB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmMyXGxldmVsbmZjbjJcbGV2ZWxqYzJcbGV2ZWxqY24yXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dCBcJzAyXCcwNS47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4NDMyMFxmaS0xODBcbGk0MzIwXGxpbjQzMjB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmMwXGxldmVsbmZjbjBcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dCBcJzAyXCcwNi47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4NTA0MFxmaS0zNjBcbGk1MDQwXGxpbjUwNDB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmM0XGxldmVsbmZjbjRcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dCBcJzAyXCcwNy47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4NTc2MFxmaS0zNjBcbGk1NzYwXGxpbjU3NjB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmMyXGxldmVsbmZjbjJcbGV2ZWxqYzJcbGV2ZWxqY24yXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dCBcJzAyXCcwOC47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4NjQ4MFxmaS0xODBcbGk2NDgwXGxpbjY0ODB9XGxpc3RpZDE0MTgyODU0ODV9e1xsaXN0XGxpc3R0ZW1wbGF0ZWlkMzcxMzYxOTc2e1xsaXN0bGV2ZWxcbGV2ZWxuZmMyNTVcbGV2ZWxuZmNuMjU1XGxldmVsamMwXGxldmVsamNuMFxsZXZlbHN0YXJ0YXQ3e1xsZXZlbHRleHQgXCcwMjkuO317XGxldmVsbnVtYmVyczt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHg3MjBcZmktMzYwXGxpNzIwXGxpbjcyMH17XGxpc3RsZXZlbFxsZXZlbG5mYzRcbGV2ZWxuZmNuNFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0IFwnMDJcJzAxLjt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHgxNDQwXGZpLTM2MFxsaTE0NDBcbGluMTQ0MH17XGxpc3RsZXZlbFxsZXZlbG5mYzJcbGV2ZWxuZmNuMlxsZXZlbGpjMlxsZXZlbGpjbjJcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0IFwnMDJcJzAyLjt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHgyMTYwXGZpLTE4MFxsaTIxNjBcbGluMjE2MH17XGxpc3RsZXZlbFxsZXZlbG5mYzBcbGV2ZWxuZmNuMFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0IFwnMDJcJzAzLjt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHgyODgwXGZpLTM2MFxsaTI4ODBcbGluMjg4MH17XGxpc3RsZXZlbFxsZXZlbG5mYzRcbGV2ZWxuZmNuNFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0IFwnMDJcJzA0Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHgzNjAwXGZpLTM2MFxsaTM2MDBcbGluMzYwMH17XGxpc3RsZXZlbFxsZXZlbG5mYzJcbGV2ZWxuZmNuMlxsZXZlbGpjMlxsZXZlbGpjbjJcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0IFwnMDJcJzA1Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHg0MzIwXGZpLTE4MFxsaTQzMjBcbGluNDMyMH17XGxpc3RsZXZlbFxsZXZlbG5mYzBcbGV2ZWxuZmNuMFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0IFwnMDJcJzA2Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHg1MDQwXGZpLTM2MFxsaTUwNDBcbGluNTA0MH17XGxpc3RsZXZlbFxsZXZlbG5mYzRcbGV2ZWxuZmNuNFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0IFwnMDJcJzA3Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHg1NzYwXGZpLTM2MFxsaTU3NjBcbGluNTc2MH17XGxpc3RsZXZlbFxsZXZlbG5mYzJcbGV2ZWxuZmNuMlxsZXZlbGpjMlxsZXZlbGpjbjJcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0IFwnMDJcJzA4Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHg2NDgwXGZpLTE4MFxsaTY0ODBcbGluNjQ4MH1cbGlzdGlkMTY3MjI5NDYyOX17XGxpc3RcbGlzdHRlbXBsYXRlaWQtMTExMzE4OTIwNlxsaXN0aHlicmlke1xsaXN0bGV2ZWxcbGV2ZWxuZmMyXGxldmVsbmZjbjJcbGV2ZWxqYzJcbGV2ZWxqY24yXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQwIFwnMDMoXCcwMCk7fXtcbGV2ZWxudW1iZXJzIFwnMDI7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4NTQwXGZpLTE4MFxsaTU0MFxsaW41NDB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmM0XGxldmVsbmZjbjRcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQxIFwnMDJcJzAxLjt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHgxNDQwXGZpLTM2MFxsaTE0NDBcbGluMTQ0MH17XGxpc3RsZXZlbFxsZXZlbG5mYzJcbGV2ZWxuZmNuMlxsZXZlbGpjMlxsZXZlbGpjbjJcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0XGxldmVsdGVtcGxhdGVpZDIgXCcwMlwnMDIuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDIxNjBcZmktMTgwXGxpMjE2MFxsaW4yMTYwfXtcbGlzdGxldmVsXGxldmVsbmZjMFxsZXZlbG5mY24wXGxldmVsamMwXGxldmVsamNuMFxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHRcbGV2ZWx0ZW1wbGF0ZWlkMyBcJzAyXCcwMy47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4Mjg4MFxmaS0zNjBcbGkyODgwXGxpbjI4ODB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmM0XGxldmVsbmZjbjRcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQ0IFwnMDJcJzA0Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHgzNjAwXGZpLTM2MFxsaTM2MDBcbGluMzYwMH17XGxpc3RsZXZlbFxsZXZlbG5mYzJcbGV2ZWxuZmNuMlxsZXZlbGpjMlxsZXZlbGpjbjJcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0XGxldmVsdGVtcGxhdGVpZDUgXCcwMlwnMDUuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDQzMjBcZmktMTgwXGxpNDMyMFxsaW40MzIwfXtcbGlzdGxldmVsXGxldmVsbmZjMFxsZXZlbG5mY24wXGxldmVsamMwXGxldmVsamNuMFxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHRcbGV2ZWx0ZW1wbGF0ZWlkNiBcJzAyXCcwNi47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4NTA0MFxmaS0zNjBcbGk1MDQwXGxpbjUwNDB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmM0XGxldmVsbmZjbjRcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQ3IFwnMDJcJzA3Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHg1NzYwXGZpLTM2MFxsaTU3NjBcbGluNTc2MH17XGxpc3RsZXZlbFxsZXZlbG5mYzJcbGV2ZWxuZmNuMlxsZXZlbGpjMlxsZXZlbGpjbjJcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0XGxldmVsdGVtcGxhdGVpZDggXCcwMlwnMDguO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDY0ODBcZmktMTgwXGxpNjQ4MFxsaW42NDgwfVxsaXN0aWQxODY3MDYzNjYzfXtcbGlzdFxsaXN0dGVtcGxhdGVpZDUyOTUzOTM5NlxsaXN0aHlicmlke1xsaXN0bGV2ZWxcbGV2ZWxuZmMyNTVcbGV2ZWxuZmNuMjU1XGxldmVsamMwXGxldmVsamNuMFxsZXZlbHN0YXJ0YXQ3e1xsZXZlbHRleHRcbGV2ZWx0ZW1wbGF0ZWlkMCBcJzAyOS47fXtcbGV2ZWxudW1iZXJzO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDcyMFxmaS0zNjBcbGk3MjBcbGluNzIwfXtcbGlzdGxldmVsXGxldmVsbmZjNFxsZXZlbG5mY240XGxldmVsamMwXGxldmVsamNuMFxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHRcbGV2ZWx0ZW1wbGF0ZWlkMSBcJzAyXCcwMS47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4MTQ0MFxmaS0zNjBcbGkxNDQwXGxpbjE0NDB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmMyXGxldmVsbmZjbjJcbGV2ZWxqYzJcbGV2ZWxqY24yXGxldmVsc3RhcnRhdDd7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQyIFwnMDMoXCcwMik7fXtcbGV2ZWxudW1iZXJzIFwnMDI7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4MjE2MFxmaS0xODBcbGkyMTYwXGxpbjIxNjB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmMwXGxldmVsbmZjbjBcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQzIFwnMDJcJzAzLjt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHgyODgwXGZpLTM2MFxsaTI4ODBcbGluMjg4MH17XGxpc3RsZXZlbFxsZXZlbG5mYzRcbGV2ZWxuZmNuNFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0XGxldmVsdGVtcGxhdGVpZDQgXCcwMlwnMDQuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDM2MDBcZmktMzYwXGxpMzYwMFxsaW4zNjAwfXtcbGlzdGxldmVsXGxldmVsbmZjMlxsZXZlbG5mY24yXGxldmVsamMyXGxldmVsamNuMlxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHRcbGV2ZWx0ZW1wbGF0ZWlkNSBcJzAyXCcwNS47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4NDMyMFxmaS0xODBcbGk0MzIwXGxpbjQzMjB9e1xsaXN0bGV2ZWxcbGV2ZWxuZmMwXGxldmVsbmZjbjBcbGV2ZWxqYzBcbGV2ZWxqY24wXGxldmVsc3RhcnRhdDF7XGxldmVsdGV4dFxsZXZlbHRlbXBsYXRlaWQ2IFwnMDJcJzA2Ljt9e1xsZXZlbG51bWJlcnMgXCcwMTt9XGxldmVsZm9sbG93MFxydGxjaFxsdHJjaFxmMFxqY2xpc3R0YWJcdHg1MDQwXGZpLTM2MFxsaTUwNDBcbGluNTA0MH17XGxpc3RsZXZlbFxsZXZlbG5mYzRcbGV2ZWxuZmNuNFxsZXZlbGpjMFxsZXZlbGpjbjBcbGV2ZWxzdGFydGF0MXtcbGV2ZWx0ZXh0XGxldmVsdGVtcGxhdGVpZDcgXCcwMlwnMDcuO317XGxldmVsbnVtYmVycyBcJzAxO31cbGV2ZWxmb2xsb3cwXHJ0bGNoXGx0cmNoXGYwXGpjbGlzdHRhYlx0eDU3NjBcZmktMzYwXGxpNTc2MFxsaW41NzYwfXtcbGlzdGxldmVsXGxldmVsbmZjMlxsZXZlbG5mY24yXGxldmVsamMyXGxldmVsamNuMlxsZXZlbHN0YXJ0YXQxe1xsZXZlbHRleHRcbGV2ZWx0ZW1wbGF0ZWlkOCBcJzAyXCcwOC47fXtcbGV2ZWxudW1iZXJzIFwnMDE7fVxsZXZlbGZvbGxvdzBccnRsY2hcbHRyY2hcZjBcamNsaXN0dGFiXHR4NjQ4MFxmaS0xODBcbGk2NDgwXGxpbjY0ODB9XGxpc3RpZDIxMDQyOTk0NzF9fXtcKlxsaXN0b3ZlcnJpZGV0YWJsZXtcbGlzdG92ZXJyaWRlXGxpc3RpZDIwNDc0Mzk5XGxpc3RvdmVycmlkZWNvdW50MFxsczF9e1xsaXN0b3ZlcnJpZGVcbGlzdGlkMTMyOTA5NTIxOFxsaXN0b3ZlcnJpZGVjb3VudDBcbHMyfXtcbGlzdG92ZXJyaWRlXGxpc3RpZDIxMDQyOTk0NzFcbGlzdG92ZXJyaWRlY291bnQwXGxzM317XGxpc3RvdmVycmlkZVxsaXN0aWQyMzg5NDgxNzVcbGlzdG92ZXJyaWRlY291bnQwXGxzNH17XGxpc3RvdmVycmlkZVxsaXN0aWQxNjcyMjk0NjI5XGxpc3RvdmVycmlkZWNvdW50MFxsczV9e1xsaXN0b3ZlcnJpZGVcbGlzdGlkMTQxODI4NTQ4NVxsaXN0b3ZlcnJpZGVjb3VudDBcbHM2fXtcbGlzdG92ZXJyaWRlXGxpc3RpZDk5MjYzOTM0NFxsaXN0b3ZlcnJpZGVjb3VudDBcbHM3fXtcbGlzdG92ZXJyaWRlXGxpc3RpZDEyMzQzOTM0ODZcbGlzdG92ZXJyaWRlY291bnQwXGxzOH17XGxpc3RvdmVycmlkZVxsaXN0aWQxODY3MDYzNjYzXGxpc3RvdmVycmlkZWNvdW50MFxsczl9fXtcKlxyc2lkdGJsXHJzaWQyMjQ0ODIzXHJzaWQyMzYyMTA1XHJzaWQyNzEwNTQxXHJzaWQzOTM5NzA0XHJzaWQ0NzI0NjQ0XHJzaWQ2NTU2NDY3XHJzaWQxMTkzOTI0MX17XCpcZ2VuZXJhdG9yIEFzcG9zZS5Xb3JkcyBmb3IgLk5FVCA2LjQuMC4wO317XGluZm97XHRpdGxlIE1BUktFVC1CQVNFRCBSQVRFIFRBUklGRn17XGF1dGhvciBDb2xsaW5zLCBDb25zdGFuY2UgTC59e1xjb21wYW55IFBTRUd9e1xvcGVyYXRvciBXcnlubiwgSmFtZXMgRS59XHZlcnNpb24zXGVkbWluczBcbm9mcGFnZXMxXG5vZndvcmRzNjVcbm9mY2hhcnMzNzRcbm9mY2hhcnN3czQzOHtcY3JlYXRpbVx5cjIwMTFcbW8zXGR5MjFcaHIxMFxtaW4zXHNlYzB9e1xwcmludGltXHlyMjAxMVxtbzNcZHkxN1xocjE2XG1pbjI3XHNlYzB9e1xyZXZ0aW1ceXIyMDExXG1vM1xkeTIxXGhyMTBcbWluM1xzZWMwfX1cZGVmbGFuZzEwMzNcZGVmbGFuZ2ZlMjA1MlxhZGVmbGFuZzEwMjVcamV4cGFuZFxzaG93eG1sZXJyb3JzMXtcKlx3Z3JmZm10ZmlsdGVyIDAxM2Z9XHZpZXdraW5kMVx2aWV3c2NhbGUxMDBcZmV0MHtcKlxmdG5zZXBccGFyZFxwbGFpblxpdGFwMFxzMFxhc3BhbHBoYVxhc3BudW1cbHRycGFyXGxpMFxsaW4wXHJpMFxyaW4wXHFsXGZhYXV0b1xydGxjaFxhbGFuZzEwMjVcYWZzMjRcbHRyY2hcZnMyNFxmMFxsYW5nMTAzM1xsYW5nbnAxMDMzXGxhbmdmZTEwMzNcbGFuZ2ZlbnAxMDMze1xydGxjaFxhbGFuZzEwMjVcYWZzMjRcbHRyY2hcZnMyNFxmMFxsYW5nMTAzM1xsYW5nbnAxMDMzXGxhbmdmZTEwMzNcbGFuZ2ZlbnAxMDMzXGluc3JzaWQxNTEwMjI3XGNzMTAgXGNoZnRuc2VwIH17XHJ0bGNoXGFsYW5nMTAyNVxhZnMyNFxsdHJjaFxmczI0XGYwXGxhbmcxMDMzXGxhbmducDEwMzNcbGFuZ2ZlMTAzM1xsYW5nZmVucDEwMzNcaW5zcnNpZDE1MTAyMjdcY3MxMFxwYXJ9fXtcKlxmdG5zZXBjXHBhcmRccGxhaW5caXRhcDBcczBcYXNwYWxwaGFcYXNwbnVtXGx0cnBhclxsaTBcbGluMFxyaTBccmluMFxxbFxmYWF1dG9ccnRsY2hcYWxhbmcxMDI1XGFmczI0XGx0cmNoXGZzMjRcZjBcbGFuZzEwMzNcbGFuZ25wMTAzM1xsYW5nZmUxMDMzXGxhbmdmZW5wMTAzM3tccnRsY2hcYWxhbmcxMDI1XGFmczI0XGx0cmNoXGZzMjRcZjBcbGFuZzEwMzNcbGFuZ25wMTAzM1xsYW5nZmUxMDMzXGxhbmdmZW5wMTAzM1xpbnNyc2lkMTUxMDIyN1xjczEwIFxjaGZ0bnNlcGMgfXtccnRsY2hcYWxhbmcxMDI1XGFmczI0XGx0cmNoXGZzMjRcZjBcbGFuZzEwMzNcbGFuZ25wMTAzM1xsYW5nZmUxMDMzXGxhbmdmZW5wMTAzM1xpbnNyc2lkMTUxMDIyN1xjczEwXHBhcn19e1wqXGFmdG5zZXBccGFyZFxwbGFpblxpdGFwMFxzMFxhc3BhbHBoYVxhc3BudW1cbHRycGFyXGxpMFxsaW4wXHJpMFxyaW4wXHFsXGZhYXV0b1xydGxjaFxhbGFuZzEwMjVcYWZzMjRcbHRyY2hcZnMyNFxmMFxsYW5nMTAzM1xsYW5nbnAxMDMzXGxhbmdmZTEwMzNcbGFuZ2ZlbnAxMDMze1xydGxjaFxhbGFuZzEwMjVcYWZzMjRcbHRyY2hcZnMyNFxmMFxsYW5nMTAzM1xsYW5nbnAxMDMzXGxhbmdmZTEwMzNcbGFuZ2ZlbnAxMDMzXGluc3JzaWQxNTEwMjI3XGNzMTAgXGNoZnRuc2VwIH17XHJ0bGNoXGFsYW5nMTAyNVxhZnMyNFxsdHJjaFxmczI0XGYwXGxhbmcxMDMzXGxhbmducDEwMzNcbGFuZ2ZlMTAzM1xsYW5nZmVucDEwMzNcaW5zcnNpZDE1MTAyMjdcY3MxMFxwYXJ9fXtcKlxhZnRuc2VwY1xwYXJkXHBsYWluXGl0YXAwXHMwXGFzcGFscGhhXGFzcG51bVxsdHJwYXJcbGkwXGxpbjBccmkwXHJpbjBccWxcZmFhdXRvXHJ0bGNoXGFsYW5nMTAyNVxhZnMyNFxsdHJjaFxmczI0XGYwXGxhbmcxMDMzXGxhbmducDEwMzNcbGFuZ2ZlMTAzM1xsYW5nZmVucDEwMzN7XHJ0bGNoXGFsYW5nMTAyNVxhZnMyNFxsdHJjaFxmczI0XGYwXGxhbmcxMDMzXGxhbmducDEwMzNcbGFuZ2ZlMTAzM1xsYW5nZmVucDEwMzNcaW5zcnNpZDE1MTAyMjdcY3MxMCBcY2hmdG5zZXBjIH17XHJ0bGNoXGFsYW5nMTAyNVxhZnMyNFxsdHJjaFxmczI0XGYwXGxhbmcxMDMzXGxhbmducDEwMzNcbGFuZ2ZlMTAzM1xsYW5nZmVucDEwMzNcaW5zcnNpZDE1MTAyMjdcY3MxMFxwYXJ9fVxmdG5ialxhZW5kZG9jXHdpZG93Y3RybFxub3NwYWNlZm9ydWxcbm9sbmh0YWRqdGJsXGFsbnRibGluZFxseXR0YmxydGdyXGRudGJsbnNiZGJcbm94bGF0dG95ZW5cZXhwc2hydG5caHRtYXV0c3Bcbm91bHRybHNwY1x1c2VsdGJhbG5cc3BseXR3bmluZVxmdG5seXR3bmluZVxseXRjYWxjdGJsd2RcbG5icmtydWxlXGZvcm1zaGFkZVxyZXZpc2lvbnNcbm9qa2VybnB1bmN0XGRnaHNwYWNlMTgwXGRndnNwYWNlMTgwXGRnaG9yaWdpbjE4MDBcZGd2b3JpZ2luMTQ0MFxkZ2hzaG93MVxkZ3ZzaG93MVxkZ21hcmdpblxwZ2JyZHJoZWFkXHBnYnJkcmZvb3Rcc2VjdGRcZW5kbmhlcmVcc2VjdGxpbmVncmlkMzYwXHBnd3N4bjEyMjQwXHBnaHN4bjE1ODQwXG1hcmdsc3huMTgwMFxtYXJncnN4bjE4MDBcbWFyZ3RzeG4xNDQwXG1hcmdic3huMTQ0MFxsaW5leDBcc2Z0bmJqXGx0cnNlY3Rcc2VjdGRlZmF1bHRjbFxwYXJkXHBsYWluXGl0YXAwXHMxNlxsczNccG5yYXV0aDBccG5yZGF0ZTY1MzUwMzEwN1xwbnJzdGFydDBccG5yeHN0MlxwbnJ4c3QwXHBucnhzdDU3XHBucnhzdDBccG5yeHN0NDZccG5yeHN0MFxwbnJzdG9wNlxwbnJzdGFydDFccG5ycmdiMFxwbnJyZ2IwXHBucnJnYjBccG5ycmdiMFxwbnJyZ2IwXHBucnJnYjBccG5ycmdiMFxwbnJyZ2IwXHBucnJnYjBccG5yc3RvcDlccG5yc3RhcnQyXHBucm5mYzI1NVxwbnJuZmM0XHBucm5mYzJccG5ybmZjMFxwbnJuZmM0XHBucm5mYzJccG5ybmZjMFxwbnJuZmM0XHBucm5mYzJccG5ybmZjMFxwbnJuZmMwXHBucm5mYzdccG5ybmZjMFxwbnJuZmMwXHBucm5mYzBccG5ybmZjMFxwbnJuZmMwXHBucm5mYzBccG5yc3RvcDE4XHBucnN0YXJ0M1xwbnJwbmJyN1xwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJzdG9wMzZcdHg3MjBcZmktMzYwXHNhMjQwXGFzcGFscGhhXGFzcG51bVxwYXJhcnNpZDI3MTA1NDFcbHRycGFyXGxpNzIwXGxpbjcyMFxyaTBccmluMFxxalxmYWF1dG9ccnRsY2hcYWxhbmcxMDI1XGFmczI0XGx0cmNoXGZzMjRcZjBcbGFuZzEwMzNcbGFuZ25wMTAzM1xsYW5nZmUxMDMzXGxhbmdmZW5wMTAzM3tcbGlzdHRleHRccGFyZFxwbGFpblx0eDcyMFxmaS0zNjBcbHRycGFyXGxpNzIwXGxpbjcyMFxyaTBccmluMFxxbFxmYWF1dG9ccnRsY2hcbHRyY2hcZjAgOS5cdGFiIH17XHJ0bGNoXGFsYW5nMTAyNVxhZnMyNFxsdHJjaFxmczI0XGYwXGxhbmcxMDMzXGxhbmducDEwMzNcbGFuZ2ZlMTAzM1xsYW5nZmVucDEwMzNcY2hhcnJzaWQ0NzI0NjQ0XGluc3JzaWQyMjQ0ODIzXGNzMTBcdWwgTGltaXRhdGlvbnMgYW5kIEV4ZW1wdGlvbnMgUmVnYXJkaW5nIE1hcmtldC1CYXNlZCBSYXRlIEF1dGhvcml0eX17XHJ0bGNoXGFsYW5nMTAyNVxhZnMyNFxsdHJjaFxmczI0XGYwXGxhbmcxMDMzXGxhbmducDEwMzNcbGFuZ2ZlMTAzM1xsYW5nZmVucDEwMzNcaW5zcnNpZDIyNDQ4MjNcY3MxMCAufXtccnRsY2hcYWxhbmcxMDI1XGFmczI0XGx0cmNoXGZzMjRcZjBcbGFuZzEwMzNcbGFuZ25wMTAzM1xsYW5nZmUxMDMzXGxhbmdmZW5wMTAzM1xjaGFycnNpZDExOTM5MjQxXGluc3JzaWQyMjQ0ODIzXGNzMTBcY2YxXHBhcn1ccGFyZFxwbGFpblxpdGFwMFxzMTZcaWx2bDFcbHMzXHBucmF1dGgwXHBucmRhdGU2NTM1MDMxMDdccG5yc3RhcnQwXHBucnhzdDJccG5yeHN0MFxwbnJ4c3QxXHBucnhzdDBccG5yeHN0NDZccG5yeHN0MFxwbnJzdG9wNlxwbnJzdGFydDFccG5ycmdiMVxwbnJyZ2IwXHBucnJnYjBccG5ycmdiMFxwbnJyZ2IwXHBucnJnYjBccG5ycmdiMFxwbnJyZ2IwXHBucnJnYjBccG5yc3RvcDlccG5yc3RhcnQyXHBucm5mYzI1NVxwbnJuZmM0XHBucm5mYzJccG5ybmZjMFxwbnJuZmM0XHBucm5mYzJccG5ybmZjMFxwbnJuZmM0XHBucm5mYzJccG5ybmZjMFxwbnJuZmMwXHBucm5mYzdccG5ybmZjMFxwbnJuZmMwXHBucm5mYzBccG5ybmZjMVxwbnJuZmMwXHBucm5mYzBccG5yc3RvcDE4XHBucnN0YXJ0M1xwbnJwbmJyN1xwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMVxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJwbmJyMFxwbnJzdG9wMzZcdHgxNDQwXGZpLTM2MFxzYTI0MFxhc3BhbHBoYVxhc3BudW1ccGFyYXJzaWQyMjQ0ODIzXGx0cnBhclxsaTE0NDBcbGluMTQ0MFxyaTBccmluMFxxalxmYWF1dG9ccnRsY2hcYWxhbmcxMDI1XGFmczI0XGx0cmNoXGZzMjRcZjBcbGFuZzEwMzNcbGFuZ25wMTAzM1xsYW5nZmUxMDMzXGxhbmdmZW5wMTAzM3tcbGlzdHRleHRccGFyZFxwbGFpblx0eDE0NDBcZmktMzYwXGx0cnBhclxsaTE0NDBcbGluMTQ0MFxyaTBccmluMFxxbFxmYWF1dG9ccnRsY2hcbHRyY2hcZjAgYS5cdGFiIH17XHJ0bGNoXGFsYW5nMTAyNVxhZnMyNFxsdHJjaFxmczI0XGYwXGxhbmcxMDMzXGxhbmducDEwMzNcbGFuZ2ZlMTAzM1xsYW5nZmVucDEwMzNcY2hhcnJzaWQyMzYyMTA1XGluc3JzaWQyMjQ0ODIzXGNzMTAgUFNFJkdcdTgyMTcgcyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHkgaXMgbm90IHN1YmplY3QgdG8gYW55IGxpbWl0YXRpb25zLn17XHJ0bGNoXGFsYW5nMTAyNVxhZnMyNFxsdHJjaFxmczI0XGYwXGxhbmcxMDMzXGxhbmducDEwMzNcbGFuZ2ZlMTAzM1xsYW5nZmVucDEwMzNcaW5zcnNpZDIyNDQ4MjNcY3MxMFxwYXJ9XHBhcmRccGxhaW5caXRhcDBcczE2XGlsdmwxXGxzM1xwbnJhdXRoMFxwbnJkYXRlNjUzNTAzMTA3XHBucnN0YXJ0MFxwbnJ4c3QyXHBucnhzdDBccG5yeHN0MVxwbnJ4c3QwXHBucnhzdDQ2XHBucnhzdDBccG5yc3RvcDZccG5yc3RhcnQxXHBucnJnYjFccG5ycmdiMFxwbnJyZ2IwXHBucnJnYjBccG5ycmdiMFxwbnJyZ2IwXHBucnJnYjBccG5ycmdiMFxwbnJyZ2IwXHBucnN0b3A5XHBucnN0YXJ0MlxwbnJuZmMyNTVccG5ybmZjNFxwbnJuZmMyXHBucm5mYzBccG5ybmZjNFxwbnJuZmMyXHBucm5mYzBccG5ybmZjNFxwbnJuZmMyXHBucm5mYzBccG5ybmZjMFxwbnJuZmM3XHBucm5mYzBccG5ybmZjMFxwbnJuZmMwXHBucm5mYzJccG5ybmZjMFxwbnJuZmMwXHBucnN0b3AxOFxwbnJzdGFydDNccG5ycG5icjdccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjJccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5yc3RvcDM2XHR4MTQ0MFxmaS0zNjBcc2EyNDBcYXNwYWxwaGFcYXNwbnVtXHBhcmFyc2lkMjI0NDgyM1xsdHJwYXJcbGkxNDQwXGxpbjE0NDBccmkwXHJpbjBccWpcZmFhdXRvXHJ0bGNoXGFsYW5nMTAyNVxhZnMyNFxsdHJjaFxmczI0XGYwXGxhbmcxMDMzXGxhbmducDEwMzNcbGFuZ2ZlMTAzM1xsYW5nZmVucDEwMzN7XGxpc3R0ZXh0XHBhcmRccGxhaW5cdHgxNDQwXGZpLTM2MFxsdHJwYXJcbGkxNDQwXGxpbjE0NDBccmkwXHJpbjBccWxcZmFhdXRvXHJ0bGNoXGx0cmNoXGYwIGIuXHRhYiB9e1xydGxjaFxhbGFuZzEwMjVcYWZzMjRcbHRyY2hcZnMyNFxmMFxsYW5nMTAzM1xsYW5nbnAxMDMzXGxhbmdmZTEwMzNcbGFuZ2ZlbnAxMDMzXGNoYXJyc2lkMjM2MjEwNVxpbnNyc2lkMjI0NDgyM1xjczEwIFBTRSZHXHU4MjE3IHMgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5IGlzIG5vdCBzdWJqZWN0IHRvIGFueSB9e1xydGxjaFxhbGFuZzEwMjVcYWZzMjRcbHRyY2hcZnMyNFxmMFxsYW5nMTAzM1xsYW5nbnAxMDMzXGxhbmdmZTEwMzNcbGFuZ2ZlbnAxMDMzXGluc3JzaWQyMjQ0ODIzXGNzMTAgZXhlbXB0aW9ucywgd2FpdmVycyBvciBibGFua2V0IGF1dGhvcml6YXRpb25zLn17XHJ0bGNoXGFsYW5nMTAyNVxhZnMyNFxsdHJjaFxmczI0XGYwXGxhbmcxMDMzXGxhbmducDEwMzNcbGFuZ2ZlMTAzM1xsYW5nZmVucDEwMzNcaW5zcnNpZDIyNDQ4MjNcY3MxMFxwYXJ9XHBhcmRccGxhaW5caXRhcDBcczE2XGlsdmwxXGxzM1xwbnJhdXRoMFxwbnJkYXRlNjUzNTAzMTA3XHBucnN0YXJ0MFxwbnJ4c3QyXHBucnhzdDBccG5yeHN0MVxwbnJ4c3QwXHBucnhzdDQ2XHBucnhzdDBccG5yc3RvcDZccG5yc3RhcnQxXHBucnJnYjFccG5ycmdiMFxwbnJyZ2IwXHBucnJnYjBccG5ycmdiMFxwbnJyZ2IwXHBucnJnYjBccG5ycmdiMFxwbnJyZ2IwXHBucnN0b3A5XHBucnN0YXJ0MlxwbnJuZmMyNTVccG5ybmZjNFxwbnJuZmMyXHBucm5mYzBccG5ybmZjNFxwbnJuZmMyXHBucm5mYzBccG5ybmZjNFxwbnJuZmMyXHBucm5mYzBccG5ybmZjMFxwbnJuZmM3XHBucm5mYzBccG5ybmZjMFxwbnJuZmMwXHBucm5mYzNccG5ybmZjMFxwbnJuZmMwXHBucnN0b3AxOFxwbnJzdGFydDNccG5ycG5icjdccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjNccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5ycG5icjBccG5yc3RvcDM2XHR4MTQ0MFxmaS0zNjBcc2EyNDBcYXNwYWxwaGFcYXNwbnVtXHBhcmFyc2lkNjU1NjQ2N1xsdHJwYXJcbGkxNDQwXGxpbjE0NDBccmkwXHJpbjBccWpcZmFhdXRvXHJ0bGNoXGFsYW5nMTAyNVxhZnMyNFxsdHJjaFxmczI0XGYwXGxhbmcxMDMzXGxhbmducDEwMzNcbGFuZ2ZlMTAzM1xsYW5nZmVucDEwMzN7XGxpc3R0ZXh0XHBhcmRccGxhaW5cdHgxNDQwXGZpLTM2MFxsdHJwYXJcbGkxNDQwXGxpbjE0NDBccmkwXHJpbjBccWxcZmFhdXRvXHJ0bGNoXGx0cmNoXGYwIGMuXHRhYiB9e1xydGxjaFxhbGFuZzEwMjVcYWZzMjRcbHRyY2hcZnMyNFxmMFxsYW5nMTAzM1xsYW5nbnAxMDMzXGxhbmdmZTEwMzNcbGFuZ2ZlbnAxMDMzXGluc3JzaWQ2NTU2NDY3XGNzMTAgRXhlbXB0aW9ucyBncmFudGVkIGluIH17XHJ0bGNoXGFsYW5nMTAyNVxhZnMyNFxsdHJjaFxpXGZzMjRcZjBcbGFuZzEwMzNcbGFuZ25wMTAzM1xsYW5nZmUxMDMzXGxhbmdmZW5wMTAzM1xjaGFycnNpZDM5Mzk3MDRcaW5zcnNpZDY1NTY0NjdcY3MxMCBQdWJsaWMgU2VydmljZSBFbGVjdHJpYyBhbmQgR2FzIENvbXBhbnksIGV0IGFsLn17XHJ0bGNoXGFsYW5nMTAyNVxhZnMyNFxsdHJjaFxmczI0XGYwXGxhbmcxMDMzXGxhbmducDEwMzNcbGFuZ2ZlMTAzM1xsYW5nZmVucDEwMzNcaW5zcnNpZDY1NTY0NjdcY3MxMCAsIDEzNCBGRVJDIFwnYjYgNjEsMTM4ICgyMDExKTp9e1xydGxjaFxhbGFuZzEwMjVcYWZzMjRcbHRyY2hcZnMyNFxmMFxsYW5nMTAzM1xsYW5nbnAxMDMzXGxhbmdmZTEwMzNcbGFuZ2ZlbnAxMDMzXGluc3JzaWQ2NTU2NDY3XGNzMTBccGFyfVxwYXJkXHBsYWluXGl0YXAwXHMxNlxsczlccG5yYXV0aDBccG5yZGF0ZTY1MzUwMzEwN1xwbnJzdGFydDBccG5yeHN0M1xwbnJ4c3QwXHBucnhzdDQwXHBucnhzdDBccG5yeHN0MFxwbnJ4c3QwXHBucnhzdDQxXHBucnhzdDBccG5yc3RvcDhccG5yc3RhcnQxXHBucnJnYjJccG5ycmdiMFxwbnJyZ2IwXHBucnJnYjBccG5ycmdiMFxwbnJyZ2IwXHBucnJnYjBccG5ycmdiMFxwbnJyZ2IwXHBucnN0b3A5XHBucnN0YXJ0MlxwbnJuZmMyXHBucm5mYzRccG5ybmZjMlxwbnJuZmMwXHBucm5mYzRccG5ybmZjMlxwbnJuZmMwXHBucm5mYzRccG5ybmZjMlxwbnJuZmMwXHBucm5mYzBccG5ybmZjMVxwbnJuZmMwXHBucm5mYzBccG5ybmZjMFxwbnJuZmMwXHBucm5mYzBccG5ybmZjMFxwbnJzdG9wMThccG5yc3RhcnQzXHBucnBuYnIxXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnBuYnIwXHBucnN0b3AzNlx0eDU0MFx0eDIzNDBcZmktMTgwXHNhMjQwXGFzcGFscGhhXGFzcG51bVxwYXJhcnNpZDY1NTY0NjdcbHRycGFyXGxpMjM0MFxsaW4yMzQwXHJpMFxyaW4wXHFqXGZhYXV0b1xydGxjaFxhbGFuZzEwMjVcYWZzMjRcbHRyY2hcZnMyNFxmMFxsYW5nMTAzM1xsYW5nbnAxMDMzXGxhbmdmZTEwMzNcbGFuZ2ZlbnAxMDMze1xsaXN0dGV4dFxwYXJkXHBsYWluXHR4NTQwXGZpLTE4MFxsdHJwYXJcbGk1NDBcbGluNTQwXHJpMFxyaW4wXHFsXGZhYXV0b1xydGxjaFxsdHJjaFxmMCAoaSlcdGFiIH17XHJ0bGNoXGFsYW5nMTAyNVxhZnMyNFxsdHJjaFxmczI0XGYwXGxhbmcxMDMzXGxhbmducDEwMzNcbGFuZ2ZlMTAzM1xsYW5nZmVucDEwMzNcaW5zcnNpZDY1NTY0NjdcY3MxMCBXYWl2ZXIgb2YgdGhlIGFmZmlsaWF0ZSByZXN0cmljdGlvbnMgY29kaWZpZWQgaW4gdGhlIENvbW1pc3Npb25cdTgyMTcgcyByZWd1bGF0aW9ucyBhdCAxOCBDLkYuUi4gXCdhNyAzNS4zOS59e1xydGxjaFxhbGFuZzEwMjVcYWZzMjRcbHRyY2hcZnMyNFxmMFxsYW5nMTAzM1xsYW5nbnAxMDMzXGxhbmdmZTEwMzNcbGFuZ2ZlbnAxMDMzXGluc3JzaWQ2NTU2NDY3XGNzMTBccGFyfXtcKlxsYXRlbnRzdHlsZXNcbHNkc3RpbWF4MTU2XGxzZGxvY2tlZGRlZjBcbHNkc2VtaWhpZGRlbmRlZjFcbHNkdW5oaWRldXNlZGRlZjFcbHNkcWZvcm1hdGRlZjBcbHNkcHJpb3JpdHlkZWY5OXtcbHNkbG9ja2VkZXhjZXB0fX19</record_binary_data>
+      <record_plain_text>Limitations and Exemptions Regarding Market-Based Rate Authority.
+PSE&amp;G???s market-based rate authority is not subject to any limitations.
+PSE&amp;G???s market-based rate authority is not subject to any exemptions, waivers or blanket authorizations.
+Exemptions granted in Public Service Electric and Gas Company, et al., 134 FERC ?? 61,138 (2011):
+Waiver of the affiliate restrictions codified in the Commission???s regulations at 18 C.F.R. ?? 35.39.</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>98</filing_id>
+      <filing_title>Compliance Filing pursuant to February 25, 2011 Order</filing_title>
+      <filing_type>80</filing_type>
+      <associated_filing_id>42</associated_filing_id>
+      <associated_record_id>3100</associated_record_id>
+      <associated_option_code>A</associated_option_code>
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2011-03-22</current_effective_date>
+      <ferc_order_date>2011-05-12</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

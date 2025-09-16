@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C000821</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>1000</tariff_id>
+    <tariff_title>PSCo Gas Tariffs</tariff_title>
+    <tariff_export_date>2025-09-16T19:01Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>2000002</record_id>
+      <option_code>A</option_code>
+      <record_title>Statement of Rates</record_title>
+      <record_content_desc xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_version_num>0.1.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>12000001</collation_value>
+      <record_parent_id>2000000</record_parent_id>
+      <proposed_effective_date>2010-08-31</proposed_effective_date>
+      <priority_order>1000</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO317XGYxXGZzd2lzc1xmcHJxMlxmY2hhcnNldDAgQXJpYWw7fXtcZjJcZm1vZGVyblxmcHJxMVxmY2hhcnNldDAgQ291cmllciBOZXc7fX0NCntcc3R5bGVzaGVldHsgTm9ybWFsO317XHMxIGhlYWRpbmcgMTt9fQ0KXHZpZXdraW5kNFx1YzFccGFyZFxsdHJwYXJcZjBcZnMyNFxwYXINClxwYXJkXGx0cnBhclxrZWVwblxzMVxxY1x1bFxiXGYxXGZzMzYgU1RBVEVNRU5UIE9GIFJBVEVTXHBhcg0KXHBhcmRcbHRycGFyXHVsbm9uZVxiMFxmczI0XHBhcg0KXHBhcmRcbHRycGFyXHFqIFRyYW5zcG9ydGVyXHJxdW90ZSBzIE1heGltdW0gYW5kIE1pbmltdW0gUmF0ZXMgZm9yIHRyYW5zcG9ydGF0aW9uIHNlcnZpY2UgcHVyc3VhbnQgdG8gMTggQy5GLlIuIFNlY3Rpb24gMjg0LjIyNCogYXJlIGFzIGZvbGxvd3M6IFxwYXINClxwYXINClxwYXJkXGx0cnBhclx0cWNcdHg1NzYwXHRxY1x0eDgyODBcYlx0YWJcdWwgTWF4aW11bVx1bG5vbmVcdGFiXHVsIE1pbmltdW1ccGFyDQpcdWxub25lXHBhcg0KXHBhcmRcbHRycGFyXHR4Mjg4MFx0cWNcdHg1NzYwXHRxY1x0eDgyODBcdWwgRmlybSBUcmFuc3BvcnRhdGlvbiBTZXJ2aWNlXHVsbm9uZSA6XHBhcg0KXHBhcmRcbHRycGFyXGxpMzYwXHRxY1x0eDU3NjBcdHFjXHR4ODE2MFxiMCBGaXJtIENhcGFjaXR5IFJlc2VydmF0aW9uIENoYXJnZTpcdGFiICQ2LjEzMjRcdGFiICQwLjY4MFxwYXINClxwYXJkXGx0cnBhclxsaTcyMFx0cWNcdHg1NzYwXHRxY1x0eDgxNjAgKHBlciBEdGggcGVyIE1vbnRoIG9mIE1EQ1EpXHBhcg0KXHBhcmRcbHRycGFyXGxpMzYwXHRxY1x0eDU3NjBcdHFjXHR4ODE2MCBDb21tb2RpdHkgQ2hhcmdlOlx0YWIgJDAuMTc5Mlx0YWIgJDAuMDEwXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHR4Mjg4MFx0cWNcdHg1NzYwXHRxY1x0eDgxNjAgKHBlciBEdGgpXHBhcg0KXHBhcmRcbHRycGFyXGxpMzYwXHRxY1x0eDU3NjBcdHFjXHR4ODE2MCBBdXRob3JpemVkIE92ZXJydW4gQ2hhcmdlOlx0YWIgJDAuMTc5Mlx0YWIgJDAuMDEwXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHR4Mjg4MFx0cWNcdHg1NzYwXHRxY1x0eDgxNjAgKHBlciBEdGgpXHBhcg0KXHBhcmRcbHRycGFyXHR4Mjg4MFx0cWNcdHg1NzYwXHRxY1x0eDgxNjBccGFyDQpccGFyDQpcdWxcYiBJbnRlcnJ1cHRpYmxlIFRyYW5zcG9ydGF0aW9uIFNlcnZpY2VcdWxub25lIDpccGFyDQpccGFyZFxsdHJwYXJcbGkzNjBcdHFjXHR4NTc2MFx0cWNcdHg4MTYwXGIwIENvbW1vZGl0eSBDaGFyZ2U6XHRhYiAkMC40MTMxXHRhYiAkMC4wMTBccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBcdHgyODgwXHRxY1x0eDU3NjBcdHFjXHR4ODE2MCAocGVyIER0aClccGFyDQpccGFyZFxsdHJwYXJcbGkzNjBcdHFjXHR4NTc2MFx0cWNcdHg4MTYwIEF1dGhvcml6ZWQgT3ZlcnJ1biBDaGFyZ2U6XHRhYiAkMC40MTMxXHRhYiAkMC4wMTBccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBcdHgyODgwXHRxY1x0eDU3NjBcdHFjXHR4ODE2MCAocGVyIER0aClccGFyDQpccGFyZFxsdHJwYXJcdHgyODgwXHRxY1x0eDU3NjBcdHFjXHR4ODE2MFxwYXINClxwYXINClx1bFxiIEZ1ZWwgUmVpbWJ1cnNlbWVudCBQZXJjZW50YWdlXHVsbm9uZSA6XHRhYlxiMCAxLjcxJVx0YWIgMC4wMCVccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBcdHgyODgwXHRxY1x0eDU3NjBcdHFjXHR4ODI4MCAoJSBvZiBSZWNlaXB0cylccGFyDQpccGFyZFxsdHJwYXJccGFyDQpccGFyZFxsdHJwYXJcZmktMzYwXGxpMzYwXHFqICpcdGFiIENvbnNpc3RlbnQgd2l0aCBUcmFuc3BvcnRlclxycXVvdGUgcyByYXRlIGVsZWN0aW9uIG1hZGUgcHVyc3VhbnQgdG8gMTggQy5GLlIuIFwnYTcgMjg0LjEyMyhiKSgxKShpaSksIHRoZSBNYXhpbXVtIGFuZCBNaW5pbXVtIHJhdGVzIHJlZmxlY3RlZCBpbiB0aGlzIFN0YXRlbWVudCBvZiBSYXRlcyBhcmUgdGhlIHNhbWUgYXMgdGhvc2UgY29udGFpbmVkIGluIFRyYW5zcG9ydGVyXHJxdW90ZSBzIHRyYW5zcG9ydGF0aW9uIHJhdGUgc2NoZWR1bGVzIGZvciBjb21wYXJhYmxlIGludHJhc3RhdGUgc2VydmljZSBvbiBmaWxlIHdpdGggdGhlIENvbG9yYWRvIFB1YmxpYyBVdGlsaXRpZXMgQ29tbWlzc2lvbiBcdWwgZWZmZWN0aXZlIGFzIG9mIEp1bHkgMzAsIDIwMTBcdWxub25lIC5ccGFyDQpccGFyZFxsdHJwYXJcZjBccGFyDQpcZjJcZnMyMFxwYWdlXHBhcg0KfQ0K</record_binary_data>
+      <record_plain_text>STATEMENT OF RATES
+
+Transporter’s Maximum and Minimum Rates for transportation service pursuant to 18 C.F.R. Section 284.224* are as follows: 
+
+	Maximum	Minimum
+
+Firm Transportation Service:
+Firm Capacity Reservation Charge:	$6.1324	$0.680
+(per Dth per Month of MDCQ)
+Commodity Charge:	$0.1792	$0.010
+(per Dth)
+Authorized Overrun Charge:	$0.1792	$0.010
+(per Dth)
+
+
+Interruptible Transportation Service:
+Commodity Charge:	$0.4131	$0.010
+(per Dth)
+Authorized Overrun Charge:	$0.4131	$0.010
+(per Dth)
+
+
+Fuel Reimbursement Percentage:	1.71%	0.00%
+(% of Receipts)
+
+*	Consistent with Transporter’s rate election made pursuant to 18 C.F.R. § 284.123(b)(1)(ii), the Maximum and Minimum rates reflected in this Statement of Rates are the same as those contained in Transporter’s transportation rate schedules for comparable intrastate service on file with the Colorado Public Utilities Commission effective as of July 30, 2010.</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>42</filing_id>
+      <filing_title>20100917_Rate Filing Change</filing_title>
+      <filing_type>980</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-08-31</current_effective_date>
+      <ferc_order_date>2011-02-11</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

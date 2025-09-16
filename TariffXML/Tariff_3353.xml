@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C003080</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>1</tariff_id>
+    <tariff_title>wlddi</tariff_title>
+    <tariff_export_date>2025-09-16T19:54Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>clean_tariff.rtf</record_title>
+      <record_content_desc>tariff</record_content_desc>
+      <record_version_num>0.0.0</record_version_num>
+      <record_narrative_name>wlddi</record_narrative_name>
+      <collation_value>100000000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2012-09-30</proposed_effective_date>
+      <priority_order>603</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcY29jb2FydGYxMTg3XGNvY29hc3VicnRmMzQwCntcZm9udHRibFxmMFxmcm9tYW5cZmNoYXJzZXQwIFRpbWVzTmV3Um9tYW5QU01UO30Ke1xjb2xvcnRibDtccmVkMjU1XGdyZWVuMjU1XGJsdWUyNTU7fQpcbWFyZ2wxNDQwXG1hcmdyMTQ0MFx2aWV3dzEwODAwXHZpZXdoODQwMFx2aWV3a2luZDAKXGRlZnRhYjcyMApccGFyZFxwYXJkZWZ0YWI3MjBccGFyZGlybmF0dXJhbAoKXGYwXGZzMzIgXGNmMCBTaW5jZSBBcHJpbCAxLCAyMDEwIGFsbCBpbml0aWFsIG1hcmtldC1iYXNlZCByYXRlIGFwcGxpY2FudHMgYXJlIHJlcXVpcmVkIHRvIHN1Ym1pdCBhbiBlVGFyaWZmIGFzIHBhcnQgb2YgdGhlaXIgaW5pdGlhbCBhcHBsaWNhdGlvbiBpbiBjb21wbGlhbmNlIHdpdGggT3JkZXIgTm8uIDcxNC4gKFBhcGVyIHRhcmlmZnMgYXJlIG5vIGxvbmdlciBhY2NlcHRlZCBpbiBpbml0aWFsIG1hcmtldC1iYXNlZCByYXRlIGZpbGluZ3MpXApcClwKMSkgQXZhaWxhYmlsaXR5XApcClNlbGxlciBtYWtlcyBlbGVjdHJpYyBlbmVyZ3ksIGNhcGFjaXR5LCBhbmQgYW5jaWxsYXJ5IHNlcnZpY2VzIGF2YWlsYWJsZSB1bmRlciB0aGlzIHRhcmlmZiB0byBhbnkgcHVyY2hhc2VyLCBleGNlcHQgYXMgcHJvaGliaXRlZCBiZWxvdy4gXApcCjIpIFJhdGVzXApcCkFsbCBzYWxlcyBzaGFsbCBiZSBtYWRlIGF0IHJhdGVzIGVzdGFibGlzaGVkIGJ5IGFncmVlbWVudCBiZXR3ZWVuIHRoZSBwdXJjaGFzZXIgYW5kIFNlbGxlci4gXApcCjMpIFNlbGxlciBDYXRlZ29yeVwKXApTZWxsZXIgaXMgYSBDYXRlZ29yeSAxIHNlbGxlciBpbiBhbGwgcmVnaW9ucywgYXMgZGVmaW5lZCBpbiAxOCBDRlIgMzUuMzYoYSkuXApcCjQpIENvbXBsaWFuY2Ugd2l0aCBDb21taXNzaW9uIFJlZ3VsYXRpb25zIFwKXApTZWxsZXIgc2hhbGwgY29tcGx5IHdpdGggdGhlIHByb3Zpc2lvbnMgb2YgMTggQ0ZSIFBhcnQgMzUsIFN1YnBhcnQgSCwgYXMgYXBwbGljYWJsZSwgYW5kIHdpdGggYW55IGNvbmRpdGlvbnMgdGhlIENvbW1pc3Npb24gaW1wb3NlcyBpbiBpdHMgb3JkZXJzIGNvbmNlcm5pbmcgc2VsbGVyXCc5MnMgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LCBpbmNsdWRpbmcgb3JkZXJzIGluIHdoaWNoIHRoZSBDb21taXNzaW9uIGF1dGhvcml6ZXMgc2VsbGVyIHRvIGVuZ2FnZSBpbiBhZmZpbGlhdGUgc2FsZXMgdW5kZXIgdGhpcyB0YXJpZmYgb3Igb3RoZXJ3aXNlIHJlc3RyaWN0cyBvciBsaW1pdHMgdGhlIHNlbGxlclwnOTJzIG1hcmtldC1iYXNlZCByYXRlIGF1dGhvcml0eS4gRmFpbHVyZSB0byBjb21wbHkgd2l0aCB0aGUgYXBwbGljYWJsZSBwcm92aXNpb25zIG9mIDE4IENGUiBQYXJ0IDM1LCBTdWJwYXJ0IEgsIGFuZCB3aXRoIGFueSBvcmRlcnMgb2YgdGhlIENvbW1pc3Npb24gY29uY2VybmluZyBzZWxsZXJcJzkycyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHksIHdpbGwgY29uc3RpdHV0ZSBhIHZpb2xhdGlvbiBvZiB0aGlzIHRhcmlmZi4gXApcClwKXAo1KQpcZnMyNiAgClxmczMyIExpbWl0YXRpb25zIGFuZCBFeGVtcHRpb25zIFJlZ2FyZGluZyBNYXJrZXQtQmFzZWQgUmF0ZSBBdXRob3JpdHkKXGZzMjYgIFwKClxmczMyIFwKU2VsbGVyIGhhcyByZWNlaXZlZCB3YWl2ZXIgb2Y6ICBTdWJwYXJ0cyBCIGFuZCBDIG9mIFBhcnQgMzUsIGV4Y2VwdCBmb3Igc2VjdGlvbnMgMzUuMTIoYSksIDM1LjEzKGIpLCAzNS4xNSBhbmQgMzUuMTY7ICBQYXJ0IDQxLCBQYXJ0IDEwMSwgYW5kIFBhcnQgMTQxLCBleGNlcHQgc2VjdGlvbnMgMTQxLjE0IGFuZCAxNDEuMTUuOyBhbmQgcmVjZWl2ZWQgYmxhbmtldCBhcHByb3ZhbCB1bmRlciBQYXJ0IDM0LiAKXGkgTmV0c2FsZXMgJiBBcnRzLCBJbmMsClxpMCAgRVIxMi0gXHVsIDI2NTRcdWxub25lICAtMDAwICgyMDEyKS5cClwKNikgQW5jaWxsYXJ5IFNlcnZpY2VzXApcClBKTTogIFNlbGxlciBvZmZlcnMgcmVndWxhdGlvbiBhbmQgZnJlcXVlbmN5IHJlc3BvbnNlIHNlcnZpY2UsIGVuZXJneSBpbWJhbGFuY2Ugc2VydmljZSwgYW5kIG9wZXJhdGluZyByZXNlcnZlIHNlcnZpY2UgKHdoaWNoIGluY2x1ZGVzIHNwaW5uaW5nLCAxMC1taW51dGUsIGFuZCAzMC1taW51dGUgcmVzZXJ2ZXMpIGZvciBzYWxlIGludG8gdGhlIG1hcmtldCBhZG1pbmlzdGVyZWQgYnkgUEpNIEludGVyY29ubmVjdGlvbiwgTC5MLkMuICgiUEpNIikgYW5kLCB3aGVyZSB0aGUgUEpNIE9wZW4gQWNjZXNzIFRyYW5zbWlzc2lvbiBUYXJpZmYgcGVybWl0cywgdGhlIHNlbGYtc3VwcGx5IG9mIHRoZXNlIHNlcnZpY2VzIHRvIHB1cmNoYXNlcnMgZm9yIGEgYmlsYXRlcmFsIHNhbGUgdGhhdCBpcyB1c2VkIHRvIHNhdGlzZnkgdGhlIGFuY2lsbGFyeSBzZXJ2aWNlcyByZXF1aXJlbWVudHMgb2YgdGhlIFBKTSBPZmZpY2Ugb2YgSW50ZXJjb25uZWN0aW9uLiBcClwKTmV3IFlvcms6ICBTZWxsZXIgb2ZmZXJzIHJlZ3VsYXRpb24gYW5kIGZyZXF1ZW5jeSByZXNwb25zZSBzZXJ2aWNlLCBhbmQgb3BlcmF0aW5nIHJlc2VydmUgc2VydmljZSAod2hpY2ggaW5jbHVkZSAxMC1taW51dGUgbm9uLXN5bmNocm9ub3VzLCAzMC1taW51dGUgb3BlcmF0aW5nIHJlc2VydmVzLCAxMC1taW51dGUgc3Bpbm5pbmcgcmVzZXJ2ZXMsIGFuZCAxMC1taW51dGUgbm9uLXNwaW5uaW5nIHJlc2VydmVzKSBmb3Igc2FsZSB0byBwdXJjaGFzZXJzIGluIHRoZSBtYXJrZXQgYWRtaW5pc3RlcmVkIGJ5IHRoZSBOZXcgWW9yayBJbmRlcGVuZGVudCBTeXN0ZW0gT3BlcmF0b3IsIEluYy4gXApcCk5ldyBFbmdsYW5kOiAgU2VsbGVyIG9mZmVycyByZWd1bGF0aW9uIGFuZCBmcmVxdWVuY3kgcmVzcG9uc2Ugc2VydmljZSAoYXV0b21hdGljIGdlbmVyYXRvciBjb250cm9sKSwgb3BlcmF0aW5nIHJlc2VydmUgc2VydmljZSAod2hpY2ggaW5jbHVkZXMgMTAtbWludXRlIHNwaW5uaW5nIHJlc2VydmUsIDEwLW1pbnV0ZSBub24tc3Bpbm5pbmcgcmVzZXJ2ZSwgYW5kIDMwLW1pbnV0ZSBvcGVyYXRpbmcgcmVzZXJ2ZSBzZXJ2aWNlKSB0byBwdXJjaGFzZXJzIHdpdGhpbiB0aGUgbWFya2V0cyBhZG1pbmlzdGVyZWQgYnkgdGhlIElTTyBOZXcgRW5nbGFuZCwgSW5jLiBcClwKQ2FsaWZvcm5pYTogIFNlbGxlciBvZmZlcnMgcmVndWxhdGlvbiBzZXJ2aWNlLCBzcGlubmluZyByZXNlcnZlIHNlcnZpY2UsIGFuZCBub24tc3Bpbm5pbmcgcmVzZXJ2ZSBzZXJ2aWNlIHRvIHRoZSBDYWxpZm9ybmlhIEluZGVwZW5kZW50IFN5c3RlbSBPcGVyYXRvciBDb3Jwb3JhdGlvbiAoIkNBSVNPIikgYW5kIHRvIG90aGVycyB0aGF0IGFyZSBzZWxmLXN1cHBseWluZyBhbmNpbGxhcnkgc2VydmljZXMgdG8gdGhlIENBSVNPLiBcClxwYXJkXHBhcmRlZnRhYjcyMFxwYXJkaXJuYXR1cmFsCgpcZnMyNCBcY2YwIFwKTUlTTwpcZnMzMiA6IFNlbGxlciBvZmZlcnMgcmVndWxhdGlvbiBzZXJ2aWNlIGFuZCBvcGVyYXRpbmcgcmVzZXJ2ZSBzZXJ2aWNlICh3aGljaCBpbmNsdWRlIDEwLW1pbnV0ZSBzcGlubmluZyByZXNlcnZlIGFuZCAxMC1taW51dGUgc3VwcGxlbWVudGFsIHJlc2VydmUpIGZvciBzYWxlIHRvIHRoZSBNaWR3ZXN0IEluZGVwZW5kZW50IFRyYW5zbWlzc2lvbiBTeXN0ZW0gT3BlcmF0b3IsIEluYy4gKE1JU08pIGFuZCB0byBvdGhlcnMgdGhhdCBhcmUgc2VsZi1zdXBwbHlpbmcgYW5jaWxsYXJ5IHNlcnZpY2VzIHRvIE1JU08uXApcClRoaXJkLXBhcnR5IGFuY2lsbGFyeSBzZXJ2aWNlczogIFNlbGxlciBvZmZlcnMgUmVndWxhdGlvbiBTZXJ2aWNlLCBFbmVyZ3kgSW1iYWxhbmNlIFNlcnZpY2UsIFNwaW5uaW5nIFJlc2VydmVzLCBhbmQgU3VwcGxlbWVudGFsIFJlc2VydmVzLiAgU2FsZXMgd2lsbCBub3QgaW5jbHVkZSB0aGUgZm9sbG93aW5nOiAoMSkgc2FsZXMgdG8gYW4gUlRPIG9yIGFuIElTTywgaS5lLiwgd2hlcmUgdGhhdCBlbnRpdHkgaGFzIG5vIGFiaWxpdHkgdG8gc2VsZi1zdXBwbHkgYW5jaWxsYXJ5IHNlcnZpY2VzIGJ1dCBpbnN0ZWFkIGRlcGVuZHMgb24gdGhpcmQgcGFydGllczsgKDIpIHNhbGVzIHRvIGEgdHJhZGl0aW9uYWwsIGZyYW5jaGlzZWQgcHVibGljIHV0aWxpdHkgYWZmaWxpYXRlZCB3aXRoIHRoZSB0aGlyZC1wYXJ0eSBzdXBwbGllciwgb3Igc2FsZXMgd2hlcmUgdGhlIHVuZGVybHlpbmcgdHJhbnNtaXNzaW9uIHNlcnZpY2UgaXMgb24gdGhlIHN5c3RlbSBvZiB0aGUgcHVibGljIHV0aWxpdHkgYWZmaWxpYXRlZCB3aXRoIHRoZSB0aGlyZC1wYXJ0eSBzdXBwbGllcjsgYW5kICgzKSBzYWxlcyB0byBhIHB1YmxpYyB1dGlsaXR5IHRoYXQgaXMgcHVyY2hhc2luZyBhbmNpbGxhcnkgc2VydmljZXMgdG8gc2F0aXNmeSBpdHMgb3duIG9wZW4gYWNjZXNzIHRyYW5zbWlzc2lvbiB0YXJpZmYgcmVxdWlyZW1lbnRzIHRvIG9mZmVyIGFuY2lsbGFyeSBzZXJ2aWNlcyB0byBpdHMgb3duIGN1c3RvbWVycy5cClwK</record_binary_data>
+      <record_plain_text>Since April 1, 2010 all initial market-based rate applicants are required to submit an eTariff as part of their initial application in compliance with Order No. 714. (Paper tariffs are no longer accepted in initial market-based rate filings)
+
+
+1) Availability
+
+Seller makes electric energy, capacity, and ancillary services available under this tariff to any purchaser, except as prohibited below. 
+
+2) Rates
+
+All sales shall be made at rates established by agreement between the purchaser and Seller. 
+
+3) Seller Category
+
+Seller is a Category 1 seller in all regions, as defined in 18 CFR 35.36(a).
+
+4) Compliance with Commission Regulations 
+
+Seller shall comply with the provisions of 18 CFR Part 35, Subpart H, as applicable, and with any conditions the Commission imposes in its orders concerning seller’s market-based rate authority, including orders in which the Commission authorizes seller to engage in affiliate sales under this tariff or otherwise restricts or limits the seller’s market-based rate authority. Failure to comply with the applicable provisions of 18 CFR Part 35, Subpart H, and with any orders of the Commission concerning seller’s market-based rate authority, will constitute a violation of this tariff. 
+
+
+
+5) Limitations and Exemptions Regarding Market-Based Rate Authority 
+
+Seller has received waiver of:  Subparts B and C of Part 35, except for sections 35.12(a), 35.13(b), 35.15 and 35.16;  Part 41, Part 101, and Part 141, except sections 141.14 and 141.15.; and received blanket approval under Part 34. Netsales and Arts, Inc, ER12- 2654 -000 (2012).
+
+6) Ancillary Services
+
+PJM:  Seller offers regulation and frequency response service, energy imbalance service, and operating reserve service (which includes spinning, 10-minute, and 30-minute reserves) for sale into the market administered by PJM Interconnection, L.L.C. ("PJM") and, where the PJM Open Access Transmission Tariff permits, the self-supply of these services to purchasers for a bilateral sale that is used to satisfy the ancillary services requirements of the PJM Office of Interconnection. 
+
+New York:  Seller offers regulation and frequency response service, and operating reserve service (which include 10-minute non-synchronous, 30-minute operating reserves, 10-minute spinning reserves, and 10-minute non-spinning reserves) for sale to purchasers in the market administered by the New York Independent System Operator, Inc. 
+
+New England:  Seller offers regulation and frequency response service (automatic generator control), operating reserve service (which includes 10-minute spinning reserve, 10-minute non-spinning reserve, and 30-minute operating reserve service) to purchasers within the markets administered by the ISO New England, Inc. 
+
+California:  Seller offers regulation service, spinning reserve service, and non-spinning reserve service to the California Independent System Operator Corporation ("CAISO") and to others that are self-supplying ancillary services to the CAISO. 
+
+MISO: Seller offers regulation service and operating reserve service (which include 10-minute spinning reserve and 10-minute supplemental reserve) for sale to the Midwest Independent Transmission System Operator, Inc. (MISO) and to others that are self-supplying ancillary services to MISO.
+
+Third-party ancillary services:  Seller offers Regulation Service, Energy Imbalance Service, Spinning Reserves, and Supplemental Reserves.  Sales will not include the following: (1) sales to an RTO or an ISO, i.e., where that entity has no ability to self-supply ancillary services but instead depends on third parties; (2) sales to a traditional, franchised public utility affiliated with the third-party supplier, or sales where the underlying transmission service is on the system of the public utility affiliated with the third-party supplier; and (3) sales to a public utility that is purchasing ancillary services to satisfy its own open access transmission tariff requirements to offer ancillary services to its own customers.
+
+
+
+
+
+
+
+
+
+
+
+
+Asset Appendix 
+Listing the filing entity and all its energy affiliates and their associated assets. (Both sections of this appendix are required even if the applicant does not own any assets.)
+Page 1 of 2
+
+Market-Based Rate Authority and Generation Assets
+Filing Entity and its Energy Affiliates Netsales and Arts, Inc.
+Docket # where MBR authority was granted ER12-2654-000 
+Generation Name NA
+Owned By NA
+Controlled By NA
+Date Control Transferred
+Location
+In-service Date
+Nameplate and/or Seasonal Rating
+Balancing Authority Area Geographic Region (per Appendix D Not Applicable
+
+
+
+
+
+
+
+Page 2 of 2
+
+Electric Transmission Assets and/or Natural Gas Intrastate Pipelines and/or Gas Storage Facilities
+Filing Entity and its Energy Affiliates Netsales and Arts, Inc.
+Asset Name and Use
+Owned By
+Controlled By
+Date Control Transferred
+Location
+Size
+Balancing Authority Area Geographic Region (per Appendix D) Netsales and Arts, Inc.</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>6</filing_id>
+      <filing_title>mbr_tar</filing_title>
+      <filing_type>120</filing_type>
+      <associated_filing_id>5</associated_filing_id>
+      <associated_record_id>1</associated_record_id>
+      <associated_option_code>A</associated_option_code>
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2012-09-30</current_effective_date>
+      <ferc_order_date>2013-01-07</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

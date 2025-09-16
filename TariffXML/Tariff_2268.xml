@@ -1,0 +1,560 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C000936</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>18</tariff_id>
+    <tariff_title>NGA Gas</tariff_title>
+    <tariff_export_date>2025-09-16T19:22Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>197</record_id>
+      <option_code>A</option_code>
+      <record_title>Sheet No. 5</record_title>
+      <record_content_desc>FSS Rate Statement</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>First Revised Sheet No. 5</record_narrative_name>
+      <collation_value>135856128</collation_value>
+      <record_parent_id>192</record_parent_id>
+      <proposed_effective_date>2011-01-17</proposed_effective_date>
+      <priority_order>1000000000</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTEwMzN7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxxY1xmMFxmczE2XHBhcg0KXHBhcg0KUEVUQUwgR0FTIFNUT1JBR0UsIEwuTC5DLlxwYXINCkZTUyBSQVRFIFNUQVRFTUVOVCAtIEZJUk0gU1RPUkFHRSBTRVJWSUNFKlxwYXINClxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxxalxwYXINClxwYXINClxwYXINClxwYXJkXGx0cnBhclxmaTE4MFxsaTUwNDBcc2wtMTgwXHNsbXVsdDBccWpcdHg3NzQwIFJBVEVcdGFiXHRhYiBVTklUU1xwYXINClxwYXJkXGx0cnBhclxmaS03MjBcbGk1MDQwXHNsLTE4MFxzbG11bHQwXHFqXHR4Nzc0MCAgICAgICAgIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLVx0YWIgICAgIC0tLS0tLS0tLVxwYXINClxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxxalxwYXINClxwYXJkXGx0cnBhclxsaTcyMFxzbC0xODBcc2xtdWx0MFxxalx0eDQzMjBcdHg3OTIwIFN0b3JhZ2UgQ2FwYWNpdHkgQ2hhcmdlXHRhYiBNYXJrZXQgQmFzZWQvTmVnb3RpYWJsZVx0YWIgJC9kdGhccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWpccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBccmk2MTJcc2wtMTgwXHNsbXVsdDAgUGFpZCBvbiBhIG1vbnRobHkgYmFzaXMuICBQYXltZW50IGlzIGVxdWFsIHRvIHRoZSBTdG9yYWdlIENhcGFjaXR5IENoYXJnZSBtdWx0aXBsaWVkIGJ5IEN1c3RvbWVyJ3MgRmlybSBTdG9yYWdlIENhcGFjaXR5LlxwYXINClxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxxaiAgICBccGFyDQpccGFyDQpccGFyDQpccGFyZFxsdHJwYXJcZmktNTA0MFxsaTU3NjBcc2wtMTgwXHNsbXVsdDBccWpcdHg0MzIwXHR4NzkyMCBTdG9yYWdlIERlbGl2ZXJhYmlsaXR5IENoYXJnZVx0YWIgTWFya2V0IEJhc2VkL05lZ290aWFibGVcdGFiICQvZHRoXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqXHRhYlx0YWIgIFxwYXINClxwYXJkXGx0cnBhclxsaTcyMFxyaTc5MlxzbC0xODBcc2xtdWx0MCBQYWlkIG9uIGEgbW9udGhseSBiYXNpcy4gIFBheW1lbnQgaXMgZXF1YWwgdG8gdGhlIFN0b3JhZ2UgRGVsaXZlcmFiaWxpdHkgQ2hhcmdlIG11bHRpcGxpZWQgYnkgQ3VzdG9tZXIncyBUb3RhbCBNYXhpbXVtIERhaWx5IFdpdGhkcmF3YWwgUXVhbnRpdHkuXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqICAgIFxwYXINClxwYXINClxwYXINClxwYXJkXGx0cnBhclxsaTcyMFxzbC0xODBcc2xtdWx0MFxxalx0eDQzMjBcdHg3OTIwIFN0b3JhZ2UgSW5qZWN0aW9uIENoYXJnZVx0YWIgTWFya2V0IEJhc2VkL05lZ290aWFibGVcdGFiICQvZHRoXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHJpNTIyXHNsLTE4MFxzbG11bHQwIFBhaWQgb24gYSBtb250aGx5IGJhc2lzLiAgUGF5bWVudCBpcyBlcXVhbCB0byB0aGUgU3RvcmFnZSBJbmplY3Rpb24gQ2hhcmdlIG11bHRpcGxpZWQgYnkgdGhlIGR0aCBxdWFudGl0eSBpbmplY3RlZCBieSB0aGUgQ3VzdG9tZXIgZHVyaW5nIGEgZ2l2ZW4gbW9udGguXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqICAgIFxwYXINClxwYXINClxwYXINClxwYXJkXGx0cnBhclxsaTcyMFxzbC0xODBcc2xtdWx0MFxxalx0eDQzMjBcdHg3OTIwIE92ZXJydW4gSW5qZWN0aW9uIENoYXJnZVx0YWIgTWFya2V0IEJhc2VkL05lZ290aWFibGVcdGFiICQvZHRoXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqICAgIFxwYXINClxwYXJkXGx0cnBhclxsaTcyMFxyaTUyMlxzbC0xODBcc2xtdWx0MCBQYWlkIG9uIGEgbW9udGhseSBiYXNpcy4gIFBheW1lbnQgaXMgZXF1YWwgdG8gdGhlIE92ZXJydW4gSW5qZWN0aW9uIENoYXJnZSBtdWx0aXBsaWVkIGJ5IHRoZSBkdGggcXVhbnRpdHkgaW5qZWN0ZWQgYnkgQ3VzdG9tZXIgcHVyc3VhbnQgdG8gU2VjdGlvbiAzKGEpIHVuZGVyIFJhdGUgU2NoZWR1bGUgRlNTLlxwYXINClxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxxaiAgICBccGFyDQpccGFyDQpccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBcc2wtMTgwXHNsbXVsdDBccWpcdHg0MzIwXHR4NzkyMCBTdG9yYWdlIFdpdGhkcmF3YWwgQ2hhcmdlXHRhYiBNYXJrZXQgQmFzZWQvTmVnb3RpYWJsZVx0YWIgJC9kdGhccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWpccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBccmk0MzJcc2wtMTgwXHNsbXVsdDAgUGFpZCBvbiBhIG1vbnRobHkgYmFzaXMuICBQYXltZW50IGlzIGVxdWFsIHRvIHRoZSBTdG9yYWdlIFdpdGhkcmF3YWwgQ2hhcmdlIG11bHRpcGxpZWQgYnkgdGhlIGR0aCBxdWFudGl0eSB3aXRoZHJhd24gYnkgQ3VzdG9tZXIgZHVyaW5nIGEgZ2l2ZW4gbW9udGguXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqICAgIFxwYXINClxwYXINClxwYXINClxwYXJkXGx0cnBhclxsaTcyMFxzbC0xODBcc2xtdWx0MFxxalx0eDQzMjBcdHg3OTIwIE92ZXJydW4gV2l0aGRyYXdhbCBDaGFyZ2VcdGFiIE1hcmtldCBCYXNlZC9OZWdvdGlhYmxlXHRhYiAkL2R0aFxwYXINClxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxxalxwYXINClxwYXJkXGx0cnBhclxsaTcyMFxyaTQzMlxzbC0xODBcc2xtdWx0MCBQYWlkIG9uIGEgbW9udGhseSBiYXNpcy4gIFBheW1lbnQgaXMgZXF1YWwgdG8gdGhlIE92ZXJydW4gV2l0aGRyYXdhbCBDaGFyZ2UgbXVsdGlwbGllZCBieSB0aGUgZHRoIHF1YW50aXR5IHdpdGhkcmF3biBieSBDdXN0b21lciBwdXJzdWFudCB0byBTZWN0aW9uIDMoYikgdW5kZXIgUmF0ZSBTY2hlZHVsZSBGU1MuXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHNsLTE4MFxzbG11bHQwXHFqIEFDQSBDaGFyZ2VcdGFiXHRhYlx0YWJcdGFiICQwLjAwMTlcdGFiXHRhYlx0YWJcdGFiXHRhYiAkL2R0aFxwYXINClxwYXINClRoZSBBQ0EgaXMgYXBwbGljYWJsZSB0byBQZXRhbCdzIFJhdGUgU2NoZWR1bGUgRlNTLCBpZiBub3QgY29sbGVjdGVkIHVuZGVyIFBldGFsJ3MgUmF0ZSBTY2hlZHVsZSBGVFMgb3IgSVRTLlxwYXINClxwYXJkXGx0cnBhclxsaTcyMFxyaTIzMlxzbC0xODBcc2xtdWx0MFx0eDQzMjBcdHg3OTIwXHBhcg0KRnVlbCBSZWltYnVyc2VtZW50IENoYXJnZS4gIEEgbW9udGhseSBjaGFyZ2UgZm9yIGZ1ZWwgYW5kIGxvc3NlcyBhc3NvY2lhdGVkIHdpdGggcHJvdmlkaW5nIHN0b3JhZ2Ugc2VydmljZXMgZm9yIEN1c3RvbWVyIGVxdWFsIHRvIHRoZSBhcHBsaWNhYmxlIEZ1ZWwgUmVpbWJ1cnNlbWVudCBDYWxjdWxhdGlvbi5ccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWpccGFyDQpccGFyDQpccGFyDQpccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBccmk5MFxzbC0xODBcc2xtdWx0MCAqIEFsbCBxdWFudGl0aWVzIG9mIG5hdHVyYWwgZ2FzIGFyZSBtZWFzdXJlZCBpbiBkZWthdGhlcm1zIChkdGgpLlxwYXINClxwYXJkXGx0cnBhclxmczI0XHBhcg0KfQ0K</record_binary_data>
+      <record_plain_text>PETAL GAS STORAGE, L.L.C.
+FSS RATE STATEMENT - FIRM STORAGE SERVICE*
+
+
+
+  RATE		UNITS
+        ------------------------	    ---------
+
+Storage Capacity Charge	Market Based/Negotiable	$/dth
+
+Paid on a monthly basis.  Payment is equal to the Storage Capacity Charge multiplied by Customer's Firm Storage Capacity.
+   
+
+
+Storage Deliverability Charge	Market Based/Negotiable	$/dth
+		 
+Paid on a monthly basis.  Payment is equal to the Storage Deliverability Charge multiplied by Customer's Total Maximum Daily Withdrawal Quantity.
+   
+
+
+Storage Injection Charge	Market Based/Negotiable	$/dth
+
+Paid on a monthly basis.  Payment is equal to the Storage Injection Charge multiplied by the dth quantity injected by the Customer during a given month.
+   
+
+
+Overrun Injection Charge	Market Based/Negotiable	$/dth
+   
+Paid on a monthly basis.  Payment is equal to the Overrun Injection Charge multiplied by the dth quantity injected by Customer pursuant to Section 3(a) under Rate Schedule FSS.
+   
+
+
+Storage Withdrawal Charge	Market Based/Negotiable	$/dth
+
+Paid on a monthly basis.  Payment is equal to the Storage Withdrawal Charge multiplied by the dth quantity withdrawn by Customer during a given month.
+   
+
+
+Overrun Withdrawal Charge	Market Based/Negotiable	$/dth
+
+Paid on a monthly basis.  Payment is equal to the Overrun Withdrawal Charge multiplied by the dth quantity withdrawn by Customer pursuant to Section 3(b) under Rate Schedule FSS.
+
+ACA Charge				$0.0019					$/dth
+
+The ACA is applicable to Petal's Rate Schedule FSS, if not collected under Petal's Rate Schedule FTS or ITS.
+
+Fuel Reimbursement Charge.  A monthly charge for fuel and losses associated with providing storage services for Customer equal to the applicable Fuel Reimbursement Calculation.
+
+
+
+
+* All quantities of natural gas are measured in dekatherms (dth).</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>3</filing_id>
+      <filing_title>Miscellaneous Housekeeping Filing</filing_title>
+      <filing_type>570</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2011-01-17</current_effective_date>
+      <ferc_order_date>2011-01-11</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>Y</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>198</record_id>
+      <option_code>A</option_code>
+      <record_title>Sheet No. 6</record_title>
+      <record_content_desc>FSS-1 Rate Statement</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>First Revised Sheet No. 6</record_narrative_name>
+      <collation_value>136183808</collation_value>
+      <record_parent_id>192</record_parent_id>
+      <proposed_effective_date>2011-01-17</proposed_effective_date>
+      <priority_order>1000000000</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTEwMzN7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxmMFxmczE2XHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFjXHBhcg0KUEVUQUwgR0FTIFNUT1JBR0UsIEwuTC5DLlxwYXINCkZTUy0xIFJBVEUgU1RBVEVNRU5UIC0gRklSTSBTVE9SQUdFIFNFUlZJQ0UqXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqXHBhcg0KXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXGZpMTgwXGxpNTA0MFxzbC0xODBcc2xtdWx0MFxxalx0eDc3NDAgUkFURVx0YWJcdGFiIFVOSVRTXHBhcg0KXHBhcmRcbHRycGFyXGZpLTcyMFxsaTUwNDBcc2wtMTgwXHNsbXVsdDBccWpcdHg3NzQwICAgICAgICAgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tXHRhYiAgICAgLS0tLS0tLS0tXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHNsLTE4MFxzbG11bHQwXHFqXHR4NDMyMFx0eDc5MjAgU3RvcmFnZSBDYXBhY2l0eSBDaGFyZ2VcdGFiIE1hcmtldCBCYXNlZC9OZWdvdGlhYmxlXHRhYiAkL2R0aFxwYXINClxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxxalxwYXINClxwYXJkXGx0cnBhclxsaTcyMFxyaTYxMlxzbC0xODBcc2xtdWx0MCBQYWlkIG9uIGEgbW9udGhseSBiYXNpcy4gIFBheW1lbnQgaXMgZXF1YWwgdG8gdGhlIFN0b3JhZ2UgQ2FwYWNpdHkgQ2hhcmdlIG11bHRpcGxpZWQgYnkgQ3VzdG9tZXIncyBGaXJtIFN0b3JhZ2UgQ2FwYWNpdHkuXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqICAgIFxwYXINClxwYXINClxwYXINClxwYXJkXGx0cnBhclxmaS01MDQwXGxpNTc2MFxzbC0xODBcc2xtdWx0MFxxalx0eDQzMjBcdHg3OTIwIFN0b3JhZ2UgRGVsaXZlcmFiaWxpdHkgQ2hhcmdlXHRhYiBNYXJrZXQgQmFzZWQvTmVnb3RpYWJsZVx0YWIgJC9kdGhccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWpcdGFiXHRhYiAgXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHJpNzkyXHNsLTE4MFxzbG11bHQwIFBhaWQgb24gYSBtb250aGx5IGJhc2lzLiAgUGF5bWVudCBpcyBlcXVhbCB0byB0aGUgU3RvcmFnZSBEZWxpdmVyYWJpbGl0eSBDaGFyZ2UgbXVsdGlwbGllZCBieSBDdXN0b21lcidzIFRvdGFsIE1heGltdW0gRGFpbHkgV2l0aGRyYXdhbCBRdWFudGl0eS5ccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWogICAgXHBhcg0KXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHNsLTE4MFxzbG11bHQwXHFqXHR4NDMyMFx0eDc5MjAgU3RvcmFnZSBJbmplY3Rpb24gQ2hhcmdlXHRhYiBNYXJrZXQgQmFzZWQvTmVnb3RpYWJsZVx0YWIgJC9kdGhccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWpccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBccmk1MjJcc2wtMTgwXHNsbXVsdDAgUGFpZCBvbiBhIG1vbnRobHkgYmFzaXMuICBQYXltZW50IGlzIGVxdWFsIHRvIHRoZSBTdG9yYWdlIEluamVjdGlvbiBDaGFyZ2UgbXVsdGlwbGllZCBieSB0aGUgZHRoIHF1YW50aXR5IGluamVjdGVkIGJ5IHRoZSBDdXN0b21lciBkdXJpbmcgYSBnaXZlbiBtb250aC5ccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWogICAgXHBhcg0KXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHNsLTE4MFxzbG11bHQwXHFqXHR4NDMyMFx0eDc5MjAgT3ZlcnJ1biBJbmplY3Rpb24gQ2hhcmdlXHRhYiBNYXJrZXQgQmFzZWQvTmVnb3RpYWJsZVx0YWIgJC9kdGhccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWogICAgXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHJpNTIyXHNsLTE4MFxzbG11bHQwIFBhaWQgb24gYSBtb250aGx5IGJhc2lzLiAgUGF5bWVudCBpcyBlcXVhbCB0byB0aGUgT3ZlcnJ1biBJbmplY3Rpb24gQ2hhcmdlIG11bHRpcGxpZWQgYnkgdGhlIGR0aCBxdWFudGl0eSBpbmplY3RlZCBieSBDdXN0b21lciBwdXJzdWFudCB0byBTZWN0aW9uIDMoYSkgdW5kZXIgUmF0ZSBTY2hlZHVsZSBGU1MtMS5ccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWogICAgXHBhcg0KXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHNsLTE4MFxzbG11bHQwXHFqXHR4NDMyMFx0eDc5MjAgU3RvcmFnZSBXaXRoZHJhd2FsIENoYXJnZVx0YWIgTWFya2V0IEJhc2VkL05lZ290aWFibGVcdGFiICQvZHRoXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHJpNDMyXHNsLTE4MFxzbG11bHQwIFBhaWQgb24gYSBtb250aGx5IGJhc2lzLiAgUGF5bWVudCBpcyBlcXVhbCB0byB0aGUgU3RvcmFnZSBXaXRoZHJhd2FsIENoYXJnZSBtdWx0aXBsaWVkIGJ5IHRoZSBkdGggcXVhbnRpdHkgd2l0aGRyYXduIGJ5IEN1c3RvbWVyIGR1cmluZyBhIGdpdmVuIG1vbnRoLlxwYXINClxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxxaiAgICBccGFyDQpccGFyDQpccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBcc2wtMTgwXHNsbXVsdDBccWpcdHg0MzIwXHR4NzkyMCBPdmVycnVuIFdpdGhkcmF3YWwgQ2hhcmdlXHRhYiBNYXJrZXQgQmFzZWQvTmVnb3RpYWJsZVx0YWIgJC9kdGhccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWpccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBccmk0MzJcc2wtMTgwXHNsbXVsdDAgUGFpZCBvbiBhIG1vbnRobHkgYmFzaXMuICBQYXltZW50IGlzIGVxdWFsIHRvIHRoZSBPdmVycnVuIFdpdGhkcmF3YWwgQ2hhcmdlIG11bHRpcGxpZWQgYnkgdGhlIGR0aCBxdWFudGl0eSB3aXRoZHJhd24gYnkgQ3VzdG9tZXIgcHVyc3VhbnQgdG8gU2VjdGlvbiAzKGIpIHVuZGVyIFJhdGUgU2NoZWR1bGUgRlNTLTEuXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHNsLTE4MFxzbG11bHQwXHFqIEFDQSBDaGFyZ2VcdGFiXHRhYlx0YWJcdGFiXHRhYiAkMC4wMDE5XHRhYlx0YWJcdGFiXHRhYiAkL2R0aFxwYXINClxwYXINClRoZSBBQ0EgaXMgYXBwbGljYWJsZSB0byBQZXRhbCdzIFJhdGUgU2NoZWR1bGUgRlNTLTEsIGlmIG5vdCBjb2xsZWN0ZWQgdW5kZXIgUGV0YWwncyBSYXRlIFNjaGVkdWxlIEZUUyBvciBJVFMuXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHJpMjMyXHNsLTE4MFxzbG11bHQwXHR4NDMyMFx0eDc5MjAgRnVlbCBSZWltYnVyc2VtZW50IENoYXJnZS4gIEEgbW9udGhseSBjaGFyZ2UgZm9yIGZ1ZWwgYW5kIGxvc3NlcyBhc3NvY2lhdGVkIHdpdGggcHJvdmlkaW5nIHN0b3JhZ2Ugc2VydmljZXMgZm9yIEN1c3RvbWVyIGVxdWFsIHRvIHRoZSBhcHBsaWNhYmxlIEZ1ZWwgUmVpbWJ1cnNlbWVudCBDYWxjdWxhdGlvbi5ccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWpccGFyDQpccGFyDQpccGFyDQpccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBccmk5MFxzbC0xODBcc2xtdWx0MCAqIEFsbCBxdWFudGl0aWVzIG9mIG5hdHVyYWwgZ2FzIGFyZSBtZWFzdXJlZCBpbiBkZWthdGhlcm1zIChkdGgpLlxwYXINClxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxxY1xwYXINClxwYXJkXGx0cnBhclxmczI0XHBhcg0KfQ0K</record_binary_data>
+      <record_plain_text>PETAL GAS STORAGE, L.L.C.
+FSS-1 RATE STATEMENT - FIRM STORAGE SERVICE*
+
+
+
+  RATE		UNITS
+        ------------------------	    ---------
+
+Storage Capacity Charge	Market Based/Negotiable	$/dth
+
+Paid on a monthly basis.  Payment is equal to the Storage Capacity Charge multiplied by Customer's Firm Storage Capacity.
+   
+
+
+Storage Deliverability Charge	Market Based/Negotiable	$/dth
+		 
+Paid on a monthly basis.  Payment is equal to the Storage Deliverability Charge multiplied by Customer's Total Maximum Daily Withdrawal Quantity.
+   
+
+
+Storage Injection Charge	Market Based/Negotiable	$/dth
+
+Paid on a monthly basis.  Payment is equal to the Storage Injection Charge multiplied by the dth quantity injected by the Customer during a given month.
+   
+
+
+Overrun Injection Charge	Market Based/Negotiable	$/dth
+   
+Paid on a monthly basis.  Payment is equal to the Overrun Injection Charge multiplied by the dth quantity injected by Customer pursuant to Section 3(a) under Rate Schedule FSS-1.
+   
+
+
+Storage Withdrawal Charge	Market Based/Negotiable	$/dth
+
+Paid on a monthly basis.  Payment is equal to the Storage Withdrawal Charge multiplied by the dth quantity withdrawn by Customer during a given month.
+   
+
+
+Overrun Withdrawal Charge	Market Based/Negotiable	$/dth
+
+Paid on a monthly basis.  Payment is equal to the Overrun Withdrawal Charge multiplied by the dth quantity withdrawn by Customer pursuant to Section 3(b) under Rate Schedule FSS-1.
+
+ACA Charge					$0.0019				$/dth
+
+The ACA is applicable to Petal's Rate Schedule FSS-1, if not collected under Petal's Rate Schedule FTS or ITS.
+
+Fuel Reimbursement Charge.  A monthly charge for fuel and losses associated with providing storage services for Customer equal to the applicable Fuel Reimbursement Calculation.
+
+
+
+
+* All quantities of natural gas are measured in dekatherms (dth).</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>3</filing_id>
+      <filing_title>Miscellaneous Housekeeping Filing</filing_title>
+      <filing_type>570</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2011-01-17</current_effective_date>
+      <ferc_order_date>2011-01-11</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>Y</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>195</record_id>
+      <option_code>A</option_code>
+      <record_title>Sheet No. 3</record_title>
+      <record_content_desc>Preliminary Statement</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>First Revised Sheet No. 3</record_narrative_name>
+      <collation_value>135200768</collation_value>
+      <record_parent_id>192</record_parent_id>
+      <proposed_effective_date>2011-01-17</proposed_effective_date>
+      <priority_order>1000000000</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTEwMzN7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxmMFxmczE2XHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFjXHBhcg0KUFJFTElNSU5BUlkgU1RBVEVNRU5UXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXGxpNzAwXHJpNjMyXHNsLTE4MFxzbG11bHQwIFRoaXMgRmlyc3QgUmV2aXNlZCBWb2x1bWUgTm8uIDEgb2YgUGV0YWwgR2FzIFN0b3JhZ2UgTC5MLkMuJ3MgRkVSQyBHYXMgVGFyaWZmIGNvbnRhaW5zIHRoZSBSYXRlIFN0YXRlbWVudHMsIFJhdGUgU2NoZWR1bGVzIGFuZCBHZW5lcmFsIFRlcm1zIGFuZCBDb25kaXRpb25zIGFwcGxpY2FibGUgdG8gb3Blbi1hY2Nlc3Mgc3RvcmFnZSBhbmQgdHJhbnNwb3J0YXRpb24gc2VydmljZSBwZXJmb3JtZWQgYnkgUGV0YWwgR2FzIFN0b3JhZ2UsIEwuTC5DLiAoIlBldGFsIikgcHVyc3VhbnQgdG8gUmF0ZSBTY2hlZHVsZXMgRlNTLCBGU1MtMSwgSVNTLCBGVFMsIElUUywgYW5kIEFWUy5ccGFyDQpccGFyZFxsdHJwYXJccmkyMzJcc2wtMTgwXHNsbXVsdDBccGFyDQpccGFyZFxsdHJwYXJcbGk3MDBccmk0MzJcc2wtMTgwXHNsbXVsdDAgUGV0YWwgR2FzIFN0b3JhZ2UsIEwuTC5DLiBpcyBhIERlbGF3YXJlIGxpbWl0ZWQgbGlhYmlsaXR5IGNvbXBhbnkgcHJpbmNpcGFsbHkgZW5nYWdlZCBpbiB0aGUgYnVzaW5lc3Mgb2Ygc3RvcmluZyBhbmQgdHJhbnNwb3J0aW5nIG5hdHVyYWwgZ2FzIGZvciB1c2UgaW4gaW50cmEtIGFuZCBpbnRlcnN0YXRlIGNvbW1lcmNlIHN1YmplY3QgdG8gdGhlIGp1cmlzZGljdGlvbiBvZiB0aGUgRmVkZXJhbCBFbmVyZ3kgUmVndWxhdG9yeSBDb21taXNzaW9uLiAgUGV0YWwncyBzdG9yYWdlIGZhY2lsaXRpZXMgYXJlIGxvY2F0ZWQgb24gdGhlIFBldGFsIFNhbHQgRG9tZSBpbiBGb3JyZXN0IENvdW50eSwgTWlzc2lzc2lwcGksIGFuZCBhcmUgY29ubmVjdGVkIHRvIFRlbm5lc3NlZSBHYXMgUGlwZWxpbmUgQ29tcGFueSAoIlRlbm5lc3NlZSIpLCBTb3V0aGVhc3QgU3VwcGx5IEhlYWRlciwgTExDICgiU0VTSCIpLCBhbmQgR3VsZiBTb3V0aCBQaXBlbGluZSBDb21wYW55LCBMUCdzIExvdyBQcmVzc3VyZSBMaW5lICgiR3VsZiBTb3V0aCIpIG92ZXIgUGV0YWwncyA1LjUgbWlsZSBzdG9yYWdlIGhlYWRlci4gIFBldGFsIGFsc28gb3ducyBhbmQgb3BlcmF0ZXMgYSA1OSBtaWxlIG5hdHVyYWwgZ2FzIHRyYW5zbWlzc2lvbiBwaXBlbGluZSBleHRlbmRpbmcgZnJvbSBhIHBvaW50IGFkamFjZW50IHRvIHRoZSBUZW5uZXNzZWUgbWV0ZXIgc3RhdGlvbiBhdCB0aGUgdGVybWludXMgb2YgUGV0YWwncyA1LjUgbWlsZSBzdG9yYWdlIGhlYWRlciBsb29wIHRvIGludGVyY29ubmVjdGlvbnMgd2l0aCBUcmFuc2NvbnRpbmVudGFsIEdhcyBQaXBlIExpbmUgQ29ycG9yYXRpb24gaW4gSmFzcGVyIENvdW50eSwgTWlzc2lzc2lwcGksIHdpdGggRGVzdGluIFBpcGVsaW5lIENvbXBhbnksIEwuTC5DLiBpbiBDbGFya2UgQ291bnR5LCBNaXNzaXNzaXBwaSwgYW5kIHdpdGggU291dGhlcm4gTmF0dXJhbCBHYXMgQ29tcGFueSBpbiBDbGFya2UgQ291bnR5LCBNaXNzaXNzaXBwaS4gIEluIG9yZGVyIHRvIG1haW50YWluIHJlY2VpcHRzIGFuZCBkZWxpdmVyaWVzIGJldHdlZW4gUGV0YWwncyA1LjUgbWlsZSBzdG9yYWdlIGhlYWRlciBsb29wIGFuZCBpdHMgNTkgbWlsZSB0cmFuc21pc3Npb24gcGlwZWxpbmUsIFBldGFsIG1haW50YWlucyBhIHBhcGVyIHBvb2xpbmcgcG9pbnQgKCJQZXRhbCBQYXBlciBQb29saW5nIFBvaW50IikgYXQgdGhlIHRlcm1pbnVzIG9mIHRoZSA1LjUgbWlsZSBzdG9yYWdlIGhlYWRlciBsb29wLiAgXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHBhcg0KXHBhcmRcbHRycGFyXGZzMjRccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>PRELIMINARY STATEMENT
+
+
+This First Revised Volume No. 1 of Petal Gas Storage L.L.C.'s FERC Gas Tariff contains the Rate Statements, Rate Schedules and General Terms and Conditions applicable to open-access storage and transportation service performed by Petal Gas Storage, L.L.C. ("Petal") pursuant to Rate Schedules FSS, FSS-1, ISS, FTS, ITS, and AVS.
+
+Petal Gas Storage, L.L.C. is a Delaware limited liability company principally engaged in the business of storing and transporting natural gas for use in intra- and interstate commerce subject to the jurisdiction of the Federal Energy Regulatory Commission.  Petal's storage facilities are located on the Petal Salt Dome in Forrest County, Mississippi, and are connected to Tennessee Gas Pipeline Company ("Tennessee"), Southeast Supply Header, LLC ("SESH"), and Gulf South Pipeline Company, LP's Low Pressure Line ("Gulf South") over Petal's 5.5 mile storage header.  Petal also owns and operates a 59 mile natural gas transmission pipeline extending from a point adjacent to the Tennessee meter station at the terminus of Petal's 5.5 mile storage header loop to interconnections with Transcontinental Gas Pipe Line Corporation in Jasper County, Mississippi, with Destin Pipeline Company, L.L.C. in Clarke County, Mississippi, and with Southern Natural Gas Company in Clarke County, Mississippi.  In order to maintain receipts and deliveries between Petal's 5.5 mile storage header loop and its 59 mile transmission pipeline, Petal maintains a paper pooling point ("Petal Paper Pooling Point") at the terminus of the 5.5 mile storage header loop.</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>3</filing_id>
+      <filing_title>Miscellaneous Housekeeping Filing</filing_title>
+      <filing_type>570</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2011-01-17</current_effective_date>
+      <ferc_order_date>2011-01-11</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>Y</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>356</record_id>
+      <option_code>A</option_code>
+      <record_title>Sheet No. 164</record_title>
+      <record_content_desc>Master Cap. Release</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>First Revised Sheet No. 164</record_narrative_name>
+      <collation_value>193200128</collation_value>
+      <record_parent_id>192</record_parent_id>
+      <proposed_effective_date>2011-01-17</proposed_effective_date>
+      <priority_order>1000000000</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTEwMzN7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxsaTkwXHJpOTBcZjBcZnMxNlxwYXINClxwYXJkXGx0cnBhclxsaTkwXHJpOTBccWMgRk9STSBPRiBNQVNURVIgU0VSVklDRSBBR1JFRU1FTlQgRk9SXHBhcg0KQ0FQQUNJVFkgUkVMRUFTRSBUUkFOU0FDVElPTlMgKENvbnRpbnVlZClccGFyDQpccGFyDQpBUlRJQ0xFIElYIC0gSU5DT1JQT1JBVElPTiBCWSBSRUZFUkVOQ0VccGFyDQpccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBccmk5MCBUaGUgcHJvdmlzaW9ucyBvZiB0aGUgRlNTLCBGU1MtMSBvciBGVFMgUmF0ZSBTY2hlZHVsZXMsIGFzIHRoZSBjYXNlIG1heSBiZSwgYXJlIHNwZWNpZmljYWxseSBpbmNvcnBvcmF0ZWQgaGVyZWluIGJ5IHJlZmVyZW5jZSBhbmQgbWFkZSBhIHBhcnQgaGVyZW9mLlxwYXINClxwYXJkXGx0cnBhclxsaTkwXHJpOTBcdGFiXHRhYlxwYXINClx0YWJcdGFiXHRhYlx0YWJcdGFiIEFSVElDTEUgWCAtIE5PVElDRVNccGFyDQpccGFyDQpccGFyZFxsdHJwYXJcZmktNjMwXGxpNzIwXHJpOTBcdGFiIEV4Y2VwdCBpbnNvZmFyIGFzIHRoZSBhd2FyZCBub3RpY2UgbXVzdCBiZSBjb25maXJtZWQgaW4gd3JpdGluZywgYWxsIG5vdGljZXMgY2FuIGJlIGdpdmVuIFx0YWIgYnkgdGVsZXBob25lIG9yIG90aGVyIGVsZWN0cm9uaWMgbWVhbnM7IGhvd2V2ZXIsIHN1Y2ggbm90aWNlIHNoYWxsIGJlIGNvbmZpcm1lZCBpbiB3cml0aW5nIGF0IHRoZSBhZGRyZXNzIGJlbG93LiAgQ3VzdG9tZXIgYW5kIFBldGFsIG1heSBjaGFuZ2UgdGhlIGFkZHJlc3NlcyBiZWxvdyBieSB3cml0dGVuIG5vdGljZSB0byB0aGUgb3RoZXIgd2l0aG91dCB0aGUgbmVjZXNzaXR5IG9mIGFtZW5kaW5nIHRoaXMgYWdyZWVtZW50OlxwYXINClxwYXJkXGx0cnBhclxsaTkwXHJpOTBccGFyDQpcdGFiIFBldGFsIEdhcyBTdG9yYWdlLCBMLkwuQy5ccGFyDQpcdGFiIDExMDAgTG91aXNpYW5hIFN0cmVldFxwYXINClx0YWIgSG91c3RvbiwgVFggNzcwMDJccGFyDQpcdGFiIEF0dGVudGlvbjogUGF1bCBUYXRlXHBhcg0KXHBhcg0KXHRhYiBDdXN0b21lcjpccGFyDQpccGFyDQpcdGFiIF9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXyAoQ3VzdG9tZXIgTmFtZSlccGFyDQpccGFyDQpcdGFiIF9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18gKEFkZHJlc3MpXHBhcg0KXHBhcg0KXHRhYiBfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fIChDaXR5LCBTdGF0ZSwgWmlwKVxwYXINClxwYXINClx0YWIgQXR0ZW50aW9uOiBfX19fX19fX19fX19fX19fX19fX19fX19fX1xwYXINClxwYXINClx0YWIgVGVsZXBob25lOl9fX19fX19fX19fX19fX19fX19fX19fX19fX1xwYXINClxwYXINClx0YWIgRmF4OiAgICAgIF9fX19fX19fX19fX19fX19fX19fX19fX19fX1xwYXINClxwYXINClx0YWIgSU5WT0lDRVMgQU5EIFNUQVRFTUVOVFM6XHBhcg0KXHBhcg0KXHRhYiBfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fKEN1c3RvbWVyIE5hbWUpXHBhcg0KXHBhcg0KXHRhYiBfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fKEFkZHJlc3MpXHBhcg0KXHBhcg0KXHRhYiBfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fKENpdHksIFN0YXRlLCBaaXApXHBhcg0KXHBhcg0KQXR0ZW50aW9uOiAgIF9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXHBhcg0KXHBhcg0KVGVsZXBob25lOiBfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX1xwYXINClxwYXINCkZBWDogICAgICAgICBfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX1xwYXINClxwYXJkXGx0cnBhclxsaTkwXHJpOTBccWNccGFyDQpccGFyZFxsdHJwYXJcZnMyNFxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>FORM OF MASTER SERVICE AGREEMENT FOR
+CAPACITY RELEASE TRANSACTIONS (Continued)
+
+ARTICLE IX - INCORPORATION BY REFERENCE
+
+The provisions of the FSS, FSS-1 or FTS Rate Schedules, as the case may be, are specifically incorporated herein by reference and made a part hereof.
+		
+					ARTICLE X - NOTICES
+
+	Except insofar as the award notice must be confirmed in writing, all notices can be given 	by telephone or other electronic means; however, such notice shall be confirmed in writing at the address below.  Customer and Petal may change the addresses below by written notice to the other without the necessity of amending this agreement:
+
+	Petal Gas Storage, L.L.C.
+	1100 Louisiana Street
+	Houston, TX 77002
+	Attention: Paul Tate
+
+	Customer:
+
+	____________________________________ (Customer Name)
+
+	_____________________________________ (Address)
+
+	_____________________________________ (City, State, Zip)
+
+	Attention: __________________________
+
+	Telephone:___________________________
+
+	Fax:      ___________________________
+
+	INVOICES AND STATEMENTS:
+
+	_____________________________________(Customer Name)
+
+	_____________________________________(Address)
+
+	_____________________________________(City, State, Zip)
+
+Attention:   ________________________________
+
+Telephone: ________________________________
+
+FAX:         ________________________________</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>3</filing_id>
+      <filing_title>Miscellaneous Housekeeping Filing</filing_title>
+      <filing_type>570</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2011-01-17</current_effective_date>
+      <ferc_order_date>2011-01-11</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>Y</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>194</record_id>
+      <option_code>A</option_code>
+      <record_title>Sheet No. 2</record_title>
+      <record_content_desc>Table of Contents</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>First Revised Sheet No. 2</record_narrative_name>
+      <collation_value>134873088</collation_value>
+      <record_parent_id>192</record_parent_id>
+      <proposed_effective_date>2011-01-17</proposed_effective_date>
+      <priority_order>1000000000</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTEwMzN7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxmaS00MDBcbGkxMTIwXHR4MTYwMFx0cXJcdGxkb3RcdHg4NDgwXGYwXGZzMTZccGFyDQpcdGFiIDMuXHRhYiBPVkVSUlVOIFNUT1JBR0UgU0VSVklDRSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgMzhccGFyDQpcdGFiIDQuXHRhYiBSQVRFUyBBTkQgQ0hBUkdFUyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAzOVxwYXINClx0YWIgNS5cdGFiIE1PTlRITFkgQklMTCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA0MFxwYXINClx0YWIgNi5cdGFiIFRFUk0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQwXHBhcg0KXHRhYiA3Llx0YWIgQVVUSE9SSVpBVElPTiwgUkFURVMsIFRFUk1TIEFORCBDSEFOR0VTICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA0MFxwYXINClx0YWIgOC4gXHRhYiBDVVJUQUlMTUVOVCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDQxXHBhcg0KXHRhYiA5LiBcdGFiIEVYUElSQVRJT04gT0YgVEVSTSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA0MVxwYXINClx0YWIgMTAuXHRhYiBHRU5FUkFMIFRFUk1TIEFORCBDT05ESVRJT05TICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA0MlxwYXINCkFWUyBSQVRFIFNDSEVEVUxFIC0gQURWQU5DSU5HIFNFUlZJQ0UgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFxwYXINClxwYXJkXGx0cnBhclxmaS00ODBcbGkxNjAwXHR4MTYwMFx0cXJcdGxkb3RcdHg4NDgwIDEuIFx0YWIgQVZBSUxBQklMSVRZICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgNDNccGFyDQoyLlx0YWIgQVBQTElDQUJJTElUWSBBTkQgQ0hBUkFDVEVSIE9GIFNFUlZJQ0UgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA0M1xwYXINCjMuXHRhYiBSQVRFUyBBTkQgQ0hBUkdFUyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA0NVxwYXINCjQuXHRhYiBHRU5FUkFMIFRFUk1TIEFORCBDT05ESVRJT05TICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA0NVxwYXINClxwYXJkXGx0cnBhclxsaTcyMFx0eDg0ODBcdHFyXHRsZG90XHR4OTQ1MCBSQVRFIFNDSEVEVUxFIEZUUyAtIEZJUk0gVFJBTlNQT1JUQVRJT04gU0VSVklDRVx0YWIgNDZccGFyDQpccGFyZFxsdHJwYXJcZmktNTAwXGxpMTYwMFxyaTQzMlx0eDBcdHg3MjBcdHg4NDgwIDEuXHRhYiBBVkFJTEFCSUxJVFlcdGFiIDQ2XHBhcg0KMi5cdGFiIEFQUExJQ0FCSUxJVFkgQU5EIENIQVJBQ1RFUiBPRiBTRVJWSUNFXHRhYiA0NlxwYXINClxwYXJkXGx0cnBhclxmaS01MDBcbGkxNjAwXHJpNDMyXHR4MFx0eDcyMFx0eDg0ODBcdHg4NjAwIDMuXHRhYiBPVkVSUlVOIFRSQU5TUE9SVEFUSU9OIFNFUlZJQ0VcdGFiIDQ4XHBhcg0KNC5cdGFiIENBUEFDSVRZIFJFTEVBU0VcdGFiIDQ4XHBhcg0KXHBhcmRcbHRycGFyXGZpLTUwMFxsaTE2MDBccmk0MzJcdHgwXHR4NzIwXHR4ODQ4MCA1Llx0YWIgUkFURVMgQU5EIENIQVJHRVNcdGFiIDYwXHBhcg0KNi5cdGFiIE1PTlRITFkgQklMTFx0YWIgNjJccGFyDQo3Llx0YWIgVEVSTVx0YWIgNjJccGFyDQo4Llx0YWIgQVVUSE9SSVpBVElPTiwgUkFURVMsIFRFUk1TIEFORCBDSEFOR0VTXHRhYiA2MlxwYXINCjkuIFx0YWIgQ1VSVEFJTE1FTlRcdGFiIDYyXHBhcg0KXHBhcmRcbHRycGFyXGZpLTYwMFxsaTE2MDBccmk0MzJcdHgwXHR4NzIwXHR4ODQ4MCAxMC5cdGFiIFJJR0hUIE9GIEZJUlNUIFJFRlVTQUwgQU5EIFBSRUdSQU5URUQgQUJBTkRPTk1FTlRcdGFiIDYzXHBhcg0KMTEuXHRhYiBCQUxBTkNJTkdcdGFiIDY1XHBhcg0KMTIuXHRhYiBHRU5FUkFMIFRFUk1TIEFORCBDT05ESVRJT05TXHRhYiA2NVxwYXINClxwYXJkXGx0cnBhclxsaTcyMFx0eDg0ODBcdHFyXHRsZG90XHR4OTQ1MCBSQVRFIFNDSEVEVUxFIElUUyAtIElOVEVSUlVQVElCTEUgVFJBTlNQT1JUQVRJT04gU0VSVklDRVx0YWIgNjZccGFyDQpccGFyZFxsdHJwYXJcZmktNDgwXGxpMTYwMFx0eDBcdHg3MjBcdHg4NDgwXHRxclx0bGRvdFx0eDk0NTAgMS5cdGFiIEFWQUlMQUJJTElUWVx0YWIgNjZccGFyDQpccGFyZFxsdHJwYXJcZmktNDgwXGxpMTYwMFx0eDcyMFx0eDg0ODBcdHFyXHRsZG90XHR4OTQ1MCAyLlx0YWIgQVBQTElDQUJJTElUWSBBTkQgQ0hBUkFDVEVSIE9GIFNFUlZJQ0VcdGFiIDY2XHBhcg0KMy5cdGFiIE9WRVJSVU4gVFJBTlNQT1JUQVRJT04gU0VSVklDRVx0YWIgNjhccGFyDQo0Llx0YWIgUkFURVMgQU5EIENIQVJHRVNcdGFiIDY4XHBhcg0KNS5cdGFiIE1PTlRITFkgQklMTFx0YWIgNjlccGFyDQo2Llx0YWIgVEVSTVx0YWIgNjlccGFyDQo3Llx0YWIgQVVUSE9SSVpBVElPTiwgUkFURVMsIFRFUk1TIEFORCBDSEFOR0VTXHRhYiA3MFxwYXINCjguXHRhYiBDVVJUQUlMTUVOVFx0YWIgNzBccGFyDQo5Llx0YWIgQkFMQU5DSU5HXHRhYiA3MFxwYXINCjEwLlx0YWIgR0VORVJBTCBURVJNUyBBTkQgQ09ORElUSU9OU1x0YWIgNzFccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBcdHg4NDAwXHRxclx0bGRvdFx0eDk0NTAgVEFCTEUgT0YgQ09OVEVOVFMgLSBHRU5FUkFMIFRFUk1TIEFORCBDT05ESVRJT05TXHRhYiAgIDcyXHBhcg0KXHBhcmRcbHRycGFyXGZpMTEyMFx0eDg0MDBcdHFyXHRsZG90XHR4OTQ1MCBGT1JNIE9GIFNFUlZJQ0UgQUdSRUVNRU5UIFVOREVSIFJBVEUgU0NIRURVTEUgRlNTXHRhYiAxMjZccGFyDQpGT1JNIE9GIFNFUlZJQ0UgQUdSRUVNRU5UIFVOREVSIFJBVEUgU0NIRURVTEUgRlNTLTFcdGFiIDEzMFxwYXINCkZPUk0gT0YgU0VSVklDRSBBR1JFRU1FTlQgVU5ERVIgUkFURSBTQ0hFRFVMRSBJU1MgXHRhYiAxMzRccGFyDQpBUFBFTkRJQ0VTIFRPIEZPUk1TIE9GIEZJUk0gQU5EIElOVEVSUlVQVElCTEUgU1RPUkFHRSBTRVJWSUNFIEFHUkVFTUVOVFNcdGFiIDEzOFxwYXINCkZPUk0gT0YgU0VSVklDRSBBR1JFRU1FTlQgVU5ERVIgUkFURSBTQ0hFRFVMRSBBVlNcdGFiIDE0MVxwYXINCkFQUEVORElDRVMgVE8gRk9STSBPRiBBRFZBTkNJTkcgU0VSVklDRSBBR1JFRU1FTlRcdGFiIDE0NlxwYXINCkZPUk0gT0YgU0VSVklDRSBBR1JFRU1FTlQgVU5ERVIgUkFURSBTQ0hFRFVMRSBGVFNcdGFiIDE1MFxwYXINCkZPUk0gT0YgU0VSVklDRSBBR1JFRU1FTlQgVU5ERVIgUkFURSBTQ0hFRFVMRSBJVFNcdGFiIDE1NFxwYXINClxwYXJkXGx0cnBhclxmaTExMjBcdHg4NDAwIEFQUEVORElDRVMgVE8gRk9STVMgT0YgRklSTSBBTkQgSU5URVJSVVBUSUJMRSBUUkFOU1BPUlRBVElPTiBBR1JFRU1FTlRTXHRhYiAxNThccGFyDQpGT1JNIE9GIE1BU1RFUiBTRVJWSUNFIEFHUkVFTUVOVCBGT1IgQ0FQQUNJVFkgUkVMRUFTRSBUUkFOU0FDVElPTlNcdGFiIDE2MVxwYXINCkFQUEVORElYIFRPIEZPUk0gT0YgTUFTVEVSIFNFUlZJQ0UgQUdSRUVNRU5UIEZPUiBDQVBBQ0lUWSBSRUxFQVNFIFxwYXINCiAgICAgVFJBTlNBQ1RJT05TXHRhYiAxNjdccGFyDQpccGFyZFxsdHJwYXJcZnMyNFxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>3.	OVERRUN STORAGE SERVICE                                                                                                                    38
+	4.	RATES AND CHARGES                                                                                                                                  39
+	5.	MONTHLY BILL                                                                                                                                              40
+	6.	TERM                                                                                                                                                                 40
+	7.	AUTHORIZATION, RATES, TERMS AND CHANGES                                                                                40
+	8. 	CURTAILMENT                                                                                                                                                41
+	9. 	EXPIRATION OF TERM                                                                                                                                  41
+	10.	GENERAL TERMS AND CONDITIONS                                                                                                        42
+AVS RATE SCHEDULE - ADVANCING SERVICE                                            
+1. 	AVAILABILITY                                                                                                                                                43
+2.	APPLICABILITY AND CHARACTER OF SERVICE                                                                                    43
+3.	RATES AND CHARGES                                                                                                                                  45
+4.	GENERAL TERMS AND CONDITIONS                                                                                                        45
+RATE SCHEDULE FTS - FIRM TRANSPORTATION SERVICE	46
+1.	AVAILABILITY	46
+2.	APPLICABILITY AND CHARACTER OF SERVICE	46
+3.	OVERRUN TRANSPORTATION SERVICE	48
+4.	CAPACITY RELEASE	48
+5.	RATES AND CHARGES	60
+6.	MONTHLY BILL	62
+7.	TERM	62
+8.	AUTHORIZATION, RATES, TERMS AND CHANGES	62
+9. 	CURTAILMENT	62
+10.	RIGHT OF FIRST REFUSAL AND PREGRANTED ABANDONMENT	63
+11.	BALANCING	65
+12.	GENERAL TERMS AND CONDITIONS	65
+RATE SCHEDULE ITS - INTERRUPTIBLE TRANSPORTATION SERVICE	66
+1.	AVAILABILITY	66
+2.	APPLICABILITY AND CHARACTER OF SERVICE	66
+3.	OVERRUN TRANSPORTATION SERVICE	68
+4.	RATES AND CHARGES	68
+5.	MONTHLY BILL	69
+6.	TERM	69
+7.	AUTHORIZATION, RATES, TERMS AND CHANGES	70
+8.	CURTAILMENT	70
+9.	BALANCING	70
+10.	GENERAL TERMS AND CONDITIONS	71
+TABLE OF CONTENTS - GENERAL TERMS AND CONDITIONS	  72
+              FORM OF SERVICE AGREEMENT UNDER RATE SCHEDULE FSS	126
+              FORM OF SERVICE AGREEMENT UNDER RATE SCHEDULE FSS-1	130
+              FORM OF SERVICE AGREEMENT UNDER RATE SCHEDULE ISS 	134
+              APPENDICES TO FORMS OF FIRM AND INTERRUPTIBLE STORAGE SERVICE AGREEMENTS	138
+              FORM OF SERVICE AGREEMENT UNDER RATE SCHEDULE AVS	141
+              APPENDICES TO FORM OF ADVANCING SERVICE AGREEMENT	146
+              FORM OF SERVICE AGREEMENT UNDER RATE SCHEDULE FTS	150
+              FORM OF SERVICE AGREEMENT UNDER RATE SCHEDULE ITS	154
+              APPENDICES TO FORMS OF FIRM AND INTERRUPTIBLE TRANSPORTATION AGREEMENTS	158
+              FORM OF MASTER SERVICE AGREEMENT FOR CAPACITY RELEASE TRANSACTIONS	161
+              APPENDIX TO FORM OF MASTER SERVICE AGREEMENT FOR CAPACITY RELEASE 
+                   TRANSACTIONS	167</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>3</filing_id>
+      <filing_title>Miscellaneous Housekeeping Filing</filing_title>
+      <filing_type>570</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2011-01-17</current_effective_date>
+      <ferc_order_date>2011-01-11</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>Y</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>199</record_id>
+      <option_code>A</option_code>
+      <record_title>Sheet No. 7</record_title>
+      <record_content_desc>ISS Rate Statement</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>First Revised Sheet No. 7</record_narrative_name>
+      <collation_value>136511488</collation_value>
+      <record_parent_id>192</record_parent_id>
+      <proposed_effective_date>2011-01-17</proposed_effective_date>
+      <priority_order>1000000000</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTEwMzN7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxmMFxmczE2XHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFjIFBFVEFMIEdBUyBTVE9SQUdFLCBMLkwuQy5ccGFyDQpJU1MgUkFURSBTVEFURU1FTlQgLSBJTlRFUlJVUFRJQkxFIFNUT1JBR0UgU0VSVklDRSpccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWpccGFyDQpccGFyDQpccGFyDQpccGFyZFxsdHJwYXJcZmkxODBcbGk1MDQwXHNsLTE4MFxzbG11bHQwXHFqXHR4Nzc0MCBSQVRFXHRhYlx0YWIgVU5JVFNccGFyDQpccGFyZFxsdHJwYXJcZmktNzIwXGxpNTA0MFxzbC0xODBcc2xtdWx0MFxxalx0eDc3NDAgICAgICAgICAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1cdGFiICAgICAtLS0tLS0tLS1ccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWpccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBcc2wtMTgwXHNsbXVsdDBccWpcdHg0MzIwXHR4NzkyMCBTdGFuZGJ5IENhcGFjaXR5IENoYXJnZVx0YWIgTWFya2V0IEJhc2VkL05lZ290aWFibGVcdGFiICQvZHRoXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqXHR4NzkyMFx0YWIgcGVyIG1vbnRoXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHJpNDMyXHNsLTE4MFxzbG11bHQwIFBhaWQgb24gYSBtb250aGx5IGJhc2lzLiAgUGF5bWVudCBpcyBlcXVhbCB0byB0aGUgU3RhbmRieSBDYXBhY2l0eSBDaGFyZ2UgbXVsdGlwbGllZCBieSBDdXN0b21lcidzIEludGVycnVwdGlibGUgU3RvcmFnZSBDYXBhY2l0eS5ccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWogICAgXHBhcg0KXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXGZpLTU3NjBcbGk2NDgwXHNsLTE4MFxzbG11bHQwXHFqXHR4NDMyMFx0eDc5MjAgU3RhbmRieSBEZWxpdmVyYWJpbGl0eSBDaGFyZ2VcdGFiIE1hcmtldCBCYXNlZC9OZWdvdGlhYmxlXHRhYlx0YWIgJC9kdGhccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWpcdHg3OTIwXHRhYiBwZXIgbW9udGhccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWogICAgXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHJpMzQyXHNsLTE4MFxzbG11bHQwIFBhaWQgb24gYSBtb250aGx5IGJhc2lzLiAgUGF5bWVudCBpcyBlcXVhbCB0byB0aGUgU3RhbmRieSBEZWxpdmVyYWJpbGl0eSBDaGFyZ2UgbXVsdGlwbGllZCBieSBDdXN0b21lcidzIFRvdGFsIE1heGltdW0gRGFpbHkgV2l0aGRyYXdhbCBRdWFudGl0eS5ccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWogICAgXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHNsLTE4MFxzbG11bHQwXHFqXHR4NDMyMFxwYXINClxwYXINClxwYXJkXGx0cnBhclxsaTcyMFxzbC0xODBcc2xtdWx0MFxxalx0eDQzMjBcdHg3OTIwIFN0b3JhZ2UgSW5qZWN0aW9uIENoYXJnZVx0YWIgTWFya2V0IEJhc2VkL05lZ290aWFibGVcdGFiICQvZHRoXHBhcg0KXHBhcmRcbHRycGFyXGZpLTI4ODBcbGkyODgwXHNsLTE4MFxzbG11bHQwXHFqXHRhYlx0YWJccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBccmk2MTJcc2wtMTgwXHNsbXVsdDAgUGFpZCBvbiBhIG1vbnRobHkgYmFzaXMuICBQYXltZW50IGlzIGVxdWFsIHRvIHRoZSBTdG9yYWdlIEluamVjdGlvbiBDaGFyZ2UgbXVsdGlwbGllZCBieSB0aGUgZHRoIHF1YW50aXR5IGluamVjdGVkIGJ5IHRoZSBDdXN0b21lciBkdXJpbmcgYSBnaXZlbiBtb250aC5ccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWogICAgXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXGZpLTY0ODBcbGk2NDgwXHNsLTE4MFxzbG11bHQwXHFqXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHNsLTE4MFxzbG11bHQwXHFqXHR4NDMyMFx0eDc5MjAgT3ZlcnJ1biBJbmplY3Rpb24gQ2hhcmdlXHRhYiBNYXJrZXQgQmFzZWQvTmVnb3RpYWJsZVx0YWIgJC9kdGhcdGFiXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqICAgIFxwYXINClxwYXJkXGx0cnBhclxsaTcyMFxyaTUyMlxzbC0xODBcc2xtdWx0MCBQYWlkIG9uIGEgbW9udGhseSBiYXNpcy4gIFBheW1lbnQgaXMgZXF1YWwgdG8gdGhlIE92ZXJydW4gSW5qZWN0aW9uIENoYXJnZSBtdWx0aXBsaWVkIGJ5IHRoZSBkdGggcXVhbnRpdHkgaW5qZWN0ZWQgYnkgQ3VzdG9tZXIgcHVyc3VhbnQgdG8gU2VjdGlvbiAzKGEpIHVuZGVyIFJhdGUgU2NoZWR1bGUgSVNTLlxwYXINClxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxxaiAgICBccGFyDQpccGFyDQpccGFyDQpccGFyZFxsdHJwYXJcZmktMzYwMFxsaTQzMjBcc2wtMTgwXHNsbXVsdDBccWpcdHg3OTIwIFN0b3JhZ2UgV2l0aGRyYXdhbCBDaGFyZ2VcdGFiIE1hcmtldCBCYXNlZC9OZWdvdGlhYmxlXHRhYiAkL2R0aFxwYXINClxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxxaiAgICBccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBccmk0MzJcc2wtMTgwXHNsbXVsdDAgUGFpZCBvbiBhIG1vbnRobHkgYmFzaXMuICBQYXltZW50IGlzIGVxdWFsIHRvIHRoZSBTdG9yYWdlIFdpdGhkcmF3YWwgQ2hhcmdlIG11bHRpcGxpZWQgYnkgdGhlIGR0aCBxdWFudGl0eSB3aXRoZHJhd24gYnkgQ3VzdG9tZXIgZHVyaW5nIGEgZ2l2ZW4gbW9udGguXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqICAgIFxwYXINClxwYXINClxwYXINClxwYXJkXGx0cnBhclxsaTcyMFxzbC0xODBcc2xtdWx0MFxxalx0eDQzMjBcdHg3OTIwIE92ZXJydW4gV2l0aGRyYXdhbCBDaGFyZ2VcdGFiIE1hcmtldCBCYXNlZC9OZWdvdGlhYmxlXHRhYiAkL2R0aFxwYXINClxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxxaiAgICBccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBccmkyNTJcc2wtMTgwXHNsbXVsdDAgUGFpZCBvbiBhIG1vbnRobHkgYmFzaXMuICBQYXltZW50IGlzIGVxdWFsIHRvIHRoZSBPdmVycnVuIFdpdGhkcmF3YWwgQ2hhcmdlIG11bHRpcGxpZWQgYnkgdGhlIGR0aCBxdWFudGl0eSB3aXRoZHJhd24gYnkgQ3VzdG9tZXIgcHVyc3VhbnQgdG8gU2VjdGlvbiAzKGIpIHVuZGVyIFJhdGUgU2NoZWR1bGUgSVNTLlxwYXINClxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxxaiAgICBccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBcc2wtMTgwXHNsbXVsdDBccWogQUNBIENoYXJnZVx0YWJcdGFiXHRhYlx0YWJcdGFiICQwLjAwMTlcdGFiXHRhYlx0YWJcdGFiICQvZHRoXHBhcg0KXHBhcg0KVGhlIEFDQSBpcyBhcHBsaWNhYmxlIHRvIFBldGFsJ3MgUmF0ZSBTY2hlZHVsZSBJU1MsIGlmIG5vdCBjb2xsZWN0ZWQgdW5kZXIgUGV0YWwncyBSYXRlIFNjaGVkdWxlIEZUUyBvciBJVFMuXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHJpMjMyXHNsLTE4MFxzbG11bHQwXHR4NDMyMFx0eDc5MjAgRnVlbCBSZWltYnVyc2VtZW50IENoYXJnZS4gIEEgbW9udGhseSBjaGFyZ2UgZm9yIGZ1ZWwgYW5kIGxvc3NlcyBhc3NvY2lhdGVkIHdpdGggcHJvdmlkaW5nIHN0b3JhZ2Ugc2VydmljZXMgZm9yIEN1c3RvbWVyIGVxdWFsIHRvIHRoZSBhcHBsaWNhYmxlIEZ1ZWwgUmVpbWJ1cnNlbWVudCBDYWxjdWxhdGlvbi5ccGFyDQpccGFyZFxsdHJwYXJcbGk3MjBccmk0MzJcc2wtMTgwXHNsbXVsdDBcdHg0MzIwXHR4NzkyMFxwYXINClxwYXJkXGx0cnBhclxsaTcyMFxzbC0xODBcc2xtdWx0MFxxalx0eDQzMjBcdHg3OTIwXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXGxpNzIwXHJpOTBcc2wtMTgwXHNsbXVsdDAgKiBBbGwgcXVhbnRpdGllcyBvZiBuYXR1cmFsIGdhcyBhcmUgbWVhc3VyZWQgaW4gZGVrYXRoZXJtcyAoZHRoKS5ccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWNccGFyDQpccGFyZFxsdHJwYXJcZnMyNFxwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>PETAL GAS STORAGE, L.L.C.
+ISS RATE STATEMENT - INTERRUPTIBLE STORAGE SERVICE*
+
+
+
+  RATE		UNITS
+        ------------------------	    ---------
+
+Standby Capacity Charge	Market Based/Negotiable	$/dth
+	per month
+
+Paid on a monthly basis.  Payment is equal to the Standby Capacity Charge multiplied by Customer's Interruptible Storage Capacity.
+   
+
+
+Standby Deliverability Charge	Market Based/Negotiable		$/dth
+	per month
+   
+Paid on a monthly basis.  Payment is equal to the Standby Deliverability Charge multiplied by Customer's Total Maximum Daily Withdrawal Quantity.
+   
+
+
+Storage Injection Charge	Market Based/Negotiable	$/dth
+		
+Paid on a monthly basis.  Payment is equal to the Storage Injection Charge multiplied by the dth quantity injected by the Customer during a given month.
+   
+
+
+Overrun Injection Charge	Market Based/Negotiable	$/dth	
+   
+Paid on a monthly basis.  Payment is equal to the Overrun Injection Charge multiplied by the dth quantity injected by Customer pursuant to Section 3(a) under Rate Schedule ISS.
+   
+
+
+Storage Withdrawal Charge	Market Based/Negotiable	$/dth
+   
+Paid on a monthly basis.  Payment is equal to the Storage Withdrawal Charge multiplied by the dth quantity withdrawn by Customer during a given month.
+   
+
+
+Overrun Withdrawal Charge	Market Based/Negotiable	$/dth
+   
+Paid on a monthly basis.  Payment is equal to the Overrun Withdrawal Charge multiplied by the dth quantity withdrawn by Customer pursuant to Section 3(b) under Rate Schedule ISS.
+   
+ACA Charge					$0.0019				$/dth
+
+The ACA is applicable to Petal's Rate Schedule ISS, if not collected under Petal's Rate Schedule FTS or ITS.
+
+Fuel Reimbursement Charge.  A monthly charge for fuel and losses associated with providing storage services for Customer equal to the applicable Fuel Reimbursement Calculation.
+
+
+
+* All quantities of natural gas are measured in dekatherms (dth).</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>3</filing_id>
+      <filing_title>Miscellaneous Housekeeping Filing</filing_title>
+      <filing_type>570</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2011-01-17</current_effective_date>
+      <ferc_order_date>2011-01-11</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>Y</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>332</record_id>
+      <option_code>A</option_code>
+      <record_title>Sheet No. 140</record_title>
+      <record_content_desc>Appendix-2 FSS and ISS</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>First Revised Sheet No. 140</record_narrative_name>
+      <collation_value>183369728</collation_value>
+      <record_parent_id>192</record_parent_id>
+      <proposed_effective_date>2011-01-17</proposed_effective_date>
+      <priority_order>1000000000</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTEwMzN7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxzbC0xODBcc2xtdWx0MFxxY1x0eDBcdHg3MjBcdHgxNDQwXHR4MjE2MFx0eDI4ODBcdHgzNjAwXHR4NDMyMFx0eDUwNDBcdHg1NzYwXHR4NjQ4MFx0eDcyMDBcdHg3OTIwXHR4ODY0MFxmMFxmczE2XHBhcg0KXHBhcg0KQVBQRU5ESUNFUyBUTyBGT1JNUyBPRiBGSVJNIEFORCBJTlRFUlJVUFRJQkxFIFNUT1JBR0VccGFyDQpTRVJWSUNFIEFHUkVFTUVOVFMgKENvbnRpbnVlZClccGFyDQpccGFyDQpccGFyDQpBUFBFTkRJWCAyXHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqXHR4MFx0eDcyMFx0eDE0NDBcdHgyMTYwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXGxpNzAwXHNsLTE4MFxzbG11bHQwXHFqXHR4NzIwXHR4MTQ0MFx0eDIxNjBcdHgyODgwXHR4MzYwMFx0eDQzMjBcdHg1MDQwXHR4NTc2MFx0eDY0ODBcdHg3MjAwXHR4NzkyMFx0eDg2NDAgQ09SUkVTUE9OREVOQ0UsIE5PVElDRVMsIElOVk9JQ0VTLCBQQVlNRU5ULCBERUxJVkVSWSwgTk9USUZJQ0FUSU9OLCBBTkQgTk9NSU5BVElPTlM6XHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqXHR4MFx0eDcyMFx0eDE0NDBcdHgyMTYwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXGZpMTQwMFxzbC0xODBcc2xtdWx0MFxxalx0eDBcdHg3MjBcdHgxNDQwXHR4MjE2MFx0eDI4ODBcdHgzNjAwXHR4NDMyMFx0eDUwNDBcdHg1NzYwXHR4NjQ4MFx0eDcyMDBcdHg3OTIwXHR4ODY0MCBQRVRBTDpccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWpcdHgwXHR4NzIwXHR4MTQ0MFx0eDIxNjBcdHgyODgwXHR4MzYwMFx0eDQzMjBcdHg1MDQwXHR4NTc2MFx0eDY0ODBcdHg3MjAwXHR4NzkyMFx0eDg2NDBccGFyDQpccGFyZFxsdHJwYXJcbGkyMTAwXHNsLTE4MFxzbG11bHQwXHFqXHR4MFx0eDcyMFx0eDIxNjBcdHgyODgwXHR4MzYwMFx0eDQzMjBcdHg1MDQwXHR4NTc2MFx0eDY0ODBcdHg3MjAwXHR4NzkyMFx0eDg2NDAgQ29ycmVzcG9uZGVuY2UsIE5vdGljZXMsIEludm9pY2VzLCBhbmRccGFyDQpccGFyZFxsdHJwYXJcZmk2NjBcbGkxNDQwXHNsLTE4MFxzbG11bHQwXHFqXHR4MFx0eDcyMFx0eDE0NDBcdHgyMTYwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwIFBheW1lbnQ6XHBhcg0KUGV0YWwgR2FzIFN0b3JhZ2UsIEwuTC5DLiBccGFyDQoxMTAwIExvdWlzaWFuYSBTdHJlZXRccGFyDQpIb3VzdG9uLCBUWCAgNzcwMDJccGFyDQpBdHRlbnRpb246ICBQYXVsIFRhdGVccGFyDQpccGFyZFxsdHJwYXJcZmk2NjBcc2wtMTgwXHNsbXVsdDBccWpcdHgwXHR4NzIwXHR4MTQ0MFx0eDIxNjBcdHgyODgwXHR4MzYwMFx0eDQzMjBcdHg1MDQwXHR4NTc2MFx0eDY0ODBcdHg3MjAwXHR4NzkyMFx0eDg2NDBccGFyDQpccGFyZFxsdHJwYXJcZmk2NjBcbGkxNDQwXHNsLTE4MFxzbG11bHQwXHFqXHR4MFx0eDcyMFx0eDE0NDBcdHgyMTYwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwIFBheW1lbnRzIFNoYWxsIEJlIE1hZGUgdmlhIFdpcmUgVHJhbnNmZXIgVG86XHBhcg0KXHBhcmRcbHRycGFyXGxpMjA4MFxzbC0xODBcc2xtdWx0MFxxalx0eDcyMFx0eDE0NDBcdHgyMTYwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwXHBhcg0KUGV0YWwgR2FzIFN0b3JhZ2UgTC5MLkMuXHBhcg0KQmFuayBPbmUgLSBUZXhhc1xwYXINCkRhbGxhcywgVFhccGFyDQpBQkEgIzExMTAwMDYxNFxwYXINCkFjY291bnQgIzY5MzE5NDgzOVxwYXINCkZ1cnRoZXIgY3JlZGl0OiAgUGV0YWwgR2FzIFN0b3JhZ2UsIEwuTC5DLlxwYXINCk9yIEludm9pY2UgUmVmZXJlbmNlICNccGFyDQpccGFyDQpccGFyZFxsdHJwYXJcZmk2NjBcbGkxNDQwXHNsLTE4MFxzbG11bHQwXHFqXHR4MFx0eDcyMFx0eDE0NDBcdHgyMTYwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwIEFsbCBUZWxlcGhvbmUgQ29ycmVzcG9uZGVuY2U6XHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqXHR4MFx0eDcyMFx0eDE0NDBcdHgyMTYwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwXHBhcg0KXHBhcmRcbHRycGFyXGZpNjYwXGxpMTQ0MFxzbC0xODBcc2xtdWx0MFxxalx0eDBcdHg3MjBcdHgxNDQwXHR4MjE2MFx0eDI4ODBcdHgzNjAwXHR4NDMyMFx0eDUwNDBcdHg1NzYwXHR4NjQ4MFx0eDcyMDBcdHg3OTIwXHR4ODY0MCBUZWxlcGhvbmU6ICAoNzEzKSAzODEtNzkzOVxwYXINCkZhY3NpbWlsZTogICg3MTMpIDM4MS03OTk1XHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqXHR4MFx0eDcyMFx0eDE0NDBcdHgyMTYwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwXHBhcg0KXHBhcmRcbHRycGFyXGZpNjYwXGxpMTQ0MFxzbC0xODBcc2xtdWx0MFxxalx0eDBcdHg3MjBcdHgxNDQwXHR4MjE2MFx0eDI4ODBcdHgzNjAwXHR4NDMyMFx0eDUwNDBcdHg1NzYwXHR4NjQ4MFx0eDcyMDBcdHg3OTIwXHR4ODY0MCBEZWxpdmVyeSwgTm90aWZpY2F0aW9uLCBhbmQgTm9taW5hdGlvbnM6XHBhcg0KUGV0YWwgR2FzIFN0b3JhZ2UsIEwuTC5DLiBccGFyDQoxMTAwIExvdWlzaWFuYSBTdHJlZXRccGFyDQpIb3VzdG9uLCBUWCAgNzcwMDJccGFyDQpBdHRlbnRpb246ICBQYXVsIFRhdGVccGFyDQpccGFyDQpccGFyZFxsdHJwYXJcZmk2ODBcbGk3MjBcc2wtMTgwXHNsbXVsdDBccWpcdHgwXHR4NzIwXHR4MTQ0MFx0eDIxNjBcdHgyODgwXHR4MzYwMFx0eDQzMjBcdHg1MDQwXHR4NTc2MFx0eDY0ODBcdHg3MjAwXHR4NzkyMFx0eDg2NDAgQ1VTVE9NRVI6XHBhcg0KXHBhcmRcbHRycGFyXHNsLTE4MFxzbG11bHQwXHFqXHR4MFx0eDcyMFx0eDE0NDBcdHgyMTYwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwXHBhcg0KXHBhcmRcbHRycGFyXGZpNjYwXGxpMTQ0MFxzbC0xODBcc2xtdWx0MFxxalx0eDBcdHg3MjBcdHgxNDQwXHR4MjE2MFx0eDI4ODBcdHgzNjAwXHR4NDMyMFx0eDUwNDBcdHg1NzYwXHR4NjQ4MFx0eDcyMDBcdHg3OTIwXHR4ODY0MCBDb3JyZXNwb25kZW5jZSwgTm90aWNlcywgSW52b2ljZXMgYW5kXHBhcg0KUGF5bWVudDpccGFyDQpccGFyZFxsdHJwYXJcc2wtMTgwXHNsbXVsdDBccWpcdHgwXHR4NzIwXHR4MTQ0MFx0eDIxNjBcdHgyODgwXHR4MzYwMFx0eDQzMjBcdHg1MDQwXHR4NTc2MFx0eDY0ODBcdHg3MjAwXHR4NzkyMFx0eDg2NDBccGFyDQpccGFyZFxsdHJwYXJcbGk5MFxyaTkwXHNsLTE4MFxzbG11bHQwXHBhcg0KXHBhcmRcbHRycGFyXGZzMjRccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>APPENDICES TO FORMS OF FIRM AND INTERRUPTIBLE STORAGE
+SERVICE AGREEMENTS (Continued)
+
+
+APPENDIX 2
+
+
+CORRESPONDENCE, NOTICES, INVOICES, PAYMENT, DELIVERY, NOTIFICATION, AND NOMINATIONS:
+
+
+                  PETAL:
+
+Correspondence, Notices, Invoices, and
+        Payment:
+        Petal Gas Storage, L.L.C. 
+        1100 Louisiana Street
+        Houston, TX  77002
+        Attention:  Paul Tate
+        
+        Payments Shall Be Made via Wire Transfer To:
+
+Petal Gas Storage L.L.C.
+Bank One - Texas
+Dallas, TX
+ABA #111000614
+Account #693194839
+Further credit:  Petal Gas Storage, L.L.C.
+Or Invoice Reference #
+
+        All Telephone Correspondence:
+
+        Telephone:  (713) 381-7939
+        Facsimile:  (713) 381-7995
+
+        Delivery, Notification, and Nominations:
+        Petal Gas Storage, L.L.C. 
+        1100 Louisiana Street
+        Houston, TX  77002
+        Attention:  Paul Tate
+        
+         CUSTOMER:
+
+        Correspondence, Notices, Invoices and
+        Payment:</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>3</filing_id>
+      <filing_title>Miscellaneous Housekeeping Filing</filing_title>
+      <filing_type>570</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2011-01-17</current_effective_date>
+      <ferc_order_date>2011-01-11</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>Y</suspend_motion>
+    </record_data>
+    <record_data>
+      <record_id>340</record_id>
+      <option_code>A</option_code>
+      <record_title>Sheet No. 148</record_title>
+      <record_content_desc>Appendix-2 AVS</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>First Revised Sheet No. 148</record_narrative_name>
+      <collation_value>186646528</collation_value>
+      <record_parent_id>192</record_parent_id>
+      <proposed_effective_date>2011-01-17</proposed_effective_date>
+      <priority_order>1000000000</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTEwMzN7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxub3dpZGN0bHBhclxzbC0xODBcc2xtdWx0MFx0eDBcdHg3MjBcdHgxNDQwXHR4MjE2MFx0eDI4ODBcdHgzNjAwXHR4NDMyMFx0eDUwNDBcdHg1NzYwXHR4NjQ4MFx0eDcyMDBcdHg3OTIwXHR4ODY0MFxmMFxmczE2XHBhcg0KXHBhcmRcbHRycGFyXG5vd2lkY3RscGFyXHNsLTE4MFxzbG11bHQwXHFjXHR4MFx0eDcyMFx0eDE0NDBcdHgyMTYwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwXHBhcg0KXHBhcg0KQVBQRU5ESUNFUyBUTyBGT1JNIE9GIEFEVkFOQ0lORyBTRVJWSUNFIEFHUkVFTUVOVCAoQ29udGludWVkKVxwYXINClxwYXJkXGx0cnBhclxub3dpZGN0bHBhclxzbC0xODBcc2xtdWx0MFxxalx0eDBcdHg3MjBcdHgxNDQwXHR4MjE2MFx0eDI4ODBcdHgzNjAwXHR4NDMyMFx0eDUwNDBcdHg1NzYwXHR4NjQ4MFx0eDcyMDBcdHg3OTIwXHR4ODY0MFxwYXINClxwYXINClxwYXJkXGx0cnBhclxub3dpZGN0bHBhclxzbC0xODBcc2xtdWx0MFxxY1x0eDBcdHg3MjBcdHgxNDQwXHR4MjE2MFx0eDI4ODBcdHgzNjAwXHR4NDMyMFx0eDUwNDBcdHg1NzYwXHR4NjQ4MFx0eDcyMDBcdHg3OTIwXHR4ODY0MCBBUFBFTkRJWCAyXHBhcg0KXHBhcmRcbHRycGFyXG5vd2lkY3RscGFyXHNsLTE4MFxzbG11bHQwXHFqXHR4MFx0eDcyMFx0eDE0NDBcdHgyMTYwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwXHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXG5vd2lkY3RscGFyXGxpNzIwXHNsLTE4MFxzbG11bHQwXHR4NzIwXHR4MTQ0MFx0eDIxNjBcdHgyODgwXHR4MzYwMFx0eDQzMjBcdHg1MDQwXHR4NTc2MFx0eDY0ODBcdHg3MjAwXHR4NzkyMFx0eDg2NDAgQ09SUkVTUE9OREVOQ0UsIE5PVElDRVMsIElOVk9JQ0VTLCBQQVlNRU5ULCBccGFyDQpERUxJVkVSWSwgTk9USUZJQ0FUSU9OLCBBTkQgTk9NSU5BVElPTlM6XHBhcg0KXHBhcmRcbHRycGFyXG5vd2lkY3RscGFyXHNsLTE4MFxzbG11bHQwXHFqXHR4MFx0eDcyMFx0eDE0NDBcdHgyMTYwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwXHBhcg0KXHBhcg0KXHRhYiBQRVRBTDpccGFyDQpccGFyDQpcdGFiIENvcnJlc3BvbmRlbmNlLCBOb3RpY2VzLCBJbnZvaWNlcywgYW5kIFBheW1lbnQ6XHBhcg0KXHBhcg0KXHBhcmRcbHRycGFyXG5vd2lkY3RscGFyXGxpMTQ0MFxzbC0xODBcc2xtdWx0MFxxalx0eDBcdHg3MjBcdHgxNDQwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwIFBldGFsIEdhcyBTdG9yYWdlLCBMLkwuQy5ccGFyDQoxMTAwIExvdWlzaWFuYSBTdHJlZXRccGFyDQpIb3VzdG9uLCBUWCAgNzcwMDJccGFyDQpBdHRlbnRpb246ICBQYXVsIFRhdGVccGFyDQpccGFyZFxsdHJwYXJcbm93aWRjdGxwYXJcc2wtMTgwXHNsbXVsdDBccWpcdHgwXHR4NzIwXHR4MTQ0MFx0eDIxNjBcdHgyODgwXHR4MzYwMFx0eDQzMjBcdHg1MDQwXHR4NTc2MFx0eDY0ODBcdHg3MjAwXHR4NzkyMFx0eDg2NDBccGFyDQogICAgICAgIFx0YWIgUGF5bWVudHMgU2hhbGwgQmUgTWFkZSB2aWEgV2lyZSBUcmFuc2ZlciBUbzpccGFyDQpccGFyDQpccGFyZFxsdHJwYXJcbGkxNDQwXHNsLTE4MFxzbG11bHQwXHFqXHR4NzIwXHR4MTQ0MFx0eDI4ODBcdHgzNjAwXHR4NDMyMFx0eDUwNDBcdHg1NzYwXHR4NjQ4MFx0eDcyMDBcdHg3OTIwXHR4ODY0MCBQZXRhbCBHYXMgU3RvcmFnZSBMLkwuQy5ccGFyDQpCYW5rIE9uZSAtIFRleGFzXHBhcg0KRGFsbGFzLCBUWFxwYXINCkFCQSAjMTExMDAwNjE0XHBhcg0KQWNjb3VudCAjNjkzMTk0ODM5XHBhcg0KRnVydGhlciBjcmVkaXQ6ICBQZXRhbCBHYXMgU3RvcmFnZSwgTC5MLkMuXHBhcg0KT3IgSW52b2ljZSBSZWZlcmVuY2UgI1xwYXINClxwYXJkXGx0cnBhclxub3dpZGN0bHBhclxsaTE0NDBcc2wtMTgwXHNsbXVsdDBccWpcdHgwXHR4NzIwXHR4MTQ0MFx0eDI4ODBcdHgzNjAwXHR4NDMyMFx0eDUwNDBcdHg1NzYwXHR4NjQ4MFx0eDcyMDBcdHg3OTIwXHR4ODY0MFxwYXINClxwYXJkXGx0cnBhclxub3dpZGN0bHBhclxsaTcyMFxzbC0xODBcc2xtdWx0MFxxalx0eDBcdHg3MjBcdHgyMTYwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwIEFsbCBUZWxlcGhvbmUgQ29ycmVzcG9uZGVuY2U6XHBhcg0KXHBhcmRcbHRycGFyXG5vd2lkY3RscGFyXHNsLTE4MFxzbG11bHQwXHFqXHR4MFx0eDcyMFx0eDE0NDBcdHgyMTYwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwXHBhcg0KXHBhcmRcbHRycGFyXG5vd2lkY3RscGFyXGZpLTE0NDBcbGkxNDQwXHNsLTE4MFxzbG11bHQwXHFqXHR4MFx0eDcyMFx0eDE0NDBcdHgyMTYwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwICAgICAgICAgICAgICAgIFx0YWJcdGFiIFRlbGVwaG9uZTogICg3MTMpIDM4MS03OTM5XHBhcg0KICAgICAgICAgICAgICAgXHRhYlx0YWIgRmFjc2ltaWxlOiAgKDcxMykgMzgxLTc5OTVccGFyDQpccGFyZFxsdHJwYXJcbm93aWRjdGxwYXJcbGkxNDQwXHNsLTE4MFxzbG11bHQwXHFqXHR4MFx0eDcyMFx0eDE0NDBcdHgyMTYwXHR4Mjg4MFx0eDM2MDBcdHg0MzIwXHR4NTA0MFx0eDU3NjBcdHg2NDgwXHR4NzIwMFx0eDc5MjBcdHg4NjQwXHBhcg0KXHBhcmRcbHRycGFyXG5vd2lkY3RscGFyXGxpNzIwXHNsLTE4MFxzbG11bHQwXHFqXHR4MFx0eDcyMFx0eDIxNjBcdHgyODgwXHR4MzYwMFx0eDQzMjBcdHg1MDQwXHR4NTc2MFx0eDY0ODBcdHg3MjAwXHR4NzkyMFx0eDg2NDAgRGVsaXZlcnksIE5vdGlmaWNhdGlvbiwgYW5kIE5vbWluYXRpb25zOlxwYXINClxwYXJkXGx0cnBhclxub3dpZGN0bHBhclxzbC0xODBcc2xtdWx0MFxxalx0eDBcdHg3MjBcdHgxNDQwXHR4MjE2MFx0eDI4ODBcdHgzNjAwXHR4NDMyMFx0eDUwNDBcdHg1NzYwXHR4NjQ4MFx0eDcyMDBcdHg3OTIwXHR4ODY0MFxwYXINClxwYXJkXGx0cnBhclxub3dpZGN0bHBhclxmaS0xNDQwXGxpMTQ0MFxzbC0xODBcc2xtdWx0MFxxalx0eDBcdHg3MjBcdHgxNDQwXHR4MjE2MFx0eDI4ODBcdHgzNjAwXHR4NDMyMFx0eDUwNDBcdHg1NzYwXHR4NjQ4MFx0eDcyMDBcdHg3OTIwXHR4ODY0MCAgICAgICAgICAgICAgIFx0YWJcdGFiIFBldGFsIEdhcyBTdG9yYWdlLCBMLkwuQy5ccGFyDQogICAgICAgICAgICAgIFx0YWJcdGFiIDExMDAgTG91aXNpYW5hIFN0cmVldFxwYXINCiAgICAgICAgICAgICAgIFx0YWJcdGFiIEhvdXN0b24sIFRYICA3NzAwMlxwYXINClxwYXJkXGx0cnBhclxsaTkwXHJpOTBcc2wtMTgwXHNsbXVsdDAgICAgICAgICAgICAgICBcdGFiXHRhYiBBdHRlbnRpb246IFBhdWwgVGF0ZVxwYXINClxwYXINClxwYXJkXGx0cnBhclxub3dpZGN0bHBhclxzbC0xODBcc2xtdWx0MFxxY1x0eDBcdHg3MjBcdHgxNDQwXHR4MjE2MFx0eDI4ODBcdHgzNjAwXHR4NDMyMFx0eDUwNDBcdHg1NzYwXHR4NjQ4MFx0eDcyMDBcdHg3OTIwXHR4ODY0MFxwYXINClxwYXJkXGx0cnBhclxmczI0XHBhcg0KfQ0K</record_binary_data>
+      <record_plain_text>APPENDICES TO FORM OF ADVANCING SERVICE AGREEMENT (Continued)
+
+
+APPENDIX 2
+
+
+CORRESPONDENCE, NOTICES, INVOICES, PAYMENT, 
+DELIVERY, NOTIFICATION, AND NOMINATIONS:
+
+
+	PETAL:
+
+	Correspondence, Notices, Invoices, and Payment:
+
+Petal Gas Storage, L.L.C.
+1100 Louisiana Street
+Houston, TX  77002
+Attention:  Paul Tate
+
+        	Payments Shall Be Made via Wire Transfer To:
+
+Petal Gas Storage L.L.C.
+Bank One - Texas
+Dallas, TX
+ABA #111000614
+Account #693194839
+Further credit:  Petal Gas Storage, L.L.C.
+Or Invoice Reference #
+
+All Telephone Correspondence:
+
+               		Telephone:  (713) 381-7939
+               		Facsimile:  (713) 381-7995
+
+Delivery, Notification, and Nominations:
+
+              		Petal Gas Storage, L.L.C.
+              		1100 Louisiana Street
+               		Houston, TX  77002
+              		Attention: Paul Tate</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>3</filing_id>
+      <filing_title>Miscellaneous Housekeeping Filing</filing_title>
+      <filing_type>570</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2011-01-17</current_effective_date>
+      <ferc_order_date>2011-01-11</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>Y</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

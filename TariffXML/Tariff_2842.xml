@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C002545</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>1</tariff_id>
+    <tariff_title>Manitowoc Public Utilities Rate Schedule FERC No. 2</tariff_title>
+    <tariff_export_date>2025-09-16T19:45Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>10</record_id>
+      <option_code>A</option_code>
+      <record_title>Rate Schedules</record_title>
+      <record_content_desc>Section 1</record_content_desc>
+      <record_version_num>2.0.0</record_version_num>
+      <record_narrative_name>Rates</record_narrative_name>
+      <collation_value>10</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2019-04-01</proposed_effective_date>
+      <priority_order>560</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGRlZmYwe1xmb250dGJse1xmMCBUaW1lcyBOZXcgUm9tYW47fXtcZjEgQ2FtYnJpYTt9fXtcY29sb3J0YmxccmVkMFxncmVlbjBcYmx1ZTAgO1xyZWQwXGdyZWVuMFxibHVlMjU1IDtccmVkNTBcZ3JlZW41MFxibHVlNTAgO317XCpcZGVmY2hwIFxmczIyfXtcKlxkZWZwYXAgXHNsMjU4XHNsbXVsdDFcc2ExNjB9e1wqXGxpc3RvdmVycmlkZXRhYmxlfXtcc3R5bGVzaGVldCB7XHFsXGNmMCBOb3JtYWw7fXtcKlxjczFcZnMyMlxjZjAgRGVmYXVsdCBQYXJhZ3JhcGggRm9udDt9e1wqXGNzMlxzYmFzZWRvbjFcZnMyMlxjZjAgTGluZSBOdW1iZXI7fXtcKlxjczNcdWxcZnMyMlxjZjEgSHlwZXJsaW5rO319XHNlY3RkXG1hcmdsc3huMTQ0MFxtYXJncnN4bjE0NDBcbWFyZ3RzeG4xNDQwXG1hcmdic3huMTQ0MFxoZWFkZXJ5NzIwXGZvb3Rlcnk3MjBcY29sc3g3MjBccGFyZFxwbGFpblxxbHtcKlxia21rc3RhcnQgX0dvQmFja317XCpcYmtta2VuZCBfR29CYWNrfXtcYlxmMVxjZjIgTWFuaXRvd29jIFB1YmxpYyBVdGlsaXRpZXNcdGFiIFx0YWIgXHRhYiBcdGFiIEZpcnN0IFJldmlzZWQgU2hlZXQgTm8uIDF9XGJcZjFcY2YyXHBhclxwYXJkXHBsYWluXHFse1xiXGYxXGNmMiBSYXRlIFNjaGVkdWxlIEZFUkMgTm8uIDJcdGFiIFx0YWIgXHRhYiBcdGFiIFN1cGVyc2VkaW5nIE9yaWdpbmFsIFNoZWV0IE5vLiAxfVxiXGYxXGNmMlxwYXJccGFyZFxwbGFpblxxbFxiXGYxXGNmMlxwYXJccGFyZFxwbGFpblxxbFxiXGYxXGNmMlxwYXJccGFyZFxwbGFpblxxY3tcYlxmMVxjZjIgTUFOSVRPV09DIFBVQkxJQyBVVElMSVRJRVN9XGJcZjFcY2YyXHBhclxwYXJkXHBsYWluXHFje1xiXGYxXGNmMiBSQVRFIFNDSEVEVUxFIEZFUkMgTk8uIDIgKFNFVFRMRU1FTlQgUkFURSl9XGJcZjFcY2YyXHBhclxwYXJkXHBsYWluXHFjXGJcZjFcY2YyXHBhclxwYXJkXHBsYWluXHFje1xiXGYxXGNmMiBSZWFjdGl2ZSBTdXBwbHkgYW5kIFZvbHRhZ2UgQ29udHJvbCBmcm9tIEdlbmVyYXRpb24gU2VydmljZX1cYlxmMVxjZjJccGFyXHBhcmRccGxhaW5ccWxcZjFcY2YyXHBhclxwYXJkXHBsYWluXHFse1xmMVxjZjIgTWFuaXRvd29jIFB1YmxpYyBVdGlsaXRpZXMgKE1QVSkgcHJvdmlkZXMgUmVhY3RpdmUgU3VwcGx5IGFuZCBWb2x0YWdlIENvbnRyb2wgZnJvbSwgR2VuZXJhdGlvbiBTb3VyY2VzIFNlcnZpY2UgKFJlYWN0aXZlIFN1cHBseSBTZXJ2aWNlKSBmcm9tIGEgZmxlZXQgb2YgZ2VuZXJhdGlvbiBmYWNpbGl0aWVzIGxvY2F0ZWQgaW4gTWFuaXRvd29jLCBXaXNjb25zaW4gKE1QVSBHZW5lcmF0aW9uKSBhbmQgaW50ZXJjb25uZWN0ZWQgdG8gdGhlIEFtZXJpY2FuIFRyYW5zbWlzc2lvbiBDb21wYW55LCBMTEMgKEFUQ0xMQykgdHJhbnNtaXNzaW9uIHN5c3RlbSwgd2hpY2ggaXMgdW5kZXIgdGhlIG9wZXJhdGlvbmFsIGNvbnRyb2wgb2YgdGhlIE1pZHdlc3QgSW5kZXBlbmRlbnQgU3lzdGVtIE9wZXJhdG9yLCBJbmMuIChNSVNPKS4gVGhpcyBSYXRlIFNjaGVkdWxlIEZFUkMgTm8uIDIgc2V0cyBmb3J0aCBNUFVcdTgyMTdcJzkycyByZXZlbnVlIHJlcXVpcmVtZW50cyBmb3IgdGhlIHByb3Zpc2lvbiBvZiBSZWFjdGl2ZSBTdXBwbHkgU2VydmljZSBmcm9tIE1QVSBHZW5lcmF0aW9uIHRvIE1JU08gYW5kIEFUQ0xMQy4gUGF5bWVudHMgZnJvbSBNSVNPIHNoYWxsIGJlIGluIGFjY29yZGFuY2Ugd2l0aCBhIEZlZGVyYWwgRW5lcmd5IFJlZ3VsYXRvcnkgQ29tbWlzc2lvbi1hY2NlcHRlZCBTY2hlZHVsZSAyIHRvIHRoZSBNSVNPIEVuZXJneSBNYXJrZXQgVGFyaWZmIHVuZGVyIHdoaWNoIE1QVSByZWNlaXZlcyBjb21wZW5zYXRpb24ufVxmMVxjZjJccGFyXHBhcmRccGxhaW5ccWxcZjFcY2YyXHBhclxwYXJkXHBsYWluXHFse1xmMVxjZjIgTVBVXHU4MjE3XCc5MnMgYW5udWFsIGFuZCBtb250aGx5IHJldmVudWUgcmVxdWlyZW1lbnRzIGFyZSBzZXQgZm9ydGggYmVsb3c6fVxmMVxjZjJccGFyXHBhcmRccGxhaW5ccWxcZjFcY2YyXHBhclxwYXJkXHBsYWluXHFse1xmMVxjZjIgXHRhYiBBTk5VQUwgUkVWRU5VRSBSRVFVSVJFTUVOVDpcdGFiICR9e1xjZjAgMTg0LDQ2NS4yN317XGYxXGNmMiAgfVxmMVxjZjJccGFyXHBhcmRccGxhaW5ccWxcZjFcY2YyXHBhclxwYXJkXHBsYWluXHFse1xmMVxjZjIgXHRhYiBNT05USExZIFJFVkVOVUUgUkVRVUlSRU1FTlQ6XHRhYiAkMTUsMzcyfVxmMVxjZjJccGFyXHBhcmRccGxhaW5ccWxcZjFcY2YyXHBhclxwYXJkXHBsYWluXHFsXGYxXGNmMlxwYXJccGFyZFxwbGFpblxxbFxmMVxjZjJccGFyXHBhcmRccGxhaW5ccWxcZjFcY2YyXHBhclxwYXJkXHBsYWluXHFse1xmMVxjZjIgSXNzdWVkIGJ5OiAgQW5keSBPbmVzdGksIFNlbmlvciBNYW5hZ2VyIFx1ODIxMVwnOTYgVGVjaG5pY2FsIFNlcnZpY2VzLCBNUFV9XGYxXGNmMlxwYXJccGFyZFxwbGFpblxxbFxmMVxjZjJccGFyXHBhcmRccGxhaW5ccWx7XGYxXGNmMiBJc3N1ZWQ6IE1hcmNoIDE4LCAyMDE5IChPcmlnaW5hbCBSYXRlKS59XGYxXGNmMlxwYXJccGFyZFxwbGFpblxxbFxmMVxjZjJccGFyXHBhcmRccGxhaW5ccWx7XGYxXGNmMiBFZmZlY3RpdmU6IEFwcmlsIDEsIDIwMTkufVxmMVxjZjJccGFyXHBhcmRccGxhaW5ccWxccGFyfQ==</record_binary_data>
+      <record_plain_text>Manitowoc Public Utilities				First Revised Sheet No. 1
+Rate Schedule FERC No. 2				Superseding Original Sheet No. 1
+
+
+MANITOWOC PUBLIC UTILITIES
+RATE SCHEDULE FERC NO. 2 (SETTLEMENT RATE)
+
+Reactive Supply and Voltage Control from Generation Service
+
+Manitowoc Public Utilities (MPU) provides Reactive Supply and Voltage Control from, Generation Sources Service (Reactive Supply Service) from a fleet of generation facilities located in Manitowoc, Wisconsin (MPU Generation) and interconnected to the American Transmission Company, LLC (ATCLLC) transmission system, which is under the operational control of the Midwest Independent System Operator, Inc. (MISO). This Rate Schedule FERC No. 2 sets forth MPU’s revenue requirements for the provision of Reactive Supply Service from MPU Generation to MISO and ATCLLC. Payments from MISO shall be in accordance with a Federal Energy Regulatory Commission-accepted Schedule 2 to the MISO Energy Market Tariff under which MPU receives compensation.
+
+MPU’s annual and monthly revenue requirements are set forth below:
+
+	ANNUAL REVENUE REQUIREMENT:	$184,465.27 
+
+	MONTHLY REVENUE REQUIREMENT:	$15,372
+
+
+
+
+Issued by:  Andy Onesti, Senior Manager – Technical Services, MPU
+
+Issued: March 18, 2019 (Original Rate).
+
+Effective: April 1, 2019.</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>3</filing_id>
+      <filing_title>compliance  Offer of Settlement to EL19-71-000</filing_title>
+      <filing_type>1380</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2019-04-01</current_effective_date>
+      <ferc_order_date>2020-04-20</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

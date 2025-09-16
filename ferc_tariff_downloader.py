@@ -18,7 +18,11 @@ from typing import Dict, Iterable, Optional, Set
 import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.common.exceptions import NoSuchElementException, TimeoutException
+from selenium.common.exceptions import (
+    NoSuchElementException,
+    StaleElementReferenceException,
+    TimeoutException,
+)
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
@@ -166,7 +170,10 @@ class FERCTariffDownloader:
     def _extract_tids_from_elements(elements: Iterable[WebElement]) -> Set[str]:
         tids: Set[str] = set()
         for element in elements:
-            href = element.get_attribute("href") or ""
+            try:
+                href = element.get_attribute("href") or ""
+            except StaleElementReferenceException:
+                continue
             match = re.search(r"tid=(\d+)", href)
             if match:
                 tids.add(match.group(1))
@@ -176,7 +183,7 @@ class FERCTariffDownloader:
     def _summary_changed(driver: webdriver.Chrome, selector: str, previous: str) -> bool:
         try:
             return driver.find_element(By.CSS_SELECTOR, selector).text != previous
-        except NoSuchElementException:
+        except (NoSuchElementException, StaleElementReferenceException):
             return True
 
     # ------------------------------------------------------------------
@@ -198,50 +205,62 @@ class FERCTariffDownloader:
 
             page_index = 1
             while True:
-                self._wait_for_grid_ready(driver, wait)
-                links = driver.find_elements(By.CSS_SELECTOR, GRID_EXPORT_LINK_SELECTOR)
-                page_tids = self._extract_tids_from_elements(links)
+                try:
+                    self._wait_for_grid_ready(driver, wait)
+                    links = driver.find_elements(By.CSS_SELECTOR, GRID_EXPORT_LINK_SELECTOR)
+                    page_tids = self._extract_tids_from_elements(links)
 
-                if page_tids:
-                    before = len(tids)
-                    tids.update(page_tids)
-                    self.logger.info(
-                        "Collected %d ids from page %d (total=%d)",
-                        len(page_tids),
+                    if page_tids:
+                        before = len(tids)
+                        tids.update(page_tids)
+                        self.logger.info(
+                            "Collected %d ids from page %d (total=%d)",
+                            len(page_tids),
+                            page_index,
+                            len(tids),
+                        )
+                        if len(tids) == before and page_index > 1:
+                            self.logger.debug("No new ids found on page %d", page_index)
+                    else:
+                        self.logger.warning("No XML links detected on page %d", page_index)
+
+                    if self.max_pages is not None and page_index >= self.max_pages:
+                        break
+
+                    try:
+                        next_button = driver.find_element(By.ID, EXTERNAL_PAGER_NEXT_ID)
+                    except NoSuchElementException:
+                        break
+
+                    classes = next_button.get_attribute("class") or ""
+                    if "dxp-disabledButton" in classes:
+                        break
+
+                    try:
+                        previous_summary = driver.find_element(By.CSS_SELECTOR, summary_selector).text
+                    except NoSuchElementException:
+                        previous_summary = str(page_index)
+
+                    driver.execute_script("arguments[0].click();", next_button)
+
+                    try:
+                        wait.until(
+                            lambda d: self._summary_changed(d, summary_selector, previous_summary)
+                        )
+                    except TimeoutException:
+                        self.logger.warning(
+                            "Timed out waiting to advance past page %d", page_index
+                        )
+                        break
+
+                    page_index += 1
+                except StaleElementReferenceException:
+                    self.logger.debug(
+                        "Stale element encountered on page %d; retrying after short pause",
                         page_index,
-                        len(tids),
                     )
-                    if len(tids) == before and page_index > 1:
-                        self.logger.debug("No new ids found on page %d", page_index)
-                else:
-                    self.logger.warning("No XML links detected on page %d", page_index)
-
-                if self.max_pages is not None and page_index >= self.max_pages:
-                    break
-
-                try:
-                    next_button = driver.find_element(By.ID, EXTERNAL_PAGER_NEXT_ID)
-                except NoSuchElementException:
-                    break
-
-                classes = next_button.get_attribute("class") or ""
-                if "dxp-disabledButton" in classes:
-                    break
-
-                try:
-                    previous_summary = driver.find_element(By.CSS_SELECTOR, summary_selector).text
-                except NoSuchElementException:
-                    previous_summary = str(page_index)
-
-                driver.execute_script("arguments[0].click();", next_button)
-
-                try:
-                    wait.until(lambda d: self._summary_changed(d, summary_selector, previous_summary))
-                except TimeoutException:
-                    self.logger.warning("Timed out waiting to advance past page %d", page_index)
-                    break
-
-                page_index += 1
+                    time.sleep(0.5)
+                    continue
 
             return tids
         finally:

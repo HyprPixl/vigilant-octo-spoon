@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C005058</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>76</tariff_id>
+    <tariff_title>Seward Generation, LLC Market Based Rate Tariff</tariff_title>
+    <tariff_export_date>2025-09-16T20:16Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>85</record_id>
+      <option_code>A</option_code>
+      <record_title>Reactive Rate Schedule</record_title>
+      <record_content_desc>Rate Schedule</record_content_desc>
+      <record_version_num>2.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>3000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2016-11-29</proposed_effective_date>
+      <priority_order>510</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGRlZmYwe1xmb250dGJse1xmMCBUaW1lcyBOZXcgUm9tYW47fXtcZjEgQ2FsaWJyaTt9e1xmMiBNaWNyb3NvZnQgU2FucyBTZXJpZjt9fXtcY29sb3J0YmxccmVkMFxncmVlbjBcYmx1ZTAgO1xyZWQwXGdyZWVuMFxibHVlMjU1IDt9e1wqXGRlZmNocCBcZnMyMn17XCpcZGVmcGFwIFxzYTIwMH17XCpcbGlzdG92ZXJyaWRldGFibGV9e1xzdHlsZXNoZWV0IHtcc25leHQwXHFsXGYxXGZzMjJcY2YwIE5vcm1hbDt9e1wqXGNzMVxmczIyXGNmMCBEZWZhdWx0IFBhcmFncmFwaCBGb250O317XCpcY3MyXHNiYXNlZG9uMVxmczIyXGNmMCBMaW5lIE51bWJlcjt9e1wqXGNzM1x1bFxmczIyXGNmMSBIeXBlcmxpbms7fX1cc2VjdGRcbWFyZ2xzeG4xNDQwXG1hcmdyc3huMTQ0MFxtYXJndHN4bjE0NDBcbWFyZ2JzeG4xNDQwXHBhcmRccGxhaW5ccWNcbm93aWRjdGxwYXJ7XGJcY2YwIFNFV0FSRCBHRU5FUkFUSU9OLCBMTEN9XGJccGFyXHBhcmRccGxhaW5ccWNcbm93aWRjdGxwYXJ7XGJcY2YwIFJBVEUgU0NIRURVTEUgRkVSQyBOTy4gMX1cYlxwYXJccGFyZFxwbGFpblxxY1xub3dpZGN0bHBhclxiXHBhclxwYXJkXHBsYWluXHFjXG5vd2lkY3RscGFye1xiXGNmMCBSZWFjdGl2ZSBTdXBwbHkgYW5kIFZvbHRhZ2UgQ29udHJvbCBmcm9tIEdlbmVyYXRpb24gU291cmNlcyBTZXJ2aWNlfVxiXHBhclxwYXJkXHBsYWluXHFsXG5vd2lkY3RscGFyXHBhclxwYXJkXHBsYWluXHFsXG5vd2lkY3RscGFye1xjZjAgXHRhYiBTRVdBUkQgR0VORVJBVElPTiwgTExDIChcdTgyMjBcJzkzU2V3YXJkXHU4MjIxXCc5NCkgcHJvdmlkZXMgUmVhY3RpdmUgU3VwcGx5IGFuZCBWb2x0YWdlIENvbnRyb2wgZnJvbSBHZW5lcmF0aW9uIFNvdXJjZXMgU2VydmljZSAoXHU4MjIwXCc5M1JlYWN0aXZlIFN1cHBseSBTZXJ2aWNlXHU4MjIxXCc5NCkgZnJvbSB0aGUgU2V3YXJkIEZhY2lsaXR5IGxvY2F0ZWQgaW4gRWFzdCBXaGVhdGZpZWxkIFRvd25zaGlwLCBQZW5uc3lsdmFuaWEgdG8gdGhlIFBlbm5zeWx2YW5pYS1OZXcgSmVyc2V5LU1hcnlsYW5kIEludGVyY29ubmVjdGlvbiwgTC5MLkMuIChcdTgyMjBcJzkzUEpNXHU4MjIxXCc5NCkgaW4gb3JkZXIgdG8gYXNzaXN0IGluIG1haW50YWluaW5nIHRyYW5zbWlzc2lvbiB2b2x0YWdlcyB3aXRoaW4gYWNjZXB0YWJsZSBsaW1pdHMgb24gdGhlIFBKTSB0cmFuc21pc3Npb24gc3lzdGVtLiAgfVxwYXJccGFyZFxwbGFpblxxbFxub3dpZGN0bHBhclxwYXJccGFyZFxwbGFpblxxbFxub3dpZGN0bHBhcntcY2YwIFx0YWIgVGhpcyBSYXRlIFNjaGVkdWxlIE5vLiAxIHNldHMgZm9ydGggU2V3YXJkXHU4MjE3XCc5MnMgcmV2ZW51ZSByZXF1aXJlbWVudHMgZm9yIHRoZSBwcm92aXNpb24gb2YgUmVhY3RpdmUgU3VwcGx5IFNlcnZpY2UgZnJvbSB0aGUgU2V3YXJkIEZhY2lsaXR5IHRvIFBKTSwgYXMgY29udGVtcGxhdGVkIGJ5IHRoZSByZXZpc2VkIFNjaGVkdWxlIDIgb2YgdGhlIFBKTSBPcGVuIEFjY2VzcyBUcmFuc21pc3Npb24gVGFyaWZmLCBmaWxlZCBpbiBEb2NrZXQgTm8uIEVSMDAtMzMyNy0wMDAsIHdoaWNoIHByb3ZpZGVzIGZvciBQSk0gdG8gcGF5IGdlbmVyYXRpb24gb3duZXJzIHRoZWlyIG1vbnRobHkgcmV2ZW51ZSByZXF1aXJlbWVudHMgZm9yIFJlYWN0aXZlIFN1cHBseSBTZXJ2aWNlcy59XHBhclxwYXJkXHBsYWluXHFsXG5vd2lkY3RscGFyXHBhclxwYXJkXHBsYWluXHFsXG5vd2lkY3RscGFye1xjZjAgXHRhYiBUaGlzIFJhdGUgU2NoZWR1bGUgc2hhbGwgYmUgZWZmZWN0aXZlIEZlYnJ1YXJ5IDIsIDIwMTYufVxwYXJccGFyZFxwbGFpblxxbFxub3dpZGN0bHBhclxwYXJccGFyZFxwbGFpblxxbFxub3dpZGN0bHBhcntcY2YwIFx0YWIgVGhlIHRvdGFsIEFubnVhbCBSZWFjdGl2ZSBQb3dlciBSZXZlbnVlIFJlcXVpcmVtZW50IGlzICQ4NzksNjc4LjcyLiAgVGhlIHRvdGFsIE1vbnRobHkgUmVhY3RpdmUgUG93ZXIgUmV2ZW51ZSBSZXF1aXJlbWVudCBpcyAkODc5LDY3OC43Mi8xMiA9ICQ3MywzMDYuNTYuIH1ccGFyXHBhcmRccGxhaW5ccWxcbm93aWRjdGxwYXJcZjJcZnMxNlxwYXJ9</record_binary_data>
+      <record_plain_text>SEWARD GENERATION, LLC  RATE SCHEDULE FERC NO. 1    Reactive Supply and Voltage Control from Generation Sources Service     SEWARD GENERATION, LLC &amp;#40;&amp;#34;Seward&amp;#34;&amp;#41; provides Reactive Supply and Voltage Control from Generation Sources Service &amp;#40;&amp;#34;Reactive Supply Service&amp;#34;&amp;#41; from the Seward Facility located in East Wheatfield Township, Pennsylvania to the Pennsylvania-New Jersey-Maryland Interconnection, L.L.C. &amp;#40;&amp;#34;PJM&amp;#34;&amp;#41; in order to assist in maintaining transmission voltages within acceptable limits on the PJM transmission system.  This Rate Schedule No. 1 sets forth Seward&amp;#39;s revenue requirements for the provision of Reactive Supply Service from the Seward Facility to PJM, as contemplated by the revised Schedule 2 of the PJM Open Access Transmission Tariff, filed in Docket No. ER00-3327-000, which provides for PJM to pay generation owners their monthly revenue requirements for Reactive Supply Services.     Seward&amp;#39;s monthly revenue requirement consists of the sum of the charges for the following&amp;#58; &amp;#40;1&amp;#41; the Fixed Capability Revenue Requirement&amp;#59; &amp;#40;2&amp;#41; the Heating Losses Component&amp;#59; and &amp;#40;3&amp;#41; the Lost Opportunity Costs.  Total charges for any 12-month period will not be less than the sum of the annual charges specified below.  This Rate Schedule shall be effective upon the date authorized by the Federal Energy Regulatory Commission.      MONTHLY REVENUE REQUIREMENT&amp;#58;    1&amp;#41; FIXED CAPABILITY COMPONENT    The annual revenue requirement for the Fixed Capability Component is &amp;#36;879,678.72.  The monthly charge to PJM is &amp;#36;879,678.72&amp;#47;12&amp;#61;&amp;#36;73,306.56.    2&amp;#41; HEATING LOSSES COMPONENT    The annual revenue requirement for the Heating Losses Component is &amp;#36;262,676.86.  The monthly charge to PJM is &amp;#36;262,676.86&amp;#47;12&amp;#61;&amp;#36;21,889.74.    3&amp;#41; LOST OPPORTUNITY COST COMPONENT    Seward may receive revenues for Lost Opportunity Costs calculated and distributed to Seward in accordance with Section 3.2.3&amp;#40;f&amp;#41; of the Amended and Restated Operating Agreement of PJM Interconnection, LLC, as amended from time to time.    Total Annual Revenue Requirement is &amp;#36;879,678.72&amp;#43;&amp;#36;262,676.86 &amp;#61; &amp;#36;1,142,355.58  Total Monthly Revenue Requirement is &amp;#36;1,142,355.58&amp;#47;12 &amp;#61; &amp;#36;95,196.30</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>165</filing_id>
+      <filing_title>Reactive Rate Schedule eTariff Compliance Filing</filing_title>
+      <filing_type>70</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2016-11-29</current_effective_date>
+      <ferc_order_date>2017-01-05</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

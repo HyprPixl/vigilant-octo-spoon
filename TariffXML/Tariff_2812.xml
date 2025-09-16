@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C002517</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>66</tariff_id>
+    <tariff_title>Tariff Database</tariff_title>
+    <tariff_export_date>2025-09-16T19:43Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>1224</record_id>
+      <option_code>A</option_code>
+      <record_title>Formula Rate and Protocols</record_title>
+      <record_content_desc>Tariff Volume No. 1</record_content_desc>
+      <record_version_num>0.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>1073741824</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2011-10-17</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcdWMwXHN0c2hmZGJjaDBcc3RzaGZsb2NoMFxzdHNoZmhpY2gwXHN0c2hmYmkwXGRlZmYwXGFkZWZmMHtcZm9udHRibHtcZjBcZm5pbFxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319e1xjb2xvcnRibDtccmVkMFxncmVlbjBcYmx1ZTA7fXtcc3R5bGVzaGVldHtcczBcc25leHQwXGx0cnBhclxsaTBcbGluMFxyaTBccmluMFxxbFxmYWF1dG9ccnRsY2hcYWZzMjBcbHRyY2hcZnMyMFxjZjEgTm9ybWFsO317XCpcY3MxMFxhZGRpdGl2ZVxjZjEgRGVmYXVsdCBQYXJhZ3JhcGggRm9udDt9e1xzMTVcc2Jhc2Vkb24wXHNuZXh0MTVcbHRycGFyXGxpMFxsaW4wXHJpMFxyaW4wXHFsXGZhYXV0b1xydGxjaFxhZnMyMFxsdHJjaFxmczIwXGNmMSBmb290ZXI7fXtcKlxjczE2XGFkZGl0aXZlXHJ0bGNoXGx0cmNoXGZzMTRcY2YxIERvY0lEO319e1wqXGdlbmVyYXRvciBBc3Bvc2UuV29yZHMgZm9yIC5ORVQgOS4xLjAuMDt9e1xpbmZvXHZlcnNpb24wXGVkbWluczBcbm9mcGFnZXMwXG5vZndvcmRzMFxub2ZjaGFyczBcbm9mY2hhcnN3czB9XGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJcYWRlZmxhbmcxMDI1XGpleHBhbmRcc2hvd3htbGVycm9yczFcdmlld3NjYWxlMTAwXGZldDBcZGdoc3BhY2UxODBcZGd2c3BhY2UxODBcZGdob3JpZ2luMTgwMFxkZ3ZvcmlnaW4xNDQwXGRnaHNob3cxXGRndnNob3cxXGRnbWFyZ2luXHNlY3RkXGx0cnNlY3Rcc2VjdGRlZmF1bHRjbFxwYXJkXHBsYWluXGl0YXAwXHMwXHNhMjQwXGx0cnBhclxsaTBcbGluMFxyaTBccmluMFxxY1xmYWF1dG9ccnRsY2hcYWZzMjBcbHRyY2hcZnMyMFxjZjF7XHJ0bGNoXGFmczI0XGx0cmNoXGJcZnMyNFxjczEwXGNmMSBSSVRFTGluZSBJbGxpbm9pcywgTExDfXtccnRsY2hcYWZzMjRcbHRyY2hcYlxmczI0XGNzMTBcY2YwXHBhcn1ccGFyZFxwbGFpblxpdGFwMFxzMFxmaS0yODgwXHNhMjQwXGx0cnBhclxsaTI4ODBcbGluMjg4MFxyaTBccmluMFxxbFxmYWF1dG9ccnRsY2hcYWZzMjBcbHRyY2hcZnMyMFxjZjF7XHJ0bGNoXGFmczI0XGx0cmNoXGJcZnMyNFxjczEwXGNmMSBKb2ludCBUYXJpZmYgTmFtZTogIH17XHJ0bGNoXGFmczI0XGx0cmNoXGZzMjRcY3MxMFxjZjEgRm9ybXVsYSBSYXRlIGFuZCBQcm90b2NvbHMsIFRhcmlmZiBWb2x1bWUgTm8uIDF9e1xydGxjaFxhZnMyNFxsdHJjaFxmczI0XGNzMTBcY2YwXHBhcn1ccGFyZFxwbGFpblxpdGFwMFxzMFxzYTI0MFxsdHJwYXJcbGkwXGxpbjBccmkwXHJpbjBccWxcZmFhdXRvXHJ0bGNoXGFmczIwXGx0cmNoXGZzMjBcY2Yxe1xydGxjaFxhZnMyNFxsdHJjaFxiXGZzMjRcY3MxMFxjZjEgRGVzaWduYXRlZCBGaWxpbmcgQ29tcGFueTogIH17XHJ0bGNoXGFmczI0XGx0cmNoXGZzMjRcY3MxMFxjZjEgUklURUxpbmUgSW5kaWFuYSwgTExDfXtccnRsY2hcYWZzMjRcbHRyY2hcZnMyNFxjczEwXGNmMFxwYXJ9XHBhcmRccGxhaW5caXRhcDBcczBcc2EyNDBcbHRycGFyXGxpMFxsaW4wXHJpMFxyaW4wXHFsXGZhYXV0b1xydGxjaFxhZnMyMFxsdHJjaFxmczIwXGNmMXtccnRsY2hcYWZzMjRcbHRyY2hcYlxmczI0XGNzMTBcY2YxIERlc2lnbmF0ZWQgRmlsaW5nIENvbXBhbnkgVGFyaWZmIFRpdGxlOiAgfXtccnRsY2hcYWZzMjRcbHRyY2hcZnMyNFxjczEwXGNmMSBUYXJpZmYgRGF0YWJhc2V9e1xydGxjaFxhZnMyNFxsdHJjaFxmczI0XGNzMTBcY2YwXHBhcn1ccGFyZFxwbGFpblxpdGFwMFxzMFxzYTI0MFxsdHJwYXJcbGkwXGxpbjBccmkwXHJpbjBccWxcZmFhdXRvXHJ0bGNoXGFmczIwXGx0cmNoXGZzMjBcY2Yxe1xydGxjaFxhZnMyNFxsdHJjaFxiXGZzMjRcY3MxMFxjZjEgRGVzaWduYXRlZCBGaWxpbmcgQ29tcGFueSBUYXJpZmYgUHJvZ3JhbTp9e1xydGxjaFxhZnMyNFxsdHJjaFxmczI0XGNzMTBcY2YxICAgRkVSQyBGUEEgRWxlY3RyaWMgKENvc3QgQmFzZWQpfXtccnRsY2hcYWZzMjRcbHRyY2hcZnMyNFxjczEwXGNmMFxwYXJ9XHBhcmRccGxhaW5caXRhcDBcczBcc2EyNDBcbHRycGFyXGxpMFxsaW4wXHJpMFxyaW4wXHFsXGZhYXV0b1xydGxjaFxhZnMyMFxsdHJjaFxmczIwXGNmMXtccnRsY2hcYWZzMjRcbHRyY2hcYlxmczI0XGNzMTBcY2YxIERlc2lnbmF0ZWQgVGFyaWZmIFJlY29yZCBBZG9wdGVkIGJ5IFJlZmVyZW5jZSAoVGFyaWZmIFJlY29yZCBUaXRsZS9UYXJpZmYgUmVjb3JkIERlc2NyaXB0aW9uKX17XHJ0bGNoXGFmczI0XGx0cmNoXGZzMjRcY3MxMFxjZjEgOiAgfXtccnRsY2hcYWZzMjRcbHRyY2hcZnMyNFxjczEwXGNmMSBGb3JtdWxhIFJhdGUgYW5kIFByb3RvY29scywgVGFyaWZmIFZvbHVtZSBOby4gMX17XHJ0bGNoXGFmczI0XGx0cmNoXGZzMjRcY3MxMFxjZjBccGFyfVxwYXJkXHBsYWluXGl0YXAwXHMwXGx0cnBhclxsaTBcbGluMFxyaTBccmluMFxxbFxmYWF1dG9ccnRsY2hcYWZzMjBcbHRyY2hcZnMyMFxjZjF7XHJ0bGNoXGFmczI0XGx0cmNoXGZzMjRcY3MxMFxjZjBccGFyfXtcKlxsYXRlbnRzdHlsZXNcbHNkc3RpbWF4MjY3XGxzZGxvY2tlZGRlZjBcbHNkc2VtaWhpZGRlbmRlZjFcbHNkdW5oaWRldXNlZGRlZjFcbHNkcWZvcm1hdGRlZjBcbHNkcHJpb3JpdHlkZWY5OXtcbHNkbG9ja2VkZXhjZXB0fX19</record_binary_data>
+      <record_plain_text>RITELine Illinois, LLC
+Joint Tariff Name:  Formula Rate and Protocols, Tariff Volume No. 1
+Designated Filing Company:  RITELine Indiana, LLC
+Designated Filing Company Tariff Title:  Tariff Database
+Designated Filing Company Tariff Program:  FERC FPA Electric (Cost Based)
+Designated Tariff Record Adopted by Reference (Tariff Record Title/Tariff Record Description):  Formula Rate and Protocols, Tariff Volume No. 1</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>138</filing_id>
+      <filing_title>RITELine Illinois Concurrence</filing_title>
+      <filing_type>390</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2011-10-17</current_effective_date>
+      <ferc_order_date>2011-10-14</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

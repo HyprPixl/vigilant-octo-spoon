@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C001766</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>1</tariff_id>
+    <tariff_title>MBRA Tariff</tariff_title>
+    <tariff_export_date>2025-09-16T19:06Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>1</record_id>
+      <option_code>A</option_code>
+      <record_title>Citizens Elec Co of Lewisburg PA FERC Elec Tariff Vol 1</record_title>
+      <record_content_desc>MBRA Tariff</record_content_desc>
+      <record_version_num>0.0.0</record_version_num>
+      <record_narrative_name>CECO MBRA Tariff ER07-1317 RTF</record_narrative_name>
+      <collation_value>100000000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-16</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTEwMzN7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO317XGYxXGZzd2lzc1xmcHJxMlxmY2hhcnNldDAgQXJpYWw7fX0NCntcY29sb3J0YmwgO1xyZWQwXGdyZWVuMFxibHVlMDt9DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxub3dpZGN0bHBhclxiXGYwXGZzMjQgQXZhaWxhYmlsaXR5OiBcYjAgQ2l0aXplbnMnIEVsZWN0cmljIENvbXBhbnkgb2YgTGV3aXNidXJnLCBQQSAoIkNpdGl6ZW5zJyIpIG1ha2VzIGVsZWN0cmljIGVuZXJneSBhbmQgY2FwYWNpdHkgYXZhaWxhYmxlIHVuZGVyIHRoaXMgdGFyaWZmIHRvIGFueSBwdXJjaGFzZXIsIGV4Y2VwdCBhcyBwcm9oaWJpdGVkIGJlbG93LiBccGFyDQpccGFyZFxsdHJwYXJcbm93aWRjdGxwYXJcdHgyMjA2XGJcdGFiXHBhcg0KXHBhcmRcbHRycGFyXG5vd2lkY3RscGFyIEFwcGxpY2FiaWxpdHk6IFxiMCBUaGlzIHRhcmlmZiBpcyBhcHBsaWNhYmxlIHRvIGFsbCBzYWxlcyBvZiBlbGVjdHJpYyBlbmVyZ3kgYW5kIGNhcGFjaXR5IGJ5IENpdGl6ZW5zJyBhdCBtYXJrZXQtYmFzZWQgcmF0ZXMuIFxwYXINClxiXHBhcg0KUmF0ZXM6XGIwICAgQWxsIHNhbGVzIHNoYWxsIGJlIG1hZGUgYXQgcmF0ZXMgZXN0YWJsaXNoZWQgYnkgYWdyZWVtZW50IGJldHdlZW4gdGhlIHB1cmNoYXNlciBhbmQgQ2l0aXplbnMnLiBccGFyDQpcYlxwYXINCk90aGVyIFRlcm1zIGFuZCBDb25kaXRpb25zOlxiMCAgQWxsIG90aGVyIHRlcm1zIGFuZCBjb25kaXRpb25zIHNoYWxsIGJlIGVzdGFibGlzaGVkIGJ5IGFncmVlbWVudCBiZXR3ZWVuIENpdGl6ZW5zJyBhbmQgdGhlIHB1cmNoYXNlci4gXHBhcg0KXGJccGFyDQpcY2YxIENvbXBsaWFuY2Ugd2l0aCBDb21taXNzaW9uIFJlZ3VsYXRpb25zOlxiMCAgIENpdGl6ZW5zJyBzaGFsbCBjb21wbHkgd2l0aCB0aGUgcHJvdmlzaW9ucyBvZiAxOCBDLkYuUi4gUGFydCAzNSwgU3VicGFydCBILCBhcyBhcHBsaWNhYmxlLCBhbmQgd2l0aCBhbnkgY29uZGl0aW9ucyB0aGF0IHRoZSBDb21taXNzaW9uIGltcG9zZXMgaW4gaXRzIG9yZGVycyBjb25jZXJuaW5nIENpdGl6ZW5zJyBtYXJrZXQtYmFzZWQgcmF0ZSBhdXRob3JpdHksIGluY2x1ZGluZyBvcmRlcnMgaW4gd2hpY2ggdGhlIENvbW1pc3Npb24gYXV0aG9yaXplcyBDaXRpemVucycgdG8gZW5nYWdlIGluIGFmZmlsaWF0ZSBzYWxlcyB1bmRlciB0aGlzIHRhcmlmZiBvciBvdGhlcndpc2UgcmVzdHJpY3RzIG9yIGxpbWl0cyBDaXRpemVucycgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LiAgRmFpbHVyZSB0byBjb21wbHkgd2l0aCB0aGUgYXBwbGljYWJsZSBwcm92aXNpb25zIG9mIDE4IEMuRi5SLiBQYXJ0IDM1LCBTdWJwYXJ0IEgsIGFuZCB3aXRoIGFueSBvdGhlciBvcmRlcnMgb2YgdGhlIENvbW1pc3Npb24gY29uY2VybmluZyBDaXRpemVucycgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LCB3aWxsIGNvbnN0aXR1dGUgYSB2aW9sYXRpb24gb2YgdGhpcyB0YXJpZmYuXHBhcg0KXHBhcg0KXGIgTGltaXRhdGlvbnMgYW5kIEV4ZW1wdGlvbnMgUmVnYXJkaW5nIE1hcmtldC1CYXNlZCBSYXRlIEF1dGhvcml0eTpcYjAgICBDaXRpemVucycgZG9lcyBub3QgaGF2ZSBhbnkgbGltaXRhdGlvbiBvbiBpdHMgbWFya2V0LWJhc2VkIHJhdGUgYXV0aG9yaXR5LCBleGNlcHQgYXMgb3RoZXJ3aXNlIHByb3ZpZGVkIGluIHRoaXMgdGFyaWZmLiAgQ2l0aXplbnMnIGhhcyBvYnRhaW5lZCB3YWl2ZXJzIGZyb20gU3VicGFydHMgQiBhbmQgQyBvZiBQYXJ0IDM1LCByZWdhcmRpbmcgdGhlIGZpbGluZyBvZiB0YXJpZmZzLCBleGNlcHQgc2VjdGlvbnMgMzUuMTIoYSksIDM1LjEzKGIpLCAzNS4xNSwgYW5kIDM1LjE2OyBQYXJ0IDQxLCByZWdhcmRpbmcgYWNjb3VudHMsIHJlY29yZHMsIGFuZCBtZW1vcmFuZGE7IFBhcnQgMTAxLCByZWdhcmRpbmcgdGhlIHVuaWZvcm0gc3lzdGVtIG9mIGFjY291bnRzOyBhbmQgUGFydCAxNDEsIHJlZ2FyZGluZyBzdGF0ZW1lbnRzIGFuZCByZXBvcnRzLiAgQ2l0aXplbnMnIGFsc28gaGFzIGJsYW5rZXQgYXBwcm92YWwgdW5kZXIgUGFydCAzNCBvZiB0aGUgQ29tbWlzc2lvbidzIHJlZ3VsYXRpb25zIGZvciBmdXR1cmUgaXNzdWFuY2VzIG9mIHNlY3VyaXRpZXMgYW5kIGFzc3VtcHRpb25zIG9mIGxpYWJpbGl0aWVzLCBzdWJqZWN0IHRvIG9iamVjdGlvbiBieSBhbiBpbnRlcmVzdGVkIHBhcnR5LiAgU2VlIENpdGl6ZW5zJyBFbGVjdHJpYyBDb21wYW55IG9mIExld2lzYnVyZywgUEEsIERvY2tldCBOb3MuIEVSMDctMTMxNy0wMDAgYW5kIEVSMDctMTMxNy0wMDEsIGF0IDItMyAoTm92LiAxNiwgMjAwNykgKHVucHVibGlzaGVkIGxldHRlciBvcmRlcikuXHBhcg0KXGNmMFxiXHBhcg0KRWZmZWN0aXZlIERhdGU6IFxiMCBUaGlzIHRhcmlmZiBpcyBlZmZlY3RpdmUgT2N0b2JlciAzMSwgMjAwNy4gXHBhcg0KXGNmMVxwYXINClxwYXJkXGx0cnBhclxjZjBcZjFcZnMyM1xwYXINCn0NCg==</record_binary_data>
+      <record_plain_text>Availability: Citizens' Electric Company of Lewisburg, PA ("Citizens'") makes electric energy and capacity available under this tariff to any purchaser, except as prohibited below. 
+	
+Applicability: This tariff is applicable to all sales of electric energy and capacity by Citizens' at market-based rates. 
+
+Rates:  All sales shall be made at rates established by agreement between the purchaser and Citizens'. 
+
+Other Terms and Conditions: All other terms and conditions shall be established by agreement between Citizens' and the purchaser. 
+
+Compliance with Commission Regulations:  Citizens' shall comply with the provisions of 18 C.F.R. Part 35, Subpart H, as applicable, and with any conditions that the Commission imposes in its orders concerning Citizens' market-based rate authority, including orders in which the Commission authorizes Citizens' to engage in affiliate sales under this tariff or otherwise restricts or limits Citizens' market-based rate authority.  Failure to comply with the applicable provisions of 18 C.F.R. Part 35, Subpart H, and with any other orders of the Commission concerning Citizens' market-based rate authority, will constitute a violation of this tariff.
+
+Limitations and Exemptions Regarding Market-Based Rate Authority:  Citizens' does not have any limitation on its market-based rate authority, except as otherwise provided in this tariff.  Citizens' has obtained waivers from Subparts B and C of Part 35, regarding the filing of tariffs, except sections 35.12(a), 35.13(b), 35.15, and 35.16; Part 41, regarding accounts, records, and memoranda; Part 101, regarding the uniform system of accounts; and Part 141, regarding statements and reports.  Citizens' also has blanket approval under Part 34 of the Commission's regulations for future issuances of securities and assumptions of liabilities, subject to objection by an interested party.  See Citizens' Electric Company of Lewisburg, PA, Docket Nos. ER07-1317-000 and ER07-1317-001, at 2-3 (Nov. 16, 2007) (unpublished letter order).
+
+Effective Date: This tariff is effective October 31, 2007.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>1</filing_id>
+      <filing_title>Baseline Tariff Filing</filing_title>
+      <filing_type>360</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-09-16</current_effective_date>
+      <ferc_order_date>2010-10-28</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

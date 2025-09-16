@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C002578</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>9082011</tariff_id>
+    <tariff_title>Columbia Utilities Power FERC Electric Tariff</tariff_title>
+    <tariff_export_date>2025-09-16T19:45Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>9082011</record_id>
+      <option_code>A</option_code>
+      <record_title>Columbia Utilities Power FERC Electric Tariff</record_title>
+      <record_content_desc>Electric Tariff</record_content_desc>
+      <record_version_num>0.0.0</record_version_num>
+      <record_narrative_name>None</record_narrative_name>
+      <collation_value>100</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2011-09-08</proposed_effective_date>
+      <priority_order>200</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGFuc2lcYW5zaWNwZzEyNTJcZGVmZjBcZGVmbGFuZzEwMzN7XGZvbnR0Ymx7XGYwXGZyb21hblxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO317XGYxXGZuaWxcZmNoYXJzZXQwIENhbGlicmk7fX0NCntcY29sb3J0YmwgO1xyZWQ0MVxncmVlbjQ1XGJsdWU0MDtccmVkNzFcZ3JlZW43NFxibHVlNzE7XHJlZDc5XGdyZWVuNDdcYmx1ZTQ2O1xyZWQxMVxncmVlbjIwXGJsdWUxNjtccmVkMTE2XGdyZWVuMzFcYmx1ZTI2O30NCntcKlxnZW5lcmF0b3IgTXNmdGVkaXQgNS40MS4yMS4yNTA5O31cdmlld2tpbmQ0XHVjMVxwYXJkXGNmMVxsYW5nOVxiXGYwXGZzMjMgQ29sdW1iaWEgVXRpbGl0aWVzIFBvd2VyLCBMTENccGFyDQpGRVJDIE1hcmtldCBCYXNlZCBSYXRlIFRhcmlmZlxwYXINClxiMFxwYXINCkF2YWlsYWJpbGl0eTogQ29sdW1iaWEgVXRpbGl0aWVzIFBvd2VyXGNmMiAsIFxjZjEgTExDIG1ha2VzIGVsZWN0cmljIGVuZXJneSBhbmQgY2FwYWNpdHlccGFyDQphdmFpbGFibGUgdW5kZXIgdGhpcyB0YXJpZmYgdG8gZW5kIHVzZSBjdXN0b21lcnMsIGV4Y2VwdCBhcyBwcm9oaWJpdGVkIGJlbG93LlxwYXINClxwYXINCkFwcGxpY2FiaWxpdHk6IFxjZjIgVFxjZjEgaGlzIHRhcmlmZiBpcyBhcHBsaWNhYmxlIHRvIGFsbCBzYWxlcyBvZiBlbmVyZ3kgYW5kIGNhcGFjaXR5IGJ5IENvbHVcY2YzIG1cY2YxIGJpYVxwYXINClV0aWxpdGllcyBQb3dlclxjZjIgLCBcY2YxIExMXGNmMiBDIFxjZjEgYXQgbWFya2V0XGNmNCAtXGNmMSBiYXNlZCByYXRlcy5ccGFyDQpccGFyDQpSYXRlczogQWxsIHNhbGVzIHNoYWxsIGJlIG1hZGUgYXQgcmF0ZXMgZXN0YWJsaXNoZWQgYnkgYWdyZWVtZW50IGJldHdlZW4gY3VzdG9tZVxjZjUgciBcY2YxIGFuZFxwYXINCkNvbHVtYmlhIFV0aWxpdGllcyBQb3dlciwgTExDXGNmMiAuXHBhcg0KXHBhcg0KXGNmMSBPdGhlciBUZXJtcyBhbmQgQ29uZGl0aW9uczogQWxsIG90aGVyIHRlcm1zIGFuZCBjb25kaXRpb25zIHNoYWxsIGJlIGVzdGFibGlzaGVkIGJ5XHBhcg0KYWdyZWVtZW50IGJldHdlZW4gQ29sdW1iaWEgXGNmMiBVXGNmMSB0aWxpdGllcyBQb3dlclxjZjIgLCBcY2YxIExMQyBhbmQgdGhlIGN1c3RvbWVyLlxwYXINClxwYXINClByb2hpYml0ZWQgU2FsZXM6IE5vIHNhbGUgbWF5IGJlIG1hZGUgcHVyc3VhbnQgdG8gdGhpcyB0YXJpZmYgdG8gYW55IGFmZmlsaWF0ZSBvZiBDb2x1bWJpYVxwYXINClV0aWxpdGllcyBQb3dlciwgTExDIHdpdGggYSBmcmFuY2hpc2VkIHNlcnZpY2UgdGVycml0b3J5IHdpdGhvdXQgZmlyc3QgcmVjZWl2aW5nXHBhcg0KQ29tbWlzc2lvbiBhcHByb3ZhbCB1bmRlciBzZWN0aW9uIDIwNSBvZiB0aGUgRmVkZXJhbCBQb3dlciBBY3RcY2YyICwgXGNmMSAxNiBVLlMuYy4gXCdhNyA4MjRkLlxwYXINClxwYXINClJlcG9ydGluZyBSZXF1aXJlbWVudDogQ29sdW1iaWEgVXRpbGl0aWVzIFBvd2VyLCBMTEMgbXVzdCB0aW1lbHkgcmVwb3J0IHRvIHRoZVxwYXINCkNvbW1pc3Npb24gYW55IGNoYW5nZSBpbiBzdGF0dXMgdGhhdCB3b3VsZCByZWZsZWN0IGEgZGVwYXJ0dXJlIGZyb20gdGhlIGNoYXJhY3RlcmlzdGljc1xwYXINCnRoZSBDb21taXNzaW9uIHJlbGllZCB1cG9uIGluIGdyYW50aW5nIG1hcmtldC1iYXNlZCByYXRlIGF1dGhvcml0eS4gQSBjaGFuZ2UgaW4gc3RhdHVzXHBhcg0KaW5jbHVkZXNcY2YyICwgXGNmMSBidXQgaXMgbm90IGxpbWl0ZWQgdG9cY2YyICwgXGNmMSBlYWNoIG9mIHRoZSBmb2xsb3dpbmc6IChpKSBvd25lcnNoaXAgb3IgY29udHJvbCBvZlxwYXINCmdlbmVyYXRpb24gb3IgdHJhbnNtaXNzaW9uIGZhY2lsaXRpZXMgb3IgaW5wdXRzIHRvIGVsZWN0cmljIHBvd2VyIHByb2R1Y3Rpb24gb3RoZXIgdFxjZjMgaFxjZjEgYW4gZnVlbFxwYXINCnN1cHBsaWVzXGNmMiAsIFxjZjEgb3IgKGlpKSBhZmZpbGlhdGlvbiB3aXRoIGFuIGVudGl0eSBub3QgZGlzY2xvc2VkIGluIHRoZSBhcHBsaWNhdGlvbiBmb3IgbWFya2V0XGNmNCAtXGNmMSBiYXNlXHBhcg0KcmF0ZSBhdXRob3JpdHkgdGhhdCBvd25zIG9yIGNvbnRyb2xzIGdlbmVyYXRpb24gb3IgdHJhbnNtaXNzaW9uIGZhY2lsaXRpZXMgb3IgaW5wdXRzIHRvXHBhcg0KZWxlY3RyaWMgcG93ZXIgcHJvZHVjdGlvbiwgb3IgYWZmaWxpYXRpb24gd2l0aCBhbnkgZW50aXR5IHRoYXQgaGFzIGEgZnJhbmNoaXNlZCBzZXJ2aWNlIGFyZWFcY2YyIC5ccGFyDQpccGFyZFxzYTIwMFxzbDI3NlxzbG11bHQxXGNmMSBBbnkgY2hhbmdlIGluIHN0YXR1cyBtdXN0IGJlIGZpbGVkIG5vIGxhdGVyIHRoYW4gMzAgZGF5cyBhZnRlciB0aGUgY2hhbmdlIGluIHN0YXR1cyBvY2N1cnMuXGNmMFxmMVxmczIyXHBhcg0KfQ0KAA==</record_binary_data>
+      <record_plain_text>Columbia Utilities Power, LLC
+        FERC Market Based Rate Tariff
+
+        Availability: Columbia Utilities Power, LLC makes electric energy and capacity
+        available under this tariff to end use customers, except as prohibited below.
+
+        Applicability: This tariff is applicable to all sales of energy and capacity by Columbia
+        Utilities Power, LLC at market-based rates.
+
+        Rates: All sales shall be made at rates established by agreement between customer and
+        Columbia Utilities Power, LLC.
+
+        Other Terms and Conditions: All other terms and conditions shall be established by
+        agreement between Columbia Utilities Power, LLC and the customer.
+
+        Prohibited Sales: No sale may be made pursuant to this tariff to any affiliate of Columbia
+        Utilities Power, LLC with a franchised service territory without first receiving
+        Commission approval under section 205 of the Federal Power Act, 16 U.S.c. § 824d.
+
+        Reporting Requirement: Columbia Utilities Power, LLC must timely report to the
+        Commission any change in status that would reflect a departure from the characteristics
+        the Commission relied upon in granting market-based rate authority. A change in status
+        includes, but is not limited to, each of the following: (i) ownership or control of
+        generation or transmission facilities or inputs to electric power production other than fuel
+        supplies, or (ii) affiliation with an entity not disclosed in the application for market-base
+        rate authority that owns or controls generation or transmission facilities or inputs to
+        electric power production, or affiliation with any entity that has a franchised service area.
+        Any change in status must be filed no later than 30 days after the change in status occurs.</record_plain_text>
+      <record_change_type>CHANGE</record_change_type>
+      <filing_id>10052011</filing_id>
+      <filing_title>Columbia Utilities Power FERC Electric Tariff</filing_title>
+      <filing_type>70</filing_type>
+      <associated_filing_id>9082011</associated_filing_id>
+      <associated_record_id>9082011</associated_record_id>
+      <associated_option_code>A</associated_option_code>
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2011-09-08</current_effective_date>
+      <ferc_order_date>2011-12-19</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

@@ -1,0 +1,210 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><title>
+
+</title><link rel="stylesheet" href="css/style.css" type="text/css" />
+    <script type="text/javascript">
+        var GB_ROOT_DIR = "./greybox/";
+    </script>
+    <link href="greybox/gb_styles.css" rel="stylesheet" type="text/css" />
+
+
+<!-- Script added for DAP -->
+<script async type="text/javascript" id="_fed_an_ua_tag" src=https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=FERC></script>
+
+
+</head>
+<body>
+
+    <script type="text/javascript" src="greybox/AJS.js"></script>
+    <script type="text/javascript" src="greybox/AJS_fx.js"></script>
+    <script type="text/javascript" src="greybox/gb_scripts.js"></script>
+
+
+    <form method="post" action="./TariffExport.aspx?tid=4082" id="frmMenu">
+<div class="aspNetHidden">
+<input type="hidden" name="__VIEWSTATEFIELDCOUNT" id="__VIEWSTATEFIELDCOUNT" value="2" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="YBxCy0DNm/8OFFdBrILUI5nUMcBnMRiL3cXzUbQfxN9sj55T1sSO8SkvXi9k6hQULQpC35Ulpc7B+XuuQsBm/FJL8Mk6M5TzYnUOhMRXQ9mF+9NQI6fVSfUlPalAbl2hJ2EizGGtWGhhrpXCOTrOoKTyAwQlVe87sCl5X4R4GCKMq0YDXiR1BDC2cMh+rjt1la87OM/cEwcPEzRnte30lDqsdet0Pz03oY9x92eBj7EmZvmja25tno/NXNmZe24U8deDlR0TYvJksFV/Mpib5PndlAp1JzUspjQ/Iyc7DDBakdQ+QWP8EWuRH87yKAixurx37+CUoNE6Mn0avxLOVr52sI06wlAnAJ7CVp7W+AXP3mf6SA1pEt/11TxFn5ZKQA9PH4tZv10Sx/jNCeEnMUvDkGPzMZzaV5Kb4+tOzjLU9JGjn2Q8UtgG3bS4R8PzNSryeO0862GHqCdebNG3CNBuId82aRvtceLpy7Zchan6kLTdMz1v" />
+<input type="hidden" name="__VIEWSTATE1" id="__VIEWSTATE1" value="T5R25XtLxD1koAAmthDpeUWYpgHbEo+ylncAmDD1eGreH/csvYbxEEvwIu3ELHfrqGBhKolPf/wuBDAcTRpmYciSjFakf1M2/Fz5Lwwn8knY7m3UbLp4NGL/NckzuvgQkP1TsKUVmwDrrPmo6d5Gs/1ifY4Bn09fJMX4GYQ1CrqwFFm/hv9pJqRa8YQZC9VPPoT2k01y+3QXt3sv1jgm/wyv6lcvnUQ1E1Z7YHdOGyIerNtVVNWuBsEu0y5qHKAvQj2IOjRKr2qsAOPmIuVO3gE8QgPHqpfdepingif1XCne9xpSCc6DggGZwtD2BqkSYcdyTfU9lnDe40rS//IQLNyvAD1KfRSuDg==" />
+</div>
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="90C26C4F" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="4OQhH1Q45w6qbBrJYCwwWUMUXGNChI2c4NX9FkhunPRnWTDBha3s6U+sZPJs1p5vyfu6uTOS8joiEevoqAt5T69EEuqLm30vjFOj3bGPv0dgnAPHHlrR6NY8BKT11PPvLDTTDFB0rN9wyrL+2BDlxGj+5lx6XOlgcyoa0wEo+4/kLg9CdrDzdgsrnossxrPfn8bajZO0ry/6icD4R2Y4lXFPX0IbBtEC2zpFPKCmkjhB2II+MrCkSINx2knH/GdHivR9bT8IShwxQLlYSArlH/BM4ym+V7ueZNskelBpuhHr2rOtImWMN4iKASrRRU7QVs24zyZzwslSfgli1sI2JZXvimol8DMSQmmiHbzoI6Ji7dXJTXegZJ4PXtD+CjSW" />
+</div>
+
+        <table class="maintblsub" border="0" cellspacing="0" cellpadding="0" width="100%" role="presentation" >  
+            <tr height="25">
+                <td valign="top">
+                    <table border="0" cellspacing="0" cellpadding="0" role="presentation">
+                        <tr>
+                            <td style="background-color: #DBFADD">
+                                <img src="images/spacer.gif" alt="" width="20px" height="15" /></td>
+                            <td style="width: 95%; background-color: #DBFADD">
+                                <img src="images/spacer.gif" alt="" width="1px" height="15" /></td>
+                            <td style="width: 95%; background-color: #DBFADD">
+                                <img src="images/spacer.gif" alt="" width="1px" height="15" /></td>
+                        </tr>
+
+                    </table>
+                </td>
+            </tr>
+            <tr>
+                <td valign="top">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0" role="presentation">
+                        <tr>
+                            <td valign="top">
+                                
+    
+<script type="text/javascript">
+
+    function hourglass() {
+        document.body.style.cursor = "wait";
+    }
+    function backtonormal() {
+        document.body.style.cursor = "auto";
+    }
+    /*
+        function StartShowWait()
+        {
+            var up_div = document.getElementById('divProg');
+            up_div.style.visibility = 'visible';
+    }
+    
+        function StopShowWait() {
+            var up_div = document.getElementById('divProg');
+            up_div.style.visibility = 'hidden';
+        }
+    */
+
+    //function DisableButton() {
+    //    document.getElementById('Content1_btnExport').disabled = 'true';
+    //}
+    //window.onbeforeunload = DisableButton;
+
+    function Client_SubmitRequest_Click() {
+        /*document.getElementById('Content1_DataTooLarge').style.display = 'none';*/
+    }
+
+    function startLoading() {
+        document.body.className = 'waiting';
+        setTimeout(function () { document.body.className = 'restore';}, 15000);
+    }
+
+</script>
+    <table width="100%" border="0" cellpadding="5" cellspacing="0" role="presentation" >
+
+         <tr valign="top">
+            <td valign="middle" class="h2sub">Tariff Export</td>
+            <td align="right" valign="middle"> 
+                
+                &nbsp;&nbsp;&nbsp;
+                <input id="btnClose" type="button" value="Close" onclick="javascript: parent.parent.GB_hide();"  title="Close" />
+           </td>
+        </tr>
+        <tr>
+             <td colspan="2" class="messages">
+                 <span id="Content1_CompanyAndTariffNameLbl" style="display:inline-block;color:Blue;width:800px;">Pacific Gas and Electric Company / Transmission Owner Tariff and Service Agreements (Tariff ID 1100)</span>
+             </td>
+        </tr> 
+        <tr>
+             <td colspan="2">
+                <div id="Content1_divProg" style="display:none;">
+                    <img src="Images/progress.gif" id="Content1_imgProgress" alt="Progress" title="Progress" /> Please Wait, system processing the XML...
+                </div>                    
+            </td>
+        </tr>    
+        <tr valign="top">
+            <td colspan="2">
+                <table width="100%" border="0"  cellpadding="1" cellspacing="4" class="formtablecontent" role="presentation">
+                    <tr>
+                        <td colspan="4"><span id="Content1_lblTarTitle"></span></td>
+                    </tr> 
+                    <tr>
+                        <td class="formtablecontentcaption"  width="10%"><b>Status:</b></td>
+                        <td width="20%">
+                            <table id="Content1_lstStatus" class="aspNetDisabled">
+	<tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstStatus_0" type="checkbox" name="ctl00$Content1$lstStatus$0" checked="checked" disabled="disabled" value="9" /><label for="Content1_lstStatus_0">Effective</label></span></td>
+	</tr><tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstStatus_1" type="checkbox" name="ctl00$Content1$lstStatus$1" checked="checked" disabled="disabled" value="1" /><label for="Content1_lstStatus_1">Accepted</label></span></td>
+	</tr><tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstStatus_2" type="checkbox" name="ctl00$Content1$lstStatus$2" checked="checked" disabled="disabled" value="6" /><label for="Content1_lstStatus_2">Suspended</label></span></td>
+	</tr><tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstStatus_3" type="checkbox" name="ctl00$Content1$lstStatus$3" checked="checked" disabled="disabled" value="3" /><label for="Content1_lstStatus_3">Pending</label></span></td>
+	</tr><tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstStatus_4" type="checkbox" name="ctl00$Content1$lstStatus$4" checked="checked" disabled="disabled" value="4" /><label for="Content1_lstStatus_4">ConditionallyAccepted</label></span></td>
+	</tr><tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstStatus_5" type="checkbox" name="ctl00$Content1$lstStatus$5" checked="checked" disabled="disabled" value="11" /><label for="Content1_lstStatus_5">ConditionallyEffective</label></span></td>
+	</tr><tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstStatus_6" type="checkbox" name="ctl00$Content1$lstStatus$6" checked="checked" disabled="disabled" value="7" /><label for="Content1_lstStatus_6">Tolled</label></span></td>
+	</tr>
+</table>
+                        </td>
+                        <td valign="top" style="margin-left:20px;">
+                            <table id="Content1_lstBinaryText" class="aspNetDisabled">
+	<tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstBinaryText_0" type="checkbox" name="ctl00$Content1$lstBinaryText$0" checked="checked" disabled="disabled" value="1" /><label for="Content1_lstBinaryText_0">Include record_binary_data XML element</label></span></td>
+	</tr><tr>
+		<td><span class="aspNetDisabled"><input id="Content1_lstBinaryText_1" type="checkbox" name="ctl00$Content1$lstBinaryText$1" checked="checked" disabled="disabled" value="2" /><label for="Content1_lstBinaryText_1">Include record_plain_text XML element</label></span></td>
+	</tr>
+</table>
+                            <br /><br />
+                           <div id="Content1_EmailPrompt" style="margin-left:30px;">
+                               <span style="display:inline-block;font-size:Small;font-style:italic;width:500px;">The size of record_binary_data/record_plain_text has exceeded the maximum limit for direct download. Kindly provide your email address so that the system can handle your request offline and send you a download link shortly. Please note that if the total size or number of requests is considerably large, the processing time may be extended.</span>
+                               <br /><br />
+                               <div>
+                                    <label style="font-size:small; font-style:italic;">Your email address:&nbsp;</label>
+                                    <input name="ctl00$Content1$EmailForXMLOutput" type="email" id="Content1_EmailForXMLOutput" style="color:DarkBlue;font-size:Small;width:320px;" />
+                               </div>
+                               <div>
+                                    <label style="font-size:small; font-style:italic;">XML DataSet Name:</label>
+                                    <input name="ctl00$Content1$XlmDataSetCustomName" type="text" maxlength="50" id="Content1_XlmDataSetCustomName" aria-label="XML DataSet Name. From 4 to 50 letters and digits only" placeholder="(From 4 to 50 letters and digits only)" style="color:DarkBlue;font-size:Small;width:320px;" />
+                                    <input type="submit" name="ctl00$Content1$SubmitXmlRequest" value="Submit" onclick="Client_SubmitRequest_Click;" id="Content1_SubmitXmlRequest" title="Click to submit your request" aria-label="Click to submit your request" style="width:60px;" />
+                               </div>
+                               <br />
+                               <div>
+                                   
+                                   
+                                   
+                               </div>
+                           </div>
+                            
+                        </td>
+                    </tr>                        
+               </table>
+            </td>
+        </tr>
+
+  </table>
+  
+  
+
+                            </td>
+                        </tr>
+
+                        <tr>
+                            <td>
+                                <table cellspacing="1" id="tblFooter" role="presentation">
+                                    <tr>
+                                        <td class="clsBottom">
+                                            <input type="hidden" name="ctl00$ItemIndex" id="ItemIndex" value="1" />
+                                            <span id="lblFooterText" style="color: #FFFFFF">Footer Text goes here</span>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+    
+</html>
+

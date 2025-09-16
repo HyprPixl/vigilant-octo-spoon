@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C001175</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>38</tariff_id>
+    <tariff_title>Reactive Power Tariff</tariff_title>
+    <tariff_export_date>2025-09-16T19:06Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>1000</record_id>
+      <option_code>A</option_code>
+      <record_title>FERC Electric Tariff No. 2</record_title>
+      <record_content_desc>Reactive Power Tariff</record_content_desc>
+      <record_version_num>1.0.0</record_version_num>
+      <record_narrative_name>FERC Electric Tariff No. 2</record_narrative_name>
+      <collation_value>1000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2010-09-16</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGZiaWRpc1xhbnNpXGFuc2ljcGcxMjUyXGRlZmYwXGRlZmxhbmcxMDMzXGRlZmxhbmdmZTIwNTJ7XGZvbnR0Ymx7XGYwXGZyb21hblxmcHJxMlxmY2hhcnNldDAgVGltZXMgTmV3IFJvbWFuO319DQpcdmlld2tpbmQ0XHVjMVxwYXJkXGx0cnBhclxzbC0yNjBcc2xtdWx0MFxxY1x0cXJcdHg5MDAwXGJcZjBcZnMyNCBJTlZFTkVSR1kgQ0FOTk9OIEZBTExTIExMQ1xwYXINCkZFUkMgRUxFQ1RSSUMgVEFSSUZGIE5PLiAyXHBhcg0KXHBhcg0KUmVhY3RpdmUgU3VwcGx5IGFuZCBWb2x0YWdlIENvbnRyb2wgRnJvbSBHZW5lcmF0aW9uIFNvdXJjZXMgU2VydmljZVxwYXINClxwYXINClxwYXINClxwYXJkXGx0cnBhclxmaTIxMFxzYTEyMFxzbC0yNjBcc2xtdWx0MFxiMCBJbnZlbmVyZ3kgQ2Fubm9uIEZhbGxzIExMQyAoXGxkYmxxdW90ZSBJbnZlbmVyZ3kgQ0ZccmRibHF1b3RlICkgcHJvdmlkZXMgUmVhY3RpdmUgU3VwcGx5IGFuZCBWb2x0YWdlIENvbnRyb2wgZnJvbSBHZW5lcmF0aW9uIFNvdXJjZXMgU2VydmljZSAoXGxkYmxxdW90ZSBSZWFjdGl2ZSBTdXBwbHkgU2VydmljZVxyZGJscXVvdGUgKSBmcm9tIHRoZSBDYW5ub24gRmFsbHMgRW5lcmd5IENlbnRlciAoXGxkYmxxdW90ZSBJbnZlbmVyZ3kgQ0YgRmFjaWxpdHlccmRibHF1b3RlICkgbG9jYXRlZCBpbiBDYW5ub24gRmFsbHMsIE1pbm5lc290YSwgdGhhdCBpcyBpbnRlcmNvbm5lY3RlZCB0byB0aGUgTm9ydGhlcm4gU3RhdGVzIFBvd2VyIENvbXBhbnkgZC9iL2EgWGNlbCBFbmVyZ3kgdHJhbnNtaXNzaW9uIHN5c3RlbSwgd2hpY2ggaXMgdW5kZXIgdGhlIG9wZXJhdGlvbmFsIGNvbnRyb2wgb2YgdGhlIE1pZHdlc3QgSW5kZXBlbmRlbnQgVHJhbnNtaXNzaW9uIFN5c3RlbSBPcGVyYXRvciwgSW5jLiAoXGxkYmxxdW90ZSBNaWR3ZXN0IElTT1xyZGJscXVvdGUgKS4gIFRoaXMgdGFyaWZmIHNldHMgZm9ydGggSW52ZW5lcmd5IENGXHJxdW90ZSBzIHJldmVudWUgcmVxdWlyZW1lbnQgZm9yIHRoZSBwcm92aXNpb24gb2YgUmVhY3RpdmUgU3VwcGx5IFNlcnZpY2UgZnJvbSB0aGUgSW52ZW5lcmd5IENGIEZhY2lsaXR5IHRvIHRoZSBNaWR3ZXN0IElTTy4gIFBheW1lbnRzIGZyb20gdGhlIE1pZHdlc3QgSVNPIHNoYWxsIGJlIGluIGFjY29yZGFuY2Ugd2l0aCBGZWRlcmFsIEVuZXJneSBSZWd1bGF0b3J5IENvbW1pc3Npb24gYWNjZXB0ZWQgU2NoZWR1bGUgMiB0byB0aGUgTWlkd2VzdCBJU08gT3BlbiBBY2Nlc3MgVHJhbnNtaXNzaW9uIFRhcmlmZiB1bmRlciB3aGljaCBJbnZlbmVyZ3kgQ0YgcmVjZWl2ZXMgY29tcGVuc2F0aW9uIChcbGRibHF1b3RlIE1pZHdlc3QgSVNPIFBheW1lbnRzXHJkYmxxdW90ZSApLlxwYXINCkludmVuZXJneSBDRlxycXVvdGUgcyByZXZlbnVlIHJlcXVpcmVtZW50IGlzIHNldCBmb3J0aCBiZWxvdy5ccGFyDQpccGFyZFxsdHJwYXJcc2wtMjYwXHNsbXVsdDBccWpcdHg3MjBcdHFyXHR4OTAwMFxwYXINClxiIFJFVkVOVUUgUkVRVUlSRU1FTlQ6IFxwYXINClxwYXINClxiMCBBbm51YWwgUmV2ZW51ZSBSZXF1aXJlbWVudCBpcyAkNDc5LDU3My43NS4gIFxwYXINClxwYXINCk1vbnRobHkgUmV2ZW51ZSBSZXF1aXJlbWVudCBpcyAkMzksOTY0LjQ4LiAgXGJccGFyDQpccGFyZFxsdHJwYXJcc2wtMjYwXHNsbXVsdDBcYjBccGFyDQp9DQo=</record_binary_data>
+      <record_plain_text>INVENERGY CANNON FALLS LLC
+FERC ELECTRIC TARIFF NO. 2
+
+Reactive Supply and Voltage Control From Generation Sources Service
+
+
+Invenergy Cannon Falls LLC (???Invenergy CF???) provides Reactive Supply and Voltage Control from Generation Sources Service (???Reactive Supply Service???) from the Cannon Falls Energy Center (???Invenergy CF Facility???) located in Cannon Falls, Minnesota, that is interconnected to the Northern States Power Company d/b/a Xcel Energy transmission system, which is under the operational control of the Midwest Independent Transmission System Operator, Inc. (???Midwest ISO???).  This tariff sets forth Invenergy CF???s revenue requirement for the provision of Reactive Supply Service from the Invenergy CF Facility to the Midwest ISO.  Payments from the Midwest ISO shall be in accordance with Federal Energy Regulatory Commission accepted Schedule 2 to the Midwest ISO Open Access Transmission Tariff under which Invenergy CF receives compensation (???Midwest ISO Payments???).
+Invenergy CF???s revenue requirement is set forth below.
+
+REVENUE REQUIREMENT: 
+
+Annual Revenue Requirement is $479,573.75.  
+
+Monthly Revenue Requirement is $39,964.48.  
+
+	1</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>107</filing_id>
+      <filing_title>Initial Baseline Filing of Reactive Power Tariff</filing_title>
+      <filing_type>370</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2010-09-16</current_effective_date>
+      <ferc_order_date>2010-10-25</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

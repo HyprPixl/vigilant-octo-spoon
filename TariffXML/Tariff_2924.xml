@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C002695</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>1</tariff_id>
+    <tariff_title>Market Based Rates</tariff_title>
+    <tariff_export_date>2025-09-16T19:46Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>10</record_id>
+      <option_code>A</option_code>
+      <record_title>Market Based Rates</record_title>
+      <record_content_desc>Section 1</record_content_desc>
+      <record_version_num>0.0.0</record_version_num>
+      <record_narrative_name>MBR re-file 360</record_narrative_name>
+      <collation_value>10</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2011-09-22</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_binary_data>e1xydGYxXGRlZmYwe1xmb250dGJse1xmMCBUaW1lcyBOZXcgUm9tYW47fX17XGNvbG9ydGJsXHJlZDBcZ3JlZW4wXGJsdWUwIDtccmVkMFxncmVlbjBcYmx1ZTI1NSA7fXtcKlxsaXN0b3ZlcnJpZGV0YWJsZX17XHN0eWxlc2hlZXQge1xzbmV4dDBccWxcY2YwIE5vcm1hbDt9e1xzMVxzYmFzZWRvbjBcc25leHQwXHFsXG91dGxpbmVsZXZlbDBcY2YwIEhlYWRpbmcgMjt9e1xzMlxzYmFzZWRvbjBcc25leHQwXHFjXG91dGxpbmVsZXZlbDFcYlxjZjAgSGVhZGluZyAzO317XHMzXHNiYXNlZG9uMFxzbmV4dDBccWxcb3V0bGluZWxldmVsMlxiXGNmMCBIZWFkaW5nIDQ7fXtcczRcc2Jhc2Vkb24wXHNuZXh0NFxxbFxjZjAgQm9keSBUZXh0IDI7fXtcKlxjczVcY2YwIERlZmF1bHQgUGFyYWdyYXBoIEZvbnQ7fXtcKlxjczZcc2Jhc2Vkb241XGNmMCBMaW5lIE51bWJlcjt9e1wqXGNzN1x1bFxjZjEgSHlwZXJsaW5rO317XCpcY3M4XGNmMCBIZWFkaW5nIDIgQ2hhcjt9e1wqXGNzOVxiXGNmMCBIZWFkaW5nIDMgQ2hhcjt9e1wqXGNzMTBcYlxjZjAgSGVhZGluZyA0IENoYXI7fXtcKlxjczExXGNmMCBCb2R5IFRleHQgMiBDaGFyO319XHNlY3RkXG1hcmdsc3huMTQ0MFxtYXJncnN4bjE0NDBcbWFyZ3RzeG4xNDQwXG1hcmdic3huMTQ0MFxoZWFkZXJ5NzIwXGZvb3Rlcnk3MjBccHN6MFxjb2xzeDcyMFxwYXJkXHBsYWluXHFje1xiXGZzMjhcY2YwIE5ldyBZb3JrIEluZHVzdHJpYWwgRW5lcmd5IEJ1eWVycywgTExDLn1cYlxmczI4XHBhclxwYXJkXHBsYWluXHFsXGJccGFyXHBhcmRccGxhaW5ccWxcYlxwYXJccGFyZFxwbGFpblxzMVxxbFxvdXRsaW5lbGV2ZWwwe1xiXGNmMCBBdmFpbGFiaWxpdHl9XGJccGFyXHBhcmRccGxhaW5ccWxcZmkxODBcbGktMTgwXGxpbi0xODBccGFyXHBhcmRccGxhaW5ccWx7XGNmMCBOZXcgWW9yayBJbmR1c3RyaWFsIEVuZXJneSBCdXllcnMsIExMQy4gKE5ZSUVCKSBtYWtlcyBlbGVjdHJpYyBlbmVyZ3kgYW5kIGNhcGFjaXR5IGF2YWlsYWJsZSB1bmRlciB0aGUgUmF0ZSBTY2hlZHVsZSB0byBhbnkgcHVyY2hhc2VyIGZvciByZXNhbGUufVxwYXJccGFyZFxwbGFpblxxbFxwYXJccGFyZFxwbGFpblxzM1xxbFxvdXRsaW5lbGV2ZWwye1xiXGNmMCBBcHBsaWNhYmlsaXR5fVxiXHBhclxwYXJkXHBsYWluXHFsXHBhclxwYXJkXHBsYWluXHFse1xjZjAgVGhpcyBSYXRlIFNjaGVkdWxlIGlzIGFwcGxpY2FibGUgdG8gYWxsIHNhbGVzIG9mIGVuZXJneSBvciBjYXBhY2l0eSBieSBOWUlFQiBub3Qgb3RoZXJ3aXNlIHN1YmplY3QgdG8gYSBwYXJ0aWN1bGFyIHJhdGUgc2NoZWR1bGUgb2YgTllJRUIuIH1ccGFyXHBhcmRccGxhaW5ccWxccGFyXHBhcmRccGxhaW5cczNccWxcb3V0bGluZWxldmVsMntcYlxjZjAgUmF0ZXN9XGJccGFyXHBhcmRccGxhaW5ccWxccGFyXHBhcmRccGxhaW5ccWx7XGNmMCBBbGwgc2FsZXMgc2hhbGwgYmUgbWFkZSBhdCByYXRlcyBlc3RhYmxpc2hlZCBieSBhZ3JlZW1lbnQgYmV0d2VlbiB0aGUgcHVyY2hhc2VyIGFuZCBOWUlFQi59XHBhclxwYXJkXHBsYWluXHFsXHBhclxwYXJkXHBsYWluXHMzXHFsXG91dGxpbmVsZXZlbDJ7XGJcY2YwIE90aGVyIFRlcm1zIGFuZCBDb25kaXRpb25zfVxiXHBhclxwYXJkXHBsYWluXHFsXHBhclxwYXJkXHBsYWluXHFse1xjZjAgQWxsIG90aGVyIHRlcm1zIGFuZCBjb25kaXRpb25zIHNoYWxsIGJlIGVzdGFibGlzaGVkIGJ5IGFncmVlbWVudCBiZXR3ZWVuIHRoZSBwdXJjaGFzZXIgYW5kIE5ZSUVCLn1ccGFyXHBhcmRccGxhaW5ccWxccGFyXHBhcmRccGxhaW5cczNccWxcb3V0bGluZWxldmVsMntcYlxjZjAgQWZmaWxpYXRlIFNhbGVzIFByb2hpYml0ZWR9XGJccGFyXHBhcmRccGxhaW5ccWxccGFyXHBhcmRccGxhaW5ccWx7XGNmMCBObyBzYWxlIG1heSBiZSBtYWRlIHB1cnN1YW50IHRvIHRoZSBSYXRlIFNjaGVkdWxlIHRvIGFueSBwdWJsaWMgdXRpbGl0eSB3aXRoIGEgZnJhbmNoaXNlZCBlbGVjdHJpYyBzZXJ2aWNlIHRlcnJpdG9yeSB0aGF0IGlzIGNvbnRyb2xsZWQgYnksIG9yIHVuZGVyIGNvbW1vbiBjb250cm9sIHdpdGgsIG9yIGNvbnRyb2xsaW5nIE5ZSUVCLn1ccGFyXHBhcmRccGxhaW5ccWxccGFyXHBhcmRccGxhaW5cczNccWxcb3V0bGluZWxldmVsMntcYlxjZjAgRWZmZWN0aXZlIERhdGUgfVxiXHBhclxwYXJkXHBsYWluXHFsXGJccGFyXHBhcmRccGxhaW5cczRccWx7XGNmMCBUaGlzIFJhdGUgU2NoZWR1bGUgaXMgZWZmZWN0aXZlIG9uIF9fX19fX19fX19fX19fX19fXy59XHBhclxwYXJkXHBsYWluXHFsXHBhcn0=</record_binary_data>
+      <record_plain_text>New York Industrial Energy Buyers, LLC.
+
+
+Availability
+
+New York Industrial Energy Buyers, LLC. (NYIEB) makes electric energy and capacity available under the Rate Schedule to any purchaser for resale.
+
+Applicability
+
+This Rate Schedule is applicable to all sales of energy or capacity by NYIEB not otherwise subject to a particular rate schedule of NYIEB. 
+
+Rates
+
+All sales shall be made at rates established by agreement between the purchaser and NYIEB.
+
+Other Terms and Conditions
+
+All other terms and conditions shall be established by agreement between the purchaser and NYIEB.
+
+Affiliate Sales Prohibited
+
+No sale may be made pursuant to the Rate Schedule to any public utility with a franchised electric service territory that is controlled by, or under common control with, or controlling NYIEB.
+
+Effective Date 
+
+This Rate Schedule is effective on __________________.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>1</filing_id>
+      <filing_title>NYIEB MBR Re-File</filing_title>
+      <filing_type>360</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2011-09-22</current_effective_date>
+      <ferc_order_date>2011-11-03</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>
