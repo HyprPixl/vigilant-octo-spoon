@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Document xmlns="http://ferc.gov/etariffExport.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <ferc_filing_data>
+    <schema_version>2</schema_version>
+    <company_id>C010997</company_id>
+    <lead_applicant_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+    <tariff_id>10</tariff_id>
+    <tariff_title>FERC Electric Tariffs</tariff_title>
+    <tariff_export_date>2025-09-16T14:45Z</tariff_export_date>
+    <export_schema_version>2</export_schema_version>
+    <record_data>
+      <record_id>10</record_id>
+      <option_code>A</option_code>
+      <record_title>Market-Based Rate Tariff</record_title>
+      <record_content_desc>0HAM MBR</record_content_desc>
+      <record_version_num>0.0.0</record_version_num>
+      <record_narrative_name xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <collation_value>1000</collation_value>
+      <record_parent_id>0</record_parent_id>
+      <proposed_effective_date>2021-08-14</proposed_effective_date>
+      <priority_order>500</priority_order>
+      <record_content_type_code>1</record_content_type_code>
+      <record_plain_text>0HAM WHAM8 SOLAR, LLC
+Market-Based Rate Tariff
+1.	Availability.  0HAM WHAM8 SOLAR, LLC (“Seller”) will make wholesale electric energy, capacity, and ancillary services available under this Tariff, except as prohibited below:
+RTO/ISO Specific
+New England:  The seller offers regulation and frequency response service (automatic generator control), operating reserve service (which includes 10-minute spinning reserve, 10-minute non-spinning reserve, and 30-minute operating reserve service) to purchasers within the markets administered by the ISO New England Inc.
+Third Party Provider
+Third-Party Ancillary Services:  Seller offers Regulation Service, Reactive Supply and Voltage Control Service, Energy and Generator Imbalance Service, Operating Reserve-Spinning, Operating Reserve Supplemental, and Primary Frequency Response Service. Sales will not include the following: 
+1.	Sales to an RTO or an ISO, i.e., where that entity has no ability to self-supply ancillary services but instead depends on third parties.
+2.	Sales to a traditional, franchised public utility affiliated with the third-party supplier, or sales where the underlying transmission service is on the system of the public utility affiliated with the third-party supplier.  
+Sales of Operating Reserve-Spinning and Operating Reserve-Supplemental will not include sales to a public utility that is purchasing ancillary services to satisfy its own open access transmission tariff requirements to offer ancillary services to its own customers, except where the Commission has granted authorization.  Sales of Regulation Service and Reactive Supply and Voltage Control Service will not include sales to a public utility that is purchasing ancillary services to satisfy its own open access transmission tariff requirements to offer ancillary services to its own customers, except at rates not to exceed the buying public utility transmission provider’s OATT rate for the same service or where the Commission has granted authorization. 
+2.	Applicability.  This Tariff is applicable to all wholesale sales of energy, capacity, and/or ancillary services by Seller that are not otherwise subject to a particular rate schedule or contract of Seller.
+3.	Rates.  All sales made under this Tariff shall be made at the rates established by agreement between the purchaser and Seller.
+4.	Other Terms and Conditions.  All other terms and conditions of sale shall be established by agreement between the purchaser and Seller.
+5.	Compliance with Commission Regulations.  Seller shall comply with the provisions of 18 CFR Part 35, Subpart H, as applicable, and with any conditions the Commission imposes in its orders concerning Seller’s market-based rate authority, including orders in which the Commission authorizes Seller to engage in affiliate sales under this tariff or otherwise restricts or limits the Seller’s market-based rate authority.  Failure to comply with the applicable provisions of 18 CFR Part 35, Subpart H, and with any orders of the Commission concerning Seller’s market-based rate authority, will constitute a violation of this tariff.
+6.	Limitations and Exemptions Regarding Market-Based Rate Authority.  The Commission has granted Seller:  (i) waivers of Parts 41, 101 (except that waiver of the provisions of Part 101 that apply to hydropower licensees was not granted with respect to licensed hydropower projects) and 141 (except sections 141.14 and 141.15) of the Commission’s accounting and periodic reporting requirements, (ii) waivers of Subparts B and C of Part 35 of the Commission’s regulations requiring the filing of cost-of-service information, except as to sections 35.12(a), 35.13(b), 35.15, and 35.16, and (iii) blanket authorization for all future issuances of securities or assumptions of liabilities pursuant to Section 204 of the Federal Power Act, 16 U.S.C. § 824e, and Part 34 of the Commission’s regulations.  See 0HAM WHAM8 SOLAR, LLC, Docket No. ER21-____-000 (2021) (unpublished letter order).
+7.	Seller Category.  Seller is a Category 2 Seller, as defined in 18 CFR § 35.36(a), in the Northeast region, and a Category 1 Seller, as defined in 18 CFR § 35.36(a), in the Central, Northwest, Southeast, Southwest and Southwest Power Pool regions.
+8.	Effective Date.  This Tariff is effective on and after the date on which the Commission permits it to become effective.</record_plain_text>
+      <record_change_type>NEW</record_change_type>
+      <filing_id>1</filing_id>
+      <filing_title>Application for Market-Based Rate Authorization under Section 205 of the FPA</filing_title>
+      <filing_type>400</filing_type>
+      <associated_filing_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_record_id xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <associated_option_code xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" />
+      <record_current_status>Effective</record_current_status>
+      <current_effective_date>2021-08-14</current_effective_date>
+      <ferc_order_date>2021-08-12</ferc_order_date>
+      <ferc_action_status>Accept</ferc_action_status>
+      <suspend_motion>N</suspend_motion>
+    </record_data>
+  </ferc_filing_data>
+</Document>

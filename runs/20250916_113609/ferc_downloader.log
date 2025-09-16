@@ -1,0 +1,504 @@
+2025-09-16 08:18:59,614 - INFO - ====== WebDriver manager ======
+2025-09-16 08:19:05,057 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:19:05,077 - ERROR - Fatal error during download process: Could not reach host. Are you offline?
+2025-09-16 08:23:45,521 - INFO - ====== WebDriver manager ======
+2025-09-16 08:23:45,893 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:23:46,153 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:23:46,282 - INFO - There is no [mac64] chromedriver "130.0.6723.116" for browser google-chrome "130.0.6723" in cache
+2025-09-16 08:23:46,291 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:23:46,669 - INFO - WebDriver version 130.0.6723.116 selected
+2025-09-16 08:23:46,675 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.116/mac-x64/chromedriver-mac-x64.zip
+2025-09-16 08:23:46,675 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/130.0.6723.116/mac-x64/chromedriver-mac-x64.zip
+2025-09-16 08:23:46,870 - INFO - Driver downloading response is 200
+2025-09-16 08:23:47,397 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:23:47,631 - INFO - Driver has been saved in cache [/Users/caleb/.wdm/drivers/chromedriver/mac64/130.0.6723.116]
+2025-09-16 08:23:51,265 - INFO - Chrome driver initialized
+2025-09-16 08:23:51,279 - INFO - Starting FERC Tariff XML download process
+2025-09-16 08:24:00,941 - INFO - ====== WebDriver manager ======
+2025-09-16 08:24:01,217 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:24:01,502 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:24:01,686 - INFO - Driver [/Users/caleb/.wdm/drivers/chromedriver/mac64/130.0.6723.116/chromedriver-mac-x64/chromedriver] found in cache
+2025-09-16 08:24:04,198 - INFO - Chrome driver initialized
+2025-09-16 08:24:04,220 - INFO - Starting FERC Tariff XML download process
+2025-09-16 08:24:08,252 - INFO - Estimated total pages: 1
+2025-09-16 08:24:08,252 - INFO - Processing page 1
+2025-09-16 08:24:08,315 - WARNING - No XML links found on current page
+2025-09-16 08:24:08,362 - ERROR - Error navigating to next page: Message: invalid selector
+from javascript error: {"status":32,"value":"An invalid or illegal selector was specified"}
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidselectorexception
+Stacktrace:
+0   chromedriver                        0x0000000105dafb58 chromedriver + 8182616
+1   chromedriver                        0x0000000105da708a chromedriver + 8147082
+2   chromedriver                        0x0000000105642fa0 chromedriver + 397216
+3   chromedriver                        0x0000000105648e5d chromedriver + 421469
+4   chromedriver                        0x000000010564aabf chromedriver + 428735
+5   chromedriver                        0x000000010564ab6c chromedriver + 428908
+6   chromedriver                        0x000000010568f054 chromedriver + 708692
+7   chromedriver                        0x000000010568f6b1 chromedriver + 710321
+8   chromedriver                        0x00000001056d4e64 chromedriver + 994916
+9   chromedriver                        0x00000001056b397d chromedriver + 858493
+10  chromedriver                        0x00000001056d2284 chromedriver + 983684
+11  chromedriver                        0x00000001056b36f3 chromedriver + 857843
+12  chromedriver                        0x00000001056821c2 chromedriver + 655810
+13  chromedriver                        0x000000010568319e chromedriver + 659870
+14  chromedriver                        0x0000000105d74da0 chromedriver + 7941536
+15  chromedriver                        0x0000000105d78cf4 chromedriver + 7957748
+16  chromedriver                        0x0000000105d56917 chromedriver + 7817495
+17  chromedriver                        0x0000000105d7977e chromedriver + 7960446
+18  chromedriver                        0x0000000105d45be4 chromedriver + 7748580
+19  chromedriver                        0x0000000105d953a8 chromedriver + 8074152
+20  chromedriver                        0x0000000105d95566 chromedriver + 8074598
+21  chromedriver                        0x0000000105da6c98 chromedriver + 8146072
+22  libsystem_pthread.dylib             0x00007ff807c11e59 _pthread_start + 115
+23  libsystem_pthread.dylib             0x00007ff807c0d857 thread_start + 15
+
+2025-09-16 08:24:08,363 - INFO - No more pages to process
+2025-09-16 08:24:08,363 - INFO - Download process completed. Files saved to: /Users/caleb/tariff/vigilant-octo-spoon/TariffXML
+2025-09-16 08:24:08,495 - INFO - Browser closed
+2025-09-16 08:30:37,790 - INFO - ====== WebDriver manager ======
+2025-09-16 08:30:38,015 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:30:38,162 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:30:38,300 - INFO - Driver [/Users/caleb/.wdm/drivers/chromedriver/mac64/130.0.6723.116/chromedriver-mac-x64/chromedriver] found in cache
+2025-09-16 08:30:39,942 - INFO - Chrome driver initialized
+2025-09-16 08:31:32,402 - INFO - ====== WebDriver manager ======
+2025-09-16 08:31:32,616 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:31:32,765 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:31:32,918 - INFO - Driver [/Users/caleb/.wdm/drivers/chromedriver/mac64/130.0.6723.116/chromedriver-mac-x64/chromedriver] found in cache
+2025-09-16 08:31:34,591 - INFO - Chrome driver initialized
+2025-09-16 08:36:25,707 - INFO - ====== WebDriver manager ======
+2025-09-16 08:36:25,934 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:36:26,084 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:36:26,215 - INFO - Driver [/Users/caleb/.wdm/drivers/chromedriver/mac64/130.0.6723.116/chromedriver-mac-x64/chromedriver] found in cache
+2025-09-16 08:36:27,611 - INFO - Chrome driver initialized
+2025-09-16 08:38:24,327 - INFO - ====== WebDriver manager ======
+2025-09-16 08:38:24,547 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:38:24,684 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:38:24,822 - INFO - Driver [/Users/caleb/.wdm/drivers/chromedriver/mac64/130.0.6723.116/chromedriver-mac-x64/chromedriver] found in cache
+2025-09-16 08:38:26,269 - INFO - Chrome driver initialized
+2025-09-16 08:42:01,745 - INFO - ====== WebDriver manager ======
+2025-09-16 08:42:01,967 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:42:02,356 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:42:02,492 - INFO - Driver [/Users/caleb/.wdm/drivers/chromedriver/mac64/130.0.6723.116/chromedriver-mac-x64/chromedriver] found in cache
+2025-09-16 08:42:03,859 - INFO - Chrome driver initialized
+2025-09-16 08:44:25,234 - INFO - ====== WebDriver manager ======
+2025-09-16 08:44:25,451 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:44:25,602 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:44:25,733 - INFO - Driver [/Users/caleb/.wdm/drivers/chromedriver/mac64/130.0.6723.116/chromedriver-mac-x64/chromedriver] found in cache
+2025-09-16 08:44:27,375 - INFO - Chrome driver initialized
+2025-09-16 08:45:14,482 - INFO - ====== WebDriver manager ======
+2025-09-16 08:45:14,732 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:45:14,882 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:45:15,015 - INFO - Driver [/Users/caleb/.wdm/drivers/chromedriver/mac64/130.0.6723.116/chromedriver-mac-x64/chromedriver] found in cache
+2025-09-16 08:45:17,358 - INFO - Chrome driver initialized
+2025-09-16 08:46:44,666 - INFO - ====== WebDriver manager ======
+2025-09-16 08:46:44,889 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:46:45,037 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:46:45,176 - INFO - Driver [/Users/caleb/.wdm/drivers/chromedriver/mac64/130.0.6723.116/chromedriver-mac-x64/chromedriver] found in cache
+2025-09-16 08:46:46,789 - INFO - Chrome driver initialized
+2025-09-16 08:48:27,069 - INFO - ====== WebDriver manager ======
+2025-09-16 08:48:27,290 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:48:27,464 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:48:27,605 - INFO - Driver [/Users/caleb/.wdm/drivers/chromedriver/mac64/130.0.6723.116/chromedriver-mac-x64/chromedriver] found in cache
+2025-09-16 08:48:29,249 - INFO - Chrome driver initialized
+2025-09-16 08:51:40,259 - INFO - ====== WebDriver manager ======
+2025-09-16 08:51:40,491 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:51:40,698 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 08:51:40,834 - INFO - Driver [/Users/caleb/.wdm/drivers/chromedriver/mac64/130.0.6723.116/chromedriver-mac-x64/chromedriver] found in cache
+2025-09-16 08:51:42,400 - INFO - Chrome driver initialized
+2025-09-16 09:04:51,231 - INFO - ====== WebDriver manager ======
+2025-09-16 09:04:51,468 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 09:04:51,621 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 09:04:51,753 - INFO - Driver [/Users/caleb/.wdm/drivers/chromedriver/mac64/130.0.6723.116/chromedriver-mac-x64/chromedriver] found in cache
+2025-09-16 09:04:53,426 - INFO - Chrome driver initialized
+2025-09-16 09:04:53,455 - INFO - Starting FERC Tariff XML download process
+2025-09-16 09:04:59,803 - INFO - Estimated total pages: 1
+2025-09-16 09:04:59,803 - INFO - Processing page 1
+2025-09-16 09:04:59,817 - INFO - Processing 20 XML links on page 1
+2025-09-16 09:04:59,824 - INFO - Clicking XML link 1/20 on page 1
+2025-09-16 09:05:00,348 - INFO - Handling XML export popup
+2025-09-16 09:05:02,312 - INFO - XML export initiated
+2025-09-16 09:05:06,873 - INFO - Clicking XML link 2/20 on page 1
+2025-09-16 09:05:07,388 - INFO - Handling XML export popup
+2025-09-16 09:05:09,285 - INFO - XML export initiated
+2025-09-16 09:05:22,875 - INFO - Clicking XML link 3/20 on page 1
+2025-09-16 09:05:23,391 - INFO - Handling XML export popup
+2025-09-16 09:05:25,915 - INFO - XML export initiated
+2025-09-16 09:06:11,126 - WARNING - Download wait timeout reached
+2025-09-16 09:06:15,669 - INFO - Clicking XML link 4/20 on page 1
+2025-09-16 09:06:16,185 - INFO - Handling XML export popup
+2025-09-16 09:06:18,269 - INFO - XML export initiated
+2025-09-16 09:07:03,478 - WARNING - Download wait timeout reached
+2025-09-16 09:07:08,019 - INFO - Clicking XML link 5/20 on page 1
+2025-09-16 09:07:08,536 - INFO - Handling XML export popup
+2025-09-16 09:07:10,594 - INFO - XML export initiated
+2025-09-16 09:07:15,157 - INFO - Clicking XML link 6/20 on page 1
+2025-09-16 09:07:15,674 - INFO - Handling XML export popup
+2025-09-16 09:07:17,661 - INFO - XML export initiated
+2025-09-16 09:07:22,213 - INFO - Clicking XML link 7/20 on page 1
+2025-09-16 09:07:22,728 - INFO - Handling XML export popup
+2025-09-16 09:07:24,593 - INFO - XML export initiated
+2025-09-16 09:07:29,656 - INFO - Clicking XML link 8/20 on page 1
+2025-09-16 09:07:30,170 - INFO - Handling XML export popup
+2025-09-16 09:07:32,056 - INFO - XML export initiated
+2025-09-16 09:07:37,133 - INFO - Clicking XML link 9/20 on page 1
+2025-09-16 09:07:37,649 - INFO - Handling XML export popup
+2025-09-16 09:07:39,678 - INFO - XML export initiated
+2025-09-16 09:07:44,249 - INFO - Clicking XML link 10/20 on page 1
+2025-09-16 09:07:44,767 - INFO - Handling XML export popup
+2025-09-16 09:07:46,745 - INFO - XML export initiated
+2025-09-16 09:07:51,307 - INFO - Clicking XML link 11/20 on page 1
+2025-09-16 09:07:51,820 - INFO - Handling XML export popup
+2025-09-16 09:07:53,810 - INFO - XML export initiated
+2025-09-16 09:07:58,367 - INFO - Clicking XML link 12/20 on page 1
+2025-09-16 09:07:58,881 - INFO - Handling XML export popup
+2025-09-16 09:08:00,767 - INFO - XML export initiated
+2025-09-16 09:08:05,834 - INFO - Clicking XML link 13/20 on page 1
+2025-09-16 09:08:06,351 - INFO - Handling XML export popup
+2025-09-16 09:08:08,352 - INFO - XML export initiated
+2025-09-16 09:08:12,912 - INFO - Clicking XML link 14/20 on page 1
+2025-09-16 09:08:13,429 - INFO - Handling XML export popup
+2025-09-16 09:08:15,509 - INFO - XML export initiated
+2025-09-16 09:09:00,757 - WARNING - Download wait timeout reached
+2025-09-16 09:09:05,299 - INFO - Clicking XML link 15/20 on page 1
+2025-09-16 09:09:05,815 - INFO - Handling XML export popup
+2025-09-16 09:09:07,952 - INFO - XML export initiated
+2025-09-16 09:09:12,512 - INFO - Clicking XML link 16/20 on page 1
+2025-09-16 09:09:13,031 - INFO - Handling XML export popup
+2025-09-16 09:09:15,117 - INFO - XML export initiated
+2025-09-16 09:09:20,198 - INFO - Clicking XML link 17/20 on page 1
+2025-09-16 09:09:20,714 - INFO - Handling XML export popup
+2025-09-16 09:09:22,796 - INFO - XML export initiated
+2025-09-16 09:09:27,354 - INFO - Clicking XML link 18/20 on page 1
+2025-09-16 09:09:27,869 - INFO - Handling XML export popup
+2025-09-16 09:09:29,922 - INFO - XML export initiated
+2025-09-16 09:10:15,177 - WARNING - Download wait timeout reached
+2025-09-16 09:10:15,178 - ERROR - Error handling export popup: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.70)
+Stacktrace:
+0   chromedriver                        0x00000001019dbb58 chromedriver + 8182616
+1   chromedriver                        0x00000001019d308a chromedriver + 8147082
+2   chromedriver                        0x000000010126efa0 chromedriver + 397216
+3   chromedriver                        0x000000010124551f chromedriver + 226591
+4   chromedriver                        0x00000001012e7b1d chromedriver + 891677
+5   chromedriver                        0x00000001012fdc82 chromedriver + 982146
+6   chromedriver                        0x00000001012df6f3 chromedriver + 857843
+7   chromedriver                        0x00000001012ae1c2 chromedriver + 655810
+8   chromedriver                        0x00000001012af19e chromedriver + 659870
+9   chromedriver                        0x00000001019a0da0 chromedriver + 7941536
+10  chromedriver                        0x00000001019a4cf4 chromedriver + 7957748
+11  chromedriver                        0x0000000101982917 chromedriver + 7817495
+12  chromedriver                        0x00000001019a577e chromedriver + 7960446
+13  chromedriver                        0x0000000101971be4 chromedriver + 7748580
+14  chromedriver                        0x00000001019c13a8 chromedriver + 8074152
+15  chromedriver                        0x00000001019c1566 chromedriver + 8074598
+16  chromedriver                        0x00000001019d2c98 chromedriver + 8146072
+17  libsystem_pthread.dylib             0x00007ff807c11e59 _pthread_start + 115
+18  libsystem_pthread.dylib             0x00007ff807c0d857 thread_start + 15
+
+2025-09-16 09:10:18,180 - ERROR - Error with XML link 19: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.70)
+Stacktrace:
+0   chromedriver                        0x00000001019dbb58 chromedriver + 8182616
+1   chromedriver                        0x00000001019d308a chromedriver + 8147082
+2   chromedriver                        0x000000010126efa0 chromedriver + 397216
+3   chromedriver                        0x000000010124551f chromedriver + 226591
+4   chromedriver                        0x00000001012e7b1d chromedriver + 891677
+5   chromedriver                        0x00000001012fdc82 chromedriver + 982146
+6   chromedriver                        0x00000001012df6f3 chromedriver + 857843
+7   chromedriver                        0x00000001012ae1c2 chromedriver + 655810
+8   chromedriver                        0x00000001012af19e chromedriver + 659870
+9   chromedriver                        0x00000001019a0da0 chromedriver + 7941536
+10  chromedriver                        0x00000001019a4cf4 chromedriver + 7957748
+11  chromedriver                        0x0000000101982917 chromedriver + 7817495
+12  chromedriver                        0x00000001019a577e chromedriver + 7960446
+13  chromedriver                        0x0000000101971be4 chromedriver + 7748580
+14  chromedriver                        0x00000001019c13a8 chromedriver + 8074152
+15  chromedriver                        0x00000001019c1566 chromedriver + 8074598
+16  chromedriver                        0x00000001019d2c98 chromedriver + 8146072
+17  libsystem_pthread.dylib             0x00007ff807c11e59 _pthread_start + 115
+18  libsystem_pthread.dylib             0x00007ff807c0d857 thread_start + 15
+
+2025-09-16 09:10:18,181 - ERROR - Error with XML link 20: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.70)
+Stacktrace:
+0   chromedriver                        0x00000001019dbb58 chromedriver + 8182616
+1   chromedriver                        0x00000001019d308a chromedriver + 8147082
+2   chromedriver                        0x000000010126efa0 chromedriver + 397216
+3   chromedriver                        0x000000010124551f chromedriver + 226591
+4   chromedriver                        0x00000001012e7b1d chromedriver + 891677
+5   chromedriver                        0x00000001012fdc82 chromedriver + 982146
+6   chromedriver                        0x00000001012df6f3 chromedriver + 857843
+7   chromedriver                        0x00000001012ae1c2 chromedriver + 655810
+8   chromedriver                        0x00000001012af19e chromedriver + 659870
+9   chromedriver                        0x00000001019a0da0 chromedriver + 7941536
+10  chromedriver                        0x00000001019a4cf4 chromedriver + 7957748
+11  chromedriver                        0x0000000101982917 chromedriver + 7817495
+12  chromedriver                        0x00000001019a577e chromedriver + 7960446
+13  chromedriver                        0x0000000101971be4 chromedriver + 7748580
+14  chromedriver                        0x00000001019c13a8 chromedriver + 8074152
+15  chromedriver                        0x00000001019c1566 chromedriver + 8074598
+16  chromedriver                        0x00000001019d2c98 chromedriver + 8146072
+17  libsystem_pthread.dylib             0x00007ff807c11e59 _pthread_start + 115
+18  libsystem_pthread.dylib             0x00007ff807c0d857 thread_start + 15
+
+2025-09-16 09:10:18,182 - ERROR - Error navigating to next page: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.70)
+Stacktrace:
+0   chromedriver                        0x00000001019dbb58 chromedriver + 8182616
+1   chromedriver                        0x00000001019d308a chromedriver + 8147082
+2   chromedriver                        0x000000010126efa0 chromedriver + 397216
+3   chromedriver                        0x000000010124551f chromedriver + 226591
+4   chromedriver                        0x00000001012e7b1d chromedriver + 891677
+5   chromedriver                        0x00000001012fdc82 chromedriver + 982146
+6   chromedriver                        0x00000001012df6f3 chromedriver + 857843
+7   chromedriver                        0x00000001012ae1c2 chromedriver + 655810
+8   chromedriver                        0x00000001012af19e chromedriver + 659870
+9   chromedriver                        0x00000001019a0da0 chromedriver + 7941536
+10  chromedriver                        0x00000001019a4cf4 chromedriver + 7957748
+11  chromedriver                        0x0000000101982917 chromedriver + 7817495
+12  chromedriver                        0x00000001019a577e chromedriver + 7960446
+13  chromedriver                        0x0000000101971be4 chromedriver + 7748580
+14  chromedriver                        0x00000001019c13a8 chromedriver + 8074152
+15  chromedriver                        0x00000001019c1566 chromedriver + 8074598
+16  chromedriver                        0x00000001019d2c98 chromedriver + 8146072
+17  libsystem_pthread.dylib             0x00007ff807c11e59 _pthread_start + 115
+18  libsystem_pthread.dylib             0x00007ff807c0d857 thread_start + 15
+
+2025-09-16 09:10:18,182 - INFO - No more pages to process
+2025-09-16 09:10:18,182 - INFO - Download process completed. Files saved to: /Users/caleb/tariff/vigilant-octo-spoon/TariffXML
+2025-09-16 09:10:18,294 - INFO - Browser closed
+2025-09-16 10:22:24,409 - INFO - Starting tariff id collection
+2025-09-16 10:22:24,419 - ERROR - Fatal error during download process: HTTPSConnectionPool(host='etariff.ferc.gov', port=443): Max retries exceeded with url: /TariffList.aspx (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x1099934d0>: Failed to resolve 'etariff.ferc.gov' ([Errno 8] nodename nor servname provided, or not known)"))
+2025-09-16 10:23:16,975 - INFO - Starting tariff id collection
+2025-09-16 10:23:19,072 - INFO - Collected 20 tariff ids from page 1
+2025-09-16 10:23:20,606 - INFO - Collected 20 new ids (total=20) from page 2
+2025-09-16 10:23:20,607 - INFO - Found 20 tariff ids
+2025-09-16 10:23:20,607 - INFO - Saving XML files to /Users/caleb/tariff/vigilant-octo-spoon/TariffXML
+2025-09-16 10:23:20,607 - INFO - [1/20] Fetching tariff 2354
+2025-09-16 10:23:20,607 - INFO - Skipping Tariff_2354.xml (already downloaded)
+2025-09-16 10:23:20,607 - INFO - [2/20] Fetching tariff 2562
+2025-09-16 10:23:21,571 - INFO - Downloaded Tariff_2562.xml
+2025-09-16 10:23:21,571 - INFO - [3/20] Fetching tariff 4006
+2025-09-16 10:23:22,081 - INFO - Downloaded Tariff_4006.xml
+2025-09-16 10:23:22,081 - INFO - [4/20] Fetching tariff 4060
+2025-09-16 10:23:22,586 - INFO - Downloaded Tariff_4060.xml
+2025-09-16 10:23:22,586 - INFO - [5/20] Fetching tariff 4233
+2025-09-16 10:23:22,587 - INFO - Skipping Tariff_4233.xml (already downloaded)
+2025-09-16 10:23:22,587 - INFO - [6/20] Fetching tariff 4265
+2025-09-16 10:23:22,587 - INFO - Skipping Tariff_4265.xml (already downloaded)
+2025-09-16 10:23:22,587 - INFO - [7/20] Fetching tariff 4321
+2025-09-16 10:23:23,086 - INFO - Downloaded Tariff_4321.xml
+2025-09-16 10:23:23,086 - INFO - [8/20] Fetching tariff 4364
+2025-09-16 10:23:23,596 - INFO - Downloaded Tariff_4364.xml
+2025-09-16 10:23:23,596 - INFO - [9/20] Fetching tariff 4470
+2025-09-16 10:23:24,093 - INFO - Downloaded Tariff_4470.xml
+2025-09-16 10:23:24,093 - INFO - [10/20] Fetching tariff 4525
+2025-09-16 10:23:24,093 - INFO - Skipping Tariff_4525.xml (already downloaded)
+2025-09-16 10:23:24,093 - INFO - [11/20] Fetching tariff 6331
+2025-09-16 10:23:24,093 - INFO - Skipping Tariff_6331.xml (already downloaded)
+2025-09-16 10:23:24,093 - INFO - [12/20] Fetching tariff 6502
+2025-09-16 10:23:24,093 - INFO - Skipping Tariff_6502.xml (already downloaded)
+2025-09-16 10:23:24,093 - INFO - [13/20] Fetching tariff 6570
+2025-09-16 10:23:24,094 - INFO - Skipping Tariff_6570.xml (already downloaded)
+2025-09-16 10:23:24,094 - INFO - [14/20] Fetching tariff 6907
+2025-09-16 10:23:24,094 - INFO - Skipping Tariff_6907.xml (already downloaded)
+2025-09-16 10:23:24,094 - INFO - [15/20] Fetching tariff 7050
+2025-09-16 10:23:24,094 - INFO - Skipping Tariff_7050.xml (already downloaded)
+2025-09-16 10:23:24,094 - INFO - [16/20] Fetching tariff 7051
+2025-09-16 10:23:24,094 - INFO - Skipping Tariff_7051.xml (already downloaded)
+2025-09-16 10:23:24,094 - INFO - [17/20] Fetching tariff 7240
+2025-09-16 10:23:24,094 - INFO - Skipping Tariff_7240.xml (already downloaded)
+2025-09-16 10:23:24,094 - INFO - [18/20] Fetching tariff 7430
+2025-09-16 10:23:24,094 - INFO - Skipping Tariff_7430.xml (already downloaded)
+2025-09-16 10:23:24,094 - INFO - [19/20] Fetching tariff 7940
+2025-09-16 10:23:24,094 - INFO - Skipping Tariff_7940.xml (already downloaded)
+2025-09-16 10:23:24,094 - INFO - [20/20] Fetching tariff 8580
+2025-09-16 10:23:24,095 - INFO - Skipping Tariff_8580.xml (already downloaded)
+2025-09-16 11:31:38,396 - INFO - Starting tariff id collection
+2025-09-16 11:31:38,397 - INFO - ====== WebDriver manager ======
+2025-09-16 11:31:38,612 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 11:31:38,931 - INFO - Get LATEST chromedriver version for google-chrome
+2025-09-16 11:31:39,064 - INFO - Driver [/Users/caleb/.wdm/drivers/chromedriver/mac64/130.0.6723.116/chromedriver-mac-x64/chromedriver] found in cache
+2025-09-16 11:31:48,457 - INFO - Collected 20 ids from page 1 (total=20)
+2025-09-16 11:31:49,628 - INFO - Collected 20 ids from page 2 (total=40)
+2025-09-16 11:31:50,792 - INFO - Collected 20 ids from page 3 (total=60)
+2025-09-16 11:31:52,015 - INFO - Collected 20 ids from page 4 (total=80)
+2025-09-16 11:31:53,739 - INFO - Collected 20 ids from page 5 (total=100)
+2025-09-16 11:31:55,418 - INFO - Collected 20 ids from page 6 (total=120)
+2025-09-16 11:31:57,096 - INFO - Collected 20 ids from page 7 (total=140)
+2025-09-16 11:31:58,248 - INFO - Collected 20 ids from page 8 (total=160)
+2025-09-16 11:31:59,395 - INFO - Collected 20 ids from page 9 (total=180)
+2025-09-16 11:32:01,084 - INFO - Collected 20 ids from page 10 (total=200)
+2025-09-16 11:32:02,246 - INFO - Collected 20 ids from page 11 (total=220)
+2025-09-16 11:32:03,402 - INFO - Collected 20 ids from page 12 (total=240)
+2025-09-16 11:32:04,560 - INFO - Collected 20 ids from page 13 (total=260)
+2025-09-16 11:32:05,716 - INFO - Collected 20 ids from page 14 (total=280)
+2025-09-16 11:32:06,867 - INFO - Collected 20 ids from page 15 (total=300)
+2025-09-16 11:32:08,027 - INFO - Collected 20 ids from page 16 (total=320)
+2025-09-16 11:32:09,180 - INFO - Collected 20 ids from page 17 (total=340)
+2025-09-16 11:32:10,345 - INFO - Collected 20 ids from page 18 (total=360)
+2025-09-16 11:32:11,505 - INFO - Collected 20 ids from page 19 (total=380)
+2025-09-16 11:32:12,647 - INFO - Collected 20 ids from page 20 (total=400)
+2025-09-16 11:32:13,799 - INFO - Collected 20 ids from page 21 (total=420)
+2025-09-16 11:32:14,954 - INFO - Collected 20 ids from page 22 (total=440)
+2025-09-16 11:32:16,097 - INFO - Collected 20 ids from page 23 (total=460)
+2025-09-16 11:32:17,248 - INFO - Collected 20 ids from page 24 (total=480)
+2025-09-16 11:32:18,912 - INFO - Collected 20 ids from page 25 (total=500)
+2025-09-16 11:32:20,579 - INFO - Collected 20 ids from page 26 (total=520)
+2025-09-16 11:32:22,239 - INFO - Collected 20 ids from page 27 (total=540)
+2025-09-16 11:32:23,903 - INFO - Collected 20 ids from page 28 (total=560)
+2025-09-16 11:32:25,561 - INFO - Collected 20 ids from page 29 (total=580)
+2025-09-16 11:32:27,226 - INFO - Collected 20 ids from page 30 (total=600)
+2025-09-16 11:32:28,892 - INFO - Collected 20 ids from page 31 (total=620)
+2025-09-16 11:32:30,558 - INFO - Collected 20 ids from page 32 (total=640)
+2025-09-16 11:32:32,217 - INFO - Collected 20 ids from page 33 (total=660)
+2025-09-16 11:32:33,869 - INFO - Collected 20 ids from page 34 (total=680)
+2025-09-16 11:32:35,521 - INFO - Collected 20 ids from page 35 (total=700)
+2025-09-16 11:32:37,175 - INFO - Collected 20 ids from page 36 (total=720)
+2025-09-16 11:32:38,829 - INFO - Collected 20 ids from page 37 (total=740)
+2025-09-16 11:32:40,487 - INFO - Collected 20 ids from page 38 (total=760)
+2025-09-16 11:32:42,138 - INFO - Collected 20 ids from page 39 (total=780)
+2025-09-16 11:32:43,796 - INFO - Collected 20 ids from page 40 (total=800)
+2025-09-16 11:32:45,457 - INFO - Collected 20 ids from page 41 (total=820)
+2025-09-16 11:32:47,120 - INFO - Collected 20 ids from page 42 (total=840)
+2025-09-16 11:32:48,770 - INFO - Collected 20 ids from page 43 (total=860)
+2025-09-16 11:32:50,422 - INFO - Collected 20 ids from page 44 (total=880)
+2025-09-16 11:32:52,082 - INFO - Collected 20 ids from page 45 (total=900)
+2025-09-16 11:32:53,732 - INFO - Collected 20 ids from page 46 (total=920)
+2025-09-16 11:32:55,384 - INFO - Collected 20 ids from page 47 (total=940)
+2025-09-16 11:32:57,034 - INFO - Collected 20 ids from page 48 (total=960)
+2025-09-16 11:32:58,686 - INFO - Collected 20 ids from page 49 (total=980)
+2025-09-16 11:33:00,340 - INFO - Collected 20 ids from page 50 (total=1000)
+2025-09-16 11:33:01,988 - INFO - Collected 20 ids from page 51 (total=1020)
+2025-09-16 11:33:03,636 - INFO - Collected 20 ids from page 52 (total=1040)
+2025-09-16 11:33:05,288 - INFO - Collected 20 ids from page 53 (total=1060)
+2025-09-16 11:33:06,940 - INFO - Collected 20 ids from page 54 (total=1080)
+2025-09-16 11:33:08,587 - INFO - Collected 20 ids from page 55 (total=1100)
+2025-09-16 11:33:10,234 - INFO - Collected 20 ids from page 56 (total=1120)
+2025-09-16 11:33:11,887 - INFO - Collected 20 ids from page 57 (total=1140)
+2025-09-16 11:33:13,536 - INFO - Collected 20 ids from page 58 (total=1160)
+2025-09-16 11:33:15,201 - INFO - Collected 20 ids from page 59 (total=1180)
+2025-09-16 11:33:17,367 - INFO - Collected 20 ids from page 60 (total=1200)
+2025-09-16 11:33:19,020 - INFO - Collected 20 ids from page 61 (total=1220)
+2025-09-16 11:33:20,670 - INFO - Collected 20 ids from page 62 (total=1240)
+2025-09-16 11:33:22,331 - INFO - Collected 20 ids from page 63 (total=1260)
+2025-09-16 11:33:23,504 - INFO - Collected 20 ids from page 64 (total=1280)
+2025-09-16 11:33:24,646 - INFO - Collected 20 ids from page 65 (total=1300)
+2025-09-16 11:33:25,884 - INFO - Collected 20 ids from page 66 (total=1320)
+2025-09-16 11:33:27,063 - INFO - Collected 20 ids from page 67 (total=1340)
+2025-09-16 11:33:28,210 - INFO - Collected 20 ids from page 68 (total=1360)
+2025-09-16 11:33:29,356 - INFO - Collected 20 ids from page 69 (total=1380)
+2025-09-16 11:33:30,497 - INFO - Collected 20 ids from page 70 (total=1400)
+2025-09-16 11:33:32,155 - INFO - Collected 20 ids from page 71 (total=1420)
+2025-09-16 11:33:33,817 - INFO - Collected 20 ids from page 72 (total=1440)
+2025-09-16 11:33:35,483 - INFO - Collected 20 ids from page 73 (total=1460)
+2025-09-16 11:33:37,144 - INFO - Collected 20 ids from page 74 (total=1480)
+2025-09-16 11:33:38,809 - INFO - Collected 20 ids from page 75 (total=1500)
+2025-09-16 11:33:40,479 - INFO - Collected 20 ids from page 76 (total=1520)
+2025-09-16 11:33:42,145 - INFO - Collected 20 ids from page 77 (total=1540)
+2025-09-16 11:33:43,802 - INFO - Collected 20 ids from page 78 (total=1560)
+2025-09-16 11:33:45,470 - INFO - Collected 20 ids from page 79 (total=1580)
+2025-09-16 11:33:47,132 - INFO - Collected 20 ids from page 80 (total=1600)
+2025-09-16 11:33:48,794 - INFO - Collected 20 ids from page 81 (total=1620)
+2025-09-16 11:33:50,454 - INFO - Collected 20 ids from page 82 (total=1640)
+2025-09-16 11:33:52,119 - INFO - Collected 20 ids from page 83 (total=1660)
+2025-09-16 11:33:53,783 - INFO - Collected 20 ids from page 84 (total=1680)
+2025-09-16 11:33:55,444 - INFO - Collected 20 ids from page 85 (total=1700)
+2025-09-16 11:33:57,107 - INFO - Collected 20 ids from page 86 (total=1720)
+2025-09-16 11:33:58,773 - INFO - Collected 20 ids from page 87 (total=1740)
+2025-09-16 11:34:00,436 - INFO - Collected 20 ids from page 88 (total=1760)
+2025-09-16 11:34:02,104 - INFO - Collected 20 ids from page 89 (total=1780)
+2025-09-16 11:34:03,763 - INFO - Collected 20 ids from page 90 (total=1800)
+2025-09-16 11:34:05,434 - INFO - Collected 20 ids from page 91 (total=1820)
+2025-09-16 11:34:07,608 - INFO - Collected 20 ids from page 92 (total=1840)
+2025-09-16 11:34:09,274 - INFO - Collected 20 ids from page 93 (total=1860)
+2025-09-16 11:34:10,935 - INFO - Collected 20 ids from page 94 (total=1880)
+2025-09-16 11:34:12,595 - INFO - Collected 20 ids from page 95 (total=1900)
+2025-09-16 11:34:14,259 - INFO - Collected 20 ids from page 96 (total=1920)
+2025-09-16 11:34:15,921 - INFO - Collected 20 ids from page 97 (total=1940)
+2025-09-16 11:34:17,584 - INFO - Collected 20 ids from page 98 (total=1960)
+2025-09-16 11:34:19,253 - INFO - Collected 20 ids from page 99 (total=1980)
+2025-09-16 11:34:20,919 - INFO - Collected 20 ids from page 100 (total=2000)
+2025-09-16 11:34:22,583 - INFO - Collected 20 ids from page 101 (total=2020)
+2025-09-16 11:34:24,249 - INFO - Collected 20 ids from page 102 (total=2040)
+2025-09-16 11:34:25,913 - INFO - Collected 20 ids from page 103 (total=2060)
+2025-09-16 11:34:27,574 - INFO - Collected 20 ids from page 104 (total=2080)
+2025-09-16 11:34:29,237 - INFO - Collected 20 ids from page 105 (total=2100)
+2025-09-16 11:34:30,895 - INFO - Collected 20 ids from page 106 (total=2120)
+2025-09-16 11:34:32,561 - INFO - Collected 20 ids from page 107 (total=2140)
+2025-09-16 11:34:34,225 - INFO - Collected 20 ids from page 108 (total=2160)
+2025-09-16 11:34:35,887 - INFO - Collected 20 ids from page 109 (total=2180)
+2025-09-16 11:34:37,550 - INFO - Collected 20 ids from page 110 (total=2200)
+2025-09-16 11:34:39,208 - INFO - Collected 20 ids from page 111 (total=2220)
+2025-09-16 11:34:40,870 - INFO - Collected 20 ids from page 112 (total=2240)
+2025-09-16 11:34:43,062 - INFO - Collected 20 ids from page 113 (total=2260)
+2025-09-16 11:34:44,209 - INFO - Collected 20 ids from page 114 (total=2280)
+2025-09-16 11:34:45,355 - INFO - Collected 20 ids from page 115 (total=2300)
+2025-09-16 11:34:46,506 - INFO - Collected 20 ids from page 116 (total=2320)
+2025-09-16 11:34:47,665 - INFO - Collected 20 ids from page 117 (total=2340)
+2025-09-16 11:34:48,807 - INFO - Collected 20 ids from page 118 (total=2360)
+2025-09-16 11:34:50,468 - INFO - Collected 20 ids from page 119 (total=2380)
+2025-09-16 11:34:52,172 - INFO - Collected 20 ids from page 120 (total=2400)
+2025-09-16 11:34:53,833 - INFO - Collected 20 ids from page 121 (total=2420)
+2025-09-16 11:34:55,479 - INFO - Collected 20 ids from page 122 (total=2440)
+2025-09-16 11:34:56,631 - INFO - Collected 20 ids from page 123 (total=2460)
+2025-09-16 11:34:57,779 - INFO - Collected 20 ids from page 124 (total=2480)
+2025-09-16 11:34:58,919 - INFO - Collected 20 ids from page 125 (total=2500)
+2025-09-16 11:35:00,063 - INFO - Collected 20 ids from page 126 (total=2520)
+2025-09-16 11:35:01,219 - INFO - Collected 20 ids from page 127 (total=2540)
+2025-09-16 11:35:02,875 - INFO - Collected 20 ids from page 128 (total=2560)
+2025-09-16 11:35:04,530 - INFO - Collected 20 ids from page 129 (total=2580)
+2025-09-16 11:35:06,184 - INFO - Collected 20 ids from page 130 (total=2600)
+2025-09-16 11:35:07,364 - INFO - Collected 20 ids from page 131 (total=2620)
+2025-09-16 11:35:08,523 - INFO - Collected 20 ids from page 132 (total=2640)
+2025-09-16 11:35:10,180 - INFO - Collected 20 ids from page 133 (total=2660)
+2025-09-16 11:35:11,850 - INFO - Collected 20 ids from page 134 (total=2680)
+2025-09-16 11:35:13,523 - INFO - Collected 20 ids from page 135 (total=2700)
+2025-09-16 11:35:15,182 - INFO - Collected 20 ids from page 136 (total=2720)
+2025-09-16 11:35:16,325 - INFO - Collected 20 ids from page 137 (total=2740)
+2025-09-16 11:35:17,480 - INFO - Collected 20 ids from page 138 (total=2760)
+2025-09-16 11:35:18,636 - INFO - Collected 20 ids from page 139 (total=2780)
+2025-09-16 11:35:19,791 - INFO - Collected 20 ids from page 140 (total=2800)
+2025-09-16 11:35:20,938 - INFO - Collected 20 ids from page 141 (total=2820)
+2025-09-16 11:35:22,088 - INFO - Collected 20 ids from page 142 (total=2840)
+2025-09-16 11:35:23,252 - INFO - Collected 20 ids from page 143 (total=2860)
+2025-09-16 11:35:24,418 - INFO - Collected 20 ids from page 144 (total=2880)
+2025-09-16 11:35:25,580 - INFO - Collected 20 ids from page 145 (total=2900)
+2025-09-16 11:35:26,746 - INFO - Collected 20 ids from page 146 (total=2920)
+2025-09-16 11:35:27,906 - INFO - Collected 20 ids from page 147 (total=2940)
+2025-09-16 11:35:29,071 - INFO - Collected 20 ids from page 148 (total=2960)
+2025-09-16 11:35:30,233 - INFO - Collected 20 ids from page 149 (total=2980)
+2025-09-16 11:35:31,393 - INFO - Collected 20 ids from page 150 (total=3000)
+2025-09-16 11:35:32,548 - INFO - Collected 20 ids from page 151 (total=3020)
+2025-09-16 11:35:33,817 - ERROR - Fatal error during download process: Message: stale element reference: stale element not found in the current frame
+  (Session info: chrome=130.0.6723.70); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#staleelementreferenceexception
+Stacktrace:
+0   chromedriver                        0x00000001071c4b58 chromedriver + 8182616
+1   chromedriver                        0x00000001071bc08a chromedriver + 8147082
+2   chromedriver                        0x0000000106a57fa0 chromedriver + 397216
+3   chromedriver                        0x0000000106a5de5d chromedriver + 421469
+4   chromedriver                        0x0000000106a5fabf chromedriver + 428735
+5   chromedriver                        0x0000000106a5fb6c chromedriver + 428908
+6   chromedriver                        0x0000000106a9ebb2 chromedriver + 687026
+7   chromedriver                        0x0000000106ac8952 chromedriver + 858450
+8   chromedriver                        0x0000000106a98eb8 chromedriver + 663224
+9   chromedriver                        0x0000000106ac8b0e chromedriver + 858894
+10  chromedriver                        0x0000000106ae7284 chromedriver + 983684
+11  chromedriver                        0x0000000106ac86f3 chromedriver + 857843
+12  chromedriver                        0x0000000106a971c2 chromedriver + 655810
+13  chromedriver                        0x0000000106a9819e chromedriver + 659870
+14  chromedriver                        0x0000000107189da0 chromedriver + 7941536
+15  chromedriver                        0x000000010718dcf4 chromedriver + 7957748
+16  chromedriver                        0x000000010716b917 chromedriver + 7817495
+17  chromedriver                        0x000000010718e77e chromedriver + 7960446
+18  chromedriver                        0x000000010715abe4 chromedriver + 7748580
+19  chromedriver                        0x00000001071aa3a8 chromedriver + 8074152
+20  chromedriver                        0x00000001071aa566 chromedriver + 8074598
+21  chromedriver                        0x00000001071bbc98 chromedriver + 8146072
+22  libsystem_pthread.dylib             0x00007ff807c11e59 _pthread_start + 115
+23  libsystem_pthread.dylib             0x00007ff807c0d857 thread_start + 15
+

@@ -6,19 +6,18 @@ This repository contains an automated tool to download XML files from the FERC (
 
 ### Overview
 
-The tool uses Selenium WebDriver to:
-- Navigate through all 300+ pages of tariff documents
-- Click on XML links in the XML column
-- Handle the Export XML popup by:
-  - Selecting all status checkboxes
-  - Choosing plain text XML format
-  - Clicking export to download files
-- Save all XML files to a `TariffXML` folder
+The tool drives the DevExpress grid with Selenium to gather tariff ids, then
+uses HTTP requests to download the XML exports:
+- Navigates to the "All Tariffs" view and steps through each page of the grid
+- Extracts every tariff export id exposed in the pagination sequence
+- Posts the same payload a browser would send to download the XML export with
+  all status filters enabled and the plain text format selected
+- Saves the XML files to the `TariffXML` folder
 
 ### Requirements
 
 - Python 3.7+
-- Chrome browser installed
+- Google Chrome installed (required for Selenium WebDriver)
 - Internet connection
 
 ### Installation
@@ -48,8 +47,7 @@ python ferc_tariff_downloader.py
 
 ### Features
 
-- **Automatic driver management**: Uses webdriver-manager to handle Chrome driver installation
-- **Robust element detection**: Multiple fallback selectors for finding page elements
+- **Hybrid workflow**: Uses Selenium solely for pagination and requests for downloads
 - **Error handling**: Continues processing even if individual downloads fail
 - **Logging**: Comprehensive logging to both console and file (`ferc_downloader.log`)
 - **Progress tracking**: Shows current page and download progress
@@ -65,12 +63,11 @@ python ferc_tariff_downloader.py
 
 - Page limit safety check to prevent infinite loops
 - Graceful error handling for network issues
-- Proper browser cleanup on exit
+- Retry loop for individual downloads
 
 ### Troubleshooting
 
 If you encounter issues:
 1. Check the log file `ferc_downloader.log` for detailed error information
-2. Ensure Chrome browser is installed and up to date
-3. Check your internet connection
-4. The website structure may have changed - review the selectors in the code
+2. Check your internet connection
+3. The website structure may have changed - inspect the request workflow in `ferc_tariff_downloader.py`

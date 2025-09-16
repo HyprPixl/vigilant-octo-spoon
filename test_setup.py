@@ -12,8 +12,10 @@ import shutil
 def test_imports():
     """Test that all required modules can be imported."""
     try:
-        import selenium
-        import webdriver_manager
+        import requests
+        from bs4 import BeautifulSoup  # noqa: F401  (import check only)
+        import selenium  # noqa: F401
+        import webdriver_manager  # noqa: F401
         from ferc_tariff_downloader import FERCTariffDownloader
         print("✓ All imports successful")
         return True
@@ -30,11 +32,11 @@ def test_downloader_init():
         with tempfile.TemporaryDirectory() as temp_dir:
             test_folder = os.path.join(temp_dir, "TestXML")
             downloader = FERCTariffDownloader(download_folder=test_folder)
-            
+
             # Check that folder was created
-            if os.path.exists(test_folder):
+            if os.path.exists(downloader.output_dir):
                 print("✓ Downloader initialization successful")
-                print(f"  - Download folder created: {test_folder}")
+                print(f"  - Download folder created: {downloader.output_dir}")
                 return True
             else:
                 print("✗ Download folder not created")
