@@ -10,6 +10,8 @@ and downloads all XML files to a TariffXML folder.
 import os
 import time
 import logging
+import re
+from pathlib import Path
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
@@ -68,162 +70,136 @@ class FERCTariffDownloader:
         self.driver = webdriver.Chrome(service=service, options=chrome_options)
         self.wait = WebDriverWait(self.driver, config.popup_wait)
         self.logger.info("Chrome driver initialized")
-    
+
     def get_total_pages(self):
         """Get the total number of pages from the pagination."""
         try:
-            # Look for pagination elements
-            pagination_elements = self.driver.find_elements(By.CSS_SELECTOR, ".pagination a, .pager a")
-            if pagination_elements:
-                # Get the last page number
-                page_numbers = []
-                for element in pagination_elements:
-                    text = element.text.strip()
-                    if text.isdigit():
-                        page_numbers.append(int(text))
-                return max(page_numbers) if page_numbers else 1
+            summary = self.driver.find_element(By.CSS_SELECTOR, "b.dxp-summary").text
+            match = re.search(r"Page\\s+\\d+\\s+of\\s+(\\d+)", summary)
+            if match:
+                return int(match.group(1))
             return 1
         except Exception as e:
             self.logger.warning(f"Could not determine total pages: {e}")
             return 300  # Fallback to mentioned 300+ pages
-    
+
     def handle_xml_export_popup(self):
         """Handle the XML export popup by selecting all status checkboxes and plain text XML."""
         try:
             self.logger.info("Handling XML export popup")
-            
-            # Wait for the popup to appear - try multiple possible selectors
-            popup_selectors = [
-                "#exportPopup",
-                ".modal-dialog",
-                ".popup",
-                "[role='dialog']",
-                ".export-dialog"
-            ]
-            
-            popup = None
-            for selector in popup_selectors:
-                try:
-                    popup = self.wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, selector)))
-                    self.logger.info(f"Found popup with selector: {selector}")
-                    break
-                except TimeoutException:
-                    continue
-            
-            if not popup:
-                self.logger.warning("Could not find export popup")
-                return
-            
-            # Find and check all status checkboxes - try multiple patterns
-            checkbox_selectors = [
-                "input[type='checkbox'][name*='status']",
-                "input[type='checkbox'][id*='status']",
-                "input[type='checkbox'][class*='status']",
-                ".status-checkbox input[type='checkbox']",
-                "input[type='checkbox']"  # fallback - all checkboxes
-            ]
-            
-            status_checkboxes = []
-            for selector in checkbox_selectors:
-                checkboxes = self.driver.find_elements(By.CSS_SELECTOR, selector)
-                if checkboxes:
-                    status_checkboxes = checkboxes
-                    self.logger.info(f"Found {len(checkboxes)} checkboxes with selector: {selector}")
-                    break
-            
-            # Check all found checkboxes
+            previous_files = self._list_downloaded_files()
+
+            self.wait.until(EC.frame_to_be_available_and_switch_to_it((By.NAME, "GB_frame")))
+            inner_locator = (By.CSS_SELECTOR, "iframe#GB_frame")
+            WebDriverWait(self.driver, config.popup_wait).until(
+                EC.frame_to_be_available_and_switch_to_it(inner_locator)
+            )
+
+            status_checkboxes = self.driver.find_elements(By.CSS_SELECTOR, "input[id^='Content1_lstStatus_']")
             for i, checkbox in enumerate(status_checkboxes):
                 try:
                     if not checkbox.is_selected():
                         self.driver.execute_script("arguments[0].click();", checkbox)
-                        time.sleep(0.1)
-                        self.logger.debug(f"Checked checkbox {i+1}")
+                        time.sleep(config.checkbox_delay)
+                        self.logger.debug(f"Checked status checkbox {i + 1}")
                 except Exception as e:
-                    self.logger.warning(f"Could not check checkbox {i+1}: {e}")
-            
-            # Select plain text XML format - try multiple patterns
-            radio_selectors = [
-                "input[type='radio'][value='plaintext']",
-                "input[type='radio'][value*='plain']",
-                "input[type='radio'][id*='plaintext']",
-                "input[type='radio'][id*='plain']",
-                ".format-option input[type='radio']"
-            ]
-            
-            for selector in radio_selectors:
-                try:
-                    plain_text_radio = self.driver.find_element(By.CSS_SELECTOR, selector)
-                    if not plain_text_radio.is_selected():
-                        self.driver.execute_script("arguments[0].click();", plain_text_radio)
-                        self.logger.info(f"Selected plain text format with selector: {selector}")
-                    break
-                except NoSuchElementException:
-                    continue
-            
-            # Click export button - try multiple patterns
-            export_button_selectors = [
-                "input[type='button'][value*='Export']",
-                "input[type='submit'][value*='Export']", 
-                "button[onclick*='export']",
-                "button:contains('Export')",
-                "#exportButton",
-                ".export-btn",
-                "input[id*='export']",
-                "button[id*='export']"
-            ]
-            
-            for selector in export_button_selectors:
-                try:
-                    export_button = self.driver.find_element(By.CSS_SELECTOR, selector)
-                    self.driver.execute_script("arguments[0].click();", export_button)
-                    self.logger.info(f"Clicked export button with selector: {selector}")
-                    break
-                except NoSuchElementException:
-                    continue
-            
-            self.logger.info("XML export initiated")
-            time.sleep(3)  # Wait for download to start
-            
+                    self.logger.warning(f"Could not check checkbox {i + 1}: {e}")
+
+            try:
+                binary_checkbox = self.driver.find_element(By.ID, "Content1_lstBinaryText_0")
+                if binary_checkbox.is_selected():
+                    self.driver.execute_script("arguments[0].click();", binary_checkbox)
+            except NoSuchElementException:
+                self.logger.debug("Binary text checkbox not found")
+
+            try:
+                plain_checkbox = self.driver.find_element(By.ID, "Content1_lstBinaryText_1")
+                if not plain_checkbox.is_selected():
+                    self.driver.execute_script("arguments[0].click();", plain_checkbox)
+                    self.logger.info("Selected plain text format")
+            except NoSuchElementException:
+                self.logger.warning("Plain text checkbox not found")
+
+            try:
+                export_button = WebDriverWait(self.driver, config.popup_wait).until(
+                    EC.element_to_be_clickable((By.ID, "Content1_btnExport"))
+                )
+                self.driver.execute_script("arguments[0].click();", export_button)
+                self.logger.info("XML export initiated")
+            except TimeoutException:
+                self.logger.error("Export button not clickable")
+                return
+
+            no_data_message = False
+            try:
+                WebDriverWait(self.driver, config.no_data_wait).until(
+                    EC.text_to_be_present_in_element(
+                        (By.ID, "Content1_ExceededMaxlbl"),
+                        "No data section has been identified"
+                    )
+                )
+                no_data_message = True
+                self.logger.warning("No data available for current tariff selection")
+            except TimeoutException:
+                pass
+
+            self.driver.switch_to.default_content()
+            if not no_data_message:
+                self._wait_for_download(previous_files)
+
+            try:
+                self.driver.execute_script("if (typeof GB_hide === 'function') GB_hide();")
+                WebDriverWait(self.driver, config.popup_wait).until(
+                    EC.invisibility_of_element_located((By.ID, "GB_window"))
+                )
+            except TimeoutException:
+                self.logger.warning("Export popup did not close as expected")
+            time.sleep(1)
+
         except TimeoutException:
             self.logger.error("Timeout waiting for export popup")
         except Exception as e:
             self.logger.error(f"Error handling export popup: {e}")
-    
-    def download_xml_from_current_page(self):
+
+    def _list_downloaded_files(self):
+        return {path for path in os.listdir(self.download_folder) if path.endswith(".xml")}
+
+    def _wait_for_download(self, previous_files):
+        start_time = time.time()
+        download_path = Path(self.download_folder)
+        while time.time() - start_time < config.download_timeout:
+            current_files = self._list_downloaded_files()
+            partial_files = list(download_path.glob("*.crdownload"))
+            if len(current_files) > len(previous_files) and not partial_files:
+                return
+            time.sleep(0.5)
+        self.logger.warning("Download wait timeout reached")
+
+    def download_xml_from_current_page(self, page_number):
         """Download XML files from the current page."""
         try:
-            # Find all XML links on the current page - try multiple patterns
-            xml_link_selectors = [
-                "//a[contains(text(), 'XML')]",
-                "//a[contains(@href, 'xml')]",
-                "//a[contains(@href, 'XML')]",
-                "//td[contains(@class, 'xml')]/a",
-                "//td[contains(text(), 'XML')]/a",
-                "//a[contains(@title, 'XML')]",
-                "//a[contains(@onclick, 'xml')]"
-            ]
-            
-            xml_links = []
-            for selector in xml_link_selectors:
-                try:
-                    links = self.driver.find_elements(By.XPATH, selector)
-                    if links:
-                        xml_links = links
-                        self.logger.info(f"Found {len(links)} XML links with selector: {selector}")
-                        break
-                except Exception as e:
-                    self.logger.debug(f"Selector {selector} failed: {e}")
-                    continue
-            
+            self.wait.until(EC.presence_of_all_elements_located((By.CSS_SELECTOR, "a.gridLink[title='Export XML']")))
+            xml_links = self.driver.find_elements(By.CSS_SELECTOR, "a.gridLink[title='Export XML']")
             if not xml_links:
                 self.logger.warning("No XML links found on current page")
                 return
             
-            self.logger.info(f"Processing {len(xml_links)} XML links on current page")
+            self.logger.info(f"Processing {len(xml_links)} XML links on page {page_number}")
             
-            for i, link in enumerate(xml_links):
+            for index in range(len(xml_links)):
                 try:
-                    self.logger.info(f"Clicking XML link {i+1}/{len(xml_links)}")
+                    current_links = self.driver.find_elements(By.CSS_SELECTOR, "a.gridLink[title='Export XML']")
+                    if index >= len(current_links):
+                        break
+                    link = current_links[index]
+                    href = link.get_attribute("href") or ""
+                    tid_match = re.search(r"tid=(\d+)", href, re.IGNORECASE)
+                    if tid_match:
+                        expected_name = f"Tariff_{tid_match.group(1)}.xml"
+                        if Path(self.download_folder, expected_name).exists():
+                            self.logger.info(f"Skipping {expected_name} (already downloaded)")
+                            continue
+                    self.logger.info(f"Clicking XML link {index + 1}/{len(xml_links)} on page {page_number}")
                     
                     # Scroll to the link to ensure it's visible
                     self.driver.execute_script("arguments[0].scrollIntoView(true);", link)
@@ -236,48 +212,73 @@ class FERCTariffDownloader:
                     self.handle_xml_export_popup()
                     
                     # Wait a bit before next download
-                    time.sleep(2)
+                    time.sleep(config.download_wait)
                     
                 except Exception as e:
-                    self.logger.error(f"Error with XML link {i+1}: {e}")
+                    self.logger.error(f"Error with XML link {index + 1}: {e}")
                     continue
         
         except Exception as e:
             self.logger.error(f"Error downloading XML from current page: {e}")
-    
+
     def navigate_to_next_page(self):
         """Navigate to the next page if available."""
         try:
-            # Look for "Next" button or pagination
-            next_button = None
-            
-            # Try different selectors for next button
-            next_selectors = [
-                "a[title='Next']",
-                "a[aria-label='Next']",
-                "input[type='submit'][value*='Next']",
-                ".pagination .next a",
-                "a:contains('Next')"
+            self.wait_for_grid_ready()
+            summary_element = self.driver.find_element(By.CSS_SELECTOR, "b.dxp-summary")
+            current_summary = summary_element.text
+
+            next_locators = [
+                (By.ID, "Content1_dxgrdTariffs_DXPagerTop_PBN"),
+                (By.ID, "Content1_dxgrdTariffs_DXPagerBottom_PBN")
             ]
-            
-            for selector in next_selectors:
+
+            next_button = None
+            for by, value in next_locators:
                 try:
-                    next_button = self.driver.find_element(By.CSS_SELECTOR, selector)
-                    break
+                    candidate = self.driver.find_element(by, value)
+                    if candidate.is_displayed() and "dxp-disabledButton" not in candidate.get_attribute("class"):
+                        next_button = candidate
+                        break
                 except NoSuchElementException:
                     continue
-            
-            if next_button and next_button.is_enabled():
-                next_button.click()
-                time.sleep(2)  # Wait for page to load
-                return True
-            else:
+
+            if not next_button:
                 return False
+
+            self.driver.execute_script("arguments[0].click();", next_button)
+            WebDriverWait(self.driver, config.page_load_timeout).until(
+                lambda d: d.find_element(By.CSS_SELECTOR, "b.dxp-summary").text != current_summary
+            )
+            self.wait_for_grid_ready()
+            return True
                 
         except Exception as e:
             self.logger.error(f"Error navigating to next page: {e}")
             return False
-    
+
+    def wait_for_grid_ready(self):
+        try:
+            loading_locator = (By.ID, "Content1_dxgrdTariffs_LP")
+            WebDriverWait(self.driver, config.page_load_timeout).until(
+                EC.invisibility_of_element_located(loading_locator)
+            )
+        except TimeoutException:
+            self.logger.debug("Grid loading indicator did not disappear in time")
+        self.wait.until(
+            EC.presence_of_all_elements_located((By.CSS_SELECTOR, "a.gridLink[title='Export XML']"))
+        )
+
+    def open_all_tariffs(self):
+        try:
+            button = WebDriverWait(self.driver, config.page_load_timeout).until(
+                EC.element_to_be_clickable((By.ID, "Content1_btnAll"))
+            )
+            button.click()
+            self.wait_for_grid_ready()
+        except TimeoutException:
+            self.logger.error("Could not load tariff list")
+
     def run(self):
         """Main method to run the downloader."""
         try:
@@ -286,7 +287,8 @@ class FERCTariffDownloader:
             
             # Navigate to the initial page
             self.driver.get(self.base_url)
-            time.sleep(3)
+            time.sleep(config.page_load_wait)
+            self.open_all_tariffs()
             
             # Get total pages
             total_pages = self.get_total_pages()
@@ -297,7 +299,7 @@ class FERCTariffDownloader:
                 self.logger.info(f"Processing page {page_number}")
                 
                 # Download XML files from current page
-                self.download_xml_from_current_page()
+                self.download_xml_from_current_page(page_number)
                 
                 # Try to navigate to next page
                 if not self.navigate_to_next_page():
@@ -305,10 +307,13 @@ class FERCTariffDownloader:
                     break
                 
                 page_number += 1
-                
+
                 # Safety check to prevent infinite loop
                 if page_number > total_pages + 10:
                     self.logger.warning("Reached safety limit, stopping")
+                    break
+                if config.max_pages and page_number > config.max_pages:
+                    self.logger.warning("Reached configured max_pages limit, stopping")
                     break
             
             self.logger.info(f"Download process completed. Files saved to: {self.download_folder}")

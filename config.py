@@ -14,6 +14,9 @@ page_load_wait = 3
 popup_wait = 10
 download_wait = 3
 checkbox_delay = 0.1
+page_load_timeout = 30
+download_timeout = 45
+no_data_wait = 5
 
 # Safety settings
 max_pages = 350  # Safety limit to prevent infinite loops
